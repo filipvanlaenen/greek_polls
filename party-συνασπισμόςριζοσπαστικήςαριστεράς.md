@@ -36,14 +36,14 @@ Last result: **35.5%** (General Election of 20 September 2015)
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.3–26.2% |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 23.6% | 21.9–25.4% | 21.5–25.9% | 21.1–26.3% | 20.3–27.2% |
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24.5% | 23.0–26.1% | 22.6–26.5% | 22.2–26.9% | 21.6–27.6% |
-| [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 20.0% | N/A | N/A | N/A | N/A |
-| [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 23.7% | N/A | N/A | N/A | N/A |
-| [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 20.1% | N/A | N/A | N/A | N/A |
-| [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25.0% | N/A | N/A | N/A | N/A |
-| [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue | 20.0% | N/A | N/A | N/A | N/A |
-| [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24.5% | N/A | N/A | N/A | N/A |
-| [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 24.5% | N/A | N/A | N/A | N/A |
-| [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 25.5% | N/A | N/A | N/A | N/A |
+| [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
+| [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 23.7% | 22.0–25.4% | 21.5–25.9% | 21.1–26.4% | 20.3–27.3% |
+| [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 20.1% | 18.4–22.1% | 17.9–22.6% | 17.5–23.1% | 16.7–24.0% |
+| [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25.0% | 23.5–26.6% | 23.1–27.0% | 22.7–27.4% | 22.0–28.1% |
+| [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue | 20.0% | 18.5–21.7% | 18.0–22.2% | 17.7–22.6% | 16.9–23.5% |
+| [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24.5% | 23.0–26.0% | 22.6–26.5% | 22.3–26.9% | 21.6–27.6% |
+| [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 24.5% | 22.8–26.3% | 22.3–26.8% | 21.9–27.3% | 21.1–28.2% |
+| [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.1% |
 | [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 22.6% | N/A | N/A | N/A | N/A |
 | [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24.5% | N/A | N/A | N/A | N/A |
 | [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 23.4% | N/A | N/A | N/A | N/A |
@@ -113,15 +113,15 @@ Last result: **145** seats (General Election of 20 September 2015)
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 69 | 66–69 | 66–70 | 66–71 | 66–71 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 61 | 61 | 61 | 61–71 | 61–76 |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 69 | 64–69 | 61–69 | 61–70 | 61–70 |
-| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 66 | 66 | 66–72 | 66–72 | 65–72 |
-| [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
-| [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 |  |  |  |  |  |
-| [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel |  |  |  |  |  |
-| [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue |  |  |  |  |  |
-| [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 |  |  |  |  |  |
-| [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS |  |  |  |  |  |
+| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 71 | 71–72 | 71–77 | 71–77 | 66–77 |
+| [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 57 | 53–57 | 53–59 | 53–59 | 48–61 |
+| [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 68 | 61–73 | 59–73 | 57–73 | 52–75 |
+| [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 83 | 59–83 | 59–83 | 59–83 | 56–83 |
+| [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 71 | 67–71 | 67–71 | 67–71 | 64–71 |
+| [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue | 58 | 55–58 | 55–59 | 54–61 | 54–62 |
+| [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 69 | 66–77 | 66–77 | 66–77 | 65–77 |
+| [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 74 | 74 | 74 | 74 | 59–74 |
+| [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 77 | 77 | 76–77 | 76–77 | 66–77 |
 | [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ |  |  |  |  |  |
 | [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα |  |  |  |  |  |
