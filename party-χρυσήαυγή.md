@@ -10,32 +10,32 @@ Last result: **7.0%** (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.6% | 7.5–9.8% | 7.2–10.1% | 7.0–10.5% | 6.5–11.1% |
+| N/A | [Poll Average](average.html) | 8.0% | 6.2–9.6% | 5.7–10.1% | 5.3–10.5% | 4.7–11.2% |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 8.6% | 7.5–9.8% | 7.2–10.2% | 7.0–10.5% | 6.5–11.1% |
-| [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.0% | 7.8–10.3% | 7.8–10.7% | 7.4–10.7% | 7.0–11.5% |
-| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.5% | N/A | N/A | N/A | N/A |
-| [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 5.8% | N/A | N/A | N/A | N/A |
-| [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8.0% | N/A | N/A | N/A | N/A |
-| [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 8.6% | N/A | N/A | N/A | N/A |
-| [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 9.5% | N/A | N/A | N/A | N/A |
-| [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 8.1% | N/A | N/A | N/A | N/A |
-| [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 7.5% | N/A | N/A | N/A | N/A |
-| [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 7.2% | N/A | N/A | N/A | N/A |
-| [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8.5% | N/A | N/A | N/A | N/A |
-| [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 7.0% | N/A | N/A | N/A | N/A |
-| [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.6% | N/A | N/A | N/A | N/A |
-| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.0% | N/A | N/A | N/A | N/A |
-| [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 5.5% | N/A | N/A | N/A | N/A |
-| [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 6.0% | N/A | N/A | N/A | N/A |
-| [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 7.3% | N/A | N/A | N/A | N/A |
-| [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 8.0% | N/A | N/A | N/A | N/A |
-| [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 10.1% | N/A | N/A | N/A | N/A |
-| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.0% | N/A | N/A | N/A | N/A |
-| [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8.4% | N/A | N/A | N/A | N/A |
-| [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 8.4% | N/A | N/A | N/A | N/A |
-| [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 8.0% | N/A | N/A | N/A | N/A |
-| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 7.5% | N/A | N/A | N/A | N/A |
-| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8.5% | N/A | N/A | N/A | N/A |
+| [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.0% | 8.1–10.1% | 7.8–10.4% | 7.6–10.7% | 7.2–11.2% |
+| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
+| [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
+| [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.6–9.6% | 6.2–10.1% |
+| [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
+| [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 9.5% | 8.4–10.8% | 8.1–11.1% | 7.8–11.4% | 7.3–12.1% |
+| [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 8.1% | 7.4–8.9% | 7.1–9.2% | 7.0–9.4% | 6.6–9.8% |
+| [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 7.5% | 6.6–8.7% | 6.3–9.0% | 6.1–9.3% | 5.6–9.9% |
+| [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 7.2% | 6.3–8.3% | 6.1–8.6% | 5.9–8.8% | 5.5–9.4% |
+| [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8.5% | 7.6–9.5% | 7.3–9.8% | 7.1–10.1% | 6.7–10.6% |
+| [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
+| [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
+| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.0% | 8.1–10.1% | 7.8–10.4% | 7.6–10.7% | 7.2–11.2% |
+| [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 5.5% | 4.7–6.6% | 4.5–6.8% | 4.3–7.1% | 3.9–7.6% |
+| [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 7.3% | 6.3–8.4% | 6.1–8.8% | 5.8–9.1% | 5.4–9.6% |
+| [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
+| [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 10.1% | 9.0–11.5% | 8.7–11.8% | 8.4–12.2% | 7.9–12.8% |
+| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.0% | 8.1–10.1% | 7.8–10.4% | 7.6–10.7% | 7.2–11.2% |
+| [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
+| [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 8.4% | 7.7–9.3% | 7.4–9.5% | 7.3–9.7% | 6.9–10.1% |
+| [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
+| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
+| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8.5% | 7.5–9.5% | 7.3–9.8% | 7.1–10.1% | 6.7–10.6% |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9.0% | N/A | N/A | N/A | N/A |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 8.5% | N/A | N/A | N/A | N/A |
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 7.0% | N/A | N/A | N/A | N/A |
@@ -60,14 +60,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.6% | 100% |  |
-| 6.5–7.5% | 10% | 99.4% | Last Result |
-| 7.5–8.5% | 37% | 90% |  |
-| 8.5–9.5% | 38% | 53% | Median |
-| 9.5–10.5% | 13% | 15% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 3% | 99.7% |  |
+| 5.5–6.5% | 11% | 96% |  |
+| 6.5–7.5% | 23% | 85% | Last Result |
+| 7.5–8.5% | 30% | 63% | Median |
+| 8.5–9.5% | 22% | 33% |  |
+| 9.5–10.5% | 9% | 11% |  |
 | 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0.2% | 0.2% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -79,32 +81,32 @@ Last result: **18** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 23 | 23 | 23 | 23–28 |
+| N/A | [Poll Average](average.html) | 24 | 20–27 | 19–28 | 18–30 | 17–37 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 25 | 23–26 | 23–26 | 23–26 | 23–28 |
-| [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
-| [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
-| [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open |  |  |  |  |  |
-| [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr |  |  |  |  |  |
-| [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr |  |  |  |  |  |
-| [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS |  |  |  |  |  |
-| [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα |  |  |  |  |  |
-| [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue |  |  |  |  |  |
-| [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
-| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS |  |  |  |  |  |
-| [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα |  |  |  |  |  |
-| [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star |  |  |  |  |  |
-| [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel |  |  |  |  |  |
-| [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ |  |  |  |  |  |
-| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
-| [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real |  |  |  |  |  |
-| [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα |  |  |  |  |  |
-| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel |  |  |  |  |  |
-| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 27 | 27 | 24–27 | 22–27 | 22–27 |
+| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 23 | 22–25 | 18–25 | 18–25 | 18–25 |
+| [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 21 | 21–26 | 21–26 | 17–26 | 17–26 |
+| [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 23 | 18–29 | 18–29 | 18–29 | 18–29 |
+| [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 23 | 23–28 | 22–28 | 22–28 | 21–28 |
+| [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 28 | 24–37 | 24–37 | 24–37 | 23–37 |
+| [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 24 | 24–27 | 19–27 | 18–27 | 18–27 |
+| [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 25 | 20–26 | 18–26 | 18–26 | 18–31 |
+| [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 19 | 19–24 | 19–24 | 18–24 | 18–24 |
+| [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 20 | 20–27 | 20–27 | 20–27 | 19–28 |
+| [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 20 | 20–26 | 20–26 | 16–26 | 15–27 |
+| [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 19 | 19–21 | 19–21 | 19–22 | 18–24 |
+| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 20 | 20–27 | 20–27 | 20–27 | 20–27 |
+| [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 14 | 14–17 | 13–18 | 13–18 | 13–19 |
+| [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 16 | 16 | 16 | 16–18 | 13–24 |
+| [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 23 | 23–24 | 23–24 | 23–24 | 17–25 |
+| [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 18 | 18–25 | 18–28 | 18–28 | 18–28 |
+| [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 25 | 25–31 | 25–31 | 25–31 | 25–31 |
+| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25 | 25–30 | 23–30 | 21–30 | 21–30 |
+| [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 26 | 23–26 | 22–27 | 22–27 | 18–28 |
+| [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 25 | 22–25 | 22–25 | 22–26 | 22–26 |
+| [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 23 | 23 | 23–25 | 23–25 | 21–25 |
+| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 21 | 18–23 | 18–23 | 17–25 | 17–26 |
+| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25 | 25 | 18–25 | 18–25 | 18–28 |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 |  |  |  |  |  |
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel |  |  |  |  |  |
@@ -131,18 +133,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0% | 100% | Last Result |
-| 19 | 0% | 100% |  |
-| 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 98% | 100% | Median |
-| 24 | 0.7% | 2% |  |
-| 25 | 0% | 1.0% |  |
-| 26 | 0% | 1.0% |  |
-| 27 | 0% | 1.0% |  |
-| 28 | 0.5% | 0.9% |  |
-| 29 | 0.5% | 0.5% |  |
-| 30 | 0% | 0% |  |
+| 15 | 0.1% | 100% |  |
+| 16 | 0.2% | 99.8% |  |
+| 17 | 0.3% | 99.6% |  |
+| 18 | 2% | 99.4% | Last Result |
+| 19 | 7% | 97% |  |
+| 20 | 7% | 90% |  |
+| 21 | 11% | 83% |  |
+| 22 | 2% | 72% |  |
+| 23 | 15% | 70% |  |
+| 24 | 12% | 55% | Median |
+| 25 | 13% | 43% |  |
+| 26 | 6% | 30% |  |
+| 27 | 14% | 24% |  |
+| 28 | 6% | 10% |  |
+| 29 | 0.2% | 4% |  |
+| 30 | 0.9% | 3% |  |
+| 31 | 0.1% | 2% |  |
+| 32 | 0% | 2% |  |
+| 33 | 0% | 2% |  |
+| 34 | 0% | 2% |  |
+| 35 | 0% | 2% |  |
+| 36 | 0% | 2% |  |
+| 37 | 2% | 2% |  |
+| 38 | 0% | 0% |  |
 
 
