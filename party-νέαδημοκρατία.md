@@ -44,15 +44,15 @@ Last result: **28.1%** (General Election of 20 September 2015)
 | [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 36.0% | 34.3–37.7% | 33.9–38.2% | 33.5–38.6% | 32.7–39.4% |
 | [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 31.4% | 29.6–33.3% | 29.0–33.9% | 28.6–34.4% | 27.7–35.3% |
 | [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 32.5% | 30.7–34.4% | 30.1–35.0% | 29.7–35.5% | 28.8–36.4% |
-| [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 28.4% | N/A | N/A | N/A | N/A |
-| [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 36.0% | N/A | N/A | N/A | N/A |
-| [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 35.8% | N/A | N/A | N/A | N/A |
-| [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 32.0% | N/A | N/A | N/A | N/A |
-| [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 34.9% | N/A | N/A | N/A | N/A |
-| [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 36.5% | N/A | N/A | N/A | N/A |
-| [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 37.0% | N/A | N/A | N/A | N/A |
-| [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 32.7% | N/A | N/A | N/A | N/A |
-| [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 36.5% | N/A | N/A | N/A | N/A |
+| [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 28.4% | 27.8–29.1% | 27.6–29.2% | 27.4–29.4% | 27.1–29.7% |
+| [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 36.0% | 34.3–37.7% | 33.8–38.2% | 33.4–38.6% | 32.6–39.4% |
+| [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 35.8% | 33.9–37.8% | 33.4–38.4% | 32.9–38.9% | 32.0–39.8% |
+| [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 32.0% | 30.1–33.9% | 29.6–34.5% | 29.2–35.0% | 28.3–35.9% |
+| [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 34.9% | 33.7–36.2% | 33.3–36.6% | 33.0–36.9% | 32.4–37.5% |
+| [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 36.5% | 34.9–38.1% | 34.5–38.6% | 34.1–39.0% | 33.4–39.7% |
+| [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 37.0% | 35.1–39.0% | 34.6–39.6% | 34.1–40.1% | 33.2–41.0% |
+| [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 32.7% | 30.8–34.6% | 30.3–35.2% | 29.9–35.7% | 29.0–36.6% |
+| [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 36.5% | 34.8–38.3% | 34.3–38.9% | 33.9–39.3% | 33.0–40.2% |
 
 ### Probability Mass Function
 
@@ -126,15 +126,15 @@ Last result: **75** seats (General Election of 20 September 2015)
 | [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 144 | 144–149 | 143–149 | 143–149 | 140–156 |
 | [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 138 | 138 | 138 | 138 | 133–151 |
 | [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 146 | 146 | 146 | 146 | 143–151 |
-| [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ |  |  |  |  |  |
-| [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα |  |  |  |  |  |
-| [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ |  |  |  |  |  |
-| [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
-| [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 |  |  |  |  |  |
-| [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue |  |  |  |  |  |
-| [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 |  |  |  |  |  |
-| [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr |  |  |  |  |  |
+| [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 133 | 132–141 | 132–141 | 132–141 | 132–141 |
+| [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 153 | 150–161 | 146–161 | 146–161 | 145–162 |
+| [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 150 | 147–153 | 147–155 | 147–155 | 143–156 |
+| [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 150 | 140–150 | 136–150 | 126–150 | 126–155 |
+| [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 143 | 143–163 | 143–163 | 143–163 | 143–163 |
+| [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 142 | 142–151 | 142–158 | 142–158 | 142–158 |
+| [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 163 | 162–163 | 157–163 | 157–163 | 153–163 |
+| [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 139 | 139–144 | 139–145 | 138–145 | 136–146 |
+| [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 153 | 142–158 | 142–158 | 142–158 | 142–160 |
 
 ### Probability Mass Function
 

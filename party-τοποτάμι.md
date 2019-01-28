@@ -50,7 +50,7 @@ Last result: **4.1%** (General Election of 20 September 2015)
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 0.0% | N/A | N/A | N/A | N/A |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0.0% | N/A | N/A | N/A | N/A |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 0.0% | N/A | N/A | N/A | N/A |
-| [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 1.0% | N/A | N/A | N/A | N/A |
+| [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 0.0% | N/A | N/A | N/A | N/A |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 0.0% | N/A | N/A | N/A | N/A |
 
@@ -116,7 +116,7 @@ Last result: **11** seats (General Election of 20 September 2015)
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ |  |  |  |  |  |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 |  |  |  |  |  |
-| [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue |  |  |  |  |  |
+| [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 0 | 0 | 0 | 0 | 0 |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 |  |  |  |  |  |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr |  |  |  |  |  |
 
