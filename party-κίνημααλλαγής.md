@@ -82,13 +82,13 @@ Last result: **17** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 16–29 | 15–30 | 15–30 | 14–33 |
+| N/A | [Poll Average](average.html) | 23 | 17–29 | 16–30 | 15–30 | 12–33 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 28 | 25–32 | 24–33 | 23–34 | 22–36 |
 | [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 23 | 19–24 | 19–25 | 18–26 | 17–27 |
-| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 26 | 20–26 | 20–26 | 20–26 | 20–27 |
-| [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 17 | 14–17 | 14–17 | 14–17 | 10–19 |
+| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 21 | 18–24 | 18–26 | 17–26 | 16–28 |
+| [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 16 | 13–19 | 12–19 | 11–19 | 11–20 |
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24 | 23–25 | 23–25 | 18–28 | 18–28 |
-| [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 15 | 15–20 | 14–20 | 14–20 | 14–21 |
+| [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 19 | 16–22 | 16–23 | 15–24 | 13–26 |
 | [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 26 | 25–27 | 25–27 | 21–27 | 19–30 |
 | [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 24 | 24–26 | 24–26 | 24–26 | 21–29 |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 19 | 16–23 | 16–23 | 16–23 | 15–23 |
@@ -134,25 +134,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 0% | 99.9% |  |
-| 12 | 0% | 99.9% |  |
-| 13 | 0% | 99.9% |  |
-| 14 | 2% | 99.9% |  |
-| 15 | 7% | 98% |  |
-| 16 | 2% | 91% |  |
-| 17 | 8% | 88% | Last Result |
-| 18 | 2% | 80% |  |
-| 19 | 5% | 78% |  |
-| 20 | 6% | 72% |  |
-| 21 | 9% | 66% |  |
-| 22 | 2% | 57% |  |
-| 23 | 7% | 54% | Median |
-| 24 | 8% | 48% |  |
-| 25 | 5% | 39% |  |
-| 26 | 15% | 35% |  |
+| 11 | 0.4% | 100% |  |
+| 12 | 0.5% | 99.6% |  |
+| 13 | 0.2% | 99.1% |  |
+| 14 | 1.3% | 98.9% |  |
+| 15 | 2% | 98% |  |
+| 16 | 5% | 95% |  |
+| 17 | 4% | 91% | Last Result |
+| 18 | 5% | 87% |  |
+| 19 | 10% | 81% |  |
+| 20 | 4% | 72% |  |
+| 21 | 13% | 68% |  |
+| 22 | 5% | 55% |  |
+| 23 | 7% | 50% | Median |
+| 24 | 9% | 43% |  |
+| 25 | 5% | 34% |  |
+| 26 | 9% | 29% |  |
 | 27 | 5% | 20% |  |
-| 28 | 1.4% | 14% |  |
+| 28 | 2% | 14% |  |
 | 29 | 7% | 13% |  |
 | 30 | 3% | 6% |  |
 | 31 | 1.0% | 2% |  |
