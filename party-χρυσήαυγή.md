@@ -87,7 +87,7 @@ Last result: **18** seats (General Election of 20 September 2015)
 | [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 20 | 18–24 | 18–25 | 17–26 | 16–28 |
 | [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 17 | 15–20 | 15–21 | 14–22 | 13–23 |
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 23 | 18–29 | 18–29 | 18–29 | 18–29 |
-| [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 26 | 21–29 | 21–30 | 19–31 | 19–33 |
+| [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 25 | 22–29 | 21–29 | 21–30 | 19–33 |
 | [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 28 | 24–37 | 24–37 | 24–37 | 23–37 |
 | [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 24 | 24–27 | 19–27 | 18–27 | 18–27 |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 25 | 20–26 | 18–26 | 18–26 | 18–31 |
@@ -141,20 +141,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 3% | 93% | Last Result |
 | 19 | 9% | 90% |  |
 | 20 | 13% | 81% |  |
-| 21 | 6% | 68% |  |
-| 22 | 5% | 62% |  |
+| 21 | 5% | 68% |  |
+| 22 | 6% | 63% |  |
 | 23 | 4% | 57% |  |
-| 24 | 15% | 53% | Median |
-| 25 | 8% | 38% |  |
-| 26 | 7% | 30% |  |
-| 27 | 9% | 23% |  |
-| 28 | 8% | 14% |  |
+| 24 | 16% | 53% | Median |
+| 25 | 9% | 37% |  |
+| 26 | 6% | 28% |  |
+| 27 | 9% | 21% |  |
+| 28 | 6% | 13% |  |
 | 29 | 2% | 7% |  |
 | 30 | 2% | 5% |  |
-| 31 | 0.5% | 3% |  |
+| 31 | 0.4% | 3% |  |
 | 32 | 0.1% | 2% |  |
 | 33 | 0% | 2% |  |
-| 34 | 0.1% | 2% |  |
+| 34 | 0% | 2% |  |
 | 35 | 0% | 2% |  |
 | 36 | 0% | 2% |  |
 | 37 | 2% | 2% |  |

@@ -77,13 +77,13 @@ Last result: **0** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–10 | 0–11 | 0–11 | 0–14 |
+| N/A | [Poll Average](average.html) | 0 | 0–10 | 0–12 | 0–12 | 0–14 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr |  |  |  |  |  |
 | [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0 |
 | [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 0 | 0 | 0 | 0 | 0 |
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 10 | 0–13 | 0–13 | 0–14 | 0–15 |
+| [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 10 | 0–12 | 0–13 | 0–14 | 0–15 |
 | [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 0 | 0 | 0 | 0 | 0 |
 | [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr |  |  |  |  |  |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS |  |  |  |  |  |
@@ -129,22 +129,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Last Result, Median |
-| 1 | 0% | 15% |  |
-| 2 | 0% | 15% |  |
-| 3 | 0% | 15% |  |
-| 4 | 0% | 15% |  |
-| 5 | 0% | 15% |  |
-| 6 | 0% | 15% |  |
-| 7 | 0% | 15% |  |
-| 8 | 0% | 15% |  |
-| 9 | 1.3% | 15% |  |
-| 10 | 9% | 14% |  |
-| 11 | 3% | 5% |  |
-| 12 | 1.1% | 2% |  |
-| 13 | 0.3% | 0.9% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 0% | 16% |  |
+| 2 | 0% | 16% |  |
+| 3 | 0% | 16% |  |
+| 4 | 0% | 16% |  |
+| 5 | 0% | 16% |  |
+| 6 | 0% | 16% |  |
+| 7 | 0% | 16% |  |
+| 8 | 0% | 16% |  |
+| 9 | 3% | 16% |  |
+| 10 | 4% | 13% |  |
+| 11 | 3% | 9% |  |
+| 12 | 5% | 6% |  |
+| 13 | 1.1% | 2% |  |
 | 14 | 0.4% | 0.6% |  |
-| 15 | 0.2% | 0.2% |  |
-| 16 | 0% | 0% |  |
+| 15 | 0.1% | 0.2% |  |
+| 16 | 0% | 0.1% |  |
+| 17 | 0% | 0% |  |
 
 
