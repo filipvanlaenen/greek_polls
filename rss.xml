@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sun, 03 Feb 2019 21:00:23 +0100</pubDate>
+    <pubDate>Sun, 03 Feb 2019 21:17:26 +0100</pubDate>
     <item>
       <title>Opinion Poll by RASS for in.gr, 21–24 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-01-24-RASS.html#seats</link>
@@ -140,14 +140,34 @@
       <dc:date>2019-01-27T13:38:28.517315+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Alco for Open, 5–10 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2018-12-10-Alco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 66–83 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 137–156 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 21–30 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 15–23 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 17–27 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 0 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 0–10 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 0–10 seats&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα: 0–14 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-12-10-Alco-seats.png"
+        length="190866"
+        type="image/png"/>
+      <pubDate>Sun, 03 Feb 2019 21:17:26 +0100</pubDate>
+      <dc:date>2019-02-03T21:17:26.044564+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Open, 5–10 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2018-12-10-Alco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-12-10-Alco-coalitions-seats.png"
+        length="219355"
+        type="image/png"/>
+      <pubDate>Sun, 03 Feb 2019 21:17:26 +0100</pubDate>
+      <dc:date>2019-02-03T21:17:26.044564+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Alco for Open, 5–10 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2018-12-10-Alco.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.8–28.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 29.9–35.8%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 7.0–10.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.0–8.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.9–9.2%&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 0.9–2.5%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 1.6–3.6%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 1.5–3.4%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα: 2.4–4.7%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 1.6–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-12-10-Alco.png"
         length="252330"
         type="image/png"/>
-      <pubDate>Sun, 03 Feb 2019 21:00:23 +0100</pubDate>
-      <dc:date>2019-02-03T21:00:23.936907+01:00</dc:date>
+      <pubDate>Sun, 03 Feb 2019 21:17:26 +0100</pubDate>
+      <dc:date>2019-02-03T21:17:26.044564+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Κάπα Research for thebest.gr, 4–6 December 2018 – Voting Intentions</title>
@@ -509,6 +529,6 @@
       <pubDate>Sun, 27 Jan 2019 17:58:45 +0100</pubDate>
       <dc:date>2019-01-27T17:58:45.818914+01:00</dc:date>
     </item>
-    <dc:date>2019-02-03T21:00:23.936907+01:00</dc:date>
+    <dc:date>2019-02-03T21:17:26.044564+01:00</dc:date>
   </channel>
 </rss>
