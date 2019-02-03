@@ -78,7 +78,7 @@ Last result: **0** seats (General Election of 20 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–10 | 0–12 | 0–12 | 0–12 |
-| [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 8 | 0–8 | 0–8 | 0–8 | 0–9 |
+| [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 0 | 0–9 | 0–10 | 0–10 | 0–11 |
 | [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0–10 | 0–10 |
 | [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0–8 | 0–10 | 0–10 |
 | [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 12 | 9–12 | 9–12 | 0–12 | 0–13 |
@@ -129,18 +129,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Last Result, Median |
-| 1 | 0% | 24% |  |
-| 2 | 0% | 24% |  |
-| 3 | 0% | 24% |  |
-| 4 | 0% | 24% |  |
-| 5 | 0% | 24% |  |
-| 6 | 0% | 24% |  |
-| 7 | 0% | 24% |  |
-| 8 | 10% | 24% |  |
-| 9 | 2% | 15% |  |
-| 10 | 3% | 13% |  |
-| 11 | 0.1% | 9% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 0% | 18% |  |
+| 2 | 0% | 18% |  |
+| 3 | 0% | 18% |  |
+| 4 | 0% | 18% |  |
+| 5 | 0% | 18% |  |
+| 6 | 0% | 18% |  |
+| 7 | 0% | 18% |  |
+| 8 | 1.0% | 18% |  |
+| 9 | 3% | 17% |  |
+| 10 | 4% | 14% |  |
+| 11 | 0.3% | 10% |  |
 | 12 | 9% | 9% |  |
 | 13 | 0.3% | 0.3% |  |
 | 14 | 0% | 0% |  |
