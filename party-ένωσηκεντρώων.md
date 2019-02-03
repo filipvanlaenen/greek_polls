@@ -79,7 +79,7 @@ Last result: **9** seats (General Election of 20 September 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–10 | 0–12 | 0–13 | 0–16 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
-| [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0–9 | 0–9 |
+| [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9 | 0–13 | 0–13 | 0–13 | 0–13 |
 | [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 0 | 0 | 0 | 0 | 0 |
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0–10 | 0–10 |
@@ -137,7 +137,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 33% |  |
 | 6 | 0% | 33% |  |
 | 7 | 0% | 33% |  |
-| 8 | 0.7% | 33% |  |
+| 8 | 0.9% | 33% |  |
 | 9 | 21% | 32% | Last Result |
 | 10 | 2% | 11% |  |
 | 11 | 1.2% | 9% |  |
