@@ -80,7 +80,7 @@ Last result: **15** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 16–24 | 16–25 | 15–26 | 14–28 |
+| N/A | [Poll Average](average.html) | 20 | 17–24 | 16–25 | 15–26 | 14–28 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 23 | 20–26 | 19–27 | 19–28 | 17–30 |
 | [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19 | 17–21 | 16–22 | 15–22 | 13–24 |
 | [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 20 | 17–22 | 16–24 | 15–25 | 14–27 |
@@ -88,11 +88,11 @@ Last result: **15** seats (General Election of 20 September 2015)
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24 | 19–26 | 18–26 | 18–26 | 18–26 |
 | [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 22 | 19–26 | 18–26 | 17–27 | 16–29 |
 | [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 22 | 19–25 | 17–26 | 17–27 | 16–29 |
-| [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 20 | 16–20 | 16–23 | 16–23 | 16–23 |
-| [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 16 | 15–22 | 14–22 | 14–22 | 14–22 |
-| [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 17 | 17–20 | 17–20 | 16–20 | 16–20 |
+| [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 20 | 18–22 | 18–23 | 17–23 | 16–25 |
+| [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 19 | 16–22 | 15–23 | 15–23 | 14–25 |
+| [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 19 | 16–21 | 16–22 | 15–23 | 14–24 |
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 21 | 16–22 | 16–22 | 16–23 | 15–27 |
-| [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 23 | 17–23 | 17–24 | 17–27 | 17–29 |
+| [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 22 | 19–25 | 18–26 | 18–27 | 16–29 |
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 28 | 14–28 | 14–28 | 14–28 | 13–28 |
 | [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 20 | 20–21 | 20–21 | 20–21 | 20–23 |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 17 | 14–21 | 14–26 | 14–26 | 14–26 |
@@ -134,23 +134,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
 | 13 | 0.3% | 99.9% |  |
-| 14 | 1.1% | 99.6% |  |
-| 15 | 3% | 98% | Last Result |
-| 16 | 12% | 95% |  |
-| 17 | 14% | 83% |  |
-| 18 | 7% | 69% |  |
-| 19 | 7% | 62% |  |
-| 20 | 17% | 55% | Median |
-| 21 | 5% | 38% |  |
-| 22 | 9% | 33% |  |
-| 23 | 13% | 24% |  |
-| 24 | 3% | 11% |  |
-| 25 | 4% | 8% |  |
-| 26 | 2% | 4% |  |
+| 14 | 0.7% | 99.5% |  |
+| 15 | 2% | 98.9% | Last Result |
+| 16 | 3% | 96% |  |
+| 17 | 10% | 93% |  |
+| 18 | 10% | 83% |  |
+| 19 | 14% | 73% |  |
+| 20 | 17% | 59% | Median |
+| 21 | 11% | 42% |  |
+| 22 | 10% | 31% |  |
+| 23 | 8% | 21% |  |
+| 24 | 4% | 14% |  |
+| 25 | 5% | 10% |  |
+| 26 | 3% | 5% |  |
 | 27 | 0.9% | 2% |  |
-| 28 | 0.5% | 1.0% |  |
-| 29 | 0.3% | 0.5% |  |
+| 28 | 0.5% | 0.9% |  |
+| 29 | 0.2% | 0.4% |  |
 | 30 | 0.1% | 0.2% |  |
-| 31 | 0% | 0% |  |
+| 31 | 0% | 0.1% |  |
+| 32 | 0% | 0% |  |
 
 
