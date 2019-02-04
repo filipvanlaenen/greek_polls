@@ -89,7 +89,7 @@ Last result: **17** seats (General Election of 20 September 2015)
 | [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 16 | 13–19 | 12–19 | 11–19 | 11–20 |
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24 | 23–25 | 23–25 | 18–28 | 18–28 |
 | [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 19 | 16–22 | 15–23 | 15–23 | 14–25 |
-| [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 24 | 20–27 | 20–28 | 19–28 | 18–31 |
+| [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 24 | 20–28 | 19–29 | 18–29 | 17–31 |
 | [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 24 | 24–26 | 24–26 | 24–26 | 21–29 |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 19 | 16–23 | 16–23 | 16–23 | 15–23 |
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 21 | 19–21 | 19–21 | 19–21 | 19–21 |
