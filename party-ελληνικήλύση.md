@@ -84,7 +84,7 @@ Last result: **0** seats (General Election of 20 September 2015)
 | [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 9 | 0–10 | 0–11 | 0–12 | 0–13 |
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0–10 | 0–10 |
 | [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 0 | 0–8 | 0–9 | 0–10 | 0–11 |
-| [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 0 | 0–10 | 0–10 | 0–10 | 0–13 |
+| [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 0 | 0 | 0–9 | 0–10 | 0–11 |
 | [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 0 | 0 | 0 | 0 | 0 |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 0 | 0 | 0 | 0 | 0 |
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 0 | 0 | 0 | 0 | 0 |
@@ -129,20 +129,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Last Result, Median |
-| 1 | 0% | 19% |  |
-| 2 | 0% | 19% |  |
-| 3 | 0% | 19% |  |
-| 4 | 0% | 19% |  |
-| 5 | 0% | 19% |  |
-| 6 | 0% | 19% |  |
-| 7 | 0% | 19% |  |
-| 8 | 4% | 19% |  |
-| 9 | 6% | 15% |  |
-| 10 | 8% | 10% |  |
-| 11 | 0.7% | 2% |  |
-| 12 | 0.6% | 0.9% |  |
-| 13 | 0.2% | 0.3% |  |
+| 0 | 83% | 100% | Last Result, Median |
+| 1 | 0% | 17% |  |
+| 2 | 0% | 17% |  |
+| 3 | 0% | 17% |  |
+| 4 | 0% | 17% |  |
+| 5 | 0% | 17% |  |
+| 6 | 0% | 17% |  |
+| 7 | 0% | 17% |  |
+| 8 | 4% | 17% |  |
+| 9 | 6% | 14% |  |
+| 10 | 6% | 7% |  |
+| 11 | 0.9% | 2% |  |
+| 12 | 0.6% | 0.7% |  |
+| 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
 

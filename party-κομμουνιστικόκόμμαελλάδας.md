@@ -80,14 +80,14 @@ Last result: **15** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 16–25 | 16–27 | 15–28 | 14–28 |
+| N/A | [Poll Average](average.html) | 20 | 16–24 | 16–25 | 15–26 | 14–28 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 23 | 20–26 | 19–27 | 19–28 | 17–30 |
 | [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19 | 17–21 | 16–22 | 15–22 | 13–24 |
 | [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 20 | 17–22 | 16–24 | 15–25 | 14–27 |
 | [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 17 | 15–19 | 14–19 | 13–21 | 12–22 |
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24 | 19–26 | 18–26 | 18–26 | 18–26 |
 | [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 22 | 19–26 | 18–26 | 17–27 | 16–29 |
-| [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 23 | 22–28 | 20–28 | 19–28 | 16–28 |
+| [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 22 | 19–25 | 17–26 | 17–27 | 16–30 |
 | [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 20 | 16–20 | 16–23 | 16–23 | 16–23 |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 16 | 15–22 | 14–22 | 14–22 | 14–22 |
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 17 | 17–20 | 17–20 | 16–20 | 16–20 |
@@ -139,18 +139,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 12% | 95% |  |
 | 17 | 14% | 83% |  |
 | 18 | 7% | 69% |  |
-| 19 | 6% | 63% |  |
-| 20 | 16% | 57% | Median |
-| 21 | 4% | 41% |  |
-| 22 | 9% | 36% |  |
-| 23 | 15% | 27% |  |
-| 24 | 2% | 13% |  |
-| 25 | 3% | 10% |  |
-| 26 | 2% | 7% |  |
-| 27 | 1.0% | 6% |  |
-| 28 | 4% | 5% |  |
-| 29 | 0.3% | 0.4% |  |
-| 30 | 0.1% | 0.1% |  |
+| 19 | 7% | 62% |  |
+| 20 | 17% | 55% | Median |
+| 21 | 5% | 38% |  |
+| 22 | 9% | 33% |  |
+| 23 | 13% | 24% |  |
+| 24 | 3% | 11% |  |
+| 25 | 4% | 8% |  |
+| 26 | 2% | 4% |  |
+| 27 | 0.9% | 2% |  |
+| 28 | 0.5% | 1.0% |  |
+| 29 | 0.3% | 0.5% |  |
+| 30 | 0.1% | 0.2% |  |
 | 31 | 0% | 0% |  |
 
 
