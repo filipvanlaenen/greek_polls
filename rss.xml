@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sun, 03 Feb 2019 21:17:26 +0100</pubDate>
+    <pubDate>Sun, 03 Feb 2019 23:14:59 +0100</pubDate>
     <item>
       <title>Opinion Poll by RASS for in.gr, 21–24 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-01-24-RASS.html#seats</link>
@@ -176,8 +176,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-12-06-ΚάπαResearch.png"
         length="254909"
         type="image/png"/>
-      <pubDate>Sun, 27 Jan 2019 13:49:45 +0100</pubDate>
-      <dc:date>2019-01-27T13:49:45.212894+01:00</dc:date>
+      <pubDate>Sun, 03 Feb 2019 23:14:59 +0100</pubDate>
+      <dc:date>2019-02-03T23:14:59.709854+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for real.gr, 28 November–6 December 2018 – Voting Intentions</title>
@@ -529,6 +529,6 @@
       <pubDate>Sun, 27 Jan 2019 17:58:45 +0100</pubDate>
       <dc:date>2019-01-27T17:58:45.818914+01:00</dc:date>
     </item>
-    <dc:date>2019-02-03T21:17:26.044564+01:00</dc:date>
+    <dc:date>2019-02-03T23:14:59.709854+01:00</dc:date>
   </channel>
 </rss>
