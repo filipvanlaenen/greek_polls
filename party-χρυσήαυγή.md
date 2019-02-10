@@ -10,7 +10,9 @@ Last result: **7.0%** (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.4% | 6.4–9.8% | 5.8–10.2% | 5.4–10.5% | 4.7–11.3% |
+| N/A | [Poll Average](average.html) | 8.2% | 6.3–9.7% | 5.8–10.1% | 5.4–10.5% | 4.8–11.2% |
+| [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
+| [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 9.1% | 8.1–10.3% | 7.9–10.6% | 7.6–10.9% | 7.2–11.5% |
 | [28–29 January 2019](2019-01-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 9.2% | 8.8–9.6% | 8.7–9.8% | 8.6–9.9% | 8.4–10.1% |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 8.6% | 7.5–9.8% | 7.2–10.2% | 7.0–10.5% | 6.5–11.1% |
@@ -63,13 +65,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.3% | 100% |  |
-| 4.5–5.5% | 3% | 99.7% |  |
-| 5.5–6.5% | 9% | 97% |  |
-| 6.5–7.5% | 16% | 88% | Last Result |
-| 7.5–8.5% | 27% | 72% | Median |
-| 8.5–9.5% | 31% | 45% |  |
-| 9.5–10.5% | 12% | 14% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 3% | 99.8% |  |
+| 5.5–6.5% | 10% | 97% |  |
+| 6.5–7.5% | 20% | 87% | Last Result |
+| 7.5–8.5% | 27% | 67% | Median |
+| 8.5–9.5% | 27% | 40% |  |
+| 9.5–10.5% | 10% | 12% |  |
 | 10.5–11.5% | 2% | 2% |  |
 | 11.5–12.5% | 0.2% | 0.2% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -83,9 +85,11 @@ Last result: **18** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 19–32 | 17–32 | 15–33 | 15–33 |
-| [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 32 | 32 | 25–32 | 22–32 | 22–32 |
-| [28–29 January 2019](2019-01-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 31 | 29–33 | 29–33 | 28–33 | 27–33 |
+| N/A | [Poll Average](average.html) | 24 | 19–30 | 17–31 | 15–32 | 15–33 |
+| [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 21 | 19–26 | 18–27 | 18–28 | 17–30 |
+| [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 24 | 21–26 | 19–28 | 19–29 | 18–31 |
+| [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 27 | 24–32 | 23–32 | 22–33 | 21–34 |
+| [28–29 January 2019](2019-01-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 31 | 30–32 | 29–33 | 29–33 | 28–34 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 24 | 20–27 | 20–28 | 19–29 | 18–31 |
 | [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 27 | 23–29 | 23–30 | 22–30 | 20–31 |
 | [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 20 | 18–24 | 18–25 | 17–26 | 16–28 |
@@ -99,16 +103,16 @@ Last result: **18** seats (General Election of 20 September 2015)
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 20 | 20–27 | 20–27 | 20–27 | 19–28 |
 | [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 21 | 18–24 | 17–25 | 16–26 | 15–28 |
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 19 | 19–21 | 19–21 | 19–22 | 18–24 |
-| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 20 | 20–27 | 20–27 | 20–27 | 20–27 |
+| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 26 | 23–31 | 22–31 | 22–31 | 21–31 |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 14 | 14–17 | 13–18 | 13–18 | 13–19 |
 | [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 16 | 16 | 16 | 16–18 | 13–24 |
-| [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 23 | 23–24 | 23–24 | 23–24 | 17–25 |
+| [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 22 | 17–23 | 17–23 | 17–23 | 16–26 |
 | [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 18 | 18–25 | 18–28 | 18–28 | 18–28 |
 | [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 25 | 25–31 | 25–31 | 25–31 | 25–31 |
 | [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25 | 25–30 | 23–30 | 21–30 | 21–30 |
-| [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 26 | 23–26 | 22–27 | 22–27 | 18–28 |
+| [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 24 | 20–28 | 20–30 | 20–30 | 19–31 |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 25 | 22–25 | 22–25 | 22–26 | 22–26 |
-| [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 23 | 23 | 23–25 | 23–25 | 21–25 |
+| [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 22 | 20–27 | 20–28 | 19–28 | 16–30 |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 21 | 18–23 | 18–23 | 17–25 | 17–26 |
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25 | 25–28 | 25–29 | 25–29 | 20–29 |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 26 | 23–26 | 23–26 | 19–26 | 16–31 |
@@ -122,10 +126,10 @@ Last result: **18** seats (General Election of 20 September 2015)
 | [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 32 | 31–33 | 29–34 | 29–34 | 29–34 |
 | [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 30 | 21–30 | 21–31 | 21–31 | 21–31 |
 | [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 26 | 22–26 | 21–26 | 21–26 | 18–27 |
-| [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 30 | 30–31 | 30–32 | 27–34 | 23–34 |
-| [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 28 | 25–28 | 25–28 | 25–28 | 22–28 |
+| [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 27 | 26–33 | 25–35 | 25–37 | 23–37 |
+| [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 29 | 25–30 | 24–30 | 23–31 | 23–32 |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 24 | 19–26 | 19–27 | 19–27 | 19–34 |
-| [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 22 | 22–23 | 22–23 | 22–23 | 22–24 |
+| [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 23 | 20–26 | 19–28 | 19–29 | 18–29 |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 25 | 24–27 | 24–30 | 24–30 | 23–30 |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 23 | 20–27 | 20–31 | 19–31 | 16–31 |
 
@@ -138,28 +142,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.1% | 100% |  |
-| 14 | 0.2% | 99.8% |  |
-| 15 | 3% | 99.6% |  |
+| 14 | 0.2% | 99.9% |  |
+| 15 | 2% | 99.6% |  |
 | 16 | 2% | 97% |  |
-| 17 | 2% | 95% |  |
-| 18 | 3% | 93% | Last Result |
-| 19 | 3% | 91% |  |
-| 20 | 9% | 87% |  |
-| 21 | 7% | 78% |  |
-| 22 | 9% | 71% |  |
-| 23 | 8% | 62% |  |
-| 24 | 8% | 54% | Median |
-| 25 | 8% | 45% |  |
-| 26 | 5% | 38% |  |
-| 27 | 5% | 33% |  |
-| 28 | 3% | 27% |  |
-| 29 | 4% | 24% |  |
-| 30 | 2% | 21% |  |
-| 31 | 6% | 19% |  |
-| 32 | 10% | 13% |  |
-| 33 | 3% | 3% |  |
-| 34 | 0.1% | 0.2% |  |
-| 35 | 0% | 0.1% |  |
+| 17 | 2% | 96% |  |
+| 18 | 3% | 94% | Last Result |
+| 19 | 4% | 91% |  |
+| 20 | 10% | 88% |  |
+| 21 | 8% | 78% |  |
+| 22 | 10% | 70% |  |
+| 23 | 8% | 60% |  |
+| 24 | 10% | 52% | Median |
+| 25 | 9% | 42% |  |
+| 26 | 7% | 33% |  |
+| 27 | 6% | 26% |  |
+| 28 | 4% | 20% |  |
+| 29 | 4% | 16% |  |
+| 30 | 4% | 13% |  |
+| 31 | 4% | 9% |  |
+| 32 | 3% | 5% |  |
+| 33 | 0.7% | 1.1% |  |
+| 34 | 0.3% | 0.4% |  |
+| 35 | 0.1% | 0.1% |  |
 | 36 | 0.1% | 0.1% |  |
 | 37 | 0% | 0% |  |
 
