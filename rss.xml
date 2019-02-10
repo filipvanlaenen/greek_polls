@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sun, 10 Feb 2019 15:13:58 +0100</pubDate>
+    <pubDate>Sun, 10 Feb 2019 20:09:33 +0100</pubDate>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 4–5 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-02-05-Interview.html#seats</link>
@@ -250,14 +250,34 @@
       <dc:date>2019-02-03T20:14:40.069075+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 16–18 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2018-12-18-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 68–81 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 151–165 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 19–27 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 19–27 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 16–24 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 0 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-12-18-PulseRC-seats.png"
+        length="160661"
+        type="image/png"/>
+      <pubDate>Sun, 10 Feb 2019 18:50:16 +0100</pubDate>
+      <dc:date>2019-02-10T18:50:16.11904+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 16–18 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2018-12-18-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-12-18-PulseRC-coalitions-seats.png"
+        length="180813"
+        type="image/png"/>
+      <pubDate>Sun, 10 Feb 2019 18:50:16 +0100</pubDate>
+      <dc:date>2019-02-10T18:50:16.11904+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 16–18 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2018-12-18-PulseRC.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.7–28.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 35.5–40.7%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 6.6–9.6%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.6–9.6%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.8–8.5%&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 1.0–2.3%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 1.0–2.3%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 1.4–2.9%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 1.4–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-12-18-PulseRC.png"
         length="220029"
         type="image/png"/>
-      <pubDate>Sun, 27 Jan 2019 13:38:28 +0100</pubDate>
-      <dc:date>2019-01-27T13:38:28.517315+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 18:50:16 +0100</pubDate>
+      <dc:date>2019-02-10T18:50:16.11904+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open, 5–10 December 2018 – Seat Projections for the Parties</title>
@@ -456,8 +476,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-10-24-Marc.png"
         length="245512"
         type="image/png"/>
-      <pubDate>Sun, 27 Jan 2019 14:26:11 +0100</pubDate>
-      <dc:date>2019-01-27T14:26:11.436771+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 17:38:05 +0100</pubDate>
+      <dc:date>2019-02-10T17:38:05.313844+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 14–16 October 2018 – Voting Intentions</title>
@@ -476,8 +496,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-09-21-PalmosAnalysis.png"
         length="216537"
         type="image/png"/>
-      <pubDate>Sun, 27 Jan 2019 14:37:24 +0100</pubDate>
-      <dc:date>2019-01-27T14:37:24.530977+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 16:57:42 +0100</pubDate>
+      <dc:date>2019-02-10T16:57:42.339032+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Τα Νέα, 18–20 September 2018 – Voting Intentions</title>
@@ -486,8 +506,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-09-20-MetronAnalysis.png"
         length="259417"
         type="image/png"/>
-      <pubDate>Sun, 10 Feb 2019 14:47:15 +0100</pubDate>
-      <dc:date>2019-02-10T14:47:15.766118+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 20:09:33 +0100</pubDate>
+      <dc:date>2019-02-10T20:09:33.441589+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 17–19 September 2018 – Voting Intentions</title>
@@ -576,8 +596,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-06-26-PulseRC.png"
         length="230279"
         type="image/png"/>
-      <pubDate>Sun, 27 Jan 2019 15:51:17 +0100</pubDate>
-      <dc:date>2019-01-27T15:51:17.98077+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 16:54:52 +0100</pubDate>
+      <dc:date>2019-02-10T16:54:52.754267+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 13–15 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2018-06-15-Marc.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 50–65 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 150–168 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 21–31 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 22–32 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 18–28 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 0–9 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 0–14 seats&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα: 0–9 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-06-15-Marc-seats.png"
+        length="181864"
+        type="image/png"/>
+      <pubDate>Sun, 10 Feb 2019 19:31:28 +0100</pubDate>
+      <dc:date>2019-02-10T19:31:28.739819+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 13–15 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2018-06-15-Marc.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-06-15-Marc-coalitions-seats.png"
+        length="198645"
+        type="image/png"/>
+      <pubDate>Sun, 10 Feb 2019 19:31:28 +0100</pubDate>
+      <dc:date>2019-02-10T19:31:28.739819+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 13–15 June 2018 – Voting Intentions</title>
@@ -586,8 +626,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-06-15-Marc.png"
         length="233022"
         type="image/png"/>
-      <pubDate>Sun, 10 Feb 2019 13:11:47 +0100</pubDate>
-      <dc:date>2019-02-10T13:11:47.812061+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 19:31:28 +0100</pubDate>
+      <dc:date>2019-02-10T19:31:28.739819+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by RASS for Action 24, 29–31 May 2018 – Voting Intentions</title>
@@ -610,14 +650,34 @@
       <dc:date>2019-02-10T14:03:03.840339+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 13–15 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2018-05-15-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 64–78 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 147–162 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 21–31 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 21–31 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 15–25 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 0–10 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 0–10 seats&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα: 0 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-05-15-PulseRC-seats.png"
+        length="177500"
+        type="image/png"/>
+      <pubDate>Sun, 10 Feb 2019 19:12:29 +0100</pubDate>
+      <dc:date>2019-02-10T19:12:29.652284+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 13–15 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2018-05-15-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-05-15-PulseRC-coalitions-seats.png"
+        length="186059"
+        type="image/png"/>
+      <pubDate>Sun, 10 Feb 2019 19:12:29 +0100</pubDate>
+      <dc:date>2019-02-10T19:12:29.652284+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 13–15 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2018-05-15-PulseRC.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.7–27.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 34.4–39.6%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 7.6–10.7%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 7.6–10.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.8–8.5%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 1.8–3.5%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 1.8–3.5%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα: 0.6–1.7%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0.6–1.7%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 1.0–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-05-15-PulseRC.png"
         length="240277"
         type="image/png"/>
-      <pubDate>Sun, 27 Jan 2019 16:13:04 +0100</pubDate>
-      <dc:date>2019-01-27T16:13:04.581635+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 19:12:29 +0100</pubDate>
+      <dc:date>2019-02-10T19:12:29.652284+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Public Issue, 23 April–7 May 2018 – Voting Intentions</title>
@@ -666,8 +726,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-04-03-ΚάπαResearch.png"
         length="213044"
         type="image/png"/>
-      <pubDate>Sun, 27 Jan 2019 17:14:13 +0100</pubDate>
-      <dc:date>2019-01-27T17:14:13.905509+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 17:45:35 +0100</pubDate>
+      <dc:date>2019-02-10T17:45:35.462209+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 11–13 March 2018 – Voting Intentions</title>
@@ -749,6 +809,6 @@
       <pubDate>Sun, 10 Feb 2019 14:43:00 +0100</pubDate>
       <dc:date>2019-02-10T14:43:00.288551+01:00</dc:date>
     </item>
-    <dc:date>2019-02-10T15:13:58.702385+01:00</dc:date>
+    <dc:date>2019-02-10T20:09:33.441589+01:00</dc:date>
   </channel>
 </rss>
