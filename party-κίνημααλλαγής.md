@@ -102,38 +102,38 @@ Last result: **17** seats (General Election of 20 September 2015)
 | [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 23 | 21–25 | 20–26 | 20–26 | 19–27 |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 18 | 16–22 | 15–23 | 15–24 | 14–26 |
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 20 | 18–23 | 17–24 | 16–25 | 15–26 |
-| [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25 | 23–28 | 23–28 | 23–28 | 19–30 |
+| [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25 | 21–28 | 21–29 | 21–31 | 21–33 |
 | [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 28 | 25–32 | 24–33 | 23–34 | 22–36 |
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 25 | 25–26 | 25–26 | 25–28 | 21–29 |
 | [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24 | 20–26 | 20–28 | 20–28 | 20–29 |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 24 | 20–26 | 20–26 | 20–26 | 20–34 |
-| [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 24 | 24 | 24 | 24–25 | 17–25 |
+| [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 24 | 20–30 | 17–30 | 17–30 | 17–32 |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 22 | 20–25 | 18–26 | 18–26 | 17–28 |
-| [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 25 | 21–25 | 15–25 | 15–25 | 15–25 |
-| [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 30 | 21–30 | 21–30 | 21–30 | 21–30 |
-| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 23 | 18–24 | 17–24 | 17–26 | 17–26 |
+| [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 21 | 18–22 | 14–24 | 13–24 | 13–26 |
+| [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 25 | 22–26 | 21–28 | 21–29 | 19–31 |
+| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24 | 22–24 | 22–24 | 21–26 | 18–27 |
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 23 | 19–25 | 18–25 | 18–26 | 17–29 |
-| [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 33 | 28–33 | 28–33 | 28–33 | 25–33 |
+| [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 30 | 27–32 | 26–33 | 26–33 | 24–34 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 28 | 26–31 | 24–33 | 22–35 | 21–37 |
-| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 18 | 18–26 | 18–26 | 18–26 | 18–26 |
+| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 22 | 19–26 | 18–26 | 17–28 | 16–29 |
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29 | 24–29 | 18–29 | 18–29 | 18–29 |
-| [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 29 | 23–29 | 22–29 | 22–29 | 22–30 |
-| [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 31 | 28–35 | 28–35 | 28–36 | 26–38 |
-| [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 30 | 28–30 | 27–30 | 23–30 | 16–30 |
+| [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 26 | 23–31 | 23–31 | 22–32 | 21–34 |
+| [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 31 | 28–35 | 27–36 | 27–37 | 25–39 |
+| [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 23 | 21–26 | 20–28 | 18–29 | 17–31 |
 | [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 22 | 22–28 | 22–28 | 22–28 | 21–28 |
-| [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue | 35 | 30–40 | 30–40 | 30–40 | 27–40 |
-| [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 30 | 24–33 | 24–33 | 24–33 | 22–34 |
-| [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 27 | 27 | 27 | 27 | 25–27 |
-| [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 30 | 30 | 30–31 | 30–31 | 19–38 |
+| [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue | 30 | 27–35 | 27–36 | 26–36 | 25–40 |
+| [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 30 | 26–33 | 26–33 | 25–34 | 24–37 |
+| [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 24 | 21–28 | 20–29 | 19–29 | 18–32 |
+| [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 28 | 24–31 | 23–32 | 22–34 | 21–35 |
 | [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 32 | 29–32 | 28–32 | 28–32 | 28–32 |
-| [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29 | 25–29 | 25–31 | 25–31 | 23–33 |
-| [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 34 | 33–34 | 32–34 | 30–35 | 30–36 |
+| [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 30 | 25–33 | 25–33 | 24–33 | 23–35 |
+| [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 34 | 29–37 | 29–39 | 29–39 | 26–41 |
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 24 | 24–29 | 23–30 | 22–32 | 20–33 |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 25 | 23–27 | 22–27 | 22–28 | 20–29 |
-| [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 34 | 29–34 | 27–34 | 27–36 | 27–37 |
+| [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 32 | 28–34 | 27–34 | 26–34 | 25–35 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 38 | 34–42 | 34–42 | 33–43 | 31–45 |
-| [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 26 | 23–26 | 23–27 | 23–29 | 19–33 |
-| [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 30 | 25–32 | 25–32 | 25–32 | 24–34 |
+| [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 26 | 23–30 | 23–31 | 22–32 | 21–33 |
+| [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 28 | 26–30 | 24–32 | 24–34 | 23–35 |
 
 ### Probability Mass Function
 

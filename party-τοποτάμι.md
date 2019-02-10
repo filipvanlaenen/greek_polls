@@ -95,16 +95,16 @@ Last result: **11** seats (General Election of 20 September 2015)
 | [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 0 | 0 | 0 | 0 | 0 |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 0 | 0–9 | 0–10 | 0–10 | 0–12 |
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 0 | 0–9 | 0–9 | 0–10 | 0–11 |
-| [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–8 | 0–8 | 0–8 | 0–10 |
+| [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0–8 | 0–8 | 0–9 |
 | [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 0 | 0 | 0 | 0–9 | 0–10 |
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0–9 | 0–9 | 0–9 | 0–10 |
 | [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0–9 |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 10 | 9–12 | 9–12 | 9–12 | 0–12 |
-| [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 0 | 0 | 0 | 0–9 | 0–9 |
+| [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 0 | 0 | 0–10 | 0–10 | 0–11 |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0 | 0 |
-| [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 0 | 0 | 0 | 0 | 0–10 |
+| [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 0 | 0 | 0 | 0 | 0–9 |
 | [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 0 | 0 | 0 | 0 | 0 |
-| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0–9 | 0–9 |
+| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0–8 |
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0–10 |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real |  |  |  |  |  |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα |  |  |  |  |  |
