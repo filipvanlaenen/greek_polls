@@ -90,7 +90,7 @@ Last result: **9** seats (General Election of 20 September 2015)
 | [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 0 | 0 | 0 | 0 | 0–10 |
-| [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0–10 | 0–10 |
+| [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0–9 |
 | [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 0 | 0–9 | 0–9 | 0–10 | 0–11 |
 | [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 9 | 0–11 | 0–11 | 0–12 | 0–14 |
 | [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 0 | 0–9 | 0–9 | 0–10 | 0–10 |
@@ -98,10 +98,10 @@ Last result: **9** seats (General Election of 20 September 2015)
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 0 | 0–9 | 0–9 | 0–10 | 0–11 |
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–8 | 0–9 | 0–10 | 0–10 |
 | [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 0 | 0 | 0 | 0–9 | 0–10 |
-| [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0–11 |
+| [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0–12 | 0–12 | 0–12 | 0–12 |
 | [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0–9 |
-| [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 0 | 0 | 0–11 | 0–11 | 0–11 |
-| [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 9 | 0–13 | 0–14 | 0–15 | 0–15 |
+| [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
+| [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 9 | 0–11 | 0–13 | 0–13 | 0–14 |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 9 | 0–10 | 0–11 | 0–12 | 0–13 |
 | [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 0 | 0–11 | 0–11 | 0–12 | 0–13 |
 | [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 0 | 0–10 | 0–11 | 0–11 | 0–13 |
@@ -110,16 +110,16 @@ Last result: **9** seats (General Election of 20 September 2015)
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 10 | 0–11 | 0–11 | 0–12 | 0–12 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 10 | 0–11 | 0–11 | 0–12 | 0–13 |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 10 | 9–14 | 0–15 | 0–15 | 0–16 |
-| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0–12 |
-| [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9 | 0–13 | 0–13 | 0–14 | 0–15 |
+| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–9 | 0–10 | 0–10 | 0–11 |
+| [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9 | 0–12 | 0–13 | 0–14 | 0–15 |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 9 | 0–11 | 0–12 | 0–12 | 0–14 |
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 0 | 0 | 0 | 0–12 | 0–14 |
-| [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0–9 | 0–11 |
+| [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–9 | 0–9 | 0–10 | 0–10 |
 | [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue | 10 | 0–12 | 0–13 | 0–13 | 0–15 |
 | [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–9 | 0–9 | 0–10 | 0–11 |
 | [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 0 | 0–11 | 0–11 | 0–11 | 0–12 |
 | [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 0 | 0–11 | 0–12 | 0–12 | 0–14 |
-| [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 0 | 0–9 | 0–10 | 0–10 | 0–10 |
+| [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 0 | 0–9 | 0–9 | 0–10 | 0–10 |
 | [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–9 | 0–10 | 0–10 | 0–11 |
 | [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 0 | 0–9 | 0–10 | 0–11 | 0–12 |

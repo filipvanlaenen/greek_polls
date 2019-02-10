@@ -99,8 +99,8 @@ Last result: **11** seats (General Election of 20 September 2015)
 | [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 0 | 0 | 0 | 0–9 | 0–10 |
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0–9 | 0–9 | 0–9 | 0–10 |
 | [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0–9 |
-| [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 10 | 9–12 | 9–12 | 9–12 | 0–12 |
-| [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 0 | 0 | 0–10 | 0–10 | 0–11 |
+| [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
+| [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 0 | 0 | 0 | 0 | 0–10 |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0 | 0 |
 | [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 0 | 0 | 0 | 0 | 0–9 |
 | [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 0 | 0 | 0 | 0 | 0 |

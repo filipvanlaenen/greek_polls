@@ -109,16 +109,16 @@ Last result: **10** seats (General Election of 20 September 2015)
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 0 | 0 | 0 | 0 | 0–9 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 0 | 0 | 0–8 | 0–9 | 0–9 |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 0 | 0 | 0 | 0 | 0 |
-| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–9 | 0–9 | 0–9 | 0–9 |
-| [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0–8 | 0–9 |
+| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
+| [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0–9 | 0–9 | 0–10 |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 8 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 0 | 0 | 0 | 0 | 0–13 |
-| [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0–10 |
+| [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–9 | 0–9 | 0–10 | 0–11 |
 | [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue | 0 | 0 | 0 | 0 | 0 |
 | [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–9 | 0–9 | 0–10 | 0–10 |
 | [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 0 | 0–9 | 0–10 | 0–10 | 0–12 |
 | [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 0 | 0–9 | 0–10 | 0–11 | 0–12 |
-| [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 10 | 0–11 | 0–11 | 0–11 | 0–11 |
+| [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 9 | 9–11 | 9–11 | 9–11 | 0–11 |
 | [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–9 | 0–10 | 0–10 | 0–11 |
 | [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 8 | 0–10 | 0–11 | 0–11 | 0–12 |
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 0 | 0–10 | 0–12 | 0–12 | 0–13 |

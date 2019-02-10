@@ -90,7 +90,7 @@ Last result: **0** seats (General Election of 20 September 2015)
 | [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0–9 | 0–10 | 0–11 | 0–12 |
 | [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 9 | 0–10 | 0–11 | 0–12 | 0–13 |
-| [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0–10 | 0–10 |
+| [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0–9 |
 | [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 0 | 0–8 | 0–9 | 0–10 | 0–11 |
 | [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 0 | 0 | 0–9 | 0–10 | 0–11 |
 | [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 0 | 0 | 0 | 0 | 0 |
@@ -98,7 +98,7 @@ Last result: **0** seats (General Election of 20 September 2015)
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 0 | 0 | 0 | 0 | 0–9 |
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0–8 |
 | [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue |  |  |  |  |  |
-| [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0–9 | 0–9 | 0–9 | 0–10 |
+| [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0–10 |
 | [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0–9 | 0–10 | 0–10 |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS |  |  |  |  |  |
 | [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 0 | 0 | 0 | 0 | 0 |
