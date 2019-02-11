@@ -116,9 +116,9 @@ Last result: **75** seats (General Election of 20 September 2015)
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 157 | 152–159 | 147–160 | 146–164 | 146–167 |
 | [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 156 | 153–161 | 151–161 | 149–163 | 146–167 |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 152 | 146–157 | 145–159 | 143–161 | 92–163 |
-| [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 153 | 153–163 | 150–163 | 150–164 | 147–171 |
+| [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 153 | 153–163 | 150–163 | 150–165 | 146–171 |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 156 | 150–161 | 150–161 | 148–161 | 145–164 |
-| [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 152 | 143–154 | 139–155 | 135–155 | 135–161 |
+| [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 149 | 143–158 | 141–159 | 139–159 | 135–160 |
 | [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 141 | 135–146 | 132–148 | 131–148 | 130–151 |
 | [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 156 | 154–159 | 154–159 | 151–162 | 148–164 |
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 153 | 146–163 | 145–163 | 145–166 | 142–168 |
@@ -128,21 +128,21 @@ Last result: **75** seats (General Election of 20 September 2015)
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 160 | 157–163 | 154–164 | 153–166 | 151–169 |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 157 | 152–166 | 151–167 | 150–168 | 146–169 |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 147 | 142–151 | 140–154 | 139–155 | 136–158 |
-| [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 101 | 95–151 | 89–154 | 87–154 | 83–161 |
+| [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 101 | 91–155 | 89–155 | 87–158 | 83–162 |
 | [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 155 | 149–161 | 148–161 | 147–162 | 143–164 |
 | [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue | 161 | 155–166 | 153–169 | 152–169 | 149–172 |
-| [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 152 | 147–156 | 146–157 | 145–159 | 141–162 |
+| [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 152 | 146–156 | 145–158 | 143–160 | 142–161 |
 | [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 143 | 138–149 | 135–149 | 135–150 | 131–152 |
-| [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 143 | 138–151 | 136–152 | 135–154 | 133–155 |
+| [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 144 | 139–151 | 137–152 | 135–154 | 132–157 |
 | [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 136 | 133–137 | 133–137 | 133–138 | 131–141 |
 | [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 152 | 144–160 | 143–162 | 142–162 | 141–163 |
 | [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 146 | 140–152 | 140–155 | 138–155 | 135–158 |
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 143 | 137–147 | 134–148 | 132–152 | 129–152 |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 149 | 146–152 | 144–154 | 144–155 | 142–159 |
-| [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 152 | 152–156 | 150–161 | 147–161 | 145–164 |
+| [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 152 | 149–156 | 147–160 | 146–162 | 144–163 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 156 | 151–161 | 150–163 | 147–163 | 145–166 |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 139 | 136–145 | 133–147 | 132–149 | 129–151 |
-| [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 153 | 149–160 | 146–161 | 145–162 | 142–164 |
+| [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 154 | 148–159 | 146–161 | 145–162 | 142–165 |
 
 ### Probability Mass Function
 
