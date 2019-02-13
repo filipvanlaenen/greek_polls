@@ -100,7 +100,7 @@ Last result: **18** seats (General Election of 20 September 2015)
 | [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 23 | 21–25 | 20–26 | 20–27 | 19–28 |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 22 | 19–25 | 18–26 | 17–26 | 16–28 |
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 21 | 18–24 | 17–25 | 17–26 | 16–27 |
-| [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25 | 21–27 | 21–28 | 20–28 | 19–31 |
+| [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25 | 22–27 | 21–28 | 20–29 | 19–30 |
 | [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 21 | 18–24 | 17–25 | 16–26 | 15–28 |
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 22 | 21–27 | 18–27 | 18–27 | 17–28 |
 | [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 26 | 23–28 | 22–30 | 22–31 | 20–31 |
