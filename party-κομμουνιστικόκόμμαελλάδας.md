@@ -103,17 +103,17 @@ Last result: **15** seats (General Election of 20 September 2015)
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 21 | 19–25 | 19–25 | 18–25 | 17–28 |
 | [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 22 | 19–25 | 18–26 | 18–27 | 16–29 |
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 22 | 17–26 | 17–26 | 17–26 | 17–27 |
-| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 22 | 19–25 | 19–25 | 18–25 | 17–26 |
+| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 21 | 19–24 | 17–25 | 17–25 | 16–27 |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 19 | 16–21 | 15–22 | 14–23 | 13–25 |
 | [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 21 | 18–22 | 17–23 | 16–24 | 15–25 |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 21 | 19–22 | 18–23 | 17–24 | 16–26 |
 | [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 23 | 20–26 | 19–26 | 18–27 | 16–29 |
 | [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 21 | 18–24 | 18–26 | 16–26 | 15–26 |
-| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19 | 19–23 | 17–23 | 16–23 | 16–24 |
+| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19 | 18–23 | 17–23 | 16–24 | 15–25 |
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 23 | 18–26 | 17–26 | 15–30 | 15–30 |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 19 | 17–21 | 17–22 | 16–22 | 16–23 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 20 | 17–23 | 16–24 | 16–24 | 14–26 |
-| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 26 | 23–28 | 21–30 | 21–31 | 19–33 |
+| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 26 | 22–29 | 21–30 | 20–31 | 19–34 |
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 20 | 18–20 | 17–22 | 16–23 | 15–25 |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 23 | 20–26 | 19–27 | 18–28 | 17–29 |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 23 | 20–25 | 19–26 | 18–27 | 17–29 |

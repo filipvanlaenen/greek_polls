@@ -114,17 +114,17 @@ Last result: **75** seats (General Election of 20 September 2015)
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 155 | 150–160 | 148–160 | 145–161 | 144–162 |
 | [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 163 | 158–169 | 156–170 | 155–172 | 152–174 |
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 157 | 152–159 | 147–160 | 146–164 | 146–167 |
-| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 156 | 153–161 | 151–161 | 149–163 | 146–167 |
+| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 158 | 151–161 | 150–163 | 149–163 | 146–166 |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 152 | 146–157 | 145–159 | 143–161 | 92–163 |
 | [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 153 | 153–163 | 150–163 | 150–165 | 146–171 |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 156 | 150–161 | 150–161 | 148–161 | 145–164 |
 | [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 149 | 143–158 | 141–159 | 139–159 | 135–160 |
 | [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 141 | 135–146 | 132–148 | 131–148 | 130–151 |
-| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 156 | 154–159 | 154–159 | 151–162 | 148–164 |
+| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 156 | 151–160 | 150–161 | 149–163 | 146–165 |
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 153 | 146–163 | 145–163 | 145–166 | 142–168 |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 151 | 147–156 | 146–157 | 145–158 | 143–159 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 153 | 147–160 | 145–161 | 144–163 | 143–168 |
-| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 145 | 140–151 | 139–154 | 138–156 | 135–159 |
+| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 146 | 140–153 | 139–155 | 137–156 | 135–159 |
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 160 | 157–163 | 154–164 | 153–166 | 151–169 |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 157 | 152–166 | 151–167 | 150–168 | 146–169 |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 147 | 142–151 | 140–154 | 139–155 | 136–158 |

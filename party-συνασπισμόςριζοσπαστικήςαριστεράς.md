@@ -110,17 +110,17 @@ Last result: **145** seats (General Election of 20 September 2015)
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 71 | 67–78 | 67–78 | 66–81 | 64–84 |
 | [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 64 | 60–70 | 58–71 | 57–72 | 55–74 |
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 69 | 66–73 | 64–73 | 63–76 | 60–78 |
-| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 70 | 67–75 | 65–76 | 64–76 | 62–77 |
+| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 70 | 66–74 | 65–75 | 64–76 | 62–79 |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 83 | 79–90 | 78–93 | 77–93 | 73–142 |
 | [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 78 | 70–79 | 68–79 | 67–80 | 64–85 |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 76 | 71–79 | 71–85 | 70–85 | 65–87 |
 | [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 77 | 70–82 | 69–83 | 68–85 | 66–89 |
 | [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 74 | 69–79 | 64–79 | 64–81 | 62–84 |
-| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 75 | 68–75 | 68–77 | 68–82 | 66–82 |
+| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 73 | 68–78 | 68–79 | 67–80 | 64–82 |
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 67 | 62–74 | 60–77 | 58–77 | 54–80 |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 69 | 66–72 | 65–74 | 64–75 | 62–76 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 64 | 60–66 | 57–68 | 57–73 | 55–75 |
-| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 70 | 65–77 | 64–78 | 63–79 | 59–81 |
+| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 70 | 65–76 | 63–77 | 62–79 | 59–82 |
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 71 | 67–71 | 64–72 | 64–74 | 61–77 |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 58 | 52–63 | 51–64 | 50–65 | 48–67 |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 63 | 59–69 | 57–69 | 57–71 | 54–73 |
