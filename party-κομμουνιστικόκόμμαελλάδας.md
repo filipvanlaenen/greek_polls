@@ -113,7 +113,7 @@ Last result: **15** seats (General Election of 20 September 2015)
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 23 | 18–26 | 17–26 | 15–30 | 15–30 |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 19 | 17–21 | 17–22 | 16–22 | 16–23 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 20 | 17–23 | 16–24 | 16–24 | 14–26 |
-| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 26 | 22–30 | 22–31 | 21–31 | 19–33 |
+| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 26 | 23–28 | 21–30 | 21–31 | 19–33 |
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 20 | 18–20 | 17–22 | 16–23 | 15–25 |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 23 | 20–26 | 19–27 | 18–28 | 17–29 |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 23 | 20–25 | 19–26 | 18–27 | 17–29 |
