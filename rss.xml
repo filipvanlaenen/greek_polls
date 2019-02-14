@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Wed, 13 Feb 2019 19:10:05 +0100</pubDate>
+    <pubDate>Thu, 14 Feb 2019 20:13:08 +0100</pubDate>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 4–5 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-02-05-Interview.html#seats</link>
@@ -490,14 +490,34 @@
       <dc:date>2019-02-04T20:14:18.476852+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 22–24 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2018-10-24-Marc.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 61–77 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 147–168 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 18–27 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 20–31 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 17–27 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 0–10 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 0–12 seats&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-10-24-Marc-seats.png"
+        length="178456"
+        type="image/png"/>
+      <pubDate>Wed, 13 Feb 2019 21:31:20 +0100</pubDate>
+      <dc:date>2019-02-13T21:31:20.526219+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 22–24 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2018-10-24-Marc.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-10-24-Marc-coalitions-seats.png"
+        length="199809"
+        type="image/png"/>
+      <pubDate>Wed, 13 Feb 2019 21:31:20 +0100</pubDate>
+      <dc:date>2019-02-13T21:31:20.526219+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 22–24 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2018-10-24-Marc.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 21.1–26.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 33.9–39.9%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 6.1–9.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.8–10.3%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.8–9.1%&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 1.5–3.4%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 0.9–2.5%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 1.9–4.0%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα: 0.9–2.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 1.4–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-10-24-Marc.png"
         length="245512"
         type="image/png"/>
-      <pubDate>Sun, 10 Feb 2019 17:38:05 +0100</pubDate>
-      <dc:date>2019-02-10T17:38:05.313844+01:00</dc:date>
+      <pubDate>Wed, 13 Feb 2019 21:31:20 +0100</pubDate>
+      <dc:date>2019-02-13T21:31:20.526219+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 14–16 October 2018 – Seat Projections for the Parties</title>
@@ -530,14 +550,34 @@
       <dc:date>2019-02-13T15:02:06.487427+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Palmos Analysis for TVXS, 18–21 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2018-09-21-PalmosAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 76–93 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 143–162 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 13–21 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 20–30 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–22 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 0–11 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-09-21-PalmosAnalysis-seats.png"
+        length="163782"
+        type="image/png"/>
+      <pubDate>Wed, 13 Feb 2019 23:08:08 +0100</pubDate>
+      <dc:date>2019-02-13T23:08:08.488896+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis for TVXS, 18–21 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2018-09-21-PalmosAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-09-21-PalmosAnalysis-coalitions-seats.png"
+        length="201964"
+        type="image/png"/>
+      <pubDate>Wed, 13 Feb 2019 23:08:08 +0100</pubDate>
+      <dc:date>2019-02-13T23:08:08.488896+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Palmos Analysis for TVXS, 18–21 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2018-09-21-PalmosAnalysis.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.3–30.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 31.1–36.9%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 4.3–7.1%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.5–9.8%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 1.7–3.6%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 0.9–2.4%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 1.7–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-09-21-PalmosAnalysis.png"
         length="216537"
         type="image/png"/>
-      <pubDate>Sun, 10 Feb 2019 16:57:42 +0100</pubDate>
-      <dc:date>2019-02-10T16:57:42.339032+01:00</dc:date>
+      <pubDate>Wed, 13 Feb 2019 23:08:08 +0100</pubDate>
+      <dc:date>2019-02-13T23:08:08.488896+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Τα Νέα, 18–20 September 2018 – Seat Projections for the Parties</title>
@@ -650,14 +690,34 @@
       <dc:date>2019-02-13T14:39:35.134413+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 8 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2018-09-08-Marc.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 57–77 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 146–166 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 20–31 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–28 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 16–27 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 0–9 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 0–12 seats&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-09-08-Marc-seats.png"
+        length="189371"
+        type="image/png"/>
+      <pubDate>Thu, 14 Feb 2019 20:13:08 +0100</pubDate>
+      <dc:date>2019-02-14T20:13:08.906087+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 8 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2018-09-08-Marc.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-09-08-Marc-coalitions-seats.png"
+        length="212265"
+        type="image/png"/>
+      <pubDate>Thu, 14 Feb 2019 20:13:08 +0100</pubDate>
+      <dc:date>2019-02-14T20:13:08.906087+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 8 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2018-09-08-Marc.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 20.7–25.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 33.5–39.4%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 6.8–10.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.3–9.6%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.8–9.1%&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 1.1–2.8%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα: 1.1–2.7%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 1.7–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2018-09-08-Marc.png"
         length="246485"
         type="image/png"/>
-      <pubDate>Sun, 10 Feb 2019 10:13:46 +0100</pubDate>
-      <dc:date>2019-02-10T10:13:46.818759+01:00</dc:date>
+      <pubDate>Thu, 14 Feb 2019 20:13:08 +0100</pubDate>
+      <dc:date>2019-02-14T20:13:08.906087+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Real, 22–29 June 2018 – Voting Intentions</title>
@@ -1009,6 +1069,6 @@
       <pubDate>Sun, 10 Feb 2019 21:05:14 +0100</pubDate>
       <dc:date>2019-02-10T21:05:14.806362+01:00</dc:date>
     </item>
-    <dc:date>2019-02-13T19:10:05.978188+01:00</dc:date>
+    <dc:date>2019-02-14T20:13:08.906087+01:00</dc:date>
   </channel>
 </rss>
