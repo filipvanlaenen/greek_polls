@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | ΚΑ | ΚΚΕ | Ποτάμι | ΑΝΕΛ | ΕΚ | ΛΑΕ | ΠΕ | ΕΛ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 20 September 2015 | General Election | 35.5% <br> 145 | 28.1% <br> 75 | 7.0% <br> 18 | 6.3% <br> 17 | 5.6% <br> 15 | 4.1% <br> 11 | 3.7% <br> 10 | 3.4% <br> 9 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 22–27% <br> 61–79 | 36–42% <br> 147–168 | 6–9% <br> 17–24 | 7–10% <br> 19–28 | 6–9% <br> 18–26 | 1–2% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0–11 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–13 |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 22–27% <br> 63–80 | 34–40% <br> 148–170 | 6–9% <br> 18–28 | 5–8% <br> 14–25 | 5–8% <br> 15–24 | 1–2% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0–12 | 1–3% <br> 0 | 1–2% <br> 0 | 2–5% <br> 0–13 |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 22–27% <br> 73–91 | 27–33% <br> 142–161 | 6–9% <br> 19–29 | 5–8% <br> 16–25 | 4–7% <br> 16–23 | 0–1% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0–12 |
 | [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 23–28% <br> 66–81 | 34–40% <br> 149–169 | 8–11% <br> 22–33 | 4–6% <br> 11–18 | 5–8% <br> 14–22 | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0–11 | 1–2% <br> 0 | N/A <br> N/A | 2–4% <br> 0–12 |
