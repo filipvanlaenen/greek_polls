@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Thu, 14 Feb 2019 20:13:08 +0100</pubDate>
+    <pubDate>Sat, 23 Feb 2019 00:05:36 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Public Issue, 1–14 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-02-14-PublicIssue.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 21.9–27.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 36.0–42.1%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 6.0–9.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.9–10.4%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 6.0–9.3%&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 1.7–3.7%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-02-14-PublicIssue.png"
+        length="224239"
+        type="image/png"/>
+      <pubDate>Sat, 23 Feb 2019 00:05:36 +0100</pubDate>
+      <dc:date>2019-02-23T00:05:36.409153+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 4–5 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-02-05-Interview.html#seats</link>
@@ -1069,6 +1079,6 @@
       <pubDate>Sun, 10 Feb 2019 21:05:14 +0100</pubDate>
       <dc:date>2019-02-10T21:05:14.806362+01:00</dc:date>
     </item>
-    <dc:date>2019-02-14T20:13:08.906087+01:00</dc:date>
+    <dc:date>2019-02-23T00:05:36.409153+01:00</dc:date>
   </channel>
 </rss>
