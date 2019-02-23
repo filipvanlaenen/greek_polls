@@ -11,6 +11,7 @@ Last result: **5.6%** (General Election of 20 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.7% | 4.8–8.2% | 3.6–8.7% | 3.4–9.1% | 3.2–9.9% |
+| [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.3–7.1% | 3.9–7.6% |
 | [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 6.1% | 5.3–7.1% | 5.1–7.4% | 4.9–7.7% | 4.6–8.1% |
@@ -85,7 +86,8 @@ Last result: **15** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 15–24 | 12–25 | 11–26 | 10–28 |
+| N/A | [Poll Average](average.html) | 20 | 15–23 | 12–25 | 11–26 | 10–28 |
+| [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 22 | 19–22 | 19–24 | 18–26 | 12–33 |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 20 | 16–23 | 16–23 | 15–24 | 14–25 |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 20 | 17–22 | 16–22 | 16–23 | 15–23 |
 | [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 17 | 15–20 | 15–21 | 14–22 | 13–25 |
@@ -150,18 +152,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 4% | 88% |  |
 | 17 | 9% | 84% |  |
 | 18 | 9% | 75% |  |
-| 19 | 13% | 65% |  |
-| 20 | 15% | 53% | Median |
-| 21 | 9% | 38% |  |
-| 22 | 11% | 28% |  |
-| 23 | 7% | 18% |  |
-| 24 | 3% | 11% |  |
-| 25 | 4% | 8% |  |
-| 26 | 2% | 4% |  |
-| 27 | 0.7% | 1.4% |  |
-| 28 | 0.4% | 0.7% |  |
-| 29 | 0.2% | 0.3% |  |
-| 30 | 0.1% | 0.1% |  |
-| 31 | 0% | 0% |  |
+| 19 | 15% | 65% |  |
+| 20 | 14% | 51% | Median |
+| 21 | 8% | 37% |  |
+| 22 | 13% | 29% |  |
+| 23 | 6% | 15% |  |
+| 24 | 3% | 9% |  |
+| 25 | 3% | 7% |  |
+| 26 | 2% | 3% |  |
+| 27 | 0.6% | 1.3% |  |
+| 28 | 0.3% | 0.7% |  |
+| 29 | 0.1% | 0.4% |  |
+| 30 | 0.1% | 0.2% |  |
+| 31 | 0.1% | 0.1% |  |
+| 32 | 0% | 0.1% |  |
+| 33 | 0.1% | 0.1% |  |
+| 34 | 0% | 0% |  |
 
 
