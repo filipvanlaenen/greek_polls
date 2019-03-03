@@ -10,7 +10,9 @@ Last result: **3.4%** (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.7–3.5% | 1.5–3.8% | 1.3–4.0% | 1.0–4.6% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.7–3.6% | 1.5–3.9% | 1.3–4.2% | 1.0–4.8% |
+| [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2.0% | 1.6–2.6% | 1.4–2.7% | 1.3–2.9% | 1.2–3.2% |
+| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
@@ -67,10 +69,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 45% | 94% |  |
-| 2.5–3.5% | 41% | 50% | Last Result, Median |
-| 3.5–4.5% | 8% | 8% |  |
-| 4.5–5.5% | 0.5% | 0.5% |  |
+| 1.5–2.5% | 43% | 94% |  |
+| 2.5–3.5% | 41% | 51% | Last Result, Median |
+| 3.5–4.5% | 9% | 10% |  |
+| 4.5–5.5% | 1.0% | 1.0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -82,7 +84,9 @@ Last result: **9** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–10 | 0–11 | 0–12 | 0–13 |
+| N/A | [Poll Average](average.html) | 0 | 0–11 | 0–13 | 0–13 | 0–13 |
+| [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–8 | 0–8 | 0–8 | 0–8 |
+| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 13 | 13 | 13 | 13 | 9–14 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 0 | 0–8 | 0–8 | 0–11 | 0–12 |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0–11 | 0–11 | 0–12 | 0–13 |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0 | 0 | 0 | 0 | 0 |
@@ -139,22 +143,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Median |
-| 1 | 0% | 27% |  |
-| 2 | 0% | 27% |  |
-| 3 | 0% | 27% |  |
-| 4 | 0% | 27% |  |
-| 5 | 0% | 27% |  |
-| 6 | 0% | 27% |  |
-| 7 | 0% | 27% |  |
-| 8 | 2% | 27% |  |
-| 9 | 10% | 25% | Last Result |
-| 10 | 8% | 15% |  |
-| 11 | 4% | 7% |  |
-| 12 | 2% | 3% |  |
-| 13 | 0.8% | 1.1% |  |
-| 14 | 0.2% | 0.3% |  |
-| 15 | 0.1% | 0.1% |  |
-| 16 | 0% | 0% |  |
+| 0 | 67% | 100% | Median |
+| 1 | 0% | 33% |  |
+| 2 | 0% | 33% |  |
+| 3 | 0% | 33% |  |
+| 4 | 0% | 33% |  |
+| 5 | 0% | 33% |  |
+| 6 | 0% | 33% |  |
+| 7 | 0% | 33% |  |
+| 8 | 6% | 33% |  |
+| 9 | 9% | 27% | Last Result |
+| 10 | 6% | 19% |  |
+| 11 | 3% | 12% |  |
+| 12 | 1.0% | 9% |  |
+| 13 | 8% | 8% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
