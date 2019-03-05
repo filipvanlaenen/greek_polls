@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sun, 03 Mar 2019 14:05:26 +0100</pubDate>
+    <pubDate>Tue, 05 Mar 2019 07:01:04 +0100</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 24–26 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-02-26-PulseRC.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-02-23-Alco.png"
         length="247643"
         type="image/png"/>
-      <pubDate>Sun, 03 Mar 2019 14:05:26 +0100</pubDate>
-      <dc:date>2019-03-03T14:05:26.377038+01:00</dc:date>
+      <pubDate>Tue, 05 Mar 2019 07:01:04 +0100</pubDate>
+      <dc:date>2019-03-05T07:01:04.661755+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Public Issue, 1–14 February 2019 – Voting Intentions</title>
@@ -1099,6 +1099,6 @@
       <pubDate>Sun, 10 Feb 2019 21:05:14 +0100</pubDate>
       <dc:date>2019-02-10T21:05:14.806362+01:00</dc:date>
     </item>
-    <dc:date>2019-03-03T14:05:26.377038+01:00</dc:date>
+    <dc:date>2019-03-05T07:01:04.661755+01:00</dc:date>
   </channel>
 </rss>
