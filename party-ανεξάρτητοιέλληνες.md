@@ -85,7 +85,7 @@ Last result: **10** seats (General Election of 20 September 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–9 | 0–11 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
-| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 0 | 0 | 0 | 0 | 0 |
+| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 0 | 0 | 0 | 0 | 0–10 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 0 | 0 | 0 | 0 | 0 |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0 | 0 | 0 | 0 |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
@@ -152,7 +152,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 4% |  |
 | 8 | 0.1% | 4% |  |
 | 9 | 2% | 4% |  |
-| 10 | 1.1% | 2% | Last Result |
+| 10 | 1.2% | 2% | Last Result |
 | 11 | 0.7% | 1.0% |  |
 | 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0.1% |  |

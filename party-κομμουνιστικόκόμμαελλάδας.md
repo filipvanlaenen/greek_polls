@@ -88,9 +88,9 @@ Last result: **15** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 13–23 | 12–24 | 11–25 | 10–28 |
+| N/A | [Poll Average](average.html) | 19 | 13–23 | 12–25 | 11–26 | 10–28 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 20 | 13–24 | 13–24 | 13–24 | 13–24 |
-| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 21 | 21 | 21 | 21 | 20–26 |
+| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 19 | 19–22 | 19–27 | 19–27 | 18–27 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 22 | 19–22 | 19–24 | 18–26 | 12–33 |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 20 | 16–23 | 16–23 | 15–24 | 14–25 |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 20 | 17–22 | 16–22 | 16–23 | 15–23 |
@@ -156,15 +156,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 4% | 85% |  |
 | 17 | 8% | 81% |  |
 | 18 | 7% | 72% |  |
-| 19 | 12% | 66% |  |
-| 20 | 12% | 53% | Median |
-| 21 | 14% | 41% |  |
+| 19 | 19% | 66% | Median |
+| 20 | 12% | 47% |  |
+| 21 | 7% | 34% |  |
 | 22 | 13% | 27% |  |
-| 23 | 5% | 14% |  |
+| 23 | 5% | 15% |  |
 | 24 | 4% | 9% |  |
-| 25 | 2% | 5% |  |
-| 26 | 1.2% | 2% |  |
-| 27 | 0.5% | 1.2% |  |
+| 25 | 2% | 6% |  |
+| 26 | 1.4% | 3% |  |
+| 27 | 1.0% | 2% |  |
 | 28 | 0.3% | 0.7% |  |
 | 29 | 0.1% | 0.3% |  |
 | 30 | 0.1% | 0.2% |  |

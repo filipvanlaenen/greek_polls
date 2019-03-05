@@ -95,9 +95,9 @@ Last result: **145** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 72 | 65–86 | 64–92 | 63–93 | 59–95 |
+| N/A | [Poll Average](average.html) | 73 | 65–86 | 64–92 | 63–93 | 59–95 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 65 | 65–85 | 64–85 | 64–85 | 64–85 |
-| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 67 | 67 | 67 | 67–68 | 67–88 |
+| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 79 | 71–79 | 67–80 | 67–80 | 67–87 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 69 | 64–77 | 64–79 | 61–79 | 58–86 |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 70 | 65–77 | 65–79 | 63–80 | 62–85 |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 82 | 76–88 | 76–90 | 73–91 | 73–96 |
@@ -165,19 +165,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 3% | 97% |  |
 | 65 | 9% | 94% |  |
 | 66 | 5% | 85% |  |
-| 67 | 11% | 80% |  |
-| 68 | 3% | 69% |  |
-| 69 | 3% | 66% |  |
-| 70 | 6% | 63% |  |
-| 71 | 5% | 56% |  |
-| 72 | 4% | 52% | Median |
-| 73 | 5% | 48% |  |
-| 74 | 3% | 42% |  |
-| 75 | 3% | 39% |  |
-| 76 | 4% | 36% |  |
-| 77 | 3% | 32% |  |
-| 78 | 3% | 29% |  |
-| 79 | 2% | 25% |  |
+| 67 | 3% | 80% |  |
+| 68 | 3% | 77% |  |
+| 69 | 3% | 74% |  |
+| 70 | 7% | 71% |  |
+| 71 | 5% | 64% |  |
+| 72 | 4% | 59% |  |
+| 73 | 5% | 55% | Median |
+| 74 | 3% | 49% |  |
+| 75 | 3% | 46% |  |
+| 76 | 4% | 43% |  |
+| 77 | 3% | 39% |  |
+| 78 | 3% | 36% |  |
+| 79 | 9% | 32% |  |
 | 80 | 3% | 23% |  |
 | 81 | 1.3% | 20% |  |
 | 82 | 5% | 19% |  |
@@ -185,7 +185,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 0.5% | 13% |  |
 | 85 | 2% | 13% |  |
 | 86 | 0.9% | 11% |  |
-| 87 | 0.2% | 10% |  |
+| 87 | 0.4% | 10% |  |
 | 88 | 0.6% | 10% |  |
 | 89 | 0.7% | 9% |  |
 | 90 | 1.1% | 8% |  |

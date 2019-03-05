@@ -84,9 +84,9 @@ Last result: **0** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–12 | 0–12 | 0–12 | 0–12 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–13 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
-| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 12 | 12 | 12 | 12 | 0–16 |
+| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 0 | 0–11 | 0–12 | 0–13 | 0–14 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue |  |  |  |  |  |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0 | 0 | 0 | 0 |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0 | 0 | 0 | 0 | 0 |
@@ -143,23 +143,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 0% | 11% |  |
-| 2 | 0% | 11% |  |
-| 3 | 0% | 11% |  |
-| 4 | 0% | 11% |  |
-| 5 | 0% | 11% |  |
-| 6 | 0% | 11% |  |
-| 7 | 0% | 11% |  |
-| 8 | 0% | 11% |  |
-| 9 | 0.1% | 11% |  |
-| 10 | 0% | 11% |  |
-| 11 | 0% | 11% |  |
-| 12 | 11% | 11% |  |
-| 13 | 0% | 0.1% |  |
-| 14 | 0% | 0.1% |  |
-| 15 | 0% | 0.1% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 0% | 2% |  |
+| 4 | 0% | 2% |  |
+| 5 | 0% | 2% |  |
+| 6 | 0% | 2% |  |
+| 7 | 0% | 2% |  |
+| 8 | 0% | 2% |  |
+| 9 | 0.4% | 2% |  |
+| 10 | 0.9% | 2% |  |
+| 11 | 0.1% | 1.2% |  |
+| 12 | 0.5% | 1.0% |  |
+| 13 | 0.3% | 0.5% |  |
+| 14 | 0.2% | 0.2% |  |
+| 15 | 0% | 0% |  |
 
 
