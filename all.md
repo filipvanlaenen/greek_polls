@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | ΚΑ | ΚΚΕ | Ποτάμι | ΑΝΕΛ | ΕΚ | ΛΑΕ | ΠΕ | ΕΛ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 20 September 2015 | General Election | 35.5% <br> 145 | 28.1% <br> 75 | 7.0% <br> 18 | 6.3% <br> 17 | 5.6% <br> 15 | 4.1% <br> 11 | 3.7% <br> 10 | 3.4% <br> 9 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [23–27 March 2019](2019-03-27-PulseRC.html) | Pulse RC | 23–27% <br> 74 | 35–40% <br> 148 | 7–10% <br> 24 | 7–10% <br> 25 | 6–8% <br> 20 | 1–3% <br> 0 | 1–3% <br> 9 | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 |
+| [19–26 March 2019](2019-03-26-Alco.html) | Alco | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 25–31% <br> 77–150 | 28–33% <br> 86–158 | 6–10% <br> 21–32 | 5–7% <br> 14–24 | 3–6% <br> 11–24 | 0–2% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 24–29% <br> 71–85 | 34–40% <br> 156–164 | 6–9% <br> 19–25 | 6–9% <br> 16–26 | 5–8% <br> 13–22 | 1–2% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0–9 | 1–3% <br> 0–9 | N/A <br> N/A | 1–3% <br> 0 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 22–27% <br> 64–85 | 34–40% <br> 145–166 | 8–11% <br> 21–35 | 7–10% <br> 19–22 | 6–9% <br> 13–24 | 1–2% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0–8 | 1–2% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0–11 |
