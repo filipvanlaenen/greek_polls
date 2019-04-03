@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Wed, 03 Apr 2019 13:59:26 +0200</pubDate>
+    <pubDate>Wed, 03 Apr 2019 19:49:21 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Pulse RC, 23–27 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-03-27-PulseRC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.8–27.3%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 34.5–39.5%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 6.7–9.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.7–9.5%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.8–8.5%&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 1.4–2.9%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 1.4–2.9%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 1.4–2.9%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 1.4–2.9%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.3–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-03-27-PulseRC.png"
+        length="234095"
+        type="image/png"/>
+      <pubDate>Wed, 03 Apr 2019 19:49:21 +0200</pubDate>
+      <dc:date>2019-04-03T19:49:21.234245+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Vox Pop Analysis for Documento, 18–20 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-03-20-VoxPopAnalysis.html</link>
@@ -1119,6 +1129,6 @@
       <pubDate>Sun, 10 Feb 2019 21:05:14 +0100</pubDate>
       <dc:date>2019-02-10T21:05:14.806362+01:00</dc:date>
     </item>
-    <dc:date>2019-04-03T13:59:26.279643+02:00</dc:date>
+    <dc:date>2019-04-03T19:49:21.234245+02:00</dc:date>
   </channel>
 </rss>
