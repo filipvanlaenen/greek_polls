@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Tue, 05 Mar 2019 07:01:04 +0100</pubDate>
+    <pubDate>Wed, 03 Apr 2019 13:59:26 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Vox Pop Analysis for Documento, 18–20 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-03-20-VoxPopAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.5–31.1%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 27.7–33.4%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 6.3–9.6%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 3.3–5.9%&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 0.4–1.6%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 0.2–1.0%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 0.3–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-03-20-VoxPopAnalysis.png"
+        length="213910"
+        type="image/png"/>
+      <pubDate>Wed, 03 Apr 2019 13:51:13 +0200</pubDate>
+      <dc:date>2019-04-03T13:51:13.477663+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Το Βήμα, 18–20 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-03-20-MetronAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.6–28.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 34.1–39.6%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 6.1–9.1%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.0–9.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.0–7.7%&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 0.9–2.4%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 0.9–2.3%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 1.2–2.8%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα: 1.1–2.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 1.4–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-03-20-MetronAnalysis.png"
+        length="238591"
+        type="image/png"/>
+      <pubDate>Wed, 03 Apr 2019 13:59:26 +0200</pubDate>
+      <dc:date>2019-04-03T13:59:26.279643+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 24–26 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-02-26-PulseRC.html</link>
@@ -1099,6 +1119,6 @@
       <pubDate>Sun, 10 Feb 2019 21:05:14 +0100</pubDate>
       <dc:date>2019-02-10T21:05:14.806362+01:00</dc:date>
     </item>
-    <dc:date>2019-03-05T07:01:04.661755+01:00</dc:date>
+    <dc:date>2019-04-03T13:59:26.279643+02:00</dc:date>
   </channel>
 </rss>
