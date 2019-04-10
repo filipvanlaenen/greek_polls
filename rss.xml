@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Thu, 04 Apr 2019 17:30:01 +0200</pubDate>
+    <pubDate>Tue, 09 Apr 2019 08:40:52 +0200</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC, 23–27 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-03-27-PulseRC.html</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-03-20-MetronAnalysis.png"
         length="238591"
         type="image/png"/>
-      <pubDate>Wed, 03 Apr 2019 13:59:26 +0200</pubDate>
-      <dc:date>2019-04-03T13:59:26.279643+02:00</dc:date>
+      <pubDate>Tue, 09 Apr 2019 08:40:52 +0200</pubDate>
+      <dc:date>2019-04-09T08:40:52.405701+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 24–26 February 2019 – Voting Intentions</title>
@@ -1139,6 +1139,6 @@
       <pubDate>Sun, 10 Feb 2019 21:05:14 +0100</pubDate>
       <dc:date>2019-02-10T21:05:14.806362+01:00</dc:date>
     </item>
-    <dc:date>2019-04-04T17:30:01.124703+02:00</dc:date>
+    <dc:date>2019-04-09T08:40:52.405701+02:00</dc:date>
   </channel>
 </rss>
