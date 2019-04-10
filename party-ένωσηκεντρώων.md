@@ -99,7 +99,7 @@ Last result: **9** seats (General Election of 20 September 2015)
 | [23–27 March 2019](2019-03-27-PulseRC.html) | Pulse RC | 0 | 0 | 0 | 0 | 0 |
 | [19–26 March 2019](2019-03-26-Alco.html) | Alco | 0 | 0 | 0 | 0 | 0–10 |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 0 | 0 | 0 | 0 | 0 |
-| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0 | 0–9 | 0–9 |
+| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0 | 0 | 0 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–8 | 0–8 | 0–8 | 0–8 |
 | [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 10 | 10–12 | 10–13 | 10–13 | 9–16 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 0 | 0–8 | 0–8 | 0–11 | 0–12 |
@@ -174,7 +174,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 15% |  |
 | 7 | 0% | 15% |  |
 | 8 | 2% | 15% |  |
-| 9 | 6% | 13% | Last Result |
+| 9 | 6% | 12% | Last Result |
 | 10 | 3% | 6% |  |
 | 11 | 2% | 3% |  |
 | 12 | 0.7% | 0.9% |  |

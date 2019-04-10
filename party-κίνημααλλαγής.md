@@ -100,11 +100,11 @@ Last result: **17** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 16–27 | 15–28 | 14–30 | 12–33 |
+| N/A | [Poll Average](average.html) | 21 | 17–27 | 15–29 | 14–30 | 12–33 |
 | [23–27 March 2019](2019-03-27-PulseRC.html) | Pulse RC | 25 | 25 | 25 | 25 | 21–25 |
 | [19–26 March 2019](2019-03-26-Alco.html) | Alco | 20 | 19–24 | 17–26 | 17–28 | 15–28 |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 19 | 16–22 | 15–22 | 15–23 | 14–25 |
-| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 17 | 17–26 | 16–26 | 16–26 | 16–26 |
+| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 22 | 20–26 | 19–29 | 18–29 | 17–29 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 21 | 21–22 | 21–22 | 19–22 | 17–24 |
 | [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 17 | 17–18 | 15–18 | 15–19 | 14–20 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 27 | 21–27 | 20–27 | 19–28 | 19–31 |
@@ -175,20 +175,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.4% | 99.1% |  |
 | 14 | 1.4% | 98.7% |  |
 | 15 | 3% | 97% |  |
-| 16 | 5% | 94% |  |
-| 17 | 14% | 90% | Last Result |
-| 18 | 4% | 75% |  |
-| 19 | 7% | 71% |  |
-| 20 | 8% | 64% |  |
-| 21 | 12% | 56% | Median |
-| 22 | 5% | 44% |  |
-| 23 | 3% | 39% |  |
-| 24 | 6% | 37% |  |
-| 25 | 12% | 31% |  |
-| 26 | 5% | 19% |  |
-| 27 | 7% | 13% |  |
-| 28 | 2% | 6% |  |
-| 29 | 1.3% | 5% |  |
+| 16 | 4% | 94% |  |
+| 17 | 9% | 90% | Last Result |
+| 18 | 4% | 82% |  |
+| 19 | 8% | 78% |  |
+| 20 | 9% | 70% |  |
+| 21 | 13% | 61% | Median |
+| 22 | 8% | 48% |  |
+| 23 | 4% | 40% |  |
+| 24 | 7% | 36% |  |
+| 25 | 13% | 30% |  |
+| 26 | 3% | 17% |  |
+| 27 | 7% | 14% |  |
+| 28 | 2% | 7% |  |
+| 29 | 2% | 5% |  |
 | 30 | 1.1% | 3% |  |
 | 31 | 0.9% | 2% |  |
 | 32 | 0.5% | 1.4% |  |
