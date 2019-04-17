@@ -10,8 +10,11 @@ Last result: **3.4%** (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.1–3.1% | 0.8–3.4% | 0.6–3.7% | 0.4–4.1% |
-| [23–27 March 2019](2019-03-27-PulseRC.html) | Pulse RC | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.2–3.2% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.0–2.9% | 0.7–3.2% | 0.6–3.5% | 0.4–4.0% |
+| [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 2.4% | N/A | N/A | N/A | N/A |
+| [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.1% | N/A | N/A | N/A | N/A |
+| [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 3.2% | N/A | N/A | N/A | N/A |
+| [23–27 March 2019](2019-03-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.2–3.2% |
 | [19–26 March 2019](2019-03-26-Alco.html) | Alco | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1.8% | 1.4–2.4% | 1.3–2.6% | 1.2–2.8% | 1.0–3.1% |
@@ -79,11 +82,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 2% | 100% |  |
-| 0.5–1.5% | 18% | 98% |  |
-| 1.5–2.5% | 49% | 80% | Median |
-| 2.5–3.5% | 28% | 31% | Last Result |
-| 3.5–4.5% | 3% | 3% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 22% | 98% |  |
+| 1.5–2.5% | 54% | 75% | Median |
+| 2.5–3.5% | 20% | 22% | Last Result |
+| 3.5–4.5% | 2% | 2% |  |
+| 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -95,8 +98,11 @@ Last result: **9** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–9 | 0–10 | 0–11 | 0–12 |
-| [23–27 March 2019](2019-03-27-PulseRC.html) | Pulse RC | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–9 | 0–10 | 0–12 |
+| [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star |  |  |  |  |  |
+| [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr |  |  |  |  |  |
+| [23–27 March 2019](2019-03-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [19–26 March 2019](2019-03-26-Alco.html) | Alco | 0 | 0 | 0 | 0 | 0–10 |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 0 | 0 | 0 | 0 | 0 |
 | [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0 | 0 | 0 |
@@ -165,18 +171,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Median |
-| 1 | 0% | 15% |  |
-| 2 | 0% | 15% |  |
-| 3 | 0% | 15% |  |
-| 4 | 0% | 15% |  |
-| 5 | 0% | 15% |  |
-| 6 | 0% | 15% |  |
-| 7 | 0% | 15% |  |
-| 8 | 2% | 15% |  |
-| 9 | 6% | 12% | Last Result |
-| 10 | 3% | 6% |  |
-| 11 | 2% | 3% |  |
+| 0 | 93% | 100% | Median |
+| 1 | 0% | 7% |  |
+| 2 | 0% | 7% |  |
+| 3 | 0% | 7% |  |
+| 4 | 0% | 7% |  |
+| 5 | 0% | 7% |  |
+| 6 | 0% | 7% |  |
+| 7 | 0% | 7% |  |
+| 8 | 1.2% | 7% |  |
+| 9 | 2% | 6% | Last Result |
+| 10 | 2% | 4% |  |
+| 11 | 1.5% | 2% |  |
 | 12 | 0.7% | 0.9% |  |
 | 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
