@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | ΚΑ | ΚΚΕ | Ποτάμι | ΑΝΕΛ | ΕΚ | ΛΑΕ | ΠΕ | ΕΛ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 20 September 2015 | General Election | 35.5% <br> 145 | 28.1% <br> 75 | 7.0% <br> 18 | 6.3% <br> 17 | 5.6% <br> 15 | 4.1% <br> 11 | 3.7% <br> 10 | 3.4% <br> 9 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 25–30% <br> 71–85 | 34–40% <br> 144–154 | 6–9% <br> 15–19 | 6–9% <br> 19–30 | 6–9% <br> 22–24 | 1–3% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0–8 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–12 |
+| [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 24–29% <br> 63–83 | 34–40% <br> 140–167 | 6–9% <br> 14–28 | 7–10% <br> 17–28 | 5–8% <br> 12–19 | 1–2% <br> 0 | N/A <br> N/A | 2–4% <br> 0–13 | 1–2% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0–12 |
 | [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–27 March 2019](2019-03-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 23–27% <br> 74 | 35–40% <br> 148 | 7–10% <br> 24 | 7–10% <br> 25 | 6–8% <br> 20 | 1–3% <br> 0 | 1–3% <br> 9 | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 |
 | [19–26 March 2019](2019-03-26-Alco.html) | Alco | 21–27% <br> 64–79 | 30–36% <br> 140–156 | 7–11% <br> 22–33 | 6–9% <br> 17–28 | 6–9% <br> 17–26 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0–12 | N/A <br> N/A | 2–4% <br> 0–13 |
