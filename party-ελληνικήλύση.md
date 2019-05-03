@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.0–3.7% | 1.8–3.9% | 1.6–4.2% | 1.3–4.6% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.6% | 1.7–3.8% | 1.5–4.0% | 1.3–4.4% |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
 | [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -82,11 +82,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 31% | 98% |  |
-| 2.5–3.5% | 53% | 67% | Median |
-| 3.5–4.5% | 13% | 14% |  |
-| 4.5–5.5% | 0.6% | 0.6% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 37% | 97% |  |
+| 2.5–3.5% | 49% | 60% | Median |
+| 3.5–4.5% | 11% | 11% |  |
+| 4.5–5.5% | 0.3% | 0.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -98,17 +98,17 @@ Last result: **0** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–11 | 0–13 | 0–13 | 0–14 |
+| N/A | [Poll Average](average.html) | 0 | 0–10 | 0–11 | 0–11 | 0–13 |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9 | 0–10 | 0–11 | 0–12 | 0–13 |
 | [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 0 | 0 | 0 | 0–8 | 0–9 |
-| [23–27 March 2019](2019-03-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–10 | 0–12 | 0–12 | 0–13 |
-| [19–26 March 2019](2019-03-26-Alco.html) | Alco | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
+| [23–27 March 2019](2019-03-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 0–11 | 0–11 | 0–11 | 0–12 |
+| [19–26 March 2019](2019-03-26-Alco.html) | Alco | 0 | 0–11 | 0–12 | 0–12 | 0–14 |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento |  |  |  |  |  |
-| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0–9 | 0–10 | 0–10 |
+| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0 | 0–9 | 0–10 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–9 | 0–9 | 0–11 | 0–12 |
 | [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 0 | 0 | 0 | 0–10 | 0–11 |
-| [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 10 | 0–13 | 0–13 | 0–13 | 0–14 |
+| [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 9 | 0–10 | 0–11 | 0–12 | 0–13 |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 10 | 0–13 | 0–13 | 0–13 | 0–15 |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0 | 0 | 0–12 | 0–12 | 0–12 |
 | [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 0 | 0–11 | 0–11 | 0–12 | 0–12 |
@@ -171,22 +171,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 61% | 100% | Last Result, Median |
-| 1 | 0% | 39% |  |
-| 2 | 0% | 39% |  |
-| 3 | 0% | 39% |  |
-| 4 | 0% | 39% |  |
-| 5 | 0% | 39% |  |
-| 6 | 0% | 39% |  |
-| 7 | 0% | 39% |  |
-| 8 | 0.8% | 39% |  |
-| 9 | 12% | 38% |  |
-| 10 | 14% | 25% |  |
-| 11 | 4% | 12% |  |
-| 12 | 2% | 7% |  |
-| 13 | 4% | 5% |  |
-| 14 | 0.4% | 0.5% |  |
-| 15 | 0.1% | 0.1% |  |
-| 16 | 0% | 0% |  |
+| 0 | 65% | 100% | Last Result, Median |
+| 1 | 0% | 35% |  |
+| 2 | 0% | 35% |  |
+| 3 | 0% | 35% |  |
+| 4 | 0% | 35% |  |
+| 5 | 0% | 35% |  |
+| 6 | 0% | 35% |  |
+| 7 | 0% | 35% |  |
+| 8 | 2% | 35% |  |
+| 9 | 16% | 33% |  |
+| 10 | 10% | 17% |  |
+| 11 | 5% | 7% |  |
+| 12 | 2% | 2% |  |
+| 13 | 0.4% | 0.5% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
