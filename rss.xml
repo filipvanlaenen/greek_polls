@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Fri, 03 May 2019 15:21:29 +0200</pubDate>
+    <pubDate>Sat, 11 May 2019 18:54:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by MRB for Star, 6–8 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-05-08-MRB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.4–29.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 33.1–39.1%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 1.3–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-05-08-MRB.png"
+        length="226057"
+        type="image/png"/>
+      <pubDate>Sat, 11 May 2019 18:54:40 +0200</pubDate>
+      <dc:date>2019-05-11T18:54:40.222282+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MRB for Star, 1–3 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-04-03-MRB.html#seats</link>
@@ -1329,6 +1339,6 @@
       <pubDate>Sun, 10 Feb 2019 21:05:14 +0100</pubDate>
       <dc:date>2019-02-10T21:05:14.806362+01:00</dc:date>
     </item>
-    <dc:date>2019-05-03T15:21:29.606544+02:00</dc:date>
+    <dc:date>2019-05-11T18:54:40.222282+02:00</dc:date>
   </channel>
 </rss>
