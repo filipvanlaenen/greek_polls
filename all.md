@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | ΚΑ | ΚΚΕ | Ποτάμι | ΑΝΕΛ | ΕΚ | ΛΑΕ | ΠΕ | ΕΛ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 20 September 2015 | General Election | 35.5% <br> 145 | 28.1% <br> 75 | 7.0% <br> 18 | 6.3% <br> 17 | 5.6% <br> 15 | 4.1% <br> 11 | 3.7% <br> 10 | 3.4% <br> 9 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 24–30% <br> 67–81 | 33–39% <br> 145–159 | 6–9% <br> 18–28 | 6–10% <br> 17–27 | 6–9% <br> 15–21 | 1–3% <br> 0–8 | 1–2% <br> 0 | 2–4% <br> 0–12 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0–9 |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 25–30% <br> 70–86 | 34–40% <br> 146–164 | 6–9% <br> 16–26 | 6–9% <br> 17–27 | 6–9% <br> 16–25 | 1–3% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0–10 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–11 |
