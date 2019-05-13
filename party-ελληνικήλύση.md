@@ -101,10 +101,10 @@ Last result: **0** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–11 | 0–12 | 0–13 | 0–13 |
+| N/A | [Poll Average](average.html) | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0 | 0–9 |
-| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 9 | 9–11 | 9–11 | 9–12 | 9–12 |
-| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0–13 | 0–13 | 0–13 | 0–13 |
+| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 0 | 0–11 | 0–11 | 0–11 | 0–12 |
+| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 9 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9 | 0–10 | 0–11 | 0–12 | 0–13 |
 | [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 0 | 0 | 0 | 0–8 | 0–9 |
@@ -177,20 +177,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 58% | 100% | Last Result, Median |
-| 1 | 0% | 42% |  |
-| 2 | 0% | 42% |  |
-| 3 | 0% | 42% |  |
-| 4 | 0% | 42% |  |
-| 5 | 0% | 42% |  |
-| 6 | 0% | 42% |  |
-| 7 | 0% | 42% |  |
-| 8 | 1.4% | 42% |  |
-| 9 | 27% | 41% |  |
-| 10 | 3% | 14% |  |
-| 11 | 3% | 10% |  |
-| 12 | 4% | 7% |  |
-| 13 | 3% | 3% |  |
-| 14 | 0% | 0% |  |
+| 0 | 67% | 100% | Last Result, Median |
+| 1 | 0% | 33% |  |
+| 2 | 0% | 33% |  |
+| 3 | 0% | 33% |  |
+| 4 | 0% | 33% |  |
+| 5 | 0% | 33% |  |
+| 6 | 0% | 33% |  |
+| 7 | 0% | 33% |  |
+| 8 | 2% | 33% |  |
+| 9 | 16% | 31% |  |
+| 10 | 9% | 14% |  |
+| 11 | 3% | 5% |  |
+| 12 | 1.1% | 1.4% |  |
+| 13 | 0.2% | 0.2% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 

@@ -99,10 +99,10 @@ Last result: **0** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–10 | 0–10 | 0–10 | 0–10 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–9 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV |  |  |  |  |  |
-| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0–10 | 0–10 | 0–10 | 0–10 |
+| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0 | 0 | 0 | 0–9 |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0 |
 | [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr |  |  |  |  |  |
@@ -175,17 +175,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 0% | 11% |  |
-| 2 | 0% | 11% |  |
-| 3 | 0% | 11% |  |
-| 4 | 0% | 11% |  |
-| 5 | 0% | 11% |  |
-| 6 | 0% | 11% |  |
-| 7 | 0% | 11% |  |
-| 8 | 0% | 11% |  |
-| 9 | 0% | 11% |  |
-| 10 | 11% | 11% |  |
-| 11 | 0% | 0% |  |
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0% | 0.6% |  |
+| 2 | 0% | 0.6% |  |
+| 3 | 0% | 0.6% |  |
+| 4 | 0% | 0.6% |  |
+| 5 | 0% | 0.6% |  |
+| 6 | 0% | 0.6% |  |
+| 7 | 0% | 0.6% |  |
+| 8 | 0% | 0.6% |  |
+| 9 | 0.6% | 0.6% |  |
+| 10 | 0% | 0% |  |
 
 

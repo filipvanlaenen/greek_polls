@@ -105,10 +105,10 @@ Last result: **17** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 20–30 | 19–32 | 19–33 | 18–35 |
+| N/A | [Poll Average](average.html) | 24 | 20–30 | 19–32 | 19–33 | 18–35 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 23 | 20–27 | 19–28 | 19–29 | 17–30 |
-| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 27 | 21–27 | 21–27 | 21–27 | 16–27 |
-| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 27 | 21–27 | 21–27 | 21–27 | 19–27 |
+| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 25 | 22–27 | 21–27 | 20–29 | 19–30 |
+| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 22 | 20–27 | 19–28 | 19–28 | 17–29 |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 22 | 19–25 | 18–26 | 17–27 | 16–28 |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 21 | 19–25 | 19–26 | 19–26 | 17–28 |
 | [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 30 | 26–33 | 25–35 | 25–35 | 23–37 |
@@ -181,20 +181,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.2% | 100% |  |
-| 17 | 0.2% | 99.8% | Last Result |
-| 18 | 0.5% | 99.6% |  |
-| 19 | 5% | 99.1% |  |
-| 20 | 4% | 94% |  |
-| 21 | 13% | 90% |  |
-| 22 | 8% | 77% |  |
-| 23 | 8% | 69% |  |
-| 24 | 8% | 61% |  |
-| 25 | 6% | 53% | Median |
-| 26 | 5% | 47% |  |
-| 27 | 25% | 43% |  |
-| 28 | 4% | 17% |  |
-| 29 | 3% | 14% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 0.3% | 99.9% | Last Result |
+| 18 | 0.7% | 99.6% |  |
+| 19 | 7% | 98.8% |  |
+| 20 | 5% | 92% |  |
+| 21 | 9% | 87% |  |
+| 22 | 10% | 77% |  |
+| 23 | 11% | 67% |  |
+| 24 | 8% | 56% | Median |
+| 25 | 15% | 49% |  |
+| 26 | 9% | 34% |  |
+| 27 | 5% | 25% |  |
+| 28 | 5% | 20% |  |
+| 29 | 4% | 15% |  |
 | 30 | 3% | 11% |  |
 | 31 | 3% | 8% |  |
 | 32 | 2% | 5% |  |
