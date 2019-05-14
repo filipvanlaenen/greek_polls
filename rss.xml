@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Mon, 13 May 2019 19:32:56 +0200</pubDate>
+    <pubDate>Mon, 13 May 2019 23:25:17 +0200</pubDate>
     <item>
       <title>Opinion Poll by MRB for Star, 6–8 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-05-08-MRB.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-04-17-MetronAnalysis.png"
         length="226256"
         type="image/png"/>
-      <pubDate>Sun, 12 May 2019 23:16:01 +0200</pubDate>
-      <dc:date>2019-05-12T23:16:01.421951+02:00</dc:date>
+      <pubDate>Mon, 13 May 2019 23:25:17 +0200</pubDate>
+      <dc:date>2019-05-13T23:25:17.166292+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 15–17 April 2019 – Seat Projections for the Parties</title>
@@ -1399,6 +1399,6 @@
       <pubDate>Sun, 10 Feb 2019 21:05:14 +0100</pubDate>
       <dc:date>2019-02-10T21:05:14.806362+01:00</dc:date>
     </item>
-    <dc:date>2019-05-13T19:32:56.545479+02:00</dc:date>
+    <dc:date>2019-05-13T23:25:17.166292+02:00</dc:date>
   </channel>
 </rss>
