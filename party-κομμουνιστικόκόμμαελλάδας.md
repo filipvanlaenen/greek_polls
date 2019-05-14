@@ -10,7 +10,8 @@ Last result: **5.6%** (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.8–8.7% | 5.6–9.2% | 5.3–9.6% | 4.9–10.3% |
+| N/A | [Poll Average](average.html) | 6.7% | 5.7–7.8% | 5.5–8.2% | 5.3–8.5% | 4.9–9.1% |
+| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 5.0% | N/A | N/A | N/A | N/A |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.4% |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 6.4% | 5.6–7.4% | 5.3–7.7% | 5.2–8.0% | 4.8–8.5% |
 | [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
@@ -84,15 +85,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
+| 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 5% | 99.9% |  |
-| 5.5–6.5% | 29% | 95% | Last Result |
-| 6.5–7.5% | 35% | 66% | Median |
-| 7.5–8.5% | 20% | 31% |  |
-| 8.5–9.5% | 9% | 11% |  |
-| 9.5–10.5% | 2% | 3% |  |
-| 10.5–11.5% | 0.3% | 0.3% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 4.5–5.5% | 6% | 99.9% |  |
+| 5.5–6.5% | 36% | 94% | Last Result |
+| 6.5–7.5% | 41% | 58% | Median |
+| 7.5–8.5% | 15% | 17% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -103,9 +104,10 @@ Last result: **15** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–24 | 16–25 | 15–27 | 14–29 |
+| N/A | [Poll Average](average.html) | 19 | 17–22 | 16–23 | 15–24 | 14–26 |
+| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento |  |  |  |  |  |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 20 | 17–23 | 17–24 | 16–25 | 15–27 |
-| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 18 | 17–20 | 16–21 | 15–22 | 14–22 |
+| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 19 | 17–21 | 16–21 | 15–22 | 14–23 |
 | [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 19 | 17–22 | 17–23 | 16–25 | 15–27 |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 21 | 17–24 | 16–25 | 16–25 | 15–27 |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 18 | 16–20 | 15–22 | 15–22 | 13–24 |
@@ -181,24 +183,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
 | 13 | 0.2% | 99.9% |  |
-| 14 | 0.5% | 99.8% |  |
-| 15 | 2% | 99.2% | Last Result |
-| 16 | 3% | 97% |  |
-| 17 | 7% | 94% |  |
-| 18 | 27% | 87% |  |
-| 19 | 14% | 60% | Median |
-| 20 | 12% | 45% |  |
-| 21 | 8% | 34% |  |
-| 22 | 8% | 26% |  |
-| 23 | 6% | 18% |  |
-| 24 | 4% | 12% |  |
-| 25 | 3% | 8% |  |
-| 26 | 2% | 5% |  |
-| 27 | 1.3% | 3% |  |
-| 28 | 0.7% | 1.2% |  |
-| 29 | 0.3% | 0.5% |  |
-| 30 | 0.1% | 0.2% |  |
-| 31 | 0% | 0.1% |  |
-| 32 | 0% | 0% |  |
+| 14 | 0.7% | 99.7% |  |
+| 15 | 3% | 99.0% | Last Result |
+| 16 | 4% | 96% |  |
+| 17 | 9% | 92% |  |
+| 18 | 28% | 83% |  |
+| 19 | 19% | 55% | Median |
+| 20 | 14% | 36% |  |
+| 21 | 8% | 22% |  |
+| 22 | 6% | 13% |  |
+| 23 | 4% | 8% |  |
+| 24 | 2% | 4% |  |
+| 25 | 0.9% | 2% |  |
+| 26 | 0.5% | 0.9% |  |
+| 27 | 0.3% | 0.4% |  |
+| 28 | 0.1% | 0.1% |  |
+| 29 | 0% | 0% |  |
 
 
