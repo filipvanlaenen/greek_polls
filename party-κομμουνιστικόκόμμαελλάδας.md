@@ -10,8 +10,8 @@ Last result: **5.6%** (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.7% | 5.7–7.8% | 5.5–8.2% | 5.3–8.5% | 4.9–9.1% |
-| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 5.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 6.5% | 5.0–7.7% | 4.6–8.1% | 4.4–8.4% | 3.9–9.0% |
+| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 5.0% | 4.3–5.9% | 4.1–6.1% | 3.9–6.3% | 3.6–6.8% |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.4% |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 6.4% | 5.6–7.4% | 5.3–7.7% | 5.2–8.0% | 4.8–8.5% |
 | [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
@@ -85,12 +85,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 6% | 99.9% |  |
-| 5.5–6.5% | 36% | 94% | Last Result |
-| 6.5–7.5% | 41% | 58% | Median |
-| 7.5–8.5% | 15% | 17% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 4% | 99.9% |  |
+| 4.5–5.5% | 16% | 96% |  |
+| 5.5–6.5% | 32% | 79% | Last Result, Median |
+| 6.5–7.5% | 33% | 47% |  |
+| 7.5–8.5% | 12% | 14% |  |
 | 8.5–9.5% | 2% | 2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -104,8 +104,8 @@ Last result: **15** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–22 | 16–23 | 15–24 | 14–26 |
-| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 18 | 15–22 | 15–23 | 15–24 | 12–26 |
+| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 15 | 15 | 13–16 | 12–16 | 12–18 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 20 | 17–23 | 17–24 | 16–25 | 15–27 |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 19 | 17–21 | 16–21 | 15–22 | 14–23 |
 | [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 19 | 17–22 | 17–23 | 16–25 | 15–27 |
@@ -181,22 +181,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.1% | 100% |  |
-| 13 | 0.2% | 99.9% |  |
-| 14 | 0.7% | 99.7% |  |
-| 15 | 3% | 99.0% | Last Result |
-| 16 | 4% | 96% |  |
-| 17 | 9% | 92% |  |
-| 18 | 28% | 83% |  |
-| 19 | 19% | 55% | Median |
-| 20 | 14% | 36% |  |
-| 21 | 8% | 22% |  |
-| 22 | 6% | 13% |  |
-| 23 | 4% | 8% |  |
-| 24 | 2% | 4% |  |
-| 25 | 0.9% | 2% |  |
-| 26 | 0.5% | 0.9% |  |
-| 27 | 0.3% | 0.4% |  |
+| 12 | 0.9% | 100% |  |
+| 13 | 0.6% | 99.1% |  |
+| 14 | 0.5% | 98.5% |  |
+| 15 | 20% | 98% | Last Result |
+| 16 | 4% | 78% |  |
+| 17 | 7% | 74% |  |
+| 18 | 22% | 66% | Median |
+| 19 | 15% | 44% |  |
+| 20 | 11% | 29% |  |
+| 21 | 7% | 17% |  |
+| 22 | 5% | 11% |  |
+| 23 | 3% | 6% |  |
+| 24 | 1.4% | 3% |  |
+| 25 | 0.7% | 1.5% |  |
+| 26 | 0.4% | 0.8% |  |
+| 27 | 0.3% | 0.3% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
