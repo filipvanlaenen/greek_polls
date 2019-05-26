@@ -104,8 +104,8 @@ Last result: **15** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–22 | 15–23 | 15–24 | 12–26 |
-| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 15 | 15 | 13–16 | 12–16 | 12–18 |
+| N/A | [Poll Average](average.html) | 18 | 15–22 | 15–23 | 13–24 | 12–26 |
+| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 15 | 13–16 | 13–18 | 12–18 | 11–19 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 20 | 17–23 | 17–24 | 16–25 | 15–27 |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 19 | 17–21 | 16–21 | 15–22 | 14–23 |
 | [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 19 | 17–22 | 17–23 | 16–25 | 15–27 |
@@ -181,16 +181,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.9% | 100% |  |
-| 13 | 0.6% | 99.1% |  |
-| 14 | 0.5% | 98.5% |  |
-| 15 | 20% | 98% | Last Result |
-| 16 | 4% | 78% |  |
-| 17 | 7% | 74% |  |
-| 18 | 22% | 66% | Median |
-| 19 | 15% | 44% |  |
-| 20 | 11% | 29% |  |
-| 21 | 7% | 17% |  |
+| 11 | 0.2% | 100% |  |
+| 12 | 0.4% | 99.7% |  |
+| 13 | 2% | 99.3% |  |
+| 14 | 2% | 97% |  |
+| 15 | 16% | 96% | Last Result |
+| 16 | 5% | 80% |  |
+| 17 | 7% | 75% |  |
+| 18 | 22% | 68% | Median |
+| 19 | 17% | 46% |  |
+| 20 | 12% | 29% |  |
+| 21 | 7% | 18% |  |
 | 22 | 5% | 11% |  |
 | 23 | 3% | 6% |  |
 | 24 | 1.4% | 3% |  |

@@ -105,10 +105,10 @@ Last result: **17** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 19–26 | 19–27 | 18–28 | 14–30 |
-| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 19 | 16–19 | 14–19 | 14–19 | 14–26 |
+| N/A | [Poll Average](average.html) | 22 | 18–26 | 18–27 | 17–28 | 15–30 |
+| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 18 | 16–20 | 15–20 | 15–22 | 13–22 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 23 | 20–27 | 19–28 | 19–29 | 17–30 |
-| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 25 | 22–27 | 21–28 | 20–30 | 19–31 |
+| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 25 | 22–27 | 21–28 | 20–29 | 19–31 |
 | [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 22 | 20–27 | 19–28 | 19–28 | 17–29 |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 22 | 19–25 | 18–26 | 17–27 | 16–28 |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 21 | 19–25 | 19–26 | 19–26 | 17–28 |
@@ -182,25 +182,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 1.2% | 100% |  |
-| 15 | 0% | 98.8% |  |
-| 16 | 0.9% | 98.8% |  |
-| 17 | 0.3% | 98% | Last Result |
-| 18 | 0.9% | 98% |  |
-| 19 | 24% | 97% |  |
-| 20 | 6% | 73% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.3% | 99.8% |  |
+| 15 | 0.7% | 99.6% |  |
+| 16 | 1.0% | 98.8% |  |
+| 17 | 2% | 98% | Last Result |
+| 18 | 14% | 96% |  |
+| 19 | 7% | 82% |  |
+| 20 | 7% | 74% |  |
 | 21 | 9% | 67% |  |
 | 22 | 11% | 58% | Median |
-| 23 | 11% | 47% |  |
-| 24 | 8% | 36% |  |
-| 25 | 9% | 28% |  |
-| 26 | 10% | 19% |  |
-| 27 | 4% | 9% |  |
+| 23 | 12% | 47% |  |
+| 24 | 9% | 35% |  |
+| 25 | 9% | 26% |  |
+| 26 | 9% | 18% |  |
+| 27 | 5% | 9% |  |
 | 28 | 2% | 4% |  |
 | 29 | 1.0% | 2% |  |
-| 30 | 0.8% | 1.0% |  |
-| 31 | 0.2% | 0.2% |  |
-| 32 | 0.1% | 0.1% |  |
+| 30 | 0.6% | 0.8% |  |
+| 31 | 0.1% | 0.2% |  |
+| 32 | 0% | 0.1% |  |
 | 33 | 0% | 0% |  |
 
 

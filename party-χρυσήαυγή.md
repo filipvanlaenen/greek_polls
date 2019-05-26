@@ -105,7 +105,7 @@ Last result: **18** seats (General Election of 20 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 17–24 | 16–26 | 16–27 | 15–30 |
-| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 22 | 22 | 21–22 | 21–24 | 21–24 |
+| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 21 | 19–22 | 19–23 | 18–24 | 16–26 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 20 | 17–23 | 17–24 | 16–25 | 15–27 |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 18 | 16–21 | 15–22 | 15–23 | 14–24 |
 | [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 24 | 21–28 | 20–29 | 20–30 | 19–32 |
@@ -181,24 +181,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0% | 100% |  |
+| 13 | 0.1% | 100% |  |
 | 14 | 0.3% | 99.9% |  |
-| 15 | 1.4% | 99.6% |  |
-| 16 | 5% | 98% |  |
-| 17 | 5% | 94% |  |
-| 18 | 6% | 88% | Last Result |
-| 19 | 10% | 82% |  |
-| 20 | 14% | 72% |  |
-| 21 | 11% | 58% | Median |
-| 22 | 23% | 47% |  |
-| 23 | 5% | 24% |  |
+| 15 | 1.2% | 99.7% |  |
+| 16 | 4% | 98% |  |
+| 17 | 6% | 94% |  |
+| 18 | 7% | 88% | Last Result |
+| 19 | 13% | 81% |  |
+| 20 | 14% | 69% |  |
+| 21 | 23% | 55% | Median |
+| 22 | 7% | 32% |  |
+| 23 | 6% | 24% |  |
 | 24 | 9% | 18% |  |
-| 25 | 3% | 9% |  |
+| 25 | 3% | 10% |  |
 | 26 | 3% | 7% |  |
 | 27 | 2% | 4% |  |
 | 28 | 0.9% | 2% |  |
 | 29 | 0.7% | 1.4% |  |
-| 30 | 0.2% | 0.7% |  |
+| 30 | 0.2% | 0.6% |  |
 | 31 | 0.3% | 0.4% |  |
 | 32 | 0.1% | 0.1% |  |
 | 33 | 0% | 0% |  |
