@@ -50,7 +50,7 @@ Last result: **28.1%** (General Election of 20 September 2015)
 | [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 31.4% | 29.6–33.4% | 29.1–33.9% | 28.6–34.4% | 27.8–35.3% |
 | [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 38.0% | 36.4–39.8% | 35.9–40.2% | 35.5–40.7% | 34.7–41.5% |
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 36.4% | 34.5–38.4% | 33.9–38.9% | 33.5–39.4% | 32.6–40.4% |
-| [25 June–2 July 2018](2018-07-02-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 30.6% | N/A | N/A | N/A | N/A |
+| [25 June–2 July 2018](2018-07-02-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 30.6% | 28.8–32.5% | 28.2–33.0% | 27.8–33.5% | 26.9–34.4% |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 36.8% | 35.4–38.2% | 35.0–38.6% | 34.7–38.9% | 34.0–39.6% |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 36.7% | 34.8–38.7% | 34.2–39.2% | 33.8–39.7% | 32.8–40.7% |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 32.6% | 30.7–34.6% | 30.2–35.1% | 29.8–35.6% | 28.9–36.5% |
@@ -60,20 +60,20 @@ Last result: **28.1%** (General Election of 20 September 2015)
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 25.7% | 23.8–27.8% | 23.3–28.4% | 22.8–28.9% | 21.9–29.9% |
 | [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 37.0% | 35.3–38.7% | 34.8–39.2% | 34.4–39.6% | 33.6–40.4% |
 | [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue | 39.0% | 37.0–41.0% | 36.5–41.5% | 36.0–42.1% | 35.1–43.0% |
-| [21 April 2018](2018-04-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 36.3% | N/A | N/A | N/A | N/A |
+| [21 April 2018](2018-04-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 36.3% | 34.4–38.3% | 33.8–38.9% | 33.4–39.3% | 32.5–40.3% |
 | [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 36.0% | 34.3–37.7% | 33.9–38.2% | 33.5–38.6% | 32.7–39.4% |
 | [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 31.4% | 29.6–33.3% | 29.0–33.9% | 28.6–34.4% | 27.7–35.3% |
 | [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 32.5% | 30.7–34.4% | 30.1–35.0% | 29.7–35.5% | 28.8–36.4% |
 | [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 28.4% | 27.8–29.1% | 27.6–29.2% | 27.4–29.4% | 27.1–29.7% |
-| [1–23 March 2018](2018-03-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 35.3% | N/A | N/A | N/A | N/A |
+| [1–23 March 2018](2018-03-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 35.3% | 33.4–37.3% | 32.9–37.8% | 32.4–38.3% | 31.5–39.3% |
 | [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 36.0% | 34.3–37.7% | 33.8–38.2% | 33.4–38.6% | 32.6–39.4% |
 | [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 35.8% | 33.9–37.8% | 33.4–38.4% | 32.9–38.9% | 32.0–39.8% |
-| [3 March 2018](2018-03-03-PulseRC.html) | Pulse RC <br> Δημοκρατία | 35.5% | N/A | N/A | N/A | N/A |
-| [3 March 2018](2018-03-03-OpinionPoll.html) | Opinion Poll <br> Παρασκήνιο | 38.7% | N/A | N/A | N/A | N/A |
+| [3 March 2018](2018-03-03-PulseRC.html) | Pulse RC <br> Δημοκρατία | 35.5% | 33.7–37.3% | 33.2–37.8% | 32.8–38.2% | 32.0–39.1% |
+| [3 March 2018](2018-03-03-OpinionPoll.html) | Opinion Poll <br> Παρασκήνιο | 38.7% | 36.7–40.7% | 36.2–41.3% | 35.7–41.8% | 34.8–42.7% |
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 32.0% | 30.1–33.9% | 29.6–34.5% | 29.2–35.0% | 28.3–35.9% |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 34.9% | 33.7–36.2% | 33.3–36.6% | 33.0–36.9% | 32.4–37.5% |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 36.5% | 34.9–38.1% | 34.5–38.6% | 34.1–39.0% | 33.4–39.7% |
-| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 35.4% | N/A | N/A | N/A | N/A |
+| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 35.4% | 33.5–37.4% | 33.0–37.9% | 32.5–38.4% | 31.6–39.4% |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 37.0% | 35.1–39.0% | 34.6–39.6% | 34.1–40.1% | 33.2–41.0% |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 32.7% | 30.8–34.6% | 30.3–35.2% | 29.9–35.7% | 29.0–36.6% |
 | [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 35.1% | N/A | N/A | N/A | N/A |
@@ -151,7 +151,7 @@ Last result: **75** seats (General Election of 20 September 2015)
 | [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 141 | 135–146 | 132–148 | 131–148 | 130–151 |
 | [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 156 | 151–160 | 150–161 | 149–163 | 146–165 |
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 157 | 149–164 | 148–165 | 146–166 | 143–169 |
-| [25 June–2 July 2018](2018-07-02-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ |  |  |  |  |  |
+| [25 June–2 July 2018](2018-07-02-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 128 | 128 | 128–138 | 128–138 | 128–138 |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 151 | 147–156 | 146–157 | 145–158 | 143–159 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 153 | 147–160 | 145–161 | 144–163 | 143–168 |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 146 | 140–153 | 139–155 | 137–156 | 135–159 |
@@ -161,20 +161,20 @@ Last result: **75** seats (General Election of 20 September 2015)
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 101 | 91–155 | 89–155 | 87–158 | 83–162 |
 | [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 155 | 149–161 | 148–161 | 147–162 | 143–164 |
 | [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue | 161 | 155–166 | 153–169 | 152–169 | 149–172 |
-| [21 April 2018](2018-04-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα |  |  |  |  |  |
+| [21 April 2018](2018-04-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 163 | 151–163 | 148–163 | 148–163 | 148–163 |
 | [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 152 | 146–156 | 145–158 | 143–160 | 142–161 |
 | [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 143 | 138–149 | 135–149 | 135–150 | 131–152 |
 | [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 144 | 139–151 | 137–152 | 135–154 | 132–157 |
 | [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 136 | 133–137 | 133–137 | 133–138 | 131–141 |
-| [1–23 March 2018](2018-03-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [1–23 March 2018](2018-03-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 148 | 148 | 147–148 | 147–151 | 137–163 |
 | [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 152 | 144–160 | 143–162 | 142–162 | 141–163 |
 | [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 146 | 140–152 | 140–155 | 138–155 | 135–158 |
-| [3 March 2018](2018-03-03-PulseRC.html) | Pulse RC <br> Δημοκρατία |  |  |  |  |  |
-| [3 March 2018](2018-03-03-OpinionPoll.html) | Opinion Poll <br> Παρασκήνιο |  |  |  |  |  |
+| [3 March 2018](2018-03-03-PulseRC.html) | Pulse RC <br> Δημοκρατία | 142 | 142–152 | 137–155 | 137–155 | 136–155 |
+| [3 March 2018](2018-03-03-OpinionPoll.html) | Opinion Poll <br> Παρασκήνιο | 150 | 150 | 150–151 | 150–154 | 150–154 |
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 143 | 137–147 | 134–148 | 132–152 | 129–152 |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 149 | 146–152 | 144–154 | 144–155 | 142–159 |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 152 | 149–156 | 147–160 | 146–162 | 144–163 |
-| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα |  |  |  |  |  |
+| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 115 | 115 | 115 | 115 | 115 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 156 | 151–161 | 150–163 | 147–163 | 145–166 |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 139 | 136–145 | 133–147 | 132–149 | 129–151 |
 | [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
