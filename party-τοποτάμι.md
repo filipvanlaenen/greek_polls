@@ -10,7 +10,21 @@ Last result: **4.1%** (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 0.8–2.4% | 0.7–2.6% | 0.6–2.8% | 0.4–3.2% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.0–3.0% | 0.7–3.3% | 0.6–3.5% | 0.4–4.0% |
+| [30 May–1 June 2019](2019-06-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.6% | 1.2–2.2% | 1.2–2.3% | 1.1–2.5% | 0.9–2.7% |
+| [20–23 May 2019](2019-05-23-RB.html) | RB | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
+| [21–23 May 2019](2019-05-23-PalmosAnalysis.html) | Palmos Analysis | 2.3% | 1.8–3.0% | 1.7–3.3% | 1.6–3.4% | 1.4–3.8% |
+| [20–23 May 2019](2019-05-23-Marc.html) | Marc | 1.6% | 1.2–2.1% | 1.1–2.2% | 1.1–2.4% | 0.9–2.6% |
+| [21–22 May 2019](2019-05-22-ΚάπαResearch.html) | Κάπα Research | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
+| [21–22 May 2019](2019-05-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.9% | N/A | N/A | N/A | N/A |
+| [20–22 May 2019](2019-05-22-Interview.html) | Interview | 1.3% | N/A | N/A | N/A | N/A |
+| [2–21 May 2019](2019-05-21-InnovationMetrisis.html) | Innovation Metrisis | 1.9% | N/A | N/A | N/A | N/A |
+| [16–20 May 2019](2019-05-20-MetronAnalysis.html) | Metron Analysis | 2.0% | N/A | N/A | N/A | N/A |
+| [15–19 May 2019](2019-05-19-Alco.html) | Alco | 2.2% | N/A | N/A | N/A | N/A |
+| [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 1.4% | N/A | N/A | N/A | N/A |
+| [15–17 May 2019](2019-05-17-RASS.html) | RASS | 0.0% | N/A | N/A | N/A | N/A |
+| [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis | 2.5% | N/A | N/A | N/A | N/A |
+| [14–16 May 2019](2019-05-16-Marc.html) | Marc | 1.4% | N/A | N/A | N/A | N/A |
 | [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 0.8% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% | 0.3–1.7% |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
@@ -85,12 +99,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% |  |
-| 0.5–1.5% | 48% | 98% |  |
-| 1.5–2.5% | 45% | 50% | Median |
-| 2.5–3.5% | 6% | 6% |  |
-| 3.5–4.5% | 0.1% | 0.1% | Last Result |
+| 0.0–0.5% | 1.5% | 100% |  |
+| 0.5–1.5% | 26% | 98.5% |  |
+| 1.5–2.5% | 46% | 73% | Median |
+| 2.5–3.5% | 24% | 26% |  |
+| 3.5–4.5% | 2% | 2% | Last Result |
 | 4.5–5.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -101,7 +116,21 @@ Last result: **11** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–9 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–9 | 0–11 |
+| [30 May–1 June 2019](2019-06-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
+| [20–23 May 2019](2019-05-23-RB.html) | RB | 0 | 0–9 | 0–9 | 0–9 | 0–13 |
+| [21–23 May 2019](2019-05-23-PalmosAnalysis.html) | Palmos Analysis | 0 | 0 | 0 | 0–8 | 0–14 |
+| [20–23 May 2019](2019-05-23-Marc.html) | Marc | 0 | 0 | 0 | 0 | 0–10 |
+| [21–22 May 2019](2019-05-22-ΚάπαResearch.html) | Κάπα Research |  |  |  |  |  |
+| [21–22 May 2019](2019-05-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [20–22 May 2019](2019-05-22-Interview.html) | Interview |  |  |  |  |  |
+| [2–21 May 2019](2019-05-21-InnovationMetrisis.html) | Innovation Metrisis |  |  |  |  |  |
+| [16–20 May 2019](2019-05-20-MetronAnalysis.html) | Metron Analysis |  |  |  |  |  |
+| [15–19 May 2019](2019-05-19-Alco.html) | Alco |  |  |  |  |  |
+| [15–18 May 2019](2019-05-18-Prorata.html) | Prorata |  |  |  |  |  |
+| [15–17 May 2019](2019-05-17-RASS.html) | RASS |  |  |  |  |  |
+| [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis |  |  |  |  |  |
+| [14–16 May 2019](2019-05-16-Marc.html) | Marc |  |  |  |  |  |
 | [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 0 | 0 | 0 | 0 | 0 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0–8 | 0–9 |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 0 | 0 | 0 | 0 | 0–8 |
@@ -114,7 +143,7 @@ Last result: **11** seats (General Election of 20 September 2015)
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 0 | 0 | 0 | 0 | 0 |
 | [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0 | 0 | 0 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
-| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 0 | 0 | 0–9 | 0–10 | 0–10 |
+| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 0 | 0 | 0 | 0 | 0–10 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 0 | 0 | 0 | 0 | 0 |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0 | 0 | 0 | 0 |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0 | 0 | 0 | 0 | 0 |
@@ -178,17 +207,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.3% | 100% | Median |
-| 1 | 0% | 0.7% |  |
-| 2 | 0% | 0.7% |  |
-| 3 | 0% | 0.7% |  |
-| 4 | 0% | 0.7% |  |
-| 5 | 0% | 0.7% |  |
-| 6 | 0% | 0.7% |  |
-| 7 | 0% | 0.7% |  |
-| 8 | 0.1% | 0.7% |  |
-| 9 | 0.5% | 0.6% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% | Last Result |
+| 0 | 97% | 100% | Median |
+| 1 | 0% | 3% |  |
+| 2 | 0% | 3% |  |
+| 3 | 0% | 3% |  |
+| 4 | 0% | 3% |  |
+| 5 | 0% | 3% |  |
+| 6 | 0% | 3% |  |
+| 7 | 0% | 3% |  |
+| 8 | 0.2% | 3% |  |
+| 9 | 2% | 3% |  |
+| 10 | 0.1% | 0.7% |  |
+| 11 | 0.1% | 0.5% | Last Result |
+| 12 | 0% | 0.5% |  |
+| 13 | 0.2% | 0.4% |  |
+| 14 | 0.2% | 0.2% |  |
+| 15 | 0% | 0% |  |
 
 
