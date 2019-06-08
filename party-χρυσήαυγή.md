@@ -133,7 +133,7 @@ Last result: **18** seats (General Election of 20 September 2015)
 | [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 23 | 21–27 | 20–28 | 19–29 | 18–30 |
 | [15–17 May 2019](2019-05-17-RASS.html) | RASS | 20 | 17–24 | 17–25 | 16–25 | 15–27 |
 | [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis | 18 | 16–21 | 15–22 | 15–23 | 13–25 |
-| [14–16 May 2019](2019-05-16-Marc.html) | Marc | 19 | 18–23 | 16–23 | 16–24 | 16–27 |
+| [14–16 May 2019](2019-05-16-Marc.html) | Marc | 21 | 18–24 | 17–24 | 16–25 | 16–27 |
 | [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 21 | 19–22 | 19–23 | 18–24 | 16–26 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 20 | 17–23 | 17–24 | 16–25 | 15–27 |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 18 | 16–21 | 15–22 | 15–23 | 14–24 |
