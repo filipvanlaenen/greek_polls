@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/greek_polls</id>
   <title>All Registered Polls for the Hellenic Parliament</title>
-  <updated>2019-06-08T12:51:09.227317+02:00</updated>
+  <updated>2019-06-10T18:20:32.570452+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 27.0–32.2%, 77–92 seats</li><li>Νέα Δημοκρατία: 37.1–42.6%, 155–172 seats</li><li>Χρυσή Αυγή: 3.6–6.0%, 10–17 seats</li><li>Κίνημα Αλλαγής: 6.4–9.5%, 18–27 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 3.7–6.2%, 11–18 seats</li><li>Ελληνική Λύση: 1.8–3.6%, 0–10 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/greek_polls/2019-06-05-MetronAnalysis.html</id>
+    <link href="https://filipvanlaenen.github.io/greek_polls/2019-06-05-MetronAnalysis.html"/>
+    <title>Opinion Poll by Metron Analysis for Alpha TV, 3–5 June 2019</title>
+    <updated>2019-06-10T18:20:32.570452+02:00</updated>
+    <dc:date>2019-06-10T18:20:32.570452+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.4–29.2%, 70–83 seats</li><li>Νέα Δημοκρατία: 33.9–39.0%, 147–161 seats</li><li>Χρυσή Αυγή: 4.2–6.6%, 12–19 seats</li><li>Κίνημα Αλλαγής: 7.2–10.2%, 21–29 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 4.8–7.3%, 14–21 seats</li><li>Το Ποτάμι: 1.1–2.5%, 0 seats</li><li>Ένωση Κεντρώων: 1.1–2.5%, 0 seats</li><li>Πλεύση Ελευθερίας: 1.1–2.5%, 0 seats</li><li>Ελληνική Λύση: 3.3–5.5%, 10–16 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/greek_polls/2019-06-01-PulseRC.html</id>
@@ -455,5 +463,5 @@
     <updated>2019-02-10T21:05:14.806362+01:00</updated>
     <dc:date>2019-02-10T21:05:14.806362+01:00</dc:date>
   </entry>
-  <dc:date>2019-06-08T12:51:09.227317+02:00</dc:date>
+  <dc:date>2019-06-10T18:20:32.570452+02:00</dc:date>
 </feed>
