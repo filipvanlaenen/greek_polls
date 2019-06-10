@@ -10,7 +10,8 @@ Last result: **5.6%** (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 5.1–8.0% | 4.8–8.4% | 4.5–8.7% | 4.1–9.4% |
+| N/A | [Poll Average](average.html) | 6.3% | 4.9–8.0% | 4.6–8.4% | 4.3–8.7% | 3.9–9.4% |
+| [3–5 June 2019](2019-06-05-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 4.8% | 4.1–5.7% | 3.9–6.0% | 3.7–6.2% | 3.4–6.7% |
 | [30 May–1 June 2019](2019-06-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.9% | 5.1–6.8% | 4.9–7.1% | 4.8–7.3% | 4.4–7.7% |
 | [20–23 May 2019](2019-05-23-RB.html) | RB | 6.7% | 5.8–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–9.0% |
 | [21–23 May 2019](2019-05-23-PalmosAnalysis.html) | Palmos Analysis | 7.3% | 6.3–8.4% | 6.1–8.7% | 5.8–9.0% | 5.4–9.6% |
@@ -99,11 +100,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 3% | 100% |  |
-| 4.5–5.5% | 20% | 97% |  |
-| 5.5–6.5% | 33% | 77% | Last Result, Median |
-| 6.5–7.5% | 26% | 44% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 5% | 99.9% |  |
+| 4.5–5.5% | 21% | 95% |  |
+| 5.5–6.5% | 31% | 74% | Last Result, Median |
+| 6.5–7.5% | 25% | 43% |  |
 | 7.5–8.5% | 14% | 18% |  |
 | 8.5–9.5% | 3% | 4% |  |
 | 9.5–10.5% | 0.3% | 0.3% |  |
@@ -118,7 +120,8 @@ Last result: **15** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 15–23 | 14–24 | 13–25 | 13–27 |
+| N/A | [Poll Average](average.html) | 18 | 14–23 | 13–24 | 13–25 | 11–27 |
+| [3–5 June 2019](2019-06-05-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 14 | 12–16 | 11–17 | 11–18 | 10–19 |
 | [30 May–1 June 2019](2019-06-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
 | [20–23 May 2019](2019-05-23-RB.html) | RB | 21 | 17–24 | 17–25 | 16–26 | 15–28 |
 | [21–23 May 2019](2019-05-23-PalmosAnalysis.html) | Palmos Analysis | 21 | 18–24 | 17–25 | 17–25 | 16–28 |
@@ -209,15 +212,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.1% | 100% |  |
-| 12 | 0.3% | 99.9% |  |
-| 13 | 2% | 99.5% |  |
-| 14 | 3% | 97% |  |
-| 15 | 11% | 94% | Last Result |
-| 16 | 10% | 83% |  |
-| 17 | 12% | 73% |  |
-| 18 | 11% | 62% |  |
-| 19 | 11% | 51% | Median |
+| 10 | 0.1% | 100% |  |
+| 11 | 0.5% | 99.8% |  |
+| 12 | 1.3% | 99.3% |  |
+| 13 | 4% | 98% |  |
+| 14 | 4% | 94% |  |
+| 15 | 12% | 90% | Last Result |
+| 16 | 9% | 78% |  |
+| 17 | 10% | 69% |  |
+| 18 | 10% | 59% | Median |
+| 19 | 10% | 48% |  |
 | 20 | 10% | 39% |  |
 | 21 | 9% | 29% |  |
 | 22 | 6% | 20% |  |
