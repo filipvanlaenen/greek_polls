@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | ΚΑ | ΚΚΕ | Ποτάμι | ΑΝΕΛ | ΕΚ | ΛΑΕ | ΠΕ | ΕΛ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 20 September 2015 | General Election | 35.5% <br> 145 | 28.1% <br> 75 | 7.0% <br> 18 | 6.3% <br> 17 | 5.6% <br> 15 | 4.1% <br> 11 | 3.7% <br> 10 | 3.4% <br> 9 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [3–5 June 2019](2019-06-05-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 27–32% <br> 77–92 | 37–43% <br> 155–172 | 4–6% <br> 10–17 | 6–9% <br> 18–27 | 4–6% <br> 11–18 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–10 |
 | [30 May–1 June 2019](2019-06-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24–29% <br> 70–83 | 34–39% <br> 147–161 | 4–7% <br> 12–19 | 7–10% <br> 21–29 | 5–7% <br> 14–21 | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 10–16 |
 | [20–23 May 2019](2019-05-23-RB.html) | RB | 22–28% <br> 68–87 | 29–35% <br> 138–160 | 5–8% <br> 16–26 | 6–9% <br> 18–29 | 5–8% <br> 16–26 | 2–4% <br> 0–12 | 1–3% <br> 0 | 2–4% <br> 0–12 | N/A <br> N/A | 1–2% <br> 0 | 1–3% <br> 0–10 |
 | [21–23 May 2019](2019-05-23-PalmosAnalysis.html) | Palmos Analysis | 25–30% <br> 72–136 | 29–35% <br> 87–149 | 7–10% <br> 20–29 | 6–9% <br> 18–27 | 6–9% <br> 17–25 | 2–3% <br> 0–9 | 0–2% <br> 0 | 0–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 3–5% <br> 0–14 |
