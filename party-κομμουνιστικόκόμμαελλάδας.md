@@ -121,7 +121,7 @@ Last result: **15** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 14–23 | 13–24 | 13–25 | 11–27 |
+| N/A | [Poll Average](average.html) | 18 | 14–23 | 13–24 | 13–25 | 11–27 |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc | 16 | 14–19 | 13–20 | 13–20 | 12–22 |
 | [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 17 | 15–20 | 15–21 | 14–21 | 13–23 |
 | [3–5 June 2019](2019-06-05-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 14 | 12–16 | 11–17 | 11–18 | 10–19 |
@@ -220,13 +220,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 1.5% | 99.3% |  |
 | 13 | 4% | 98% |  |
 | 14 | 5% | 93% |  |
-| 15 | 7% | 88% | Last Result |
+| 15 | 8% | 88% | Last Result |
 | 16 | 10% | 81% |  |
 | 17 | 10% | 71% |  |
-| 18 | 11% | 61% |  |
-| 19 | 10% | 50% | Median |
+| 18 | 11% | 61% | Median |
+| 19 | 9% | 50% |  |
 | 20 | 10% | 41% |  |
-| 21 | 10% | 30% |  |
+| 21 | 10% | 31% |  |
 | 22 | 6% | 21% |  |
 | 23 | 7% | 15% |  |
 | 24 | 4% | 8% |  |

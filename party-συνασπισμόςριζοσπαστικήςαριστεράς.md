@@ -127,9 +127,9 @@ Last result: **145** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 80 | 73–86 | 70–88 | 68–90 | 65–138 |
+| N/A | [Poll Average](average.html) | 80 | 73–87 | 70–88 | 68–90 | 65–138 |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc | 79 | 75–84 | 73–86 | 72–87 | 70–90 |
-| [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 81 | 77–85 | 75–87 | 74–88 | 72–91 |
+| [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 81 | 77–86 | 75–87 | 74–88 | 72–91 |
 | [3–5 June 2019](2019-06-05-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 85 | 80–89 | 78–91 | 77–92 | 75–94 |
 | [30 May–1 June 2019](2019-06-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 77 | 72–81 | 71–82 | 70–83 | 68–86 |
 | [20–23 May 2019](2019-05-23-RB.html) | RB | 77 | 71–85 | 69–87 | 68–87 | 65–92 |
@@ -238,7 +238,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 76 | 4% | 78% |  |
 | 77 | 6% | 73% |  |
 | 78 | 7% | 67% |  |
-| 79 | 9% | 60% |  |
+| 79 | 9% | 61% |  |
 | 80 | 7% | 51% | Median |
 | 81 | 7% | 45% |  |
 | 82 | 5% | 38% |  |
@@ -250,8 +250,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 2% | 7% |  |
 | 89 | 2% | 5% |  |
 | 90 | 1.3% | 3% |  |
-| 91 | 0.6% | 2% |  |
-| 92 | 0.4% | 1.5% |  |
+| 91 | 0.7% | 2% |  |
+| 92 | 0.3% | 1.5% |  |
 | 93 | 0.2% | 1.1% |  |
 | 94 | 0.1% | 1.0% |  |
 | 95 | 0% | 0.9% |  |
