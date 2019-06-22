@@ -127,16 +127,16 @@ Last result: **15** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 13–22 | 12–24 | 12–24 | 10–27 |
-| [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 17 | 14–21 | 14–21 | 13–21 | 10–24 |
-| [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 18 | 16–20 | 14–20 | 14–21 | 13–23 |
-| [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 13 | 12–15 | 11–16 | 10–16 | 9–19 |
-| [13–19 June 2019](2019-06-19-Alco.html) | Alco | 17 | 14–19 | 13–20 | 12–20 | 11–23 |
+| N/A | [Poll Average](average.html) | 17 | 13–22 | 12–24 | 11–24 | 10–27 |
+| [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 17 | 14–20 | 12–21 | 12–22 | 11–23 |
+| [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 18 | 16–20 | 15–20 | 14–21 | 13–23 |
+| [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 13 | 11–16 | 10–16 | 10–18 | 9–19 |
+| [13–19 June 2019](2019-06-19-Alco.html) | Alco | 17 | 14–19 | 13–20 | 12–21 | 11–23 |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc | 16 | 14–19 | 13–20 | 13–20 | 12–22 |
-| [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 16 | 14–19 | 14–20 | 13–20 | 13–21 |
-| [10–12 June 2019](2019-06-12-MRB.html) | MRB <br> Star | 18 | 14–19 | 13–19 | 12–20 | 12–23 |
-| [3–5 June 2019](2019-06-05-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 13 | 11–16 | 10–17 | 10–18 | 9–18 |
-| [30 May–1 June 2019](2019-06-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 16 | 15–18 | 14–19 | 13–20 | 12–21 |
+| [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
+| [10–12 June 2019](2019-06-12-MRB.html) | MRB <br> Star | 16 | 14–20 | 13–21 | 13–21 | 12–23 |
+| [3–5 June 2019](2019-06-05-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 13 | 11–16 | 11–16 | 10–17 | 9–18 |
+| [30 May–1 June 2019](2019-06-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 16 | 15–19 | 14–20 | 13–20 | 13–21 |
 | [20–23 May 2019](2019-05-23-RB.html) | RB | 21 | 17–24 | 17–25 | 16–26 | 15–28 |
 | [21–23 May 2019](2019-05-23-PalmosAnalysis.html) | Palmos Analysis | 21 | 18–24 | 17–25 | 17–25 | 16–28 |
 | [20–23 May 2019](2019-05-23-Marc.html) | Marc | 17 | 15–20 | 15–21 | 14–21 | 13–22 |
@@ -226,21 +226,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 0.8% | 99.8% |  |
-| 11 | 2% | 99.0% |  |
-| 12 | 4% | 98% |  |
-| 13 | 7% | 93% |  |
-| 14 | 7% | 86% |  |
-| 15 | 8% | 79% | Last Result |
-| 16 | 8% | 71% |  |
-| 17 | 10% | 63% |  |
-| 18 | 12% | 53% | Median |
-| 19 | 9% | 41% |  |
-| 20 | 12% | 32% |  |
-| 21 | 9% | 21% |  |
-| 22 | 3% | 12% |  |
-| 23 | 3% | 9% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 0.7% | 99.7% |  |
+| 11 | 2% | 99.1% |  |
+| 12 | 4% | 97% |  |
+| 13 | 6% | 93% |  |
+| 14 | 7% | 87% |  |
+| 15 | 10% | 79% | Last Result |
+| 16 | 10% | 69% |  |
+| 17 | 12% | 59% | Median |
+| 18 | 10% | 48% |  |
+| 19 | 7% | 37% |  |
+| 20 | 9% | 30% |  |
+| 21 | 8% | 21% |  |
+| 22 | 4% | 12% |  |
+| 23 | 3% | 8% |  |
 | 24 | 3% | 5% |  |
 | 25 | 1.1% | 2% |  |
 | 26 | 0.8% | 1.3% |  |

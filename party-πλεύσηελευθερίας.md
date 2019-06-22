@@ -124,9 +124,9 @@ Last result: **0** seats (General Election of 20 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–8 | 0–10 |
-| [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0 | 0 | 0 | 0–11 |
-| [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–8 | 0–8 | 0–8 | 0–9 |
-| [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 0 | 0 | 0–8 | 0–9 | 0–10 |
+| [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0 | 0 | 0 | 0–10 |
+| [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0–8 | 0–8 | 0–9 |
+| [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 0 | 0 | 0–9 | 0–9 | 0–11 |
 | [13–19 June 2019](2019-06-19-Alco.html) | Alco | 0 | 0 | 0 | 0 | 0–11 |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc |  |  |  |  |  |
 | [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
@@ -222,18 +222,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 0% | 5% |  |
-| 2 | 0% | 5% |  |
-| 3 | 0% | 5% |  |
-| 4 | 0% | 5% |  |
-| 5 | 0% | 5% |  |
-| 6 | 0% | 5% |  |
-| 7 | 0% | 5% |  |
-| 8 | 4% | 5% |  |
-| 9 | 0.7% | 1.3% |  |
-| 10 | 0.2% | 0.6% |  |
-| 11 | 0.4% | 0.4% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 0% | 3% |  |
+| 2 | 0% | 3% |  |
+| 3 | 0% | 3% |  |
+| 4 | 0% | 3% |  |
+| 5 | 0% | 3% |  |
+| 6 | 0% | 3% |  |
+| 7 | 0% | 3% |  |
+| 8 | 2% | 3% |  |
+| 9 | 0.9% | 1.5% |  |
+| 10 | 0.4% | 0.6% |  |
+| 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 
