@@ -10,9 +10,14 @@ Last result: **4.1%** (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.2–3.1% | 1.1–3.3% | 1.0–3.6% | 0.8–4.0% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.8–3.3% | 1.6–3.5% | 1.5–3.7% | 1.2–4.1% |
+| [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
+| [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
+| [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
+| [13–19 June 2019](2019-06-19-Alco.html) | Alco | 0.0% | N/A | N/A | N/A | N/A |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
+| [10–12 June 2019](2019-06-12-MRB.html) | MRB <br> Star | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 June 2019](2019-06-05-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 0.0% | N/A | N/A | N/A | N/A |
 | [30 May–1 June 2019](2019-06-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.6% | 1.2–2.2% | 1.2–2.3% | 1.1–2.5% | 0.9–2.7% |
 | [20–23 May 2019](2019-05-23-RB.html) | RB | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
@@ -103,11 +108,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 22% | 100% |  |
-| 1.5–2.5% | 48% | 78% | Median |
-| 2.5–3.5% | 28% | 30% |  |
-| 3.5–4.5% | 3% | 3% | Last Result |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 50% | 96% | Median |
+| 2.5–3.5% | 41% | 46% |  |
+| 3.5–4.5% | 4% | 4% | Last Result |
+| 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -119,9 +124,14 @@ Last result: **11** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–9 | 0–10 | 0–11 | 0–12 |
+| N/A | [Poll Average](average.html) | 0 | 0–10 | 0–11 | 0–12 | 0–13 |
+| [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
+| [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
+| [13–19 June 2019](2019-06-19-Alco.html) | Alco |  |  |  |  |  |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc |  |  |  |  |  |
 | [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [10–12 June 2019](2019-06-12-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [3–5 June 2019](2019-06-05-MetronAnalysis.html) | Metron Analysis <br> Alpha TV |  |  |  |  |  |
 | [30 May–1 June 2019](2019-06-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [20–23 May 2019](2019-05-23-RB.html) | RB | 0 | 0–11 | 0–11 | 0–12 | 0–13 |
@@ -213,20 +223,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Median |
-| 1 | 0% | 11% |  |
-| 2 | 0% | 11% |  |
-| 3 | 0% | 11% |  |
-| 4 | 0% | 11% |  |
-| 5 | 0% | 11% |  |
-| 6 | 0% | 11% |  |
-| 7 | 0% | 11% |  |
-| 8 | 0% | 11% |  |
-| 9 | 3% | 11% |  |
-| 10 | 3% | 7% |  |
-| 11 | 2% | 4% | Last Result |
-| 12 | 2% | 2% |  |
-| 13 | 0.3% | 0.4% |  |
+| 0 | 83% | 100% | Median |
+| 1 | 0% | 17% |  |
+| 2 | 0% | 17% |  |
+| 3 | 0% | 17% |  |
+| 4 | 0% | 17% |  |
+| 5 | 0% | 17% |  |
+| 6 | 0% | 17% |  |
+| 7 | 0% | 17% |  |
+| 8 | 0.1% | 17% |  |
+| 9 | 5% | 17% |  |
+| 10 | 6% | 12% |  |
+| 11 | 3% | 6% | Last Result |
+| 12 | 3% | 3% |  |
+| 13 | 0.5% | 0.7% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
