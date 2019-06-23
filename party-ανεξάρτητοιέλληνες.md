@@ -14,6 +14,7 @@ Last result: **3.7%** (General Election of 20 September 2015)
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
 | [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
+| [14–19 June 2019](2019-06-19-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0.0% | N/A | N/A | N/A | N/A |
 | [13–19 June 2019](2019-06-19-Alco.html) | Alco | 0.0% | N/A | N/A | N/A | N/A |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
@@ -127,6 +128,7 @@ Last result: **10** seats (General Election of 20 September 2015)
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
+| [14–19 June 2019](2019-06-19-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
 | [13–19 June 2019](2019-06-19-Alco.html) | Alco |  |  |  |  |  |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc |  |  |  |  |  |
 | [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |

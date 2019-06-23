@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.6–4.9% | 2.3–5.2% | 2.1–5.5% | 1.7–6.0% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.3–4.9% | 2.0–5.2% | 1.9–5.4% | 1.6–6.0% |
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.6% | 3.9–5.5% | 3.7–5.7% | 3.6–5.9% | 3.2–6.4% |
 | [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [14–19 June 2019](2019-06-19-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [13–19 June 2019](2019-06-19-Alco.html) | Alco | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.1–5.2% | 2.8–5.6% |
@@ -108,11 +109,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 9% | 99.8% |  |
-| 2.5–3.5% | 30% | 91% |  |
-| 3.5–4.5% | 42% | 61% | Median |
-| 4.5–5.5% | 17% | 19% |  |
+| 0.5–1.5% | 0.4% | 100% |  |
+| 1.5–2.5% | 18% | 99.6% |  |
+| 2.5–3.5% | 29% | 82% |  |
+| 3.5–4.5% | 35% | 53% | Median |
+| 4.5–5.5% | 16% | 18% |  |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -130,6 +131,7 @@ Last result: **0** seats (General Election of 20 September 2015)
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0–10 | 0–11 | 0–12 | 0–13 |
 | [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12 | 10–14 | 9–14 | 9–14 | 8–16 |
 | [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 11 | 10–14 | 9–15 | 8–15 | 0–17 |
+| [14–19 June 2019](2019-06-19-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0–9 | 0–10 | 0–10 | 0–11 |
 | [13–19 June 2019](2019-06-19-Alco.html) | Alco | 12 | 0–14 | 0–15 | 0–16 | 0–17 |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc |  |  |  |  |  |
 | [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 9–13 | 9–14 | 8–14 | 0–15 |
@@ -225,20 +227,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% | Last Result |
-| 1 | 0% | 81% |  |
-| 2 | 0% | 81% |  |
-| 3 | 0% | 81% |  |
-| 4 | 0% | 81% |  |
-| 5 | 0% | 81% |  |
-| 6 | 0% | 81% |  |
-| 7 | 0% | 81% |  |
-| 8 | 1.3% | 81% |  |
-| 9 | 8% | 80% |  |
-| 10 | 16% | 71% |  |
-| 11 | 16% | 55% | Median |
-| 12 | 15% | 39% |  |
-| 13 | 14% | 24% |  |
+| 0 | 31% | 100% | Last Result |
+| 1 | 0% | 69% |  |
+| 2 | 0% | 69% |  |
+| 3 | 0% | 69% |  |
+| 4 | 0% | 69% |  |
+| 5 | 0% | 69% |  |
+| 6 | 0% | 69% |  |
+| 7 | 0% | 69% |  |
+| 8 | 0.7% | 69% |  |
+| 9 | 5% | 68% |  |
+| 10 | 12% | 63% |  |
+| 11 | 14% | 51% | Median |
+| 12 | 14% | 37% |  |
+| 13 | 14% | 23% |  |
 | 14 | 6% | 9% |  |
 | 15 | 2% | 4% |  |
 | 16 | 0.9% | 1.2% |  |
