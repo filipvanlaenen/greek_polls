@@ -10,7 +10,9 @@ Last result: **4.1%** (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.8–3.3% | 1.6–3.5% | 1.5–3.7% | 1.2–4.1% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.4–3.3% | 1.2–3.5% | 1.0–3.7% | 0.8–4.1% |
+| [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
+| [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
 | [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
@@ -109,9 +111,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 50% | 96% | Median |
-| 2.5–3.5% | 41% | 46% |  |
+| 0.5–1.5% | 16% | 100% |  |
+| 1.5–2.5% | 43% | 84% | Median |
+| 2.5–3.5% | 38% | 42% |  |
 | 3.5–4.5% | 4% | 4% | Last Result |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -126,6 +128,8 @@ Last result: **11** seats (General Election of 20 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–10 | 0–11 | 0–12 | 0–13 |
+| [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 0 | 0 | 0 | 0–10 | 0–10 |
+| [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 0 | 0 | 0 | 0 | 0 |
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
@@ -225,18 +229,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Median |
-| 1 | 0% | 17% |  |
-| 2 | 0% | 17% |  |
-| 3 | 0% | 17% |  |
-| 4 | 0% | 17% |  |
-| 5 | 0% | 17% |  |
-| 6 | 0% | 17% |  |
-| 7 | 0% | 17% |  |
-| 8 | 0.1% | 17% |  |
-| 9 | 5% | 17% |  |
+| 0 | 84% | 100% | Median |
+| 1 | 0% | 16% |  |
+| 2 | 0% | 16% |  |
+| 3 | 0% | 16% |  |
+| 4 | 0% | 16% |  |
+| 5 | 0% | 16% |  |
+| 6 | 0% | 16% |  |
+| 7 | 0% | 16% |  |
+| 8 | 0.1% | 16% |  |
+| 9 | 3% | 16% |  |
 | 10 | 6% | 12% |  |
-| 11 | 3% | 6% | Last Result |
+| 11 | 3% | 7% | Last Result |
 | 12 | 3% | 3% |  |
 | 13 | 0.5% | 0.7% |  |
 | 14 | 0.1% | 0.1% |  |
