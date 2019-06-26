@@ -127,7 +127,7 @@ Last result: **9** seats (General Election of 20 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–9 | 0–10 | 0–12 |
-| [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 0 | 0 | 0 | 0 | 0–9 |
+| [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 0 | 0 | 0 | 0 | 0–8 |
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 0 | 0 | 0 | 0 | 0 |
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0 | 0 | 0 | 0 |
 | [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0–8 | 0–9 |
@@ -236,7 +236,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 7% |  |
 | 6 | 0% | 7% |  |
 | 7 | 0% | 7% |  |
-| 8 | 0.3% | 7% |  |
+| 8 | 0.4% | 7% |  |
 | 9 | 3% | 7% | Last Result |
 | 10 | 2% | 4% |  |
 | 11 | 1.0% | 2% |  |

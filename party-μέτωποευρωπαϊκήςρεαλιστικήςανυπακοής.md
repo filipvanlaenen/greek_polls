@@ -129,9 +129,9 @@ Last result: **0** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–14 | 0–15 | 0–16 |
-| [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis |  | 9–14 | 9–15 | 0–16 | 0–17 |
-| [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 10 | 0–13 | 0–13 | 0–13 | 0–15 |
+| N/A | [Poll Average](average.html) | 11 | 0–13 | 0–14 | 0–15 | 0–16 |
+| [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 12 | 10–14 | 9–14 | 9–15 | 0–16 |
+| [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0–10 | 0–11 | 0–12 | 0–13 |
 | [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12 | 10–14 | 9–14 | 9–14 | 8–16 |
 | [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 11 | 10–14 | 9–15 | 8–15 | 0–17 |
@@ -231,25 +231,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 27% | 100% | Last Result |
-| 1 | 0% | 73% |  |
-| 2 | 0% | 73% |  |
-| 3 | 0% | 73% |  |
-| 4 | 0% | 73% |  |
-| 5 | 0% | 73% |  |
-| 6 | 0% | 73% |  |
-| 7 | 0% | 73% |  |
-| 8 | 0.5% | 73% |  |
+| 0 | 26% | 100% | Last Result |
+| 1 | 0% | 74% |  |
+| 2 | 0% | 74% |  |
+| 3 | 0% | 74% |  |
+| 4 | 0% | 74% |  |
+| 5 | 0% | 74% |  |
+| 6 | 0% | 74% |  |
+| 7 | 0% | 74% |  |
+| 8 | 1.0% | 74% |  |
 | 9 | 10% | 73% |  |
-| 10 | 16% | 63% | Median |
-| 11 | 11% | 47% |  |
-| 12 | 12% | 35% |  |
-| 13 | 15% | 23% |  |
+| 10 | 12% | 63% |  |
+| 11 | 15% | 51% | Median |
+| 12 | 16% | 36% |  |
+| 13 | 11% | 20% |  |
 | 14 | 5% | 9% |  |
-| 15 | 2% | 4% |  |
-| 16 | 0.9% | 1.3% |  |
-| 17 | 0.2% | 0.4% |  |
-| 18 | 0.1% | 0.2% |  |
+| 15 | 2% | 3% |  |
+| 16 | 0.8% | 1.2% |  |
+| 17 | 0.2% | 0.3% |  |
+| 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
 
