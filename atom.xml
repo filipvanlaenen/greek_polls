@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/greek_polls</id>
   <title>All Registered Polls for the Hellenic Parliament</title>
-  <updated>2019-06-25T22:49:01.424353+02:00</updated>
+  <updated>2019-06-28T20:28:00.841799+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.8–29.8%, 68–83 seats</li><li>Νέα Δημοκρατία: 36.5–42.0%, 151–167 seats</li><li>Χρυσή Αυγή: 2.7–4.8%, 0–13 seats</li><li>Κίνημα Αλλαγής: 6.1–9.1%, 17–26 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 4.5–7.1%, 12–20 seats</li><li>Ένωση Κεντρώων: 1.0–2.4%, 0 seats</li><li>Πλεύση Ελευθερίας: 1.1–2.6%, 0 seats</li><li>Ελληνική Λύση: 2.7–4.8%, 0–14 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.9–5.1%, 0–14 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/greek_polls/2019-06-23-Marc.html</id>
+    <link href="https://filipvanlaenen.github.io/greek_polls/2019-06-23-Marc.html"/>
+    <title>Opinion Poll by Marc, 19–23 June 2019</title>
+    <updated>2019-06-28T20:28:00.841799+02:00</updated>
+    <dc:date>2019-06-28T20:28:00.841799+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.6–31.2%, 71–86 seats</li><li>Νέα Δημοκρατία: 33.1–39.1%, 141–156 seats</li><li>Χρυσή Αυγή: 3.9–6.7%, 11–18 seats</li><li>Κίνημα Αλλαγής: 5.2–8.2%, 14–22 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 3.9–6.7%, 11–18 seats</li><li>Το Ποτάμι: 1.5–3.4%, 0–9 seats</li><li>Ένωση Κεντρώων: 1.1–2.8%, 0 seats</li><li>Πλεύση Ελευθερίας: 1.4–3.2%, 0–8 seats</li><li>Ελληνική Λύση: 3.4–6.0%, 9–16 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.2–5.7%, 9–15 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/greek_polls/2019-06-21-PalmosAnalysis.html</id>
@@ -543,5 +551,5 @@
     <updated>2019-02-10T21:05:14.806362+01:00</updated>
     <dc:date>2019-02-10T21:05:14.806362+01:00</dc:date>
   </entry>
-  <dc:date>2019-06-25T22:49:01.424353+02:00</dc:date>
+  <dc:date>2019-06-28T20:28:00.841799+02:00</dc:date>
 </feed>
