@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.6–4.7% | 2.4–5.0% | 2.2–5.3% | 1.9–5.9% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.6–4.6% | 2.4–4.9% | 2.2–5.2% | 1.9–5.8% |
+| [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.8% | 3.2–4.5% | 3.1–4.7% | 2.9–4.9% | 2.7–5.2% |
 | [19–23 June 2019](2019-06-23-Marc.html) | Marc | 3.6% | 3.0–4.4% | 2.9–4.6% | 2.7–4.8% | 2.4–5.2% |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 4.6% | 3.8–5.5% | 3.6–5.8% | 3.4–6.0% | 3.1–6.5% |
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
@@ -114,11 +115,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 9% | 100% |  |
-| 2.5–3.5% | 43% | 91% |  |
-| 3.5–4.5% | 36% | 48% | Median |
-| 4.5–5.5% | 11% | 12% |  |
-| 5.5–6.5% | 1.2% | 1.3% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 44% | 91% | Median |
+| 3.5–4.5% | 36% | 47% |  |
+| 4.5–5.5% | 9% | 10% |  |
+| 5.5–6.5% | 1.1% | 1.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -131,6 +132,7 @@ Last result: **0** seats (General Election of 20 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 0–14 | 0–15 | 0–15 | 0–17 |
+| [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12 | 11–15 | 10–15 | 8–15 | 8–15 |
 | [19–23 June 2019](2019-06-23-Marc.html) | Marc | 10 | 0–12 | 0–13 | 0–14 | 0–14 |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 13 | 11–15 | 10–16 | 9–16 | 9–18 |
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 9 | 0–10 | 0–11 | 0–11 | 0–12 |
@@ -242,13 +244,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 74% |  |
 | 7 | 0% | 74% |  |
 | 8 | 2% | 74% |  |
-| 9 | 13% | 72% |  |
-| 10 | 16% | 58% | Median |
-| 11 | 13% | 43% |  |
-| 12 | 11% | 29% |  |
+| 9 | 11% | 72% |  |
+| 10 | 13% | 61% | Median |
+| 11 | 15% | 48% |  |
+| 12 | 15% | 33% |  |
 | 13 | 6% | 18% |  |
-| 14 | 6% | 12% |  |
-| 15 | 4% | 6% |  |
+| 14 | 5% | 13% |  |
+| 15 | 5% | 7% |  |
 | 16 | 0.9% | 2% |  |
 | 17 | 0.5% | 0.8% |  |
 | 18 | 0.2% | 0.3% |  |
