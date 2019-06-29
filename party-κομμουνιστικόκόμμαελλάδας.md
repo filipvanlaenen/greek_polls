@@ -131,7 +131,7 @@ Last result: **15** seats (General Election of 20 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 13–19 | 12–20 | 11–21 | 10–22 |
-| [19–23 June 2019](2019-06-23-Marc.html) | Marc | 15 | 14–18 | 13–19 | 12–19 | 11–22 |
+| [19–23 June 2019](2019-06-23-Marc.html) | Marc | 16 | 13–19 | 13–19 | 12–20 | 12–22 |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 14 | 12–17 | 11–17 | 11–18 | 10–19 |
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 15 | 13–17 | 12–19 | 11–19 | 10–20 |
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 17 | 14–20 | 12–21 | 12–22 | 11–23 |
@@ -239,15 +239,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 5% | 96% |  |
 | 13 | 9% | 91% |  |
 | 14 | 13% | 82% |  |
-| 15 | 18% | 69% | Last Result |
-| 16 | 13% | 51% | Median |
+| 15 | 17% | 68% | Last Result |
+| 16 | 14% | 52% | Median |
 | 17 | 15% | 37% |  |
-| 18 | 10% | 22% |  |
+| 18 | 10% | 23% |  |
 | 19 | 6% | 12% |  |
-| 20 | 3% | 6% |  |
+| 20 | 4% | 6% |  |
 | 21 | 1.3% | 3% |  |
 | 22 | 0.9% | 1.2% |  |
-| 23 | 0.3% | 0.3% |  |
+| 23 | 0.3% | 0.4% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
