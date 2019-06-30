@@ -10,9 +10,9 @@ Last result: **5.6%** (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 4.3–6.4% | 4.0–6.7% | 3.8–7.0% | 3.4–7.6% |
-| [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.5% | N/A | N/A | N/A | N/A |
-| [24–26 June 2019](2019-06-26-Interview.html) | Interview | 5.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 5.3% | 4.3–6.4% | 4.1–6.7% | 3.9–7.0% | 3.5–7.6% |
+| [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.5% | 4.8–6.4% | 4.6–6.6% | 4.5–6.8% | 4.2–7.2% |
+| [24–26 June 2019](2019-06-26-Interview.html) | Interview | 5.2% | 4.4–6.2% | 4.1–6.5% | 4.0–6.7% | 3.6–7.2% |
 | [19–23 June 2019](2019-06-23-Marc.html) | Marc | 5.7% | 4.9–6.6% | 4.7–6.9% | 4.5–7.1% | 4.2–7.6% |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 5.1% | 4.4–6.2% | 4.1–6.4% | 3.9–6.7% | 3.6–7.2% |
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
@@ -114,12 +114,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.9% | 100% |  |
-| 3.5–4.5% | 17% | 99.1% |  |
-| 4.5–5.5% | 44% | 82% | Median |
-| 5.5–6.5% | 30% | 38% | Last Result |
-| 6.5–7.5% | 7% | 7% |  |
-| 7.5–8.5% | 0.6% | 0.6% |  |
+| 2.5–3.5% | 0.7% | 100% |  |
+| 3.5–4.5% | 16% | 99.3% |  |
+| 4.5–5.5% | 45% | 84% | Median |
+| 5.5–6.5% | 32% | 39% | Last Result |
+| 6.5–7.5% | 6% | 7% |  |
+| 7.5–8.5% | 0.5% | 0.5% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -132,8 +132,8 @@ Last result: **15** seats (General Election of 20 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 12–18 | 12–19 | 11–20 | 10–22 |
-| [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [24–26 June 2019](2019-06-26-Interview.html) | Interview |  |  |  |  |  |
+| [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
+| [24–26 June 2019](2019-06-26-Interview.html) | Interview | 14 | 12–17 | 12–18 | 11–18 | 10–20 |
 | [19–23 June 2019](2019-06-23-Marc.html) | Marc | 16 | 13–19 | 13–19 | 12–20 | 12–22 |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 14 | 12–17 | 11–17 | 11–18 | 10–19 |
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 15 | 13–17 | 12–19 | 11–19 | 10–20 |
@@ -236,23 +236,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0% | 100% |  |
-| 9 | 0.3% | 99.9% |  |
-| 10 | 1.1% | 99.7% |  |
-| 11 | 3% | 98.6% |  |
-| 12 | 6% | 96% |  |
-| 13 | 12% | 89% |  |
-| 14 | 16% | 78% |  |
-| 15 | 19% | 62% | Last Result, Median |
-| 16 | 14% | 43% |  |
-| 17 | 12% | 29% |  |
-| 18 | 7% | 17% |  |
-| 19 | 5% | 9% |  |
-| 20 | 2% | 4% |  |
-| 21 | 1.0% | 2% |  |
-| 22 | 0.5% | 0.7% |  |
-| 23 | 0.1% | 0.2% |  |
-| 24 | 0% | 0.1% |  |
-| 25 | 0% | 0% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 1.0% | 99.7% |  |
+| 11 | 3% | 98.7% |  |
+| 12 | 7% | 96% |  |
+| 13 | 13% | 89% |  |
+| 14 | 16% | 76% |  |
+| 15 | 18% | 60% | Last Result, Median |
+| 16 | 15% | 42% |  |
+| 17 | 12% | 27% |  |
+| 18 | 7% | 15% |  |
+| 19 | 4% | 8% |  |
+| 20 | 2% | 3% |  |
+| 21 | 0.8% | 1.4% |  |
+| 22 | 0.4% | 0.6% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 
