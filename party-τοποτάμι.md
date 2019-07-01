@@ -12,6 +12,7 @@ Last result: **4.1%** (General Election of 20 September 2015)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.9% | 1.2–2.8% | 1.0–3.0% | 0.9–3.2% | 0.8–3.6% |
 | [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
+| [24–26 June 2019](2019-06-26-MRB.html) | MRB | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 June 2019](2019-06-26-Interview.html) | Interview | 0.0% | N/A | N/A | N/A | N/A |
 | [19–23 June 2019](2019-06-23-Marc.html) | Marc | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
@@ -131,6 +132,7 @@ Last result: **11** seats (General Election of 20 September 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–8 | 0–10 |
 | [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [24–26 June 2019](2019-06-26-MRB.html) | MRB |  |  |  |  |  |
 | [24–26 June 2019](2019-06-26-Interview.html) | Interview |  |  |  |  |  |
 | [19–23 June 2019](2019-06-23-Marc.html) | Marc |  |  |  |  |  |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 0 | 0 | 0–8 | 0–9 | 0–10 |
