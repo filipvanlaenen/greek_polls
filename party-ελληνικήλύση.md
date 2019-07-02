@@ -133,9 +133,9 @@ Last result: **0** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 0–14 | 0–15 | 0–15 | 0–17 |
+| N/A | [Poll Average](average.html) | 10 | 0–14 | 0–15 | 0–15 | 0–17 |
 | [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 9–13 | 8–14 | 0–14 | 0–14 |
-| [24–26 June 2019](2019-06-26-MRB.html) | MRB | 14 | 11–14 | 0–14 | 0–14 | 0–15 |
+| [24–26 June 2019](2019-06-26-MRB.html) | MRB | 10 | 0–12 | 0–13 | 0–14 | 0–15 |
 | [24–26 June 2019](2019-06-26-Interview.html) | Interview | 12 | 10–15 | 9–16 | 9–17 | 0–18 |
 | [19–23 June 2019](2019-06-23-Marc.html) | Marc | 10 | 0–12 | 0–13 | 0–14 | 0–14 |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 13 | 11–15 | 10–16 | 9–16 | 9–18 |
@@ -239,21 +239,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 21% | 100% | Last Result |
-| 1 | 0% | 79% |  |
-| 2 | 0% | 79% |  |
-| 3 | 0% | 79% |  |
-| 4 | 0% | 79% |  |
-| 5 | 0% | 79% |  |
-| 6 | 0% | 79% |  |
-| 7 | 0% | 79% |  |
-| 8 | 2% | 79% |  |
-| 9 | 10% | 77% |  |
-| 10 | 15% | 67% |  |
-| 11 | 16% | 52% | Median |
-| 12 | 11% | 36% |  |
-| 13 | 6% | 25% |  |
-| 14 | 13% | 19% |  |
+| 0 | 22% | 100% | Last Result |
+| 1 | 0% | 78% |  |
+| 2 | 0% | 78% |  |
+| 3 | 0% | 78% |  |
+| 4 | 0% | 78% |  |
+| 5 | 0% | 78% |  |
+| 6 | 0% | 78% |  |
+| 7 | 0% | 78% |  |
+| 8 | 2% | 78% |  |
+| 9 | 12% | 76% |  |
+| 10 | 16% | 64% | Median |
+| 11 | 17% | 47% |  |
+| 12 | 14% | 31% |  |
+| 13 | 6% | 17% |  |
+| 14 | 5% | 11% |  |
 | 15 | 4% | 6% |  |
 | 16 | 0.8% | 2% |  |
 | 17 | 0.5% | 0.7% |  |

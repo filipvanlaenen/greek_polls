@@ -132,9 +132,9 @@ Last result: **15** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 12–18 | 12–19 | 11–19 | 9–21 |
+| N/A | [Poll Average](average.html) | 15 | 12–18 | 12–19 | 11–19 | 10–21 |
 | [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
-| [24–26 June 2019](2019-06-26-MRB.html) | MRB | 12 | 12–16 | 12–16 | 12–17 | 9–18 |
+| [24–26 June 2019](2019-06-26-MRB.html) | MRB | 14 | 12–16 | 11–17 | 11–18 | 10–20 |
 | [24–26 June 2019](2019-06-26-Interview.html) | Interview | 14 | 12–17 | 12–18 | 11–18 | 10–20 |
 | [19–23 June 2019](2019-06-23-Marc.html) | Marc | 16 | 13–19 | 13–19 | 12–20 | 12–22 |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 14 | 12–17 | 11–17 | 11–18 | 10–19 |
@@ -238,20 +238,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.5% | 100% |  |
-| 10 | 1.0% | 99.5% |  |
-| 11 | 3% | 98.5% |  |
-| 12 | 15% | 96% |  |
-| 13 | 13% | 81% |  |
-| 14 | 16% | 68% |  |
-| 15 | 15% | 53% | Last Result, Median |
-| 16 | 16% | 37% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 1.2% | 99.6% |  |
+| 11 | 3% | 98% |  |
+| 12 | 8% | 95% |  |
+| 13 | 15% | 87% |  |
+| 14 | 17% | 72% |  |
+| 15 | 17% | 55% | Last Result, Median |
+| 16 | 16% | 38% |  |
 | 17 | 11% | 22% |  |
 | 18 | 6% | 11% |  |
 | 19 | 3% | 5% |  |
-| 20 | 1.1% | 2% |  |
+| 20 | 1.2% | 2% |  |
 | 21 | 0.5% | 0.8% |  |
-| 22 | 0.3% | 0.3% |  |
+| 22 | 0.2% | 0.3% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
