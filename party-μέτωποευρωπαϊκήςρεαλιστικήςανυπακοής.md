@@ -153,7 +153,7 @@ Last result: **0** seats (General Election of 20 September 2015)
 | [1–3 July 2019](2019-07-03-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0–9 | 0–10 | 0–10 | 0–12 |
 | [28 June–2 July 2019](2019-07-02-Alco.html) | Alco <br> Open TV | 9 | 0–10 | 0–11 | 0–12 | 0–13 |
 | [28 June–1 July 2019](2019-07-01-Prorata.html) | Prorata | 10 | 0–12 | 0–13 | 0–13 | 0–14 |
-| [24–27 June 2019](2019-06-27-RASS.html) | RASS <br> in.gr | 8 | 0–10 | 0–11 | 0–12 | 0–13 |
+| [24–27 June 2019](2019-06-27-RASS.html) | RASS <br> in.gr | 8 | 0–11 | 0–11 | 0–12 | 0–13 |
 | [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 9–13 | 8–13 | 0–14 | 0–14 |
 | [24–26 June 2019](2019-06-26-MRB.html) | MRB <br> Τα Νέα | 9 | 0–12 | 0–12 | 0–13 | 0–14 |
 | [24–26 June 2019](2019-06-26-Interview.html) | Interview <br> Politik | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
