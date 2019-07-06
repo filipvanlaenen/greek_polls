@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sat, 06 Jul 2019 14:25:12 +0200</pubDate>
+    <pubDate>Sat, 06 Jul 2019 14:34:48 +0200</pubDate>
     <item>
       <title>Opinion Poll by Κάπα Research for ΕΘΝΟΣ, 1–5 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-07-05-ΚάπαResearch.html#seats</link>
@@ -310,14 +310,34 @@
       <dc:date>2019-07-06T14:24:40.223748+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by RASS for in.gr, 24–27 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-06-27-RASS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 69–87 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 146–164 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0–13 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 21–31 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–23 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0–14 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-06-27-RASS-seats.png"
+        length="204345"
+        type="image/png"/>
+      <pubDate>Sat, 06 Jul 2019 14:34:48 +0200</pubDate>
+      <dc:date>2019-07-06T14:34:48.248668+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by RASS for in.gr, 24–27 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-06-27-RASS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-06-27-RASS-coalitions-seats.png"
+        length="225872"
+        type="image/png"/>
+      <pubDate>Sat, 06 Jul 2019 14:34:48 +0200</pubDate>
+      <dc:date>2019-07-06T14:34:48.248668+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by RASS for in.gr, 24–27 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-06-27-RASS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 26.0–31.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 35.8–41.9%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 7.8–11.5%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.3–8.4%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.7–5.1%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.2–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-06-27-RASS.png"
         length="241428"
         type="image/png"/>
-      <pubDate>Sat, 06 Jul 2019 14:25:12 +0200</pubDate>
-      <dc:date>2019-07-06T14:25:12.184639+02:00</dc:date>
+      <pubDate>Sat, 06 Jul 2019 14:34:48 +0200</pubDate>
+      <dc:date>2019-07-06T14:34:48.248668+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 24–26 June 2019 – Seat Projections for the Parties</title>
@@ -2669,6 +2689,6 @@
       <pubDate>Sun, 10 Feb 2019 21:05:14 +0100</pubDate>
       <dc:date>2019-02-10T21:05:14.806362+01:00</dc:date>
     </item>
-    <dc:date>2019-07-06T14:25:12.184639+02:00</dc:date>
+    <dc:date>2019-07-06T14:34:48.248668+02:00</dc:date>
   </channel>
 </rss>
