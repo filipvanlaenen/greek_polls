@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sat, 06 Jul 2019 14:11:27 +0200</pubDate>
+    <pubDate>Sat, 06 Jul 2019 14:25:12 +0200</pubDate>
     <item>
       <title>Opinion Poll by Κάπα Research for ΕΘΝΟΣ, 1–5 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-07-05-ΚάπαResearch.html#seats</link>
@@ -286,8 +286,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-07-01-Prorata-seats.png"
         length="181638"
         type="image/png"/>
-      <pubDate>Sat, 06 Jul 2019 14:11:27 +0200</pubDate>
-      <dc:date>2019-07-06T14:11:27.62147+02:00</dc:date>
+      <pubDate>Sat, 06 Jul 2019 14:24:40 +0200</pubDate>
+      <dc:date>2019-07-06T14:24:40.223748+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata, 28 June–1 July 2019 – Seat Projections for a Selection of Coalitions</title>
@@ -296,8 +296,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-07-01-Prorata-coalitions-seats.png"
         length="229146"
         type="image/png"/>
-      <pubDate>Sat, 06 Jul 2019 14:11:27 +0200</pubDate>
-      <dc:date>2019-07-06T14:11:27.62147+02:00</dc:date>
+      <pubDate>Sat, 06 Jul 2019 14:24:40 +0200</pubDate>
+      <dc:date>2019-07-06T14:24:40.223748+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata, 28 June–1 July 2019 – Voting Intentions</title>
@@ -306,8 +306,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-07-01-Prorata.png"
         length="216910"
         type="image/png"/>
-      <pubDate>Sat, 06 Jul 2019 14:11:27 +0200</pubDate>
-      <dc:date>2019-07-06T14:11:27.62147+02:00</dc:date>
+      <pubDate>Sat, 06 Jul 2019 14:24:40 +0200</pubDate>
+      <dc:date>2019-07-06T14:24:40.223748+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by RASS for in.gr, 24–27 June 2019 – Voting Intentions</title>
@@ -316,8 +316,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-06-27-RASS.png"
         length="241428"
         type="image/png"/>
-      <pubDate>Sat, 06 Jul 2019 12:12:47 +0200</pubDate>
-      <dc:date>2019-07-06T12:12:47.916629+02:00</dc:date>
+      <pubDate>Sat, 06 Jul 2019 14:25:12 +0200</pubDate>
+      <dc:date>2019-07-06T14:25:12.184639+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 24–26 June 2019 – Seat Projections for the Parties</title>
@@ -438,36 +438,6 @@
         type="image/png"/>
       <pubDate>Fri, 28 Jun 2019 20:28:00 +0200</pubDate>
       <dc:date>2019-06-28T20:28:00.841799+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Palmos Analysis, 19–21 June 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2019-06-21-PalmosAnalysis.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 71–86 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 141–156 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 11–18 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 14–22 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 11–18 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 0–9 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 0 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0–8 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–16 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 9–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-06-21-PalmosAnalysis-seats.png"
-        length="204838"
-        type="image/png"/>
-      <pubDate>Tue, 25 Jun 2019 20:56:45 +0200</pubDate>
-      <dc:date>2019-06-25T20:56:45.770912+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Palmos Analysis, 19–21 June 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2019-06-21-PalmosAnalysis.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-06-21-PalmosAnalysis-coalitions-seats.png"
-        length="217023"
-        type="image/png"/>
-      <pubDate>Tue, 25 Jun 2019 20:56:45 +0200</pubDate>
-      <dc:date>2019-06-25T20:56:45.770912+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Palmos Analysis, 19–21 June 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2019-06-21-PalmosAnalysis.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.6–31.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 33.1–39.1%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 3.9–6.7%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.2–8.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 3.9–6.7%&lt;/li&gt;&lt;li&gt;Το Ποτάμι: 1.5–3.4%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 1.1–2.8%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 1.4–3.2%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.4–6.0%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.2–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-06-21-PalmosAnalysis.png"
-        length="273929"
-        type="image/png"/>
-      <pubDate>Tue, 25 Jun 2019 20:56:45 +0200</pubDate>
-      <dc:date>2019-06-25T20:56:45.770912+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata for Newpost, 18–20 June 2019 – Seat Projections for the Parties</title>
@@ -2699,6 +2669,6 @@
       <pubDate>Sun, 10 Feb 2019 21:05:14 +0100</pubDate>
       <dc:date>2019-02-10T21:05:14.806362+01:00</dc:date>
     </item>
-    <dc:date>2019-07-06T14:11:27.62147+02:00</dc:date>
+    <dc:date>2019-07-06T14:25:12.184639+02:00</dc:date>
   </channel>
 </rss>
