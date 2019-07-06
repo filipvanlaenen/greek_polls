@@ -143,17 +143,17 @@ Last result: **0** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–14 | 0–15 | 0–17 |
+| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–14 | 0–15 | 0–16 |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 9 | 0–10 | 0–11 | 0–11 | 0–13 |
-| [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 9 | 0–11 | 0–12 | 0–12 | 0–14 |
-| [2–4 July 2019](2019-07-04-Marc.html) | Marc <br> ANT1 | 11 | 10–13 | 9–13 | 8–14 | 0–15 |
-| [1–4 July 2019](2019-07-04-MRB.html) | MRB <br> Star | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
-| [2–3 July 2019](2019-07-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 0–11 | 0–11 | 0–12 | 0–13 |
-| [18 June–3 July 2019](2019-07-03-PublicIssue.html) | Public Issue | 8 | 0–11 | 0–12 | 0–12 | 0–13 |
-| [3 July 2019](2019-07-03-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
-| [1–3 July 2019](2019-07-03-Interview.html) | Interview <br> Βεργίνα TV | 12 | 10–15 | 9–16 | 0–17 | 0–18 |
-| [28 June–2 July 2019](2019-07-02-Alco.html) | Alco <br> Open TV | 10 | 9–13 | 0–14 | 0–15 | 0–15 |
-| [28 June–1 July 2019](2019-07-01-Prorata.html) | Prorata | 0 | 0–11 | 0–11 | 0–11 | 0–14 |
+| [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
+| [2–4 July 2019](2019-07-04-Marc.html) | Marc <br> ANT1 | 11 | 9–13 | 9–14 | 0–14 | 0–15 |
+| [1–4 July 2019](2019-07-04-MRB.html) | MRB <br> Star | 9 | 0–11 | 0–12 | 0–12 | 0–14 |
+| [2–3 July 2019](2019-07-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
+| [18 June–3 July 2019](2019-07-03-PublicIssue.html) | Public Issue | 8 | 0–11 | 0–11 | 0–12 | 0–13 |
+| [3 July 2019](2019-07-03-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
+| [1–3 July 2019](2019-07-03-Interview.html) | Interview <br> Βεργίνα TV | 12 | 10–15 | 9–16 | 0–16 | 0–18 |
+| [28 June–2 July 2019](2019-07-02-Alco.html) | Alco <br> Open TV | 10 | 8–12 | 0–13 | 0–14 | 0–15 |
+| [28 June–1 July 2019](2019-07-01-Prorata.html) | Prorata | 0 | 0–11 | 0–11 | 0–12 | 0–14 |
 | [24–27 June 2019](2019-06-27-RASS.html) | RASS <br> in.gr | 10 | 0–12 | 0–13 | 0–14 | 0–15 |
 | [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 9–13 | 8–14 | 0–14 | 0–14 |
 | [24–26 June 2019](2019-06-26-MRB.html) | MRB <br> Τα Νέα | 10 | 0–12 | 0–13 | 0–14 | 0–15 |
@@ -268,18 +268,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 78% |  |
 | 6 | 0% | 78% |  |
 | 7 | 0% | 78% |  |
-| 8 | 3% | 78% |  |
-| 9 | 14% | 75% |  |
-| 10 | 21% | 61% | Median |
-| 11 | 19% | 40% |  |
-| 12 | 9% | 21% |  |
-| 13 | 4% | 11% |  |
-| 14 | 3% | 7% |  |
+| 8 | 4% | 78% |  |
+| 9 | 17% | 74% |  |
+| 10 | 18% | 57% | Median |
+| 11 | 16% | 38% |  |
+| 12 | 10% | 23% |  |
+| 13 | 5% | 13% |  |
+| 14 | 4% | 8% |  |
 | 15 | 3% | 4% |  |
-| 16 | 0.9% | 1.4% |  |
-| 17 | 0.4% | 0.5% |  |
-| 18 | 0.1% | 0.2% |  |
-| 19 | 0% | 0.1% |  |
-| 20 | 0% | 0% |  |
+| 16 | 0.8% | 1.1% |  |
+| 17 | 0.2% | 0.4% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 

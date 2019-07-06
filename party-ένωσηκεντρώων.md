@@ -141,15 +141,15 @@ Last result: **9** seats (General Election of 20 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–9 | 0–9 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–9 |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 0 | 0 | 0 | 0 | 0 |
-| [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 0 | 0 | 0 | 0–9 | 0–10 |
+| [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 0 | 0 | 0 | 0–8 | 0–10 |
 | [2–4 July 2019](2019-07-04-Marc.html) | Marc <br> ANT1 | 0 | 0 | 0 | 0 | 0 |
-| [1–4 July 2019](2019-07-04-MRB.html) | MRB <br> Star | 0 | 0–9 | 0–9 | 0–9 | 0–10 |
+| [1–4 July 2019](2019-07-04-MRB.html) | MRB <br> Star | 0 | 0–8 | 0–9 | 0–9 | 0–10 |
 | [2–3 July 2019](2019-07-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
-| [18 June–3 July 2019](2019-07-03-PublicIssue.html) | Public Issue | 0 | 0 | 0–8 | 0–9 | 0–9 |
+| [18 June–3 July 2019](2019-07-03-PublicIssue.html) | Public Issue | 0 | 0 | 0 | 0–8 | 0–9 |
 | [3 July 2019](2019-07-03-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 0 | 0 | 0 | 0–8 | 0–9 |
-| [1–3 July 2019](2019-07-03-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0 | 0 | 0 | 0 |
+| [1–3 July 2019](2019-07-03-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0 | 0 | 0 | 0–9 |
 | [28 June–2 July 2019](2019-07-02-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0 |
 | [28 June–1 July 2019](2019-07-01-Prorata.html) | Prorata |  |  |  |  |  |
 | [24–27 June 2019](2019-06-27-RASS.html) | RASS <br> in.gr | 0 | 0 | 0 | 0 | 0 |
@@ -258,17 +258,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Median |
-| 1 | 0% | 4% |  |
-| 2 | 0% | 4% |  |
-| 3 | 0% | 4% |  |
-| 4 | 0% | 4% |  |
-| 5 | 0% | 4% |  |
-| 6 | 0% | 4% |  |
-| 7 | 0% | 4% |  |
-| 8 | 0.9% | 4% |  |
-| 9 | 3% | 3% | Last Result |
-| 10 | 0.1% | 0.2% |  |
+| 0 | 98% | 100% | Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 0% | 2% |  |
+| 4 | 0% | 2% |  |
+| 5 | 0% | 2% |  |
+| 6 | 0% | 2% |  |
+| 7 | 0% | 2% |  |
+| 8 | 1.0% | 2% |  |
+| 9 | 1.2% | 1.4% | Last Result |
+| 10 | 0.2% | 0.3% |  |
 | 11 | 0% | 0.1% |  |
 | 12 | 0% | 0% |  |
 

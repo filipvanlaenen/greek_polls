@@ -144,7 +144,7 @@ Last result: **0** seats (General Election of 20 September 2015)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–9 |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 0 | 0 | 0 | 0 | 0 |
 | [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 0 | 0 | 0 | 0 | 0–9 |
-| [2–4 July 2019](2019-07-04-Marc.html) | Marc <br> ANT1 | 0 | 0 | 0 | 0 | 0 |
+| [2–4 July 2019](2019-07-04-Marc.html) | Marc <br> ANT1 | 0 | 0 | 0 | 0 | 0–8 |
 | [1–4 July 2019](2019-07-04-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0 | 0 |
 | [2–3 July 2019](2019-07-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [18 June–3 July 2019](2019-07-03-PublicIssue.html) | Public Issue |  |  |  |  |  |
