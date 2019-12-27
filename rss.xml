@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the Hellenic Parliament</title>
+    <link>https://filipvanlaenen.github.io/greek_polls</link>
+    <description>All Registered Polls for the Hellenic Parliament</description>
+    <pubDate>Fri, 27 Dec 2019 18:10:53 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 16–18 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-12-18-PulseRC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.6–30.7%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 39.7–45.3%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.8–3.6%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.1–9.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.8–7.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.9–6.4%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.6–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-12-18-PulseRC.png"
+        length="218412"
+        type="image/png"/>
+      <pubDate>Fri, 27 Dec 2019 18:10:53 +0100</pubDate>
+      <dc:date>2019-12-27T18:10:53.495967+01:00</dc:date>
+    </item>
+    <dc:date>2019-12-27T18:10:53.495967+01:00</dc:date>
+  </channel>
+</rss>
