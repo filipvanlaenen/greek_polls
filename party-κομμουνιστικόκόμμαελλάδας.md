@@ -1,0 +1,88 @@
+# Κομμουνιστικό Κόμμα Ελλάδας
+
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
+
+## Voting Intentions
+
+Last result: **5.3%** (General Election of 7 July 2019)
+
+### Confidence Intervals
+
+| Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 6.0% | 5.2–7.0% | 5.0–7.2% | 4.8–7.5% | 4.4–8.0% |
+| [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.0% | 5.2–7.0% | 5.0–7.2% | 4.8–7.5% | 4.4–8.0% |
+| [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 6.2% | N/A | N/A | N/A | N/A |
+| [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 6.2% | N/A | N/A | N/A | N/A |
+| [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.3% | N/A | N/A | N/A | N/A |
+| [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 5.8% | N/A | N/A | N/A | N/A |
+| [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Proto Thema | 6.0% | N/A | N/A | N/A | N/A |
+| [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.5% | N/A | N/A | N/A | N/A |
+| [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.0% | N/A | N/A | N/A | N/A |
+| [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 6.8% | N/A | N/A | N/A | N/A |
+| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 5.9% | N/A | N/A | N/A | N/A |
+| [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 5.8% | N/A | N/A | N/A | N/A |
+| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 5.1% | N/A | N/A | N/A | N/A |
+
+### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Κομμουνιστικό Κόμμα Ελλάδας.
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.9% | 100% |  |
+| 4.5–5.5% | 22% | 99.1% | Last Result |
+| 5.5–6.5% | 54% | 77% | Median |
+| 6.5–7.5% | 21% | 23% |  |
+| 7.5–8.5% | 2% | 2% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
+
+
+## Seats
+
+Last result: **15** seats (General Election of 7 July 2019)
+
+### Confidence Intervals
+
+| Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 16 | 14–19 | 14–19 | 13–20 | 12–21 |
+| [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 16 | 14–19 | 14–19 | 13–20 | 12–21 |
+| [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star |  |  |  |  |  |
+| [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
+| [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
+| [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Proto Thema |  |  |  |  |  |
+| [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
+| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star |  |  |  |  |  |
+| [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema |  |  |  |  |  |
+| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
+
+### Probability Mass Function
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-κομμουνιστικόκόμμαελλάδας.png "Seats Probability Mass Function")
+
+The following table shows the probability mass function per seat for the [poll average](average.html) for Κομμουνιστικό Κόμμα Ελλάδας.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 11 | 0.2% | 100% |  |
+| 12 | 1.3% | 99.7% |  |
+| 13 | 3% | 98% |  |
+| 14 | 13% | 95% |  |
+| 15 | 14% | 82% | Last Result |
+| 16 | 29% | 68% | Median |
+| 17 | 17% | 40% |  |
+| 18 | 10% | 22% |  |
+| 19 | 8% | 13% |  |
+| 20 | 2% | 5% |  |
+| 21 | 2% | 2% |  |
+| 22 | 0.2% | 0.4% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
+
+
