@@ -49,13 +49,13 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 9–15 | 8–16 | 0–17 | 0–18 |
-| [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 14 | 11–16 | 11–16 | 11–17 | 10–18 |
+| N/A | [Poll Average](average.html) | 13 | 9–15 | 0–16 | 0–17 | 0–18 |
+| [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 14 | 11–16 | 11–17 | 10–17 | 10–19 |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 13 | 11–15 | 11–15 | 11–16 | 10–16 |
-| [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 14 | 12–16 | 11–17 | 11–17 | 10–19 |
+| [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 14 | 12–16 | 11–17 | 11–18 | 10–19 |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 13 | 12–16 | 11–16 | 10–17 | 10–18 |
-| [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Proto Thema | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
+| [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 14 | 12–16 | 11–16 | 11–17 | 10–18 |
+| [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Proto Thema | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
 | [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
@@ -71,26 +71,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 0% | 96% |  |
-| 2 | 0% | 96% |  |
-| 3 | 0% | 96% |  |
-| 4 | 0% | 96% |  |
-| 5 | 0% | 96% |  |
-| 6 | 0% | 96% |  |
-| 7 | 0% | 96% |  |
-| 8 | 2% | 96% |  |
-| 9 | 4% | 94% |  |
-| 10 | 4% | 90% | Last Result |
-| 11 | 11% | 86% |  |
-| 12 | 16% | 74% |  |
-| 13 | 21% | 58% | Median |
-| 14 | 18% | 37% |  |
-| 15 | 11% | 19% |  |
-| 16 | 5% | 9% |  |
-| 17 | 3% | 4% |  |
-| 18 | 0.7% | 1.0% |  |
-| 19 | 0.2% | 0.3% |  |
+| 0 | 6% | 100% |  |
+| 1 | 0% | 94% |  |
+| 2 | 0% | 94% |  |
+| 3 | 0% | 94% |  |
+| 4 | 0% | 94% |  |
+| 5 | 0% | 94% |  |
+| 6 | 0% | 94% |  |
+| 7 | 0% | 94% |  |
+| 8 | 2% | 94% |  |
+| 9 | 4% | 92% |  |
+| 10 | 6% | 89% | Last Result |
+| 11 | 10% | 83% |  |
+| 12 | 15% | 73% |  |
+| 13 | 20% | 58% | Median |
+| 14 | 18% | 38% |  |
+| 15 | 11% | 20% |  |
+| 16 | 6% | 10% |  |
+| 17 | 2% | 4% |  |
+| 18 | 0.9% | 1.2% |  |
+| 19 | 0.3% | 0.4% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 

@@ -48,12 +48,12 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–13 | 0–14 | 0–15 |
+| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–13 | 0–14 | 0–16 |
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 0–11 | 0–12 | 0–12 | 0–14 |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 10 | 8–11 | 0–12 | 0–12 | 0–13 |
-| [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 9 | 8–11 | 0–12 | 0–12 | 0–13 |
+| [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 13 | 11–14 | 10–15 | 9–15 | 8–17 |
+| [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 12 | 10–14 | 10–15 | 9–16 | 9–17 |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Proto Thema | 9 | 0–11 | 0–12 | 0–12 | 0–14 |
 | [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
@@ -78,16 +78,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 89% |  |
 | 6 | 0% | 89% |  |
 | 7 | 0% | 89% |  |
-| 8 | 9% | 89% |  |
-| 9 | 24% | 80% | Last Result |
-| 10 | 22% | 56% | Median |
-| 11 | 13% | 34% |  |
-| 12 | 9% | 21% |  |
-| 13 | 7% | 12% |  |
-| 14 | 4% | 5% |  |
-| 15 | 0.8% | 1.2% |  |
-| 16 | 0.2% | 0.4% |  |
-| 17 | 0.1% | 0.1% |  |
+| 8 | 10% | 89% |  |
+| 9 | 21% | 79% | Last Result |
+| 10 | 22% | 58% | Median |
+| 11 | 16% | 36% |  |
+| 12 | 10% | 20% |  |
+| 13 | 5% | 10% |  |
+| 14 | 3% | 5% |  |
+| 15 | 1.3% | 2% |  |
+| 16 | 0.4% | 0.6% |  |
+| 17 | 0.1% | 0.2% |  |
 | 18 | 0% | 0% |  |
 
 

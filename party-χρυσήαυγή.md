@@ -48,7 +48,7 @@ Last result: **0** seats (General Election of 7 July 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–9 | 0–9 | 0–10 | 0–10 |
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–8 | 0–9 | 0–9 | 0–10 |
-| [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 8 | 0–10 | 0–10 | 0–10 | 0–11 |
+| [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 8 | 0–9 | 0–10 | 0–10 | 0–11 |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0 | 0 | 0 |
@@ -68,18 +68,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 79% | 100% | Last Result, Median |
-| 1 | 0% | 21% |  |
-| 2 | 0% | 21% |  |
-| 3 | 0% | 21% |  |
-| 4 | 0% | 21% |  |
-| 5 | 0% | 21% |  |
-| 6 | 0% | 21% |  |
-| 7 | 0% | 21% |  |
-| 8 | 9% | 21% |  |
-| 9 | 9% | 12% |  |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 0% | 20% |  |
+| 2 | 0% | 20% |  |
+| 3 | 0% | 20% |  |
+| 4 | 0% | 20% |  |
+| 5 | 0% | 20% |  |
+| 6 | 0% | 20% |  |
+| 7 | 0% | 20% |  |
+| 8 | 9% | 20% |  |
+| 9 | 8% | 11% |  |
 | 10 | 3% | 3% |  |
-| 11 | 0.3% | 0.3% |  |
+| 11 | 0.3% | 0.4% |  |
 | 12 | 0% | 0% |  |
 
 
