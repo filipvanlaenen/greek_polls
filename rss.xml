@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Fri, 27 Dec 2019 18:10:53 +0100</pubDate>
+    <pubDate>Fri, 27 Dec 2019 19:36:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 16–18 December 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-12-18-PulseRC.html</link>
@@ -19,6 +19,46 @@
       <pubDate>Fri, 27 Dec 2019 18:10:53 +0100</pubDate>
       <dc:date>2019-12-27T18:10:53.495967+01:00</dc:date>
     </item>
-    <dc:date>2019-12-27T18:10:53.495967+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by MRB for Star, 27 November–5 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-12-05-MRB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.7–29.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 39.4–43.7%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 2.3–3.9%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 7.5–10.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.2–7.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.9–5.8%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.9–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-12-05-MRB.png"
+        length="210151"
+        type="image/png"/>
+      <pubDate>Fri, 27 Dec 2019 19:10:27 +0100</pubDate>
+      <dc:date>2019-12-27T19:10:27.798908+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll, 25–28 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-11-28-OpinionPoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.2–30.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 46.0–52.0%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.1–8.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.9–7.9%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.2–6.9%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.6–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-11-28-OpinionPoll.png"
+        length="197785"
+        type="image/png"/>
+      <pubDate>Fri, 27 Dec 2019 19:19:02 +0100</pubDate>
+      <dc:date>2019-12-27T19:19:02.145394+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Το Βήμα, 18–20 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-11-20-MetronAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.3–28.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 42.6–48.2%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.1–2.6%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.1–9.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.6–7.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.0–6.5%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.5–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-11-20-MetronAnalysis.png"
+        length="215561"
+        type="image/png"/>
+      <pubDate>Fri, 27 Dec 2019 19:27:36 +0100</pubDate>
+      <dc:date>2019-12-27T19:27:36.463753+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Proto Thema, 29–31 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.8–30.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 44.5–50.7%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.4–3.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.3–8.4%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.4–4.7%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.4–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc.png"
+        length="232363"
+        type="image/png"/>
+      <pubDate>Fri, 27 Dec 2019 19:36:10 +0100</pubDate>
+      <dc:date>2019-12-27T19:36:10.61006+01:00</dc:date>
+    </item>
+    <dc:date>2019-12-27T19:36:10.61006+01:00</dc:date>
   </channel>
 </rss>
