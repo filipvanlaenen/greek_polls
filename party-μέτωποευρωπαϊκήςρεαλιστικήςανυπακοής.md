@@ -49,7 +49,7 @@ Last result: **9** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 0–13 | 0–13 | 0–14 | 0–16 |
-| [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 0–11 | 0–12 | 0–12 | 0–14 |
+| [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 0–11 | 0–12 | 0–13 | 0–14 |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 10 | 8–11 | 0–12 | 0–12 | 0–13 |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
@@ -78,15 +78,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 89% |  |
 | 6 | 0% | 89% |  |
 | 7 | 0% | 89% |  |
-| 8 | 10% | 89% |  |
+| 8 | 9% | 89% |  |
 | 9 | 21% | 79% | Last Result |
-| 10 | 22% | 58% | Median |
-| 11 | 16% | 36% |  |
-| 12 | 10% | 20% |  |
-| 13 | 5% | 10% |  |
+| 10 | 21% | 58% | Median |
+| 11 | 17% | 37% |  |
+| 12 | 9% | 20% |  |
+| 13 | 6% | 11% |  |
 | 14 | 3% | 5% |  |
 | 15 | 1.3% | 2% |  |
-| 16 | 0.4% | 0.6% |  |
+| 16 | 0.5% | 0.6% |  |
 | 17 | 0.1% | 0.2% |  |
 | 18 | 0% | 0% |  |
 
