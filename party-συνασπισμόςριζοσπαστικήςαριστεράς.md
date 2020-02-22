@@ -10,7 +10,12 @@ Last result: **31.5%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.4% | 25.3–29.3% | 24.7–29.8% | 24.2–30.2% | 23.3–31.2% |
+| N/A | [Poll Average](average.html) | 26.7% | 25.0–28.4% | 24.6–29.0% | 24.2–29.4% | 23.4–30.2% |
+| [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 26.7% | 25.0–28.5% | 24.6–29.0% | 24.1–29.4% | 23.4–30.2% |
+| [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.0% | N/A | N/A | N/A | N/A |
+| [20–22 January 2020](2020-01-22-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 26.8% | N/A | N/A | N/A | N/A |
+| [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star | 26.4% | N/A | N/A | N/A | N/A |
+| [7–8 January 2020](2020-01-08-Interview.html) | Interview <br> Βεργίνα TV | 28.1% | N/A | N/A | N/A | N/A |
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 28.0% | 26.4–29.8% | 26.0–30.2% | 25.6–30.7% | 24.8–31.5% |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 27.6% | 26.3–28.9% | 26.0–29.3% | 25.7–29.6% | 25.1–30.2% |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 27.8% | 26.1–29.6% | 25.6–30.1% | 25.2–30.6% | 24.4–31.5% |
@@ -30,19 +35,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0.1% | 100% |  |
 | 22.5–23.5% | 0.7% | 99.9% |  |
-| 23.5–24.5% | 3% | 99.2% |  |
-| 24.5–25.5% | 8% | 96% |  |
-| 25.5–26.5% | 16% | 88% |  |
-| 26.5–27.5% | 25% | 72% | Median |
-| 27.5–28.5% | 25% | 46% |  |
-| 28.5–29.5% | 15% | 22% |  |
-| 29.5–30.5% | 5% | 7% |  |
-| 30.5–31.5% | 1.3% | 2% |  |
-| 31.5–32.5% | 0.2% | 0.2% | Last Result |
-| 32.5–33.5% | 0% | 0% |  |
+| 23.5–24.5% | 4% | 99.3% |  |
+| 24.5–25.5% | 14% | 95% |  |
+| 25.5–26.5% | 26% | 81% |  |
+| 26.5–27.5% | 28% | 55% | Median |
+| 27.5–28.5% | 18% | 26% |  |
+| 28.5–29.5% | 7% | 9% |  |
+| 29.5–30.5% | 2% | 2% |  |
+| 30.5–31.5% | 0.2% | 0.3% |  |
+| 31.5–32.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -53,7 +56,12 @@ Last result: **86** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 72 | 67–78 | 65–80 | 64–81 | 61–84 |
+| N/A | [Poll Average](average.html) | 72 | 72 | 72 | 72 | 72 |
+| [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 72 | 72 | 72 | 72 | 72 |
+| [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [20–22 January 2020](2020-01-22-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
+| [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star |  |  |  |  |  |
+| [7–8 January 2020](2020-01-08-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 75 | 71–80 | 69–81 | 68–83 | 66–85 |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 73 | 70–77 | 69–78 | 68–79 | 66–81 |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 71 | 66–75 | 65–77 | 64–78 | 62–80 |
@@ -75,35 +83,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 59 | 0.1% | 100% |  |
-| 60 | 0.1% | 99.9% |  |
-| 61 | 0.3% | 99.8% |  |
-| 62 | 0.6% | 99.5% |  |
-| 63 | 1.0% | 98.9% |  |
-| 64 | 2% | 98% |  |
-| 65 | 2% | 96% |  |
-| 66 | 4% | 94% |  |
-| 67 | 4% | 90% |  |
-| 68 | 6% | 86% |  |
-| 69 | 8% | 80% |  |
-| 70 | 9% | 73% |  |
-| 71 | 8% | 64% |  |
-| 72 | 10% | 56% | Median |
-| 73 | 8% | 46% |  |
-| 74 | 8% | 38% |  |
-| 75 | 7% | 31% |  |
-| 76 | 7% | 24% |  |
-| 77 | 5% | 17% |  |
-| 78 | 3% | 12% |  |
-| 79 | 3% | 9% |  |
-| 80 | 2% | 5% |  |
-| 81 | 1.3% | 3% |  |
-| 82 | 0.7% | 2% |  |
-| 83 | 0.4% | 0.9% |  |
-| 84 | 0.2% | 0.5% |  |
-| 85 | 0.2% | 0.3% |  |
-| 86 | 0% | 0.1% | Last Result |
-| 87 | 0% | 0.1% |  |
-| 88 | 0% | 0% |  |
+| 71 | 0.1% | 100% |  |
+| 72 | 99.9% | 99.9% | Median |
+| 73 | 0% | 0% |  |
+| 74 | 0% | 0% |  |
+| 75 | 0% | 0% |  |
+| 76 | 0% | 0% |  |
+| 77 | 0% | 0% |  |
+| 78 | 0% | 0% |  |
+| 79 | 0% | 0% |  |
+| 80 | 0% | 0% |  |
+| 81 | 0% | 0% |  |
+| 82 | 0% | 0% |  |
+| 83 | 0% | 0% |  |
+| 84 | 0% | 0% |  |
+| 85 | 0% | 0% |  |
+| 86 | 0% | 0% | Last Result |
 
 

@@ -10,7 +10,12 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 3.0–4.7% | 2.8–5.1% | 2.6–5.4% | 2.3–5.9% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.8–4.2% | 2.6–4.4% | 2.5–4.6% | 2.2–5.0% |
+| [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 3.4% | 2.8–4.2% | 2.6–4.4% | 2.5–4.6% | 2.2–5.0% |
+| [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.5% | N/A | N/A | N/A | N/A |
+| [20–22 January 2020](2020-01-22-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 4.9% | N/A | N/A | N/A | N/A |
+| [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star | 4.1% | N/A | N/A | N/A | N/A |
+| [7–8 January 2020](2020-01-08-Interview.html) | Interview <br> Βεργίνα TV | 3.5% | N/A | N/A | N/A | N/A |
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 3.6% | 3.1–4.2% | 3.0–4.4% | 2.9–4.5% | 2.7–4.8% |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 3.6% | 3.0–4.5% | 2.8–4.7% | 2.6–4.9% | 2.3–5.3% |
@@ -31,13 +36,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 38% | 98% | Last Result |
-| 3.5–4.5% | 47% | 61% | Median |
-| 4.5–5.5% | 13% | 14% |  |
-| 5.5–6.5% | 2% | 2% |  |
+| 1.5–2.5% | 4% | 100% |  |
+| 2.5–3.5% | 55% | 96% | Last Result, Median |
+| 3.5–4.5% | 38% | 41% |  |
+| 4.5–5.5% | 3% | 3% |  |
+| 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
-| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -48,7 +52,12 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–13 | 0–14 | 0–16 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 0 | 0 | 0 | 0 | 0 |
+| [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [20–22 January 2020](2020-01-22-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
+| [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star |  |  |  |  |  |
+| [7–8 January 2020](2020-01-08-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 0–11 | 0–12 | 0–13 | 0–14 |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 10 | 8–11 | 0–12 | 0–12 | 0–13 |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
@@ -70,24 +79,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% |  |
-| 1 | 0% | 89% |  |
-| 2 | 0% | 89% |  |
-| 3 | 0% | 89% |  |
-| 4 | 0% | 89% |  |
-| 5 | 0% | 89% |  |
-| 6 | 0% | 89% |  |
-| 7 | 0% | 89% |  |
-| 8 | 9% | 89% |  |
-| 9 | 21% | 79% | Last Result |
-| 10 | 21% | 58% | Median |
-| 11 | 17% | 37% |  |
-| 12 | 9% | 20% |  |
-| 13 | 6% | 11% |  |
-| 14 | 3% | 5% |  |
-| 15 | 1.3% | 2% |  |
-| 16 | 0.5% | 0.6% |  |
-| 17 | 0.1% | 0.2% |  |
-| 18 | 0% | 0% |  |
+| 0 | 100% | 100% | Median |
+| 1 | 0% | 0% |  |
+| 2 | 0% | 0% |  |
+| 3 | 0% | 0% |  |
+| 4 | 0% | 0% |  |
+| 5 | 0% | 0% |  |
+| 6 | 0% | 0% |  |
+| 7 | 0% | 0% |  |
+| 8 | 0% | 0% |  |
+| 9 | 0% | 0% | Last Result |
 
 
