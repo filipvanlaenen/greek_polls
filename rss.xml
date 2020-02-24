@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sat, 22 Feb 2020 18:05:34 +0100</pubDate>
+    <pubDate>Sun, 23 Feb 2020 15:30:27 +0100</pubDate>
     <item>
       <title>Opinion Poll by Opinion Poll, 22–27 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-01-27-OpinionPoll.html</link>
@@ -16,8 +16,48 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-01-27-OpinionPoll.png"
         length="193342"
         type="image/png"/>
-      <pubDate>Sat, 22 Feb 2020 18:05:34 +0100</pubDate>
-      <dc:date>2020-02-22T18:05:34.117669+01:00</dc:date>
+      <pubDate>Sun, 23 Feb 2020 15:01:42 +0100</pubDate>
+      <dc:date>2020-02-23T15:01:42.114799+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 21–22 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-01-22-PulseRC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 26.5–31.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 40.2–45.8%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0.9–2.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.2–9.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.4–7.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.9–6.4%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.6–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-01-22-PulseRC.png"
+        length="212141"
+        type="image/png"/>
+      <pubDate>Sun, 23 Feb 2020 15:09:21 +0100</pubDate>
+      <dc:date>2020-02-23T15:09:21.487897+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Το Βήμα, 20–22 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-01-22-MetronAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.3–29.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 42.4–48.1%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.7–8.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.8–7.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.6–7.3%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.8–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-01-22-MetronAnalysis.png"
+        length="198605"
+        type="image/png"/>
+      <pubDate>Sun, 23 Feb 2020 15:16:08 +0100</pubDate>
+      <dc:date>2020-02-23T15:16:08.519428+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 13–17 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-01-17-MRB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.2–28.7%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 41.0–46.1%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.1–2.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.3–9.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.1–7.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.2–6.6%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.2–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-01-17-MRB.png"
+        length="210453"
+        type="image/png"/>
+      <pubDate>Sun, 23 Feb 2020 15:24:20 +0100</pubDate>
+      <dc:date>2020-02-23T15:24:20.025305+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 7–8 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-01-08-Interview.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.4–30.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 42.7–48.9%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 4.1–7.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.1–7.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.5–6.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.5–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-01-08-Interview.png"
+        length="201073"
+        type="image/png"/>
+      <pubDate>Sun, 23 Feb 2020 15:30:27 +0100</pubDate>
+      <dc:date>2020-02-23T15:30:27.955677+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 16–18 December 2019 – Seat Projections for the Parties</title>
@@ -169,6 +209,6 @@
       <pubDate>Tue, 31 Dec 2019 14:07:05 +0100</pubDate>
       <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
     </item>
-    <dc:date>2020-02-22T18:05:34.117669+01:00</dc:date>
+    <dc:date>2020-02-23T15:30:27.955677+01:00</dc:date>
   </channel>
 </rss>
