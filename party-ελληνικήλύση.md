@@ -10,7 +10,12 @@ Last result: **3.7%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 4.4–6.3% | 4.1–6.6% | 3.9–6.9% | 3.5–7.4% |
+| N/A | [Poll Average](average.html) | 5.6% | 4.8–6.6% | 4.6–6.9% | 4.4–7.1% | 4.0–7.6% |
+| [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.0% | N/A | N/A | N/A | N/A |
+| [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 5.7% | 4.8–6.7% | 4.6–7.0% | 4.4–7.2% | 4.1–7.7% |
+| [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 5.7% | N/A | N/A | N/A | N/A |
+| [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 6.2% | N/A | N/A | N/A | N/A |
+| [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.0% | N/A | N/A | N/A | N/A |
 | [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 5.4% | 4.6–6.4% | 4.4–6.6% | 4.2–6.9% | 3.8–7.4% |
 | [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.0% | 4.3–5.9% | 4.1–6.2% | 3.9–6.4% | 3.6–6.9% |
 | [20–22 January 2020](2020-01-22-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 5.8% | 5.0–6.8% | 4.8–7.1% | 4.6–7.3% | 4.3–7.8% |
@@ -35,13 +40,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.6% | 100% |  |
-| 3.5–4.5% | 15% | 99.4% | Last Result |
-| 4.5–5.5% | 48% | 84% | Median |
-| 5.5–6.5% | 31% | 37% |  |
-| 6.5–7.5% | 5% | 5% |  |
-| 7.5–8.5% | 0.3% | 0.3% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 5% | 100% | Last Result |
+| 4.5–5.5% | 40% | 95% |  |
+| 5.5–6.5% | 44% | 55% | Median |
+| 6.5–7.5% | 10% | 11% |  |
+| 7.5–8.5% | 0.7% | 0.7% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -53,11 +57,16 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–17 | 11–17 | 11–18 | 10–19 |
-| [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 14 | 12–17 | 12–17 | 11–18 | 10–19 |
-| [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 13 | 11–16 | 11–17 | 11–17 | 10–19 |
-| [20–22 January 2020](2020-01-22-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
-| [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star | 14 | 12–17 | 12–17 | 11–18 | 11–19 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
+| [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema |  |  |  |  |  |
+| [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Proto Thema |  |  |  |  |  |
+| [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
+| [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 14 | 12–17 | 11–17 | 11–18 | 10–19 |
+| [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 14 | 11–16 | 11–17 | 10–17 | 10–19 |
+| [20–22 January 2020](2020-01-22-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 15 | 13–18 | 12–18 | 12–19 | 11–20 |
+| [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star | 14 | 12–16 | 12–17 | 11–18 | 11–19 |
 | [7–8 January 2020](2020-01-08-Interview.html) | Interview <br> Βεργίνα TV | 13 | 11–15 | 10–16 | 10–17 | 9–18 |
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 14 | 11–16 | 11–17 | 10–17 | 10–18 |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 13 | 11–15 | 11–15 | 10–16 | 10–16 |
@@ -80,19 +89,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.4% | 100% |  |
-| 10 | 2% | 99.6% | Last Result |
-| 11 | 5% | 98% |  |
-| 12 | 13% | 93% |  |
-| 13 | 19% | 80% |  |
-| 14 | 21% | 61% | Median |
-| 15 | 20% | 40% |  |
-| 16 | 9% | 20% |  |
-| 17 | 8% | 11% |  |
-| 18 | 3% | 4% |  |
-| 19 | 0.9% | 1.4% |  |
-| 20 | 0.4% | 0.4% |  |
-| 21 | 0% | 0.1% |  |
+| 10 | 0.3% | 100% | Last Result |
+| 11 | 2% | 99.7% |  |
+| 12 | 7% | 98% |  |
+| 13 | 14% | 91% |  |
+| 14 | 23% | 77% |  |
+| 15 | 23% | 54% | Median |
+| 16 | 15% | 31% |  |
+| 17 | 9% | 16% |  |
+| 18 | 4% | 7% |  |
+| 19 | 2% | 3% |  |
+| 20 | 0.6% | 0.8% |  |
+| 21 | 0.1% | 0.2% |  |
 | 22 | 0% | 0% |  |
 
 

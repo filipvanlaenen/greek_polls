@@ -10,7 +10,12 @@ Last result: **31.5%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.3% | 25.4–29.6% | 24.9–30.3% | 24.5–30.8% | 23.7–31.8% |
+| N/A | [Poll Average](average.html) | 26.3% | 24.5–28.0% | 24.0–28.5% | 23.6–28.9% | 22.7–29.8% |
+| [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24.5% | N/A | N/A | N/A | N/A |
+| [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 25.5% | 23.8–27.3% | 23.4–27.8% | 23.0–28.2% | 22.2–29.0% |
+| [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 26.1% | N/A | N/A | N/A | N/A |
+| [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 28.1% | N/A | N/A | N/A | N/A |
+| [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 28.0% | N/A | N/A | N/A | N/A |
 | [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 26.7% | 25.0–28.5% | 24.6–29.0% | 24.1–29.4% | 23.4–30.2% |
 | [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.0% | 27.4–30.7% | 26.9–31.2% | 26.5–31.6% | 25.7–32.5% |
 | [20–22 January 2020](2020-01-22-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 26.8% | 25.2–28.5% | 24.7–28.9% | 24.3–29.4% | 23.6–30.2% |
@@ -35,19 +40,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.3% | 100% |  |
-| 23.5–24.5% | 3% | 99.6% |  |
-| 24.5–25.5% | 9% | 97% |  |
-| 25.5–26.5% | 19% | 88% |  |
-| 26.5–27.5% | 24% | 68% | Median |
-| 27.5–28.5% | 20% | 45% |  |
-| 28.5–29.5% | 14% | 25% |  |
-| 29.5–30.5% | 7% | 11% |  |
-| 30.5–31.5% | 3% | 3% |  |
-| 31.5–32.5% | 0.6% | 0.8% | Last Result |
-| 32.5–33.5% | 0.1% | 0.1% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.3% | 100% |  |
+| 22.5–23.5% | 2% | 99.6% |  |
+| 23.5–24.5% | 8% | 98% |  |
+| 24.5–25.5% | 19% | 89% |  |
+| 25.5–26.5% | 29% | 70% | Median |
+| 26.5–27.5% | 25% | 41% |  |
+| 27.5–28.5% | 12% | 17% |  |
+| 28.5–29.5% | 4% | 5% |  |
+| 29.5–30.5% | 0.7% | 0.8% |  |
+| 30.5–31.5% | 0.1% | 0.1% |  |
+| 31.5–32.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -58,12 +62,17 @@ Last result: **86** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 73 | 67–80 | 65–81 | 64–83 | 62–86 |
-| [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 70 | 66–75 | 64–76 | 63–78 | 61–80 |
-| [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 78 | 74–82 | 73–84 | 71–85 | 69–88 |
+| N/A | [Poll Average](average.html) | 71 | 65–74 | 64–75 | 64–76 | 62–79 |
+| [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema |  |  |  |  |  |
+| [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Proto Thema |  |  |  |  |  |
+| [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
+| [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 70 | 66–75 | 64–76 | 63–77 | 61–80 |
+| [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 78 | 73–82 | 72–84 | 71–85 | 69–88 |
 | [20–22 January 2020](2020-01-22-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 71 | 65–73 | 64–74 | 63–75 | 62–79 |
 | [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star | 71 | 67–75 | 66–76 | 65–77 | 63–79 |
-| [7–8 January 2020](2020-01-08-Interview.html) | Interview <br> Βεργίνα TV | 76 | 72–81 | 70–82 | 69–83 | 67–86 |
+| [7–8 January 2020](2020-01-08-Interview.html) | Interview <br> Βεργίνα TV | 75 | 71–81 | 70–82 | 68–83 | 66–86 |
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 75 | 71–80 | 69–81 | 68–83 | 66–85 |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 73 | 70–77 | 69–78 | 68–79 | 66–81 |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 71 | 66–75 | 65–77 | 64–78 | 62–80 |
@@ -85,36 +94,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 60 | 0% | 100% |  |
-| 61 | 0.1% | 99.9% |  |
-| 62 | 0.4% | 99.8% |  |
-| 63 | 0.8% | 99.4% |  |
-| 64 | 2% | 98.6% |  |
-| 65 | 3% | 97% |  |
-| 66 | 3% | 94% |  |
-| 67 | 4% | 91% |  |
-| 68 | 4% | 87% |  |
-| 69 | 6% | 83% |  |
-| 70 | 6% | 77% |  |
-| 71 | 10% | 71% |  |
-| 72 | 9% | 60% |  |
-| 73 | 9% | 51% | Median |
-| 74 | 7% | 43% |  |
-| 75 | 5% | 35% |  |
-| 76 | 5% | 30% |  |
-| 77 | 5% | 25% |  |
-| 78 | 4% | 20% |  |
-| 79 | 5% | 15% |  |
-| 80 | 3% | 10% |  |
-| 81 | 3% | 7% |  |
-| 82 | 2% | 4% |  |
-| 83 | 1.2% | 3% |  |
-| 84 | 0.7% | 2% |  |
-| 85 | 0.4% | 1.0% |  |
-| 86 | 0.2% | 0.5% | Last Result |
-| 87 | 0.2% | 0.3% |  |
-| 88 | 0.1% | 0.1% |  |
-| 89 | 0% | 0.1% |  |
-| 90 | 0% | 0% |  |
+| 61 | 0.1% | 100% |  |
+| 62 | 0.4% | 99.9% |  |
+| 63 | 2% | 99.4% |  |
+| 64 | 4% | 98% |  |
+| 65 | 5% | 94% |  |
+| 66 | 5% | 90% |  |
+| 67 | 4% | 84% |  |
+| 68 | 5% | 80% |  |
+| 69 | 8% | 75% |  |
+| 70 | 10% | 68% |  |
+| 71 | 16% | 57% | Median |
+| 72 | 16% | 42% |  |
+| 73 | 13% | 26% |  |
+| 74 | 6% | 13% |  |
+| 75 | 3% | 7% |  |
+| 76 | 2% | 4% |  |
+| 77 | 0.9% | 2% |  |
+| 78 | 0.6% | 1.4% |  |
+| 79 | 0.4% | 0.8% |  |
+| 80 | 0.2% | 0.3% |  |
+| 81 | 0.1% | 0.1% |  |
+| 82 | 0% | 0% |  |
+| 83 | 0% | 0% |  |
+| 84 | 0% | 0% |  |
+| 85 | 0% | 0% |  |
+| 86 | 0% | 0% | Last Result |
 
 
