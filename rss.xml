@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sun, 23 Feb 2020 15:30:27 +0100</pubDate>
+    <pubDate>Sun, 12 Apr 2020 14:56:46 +0200</pubDate>
     <item>
       <title>Opinion Poll by Opinion Poll, 22–27 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-01-27-OpinionPoll.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-01-27-OpinionPoll.png"
         length="193342"
         type="image/png"/>
-      <pubDate>Sun, 23 Feb 2020 15:01:42 +0100</pubDate>
-      <dc:date>2020-02-23T15:01:42.114799+01:00</dc:date>
+      <pubDate>Sun, 12 Apr 2020 14:33:00 +0200</pubDate>
+      <dc:date>2020-04-12T14:33:00.499055+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 21–22 January 2020 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-01-22-PulseRC.png"
         length="212141"
         type="image/png"/>
-      <pubDate>Sun, 23 Feb 2020 15:09:21 +0100</pubDate>
-      <dc:date>2020-02-23T15:09:21.487897+01:00</dc:date>
+      <pubDate>Sun, 12 Apr 2020 14:39:21 +0200</pubDate>
+      <dc:date>2020-04-12T14:39:21.657591+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Το Βήμα, 20–22 January 2020 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-01-22-MetronAnalysis.png"
         length="198605"
         type="image/png"/>
-      <pubDate>Sun, 23 Feb 2020 15:16:08 +0100</pubDate>
-      <dc:date>2020-02-23T15:16:08.519428+01:00</dc:date>
+      <pubDate>Sun, 12 Apr 2020 14:44:53 +0200</pubDate>
+      <dc:date>2020-04-12T14:44:53.539018+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 13–17 January 2020 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-01-17-MRB.png"
         length="210453"
         type="image/png"/>
-      <pubDate>Sun, 23 Feb 2020 15:24:20 +0100</pubDate>
-      <dc:date>2020-02-23T15:24:20.025305+01:00</dc:date>
+      <pubDate>Sun, 12 Apr 2020 14:51:20 +0200</pubDate>
+      <dc:date>2020-04-12T14:51:20.938167+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 7–8 January 2020 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-01-08-Interview.png"
         length="201073"
         type="image/png"/>
-      <pubDate>Sun, 23 Feb 2020 15:30:27 +0100</pubDate>
-      <dc:date>2020-02-23T15:30:27.955677+01:00</dc:date>
+      <pubDate>Sun, 12 Apr 2020 14:56:46 +0200</pubDate>
+      <dc:date>2020-04-12T14:56:46.103925+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 16–18 December 2019 – Seat Projections for the Parties</title>
@@ -209,6 +209,6 @@
       <pubDate>Tue, 31 Dec 2019 14:07:05 +0100</pubDate>
       <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
     </item>
-    <dc:date>2020-02-23T15:30:27.955677+01:00</dc:date>
+    <dc:date>2020-04-12T14:56:46.103925+02:00</dc:date>
   </channel>
 </rss>
