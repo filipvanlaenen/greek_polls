@@ -10,11 +10,12 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 2.3–5.3% | 2.1–5.6% | 1.9–5.9% | 1.6–6.4% |
-| [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.0% | 2.2–5.1% | 2.0–5.5% | 1.9–5.8% | 1.6–6.3% |
+| [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV | 2.4% | N/A | N/A | N/A | N/A |
+| [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.1% | 2.0–4.5% |
 | [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 2.5% | 1.9–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
 | [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 3.4% | N/A | N/A | N/A | N/A |
-| [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 2.7% | N/A | N/A | N/A | N/A |
+| [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.0% | N/A | N/A | N/A | N/A |
 | [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 3.4% | 2.8–4.2% | 2.6–4.4% | 2.5–4.6% | 2.2–5.0% |
 | [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
@@ -42,12 +43,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 17% | 99.7% |  |
-| 2.5–3.5% | 19% | 82% | Last Result |
-| 3.5–4.5% | 31% | 63% | Median |
-| 4.5–5.5% | 26% | 32% |  |
-| 5.5–6.5% | 6% | 6% |  |
-| 6.5–7.5% | 0.3% | 0.3% |  |
+| 1.5–2.5% | 24% | 99.7% |  |
+| 2.5–3.5% | 43% | 75% | Last Result, Median |
+| 3.5–4.5% | 13% | 32% |  |
+| 4.5–5.5% | 14% | 19% |  |
+| 5.5–6.5% | 4% | 4% |  |
+| 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -59,11 +60,12 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–15 | 9–16 | 8–17 |
-| [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 9 | 0–14 | 0–15 | 0–15 | 0–17 |
+| [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV |  |  |  |  |  |
+| [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema |  |  |  |  |  |
 | [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Proto Thema |  |  |  |  |  |
-| [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
+| [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 0 | 0–9 | 0–9 | 0–9 | 0–11 |
 | [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
 | [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
@@ -91,26 +93,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 0% | 99.6% |  |
-| 2 | 0% | 99.6% |  |
-| 3 | 0% | 99.6% |  |
-| 4 | 0% | 99.6% |  |
-| 5 | 0% | 99.6% |  |
-| 6 | 0% | 99.6% |  |
-| 7 | 0% | 99.6% |  |
-| 8 | 0.6% | 99.6% |  |
-| 9 | 4% | 99.0% | Last Result |
-| 10 | 14% | 95% |  |
-| 11 | 23% | 81% |  |
-| 12 | 21% | 58% | Median |
-| 13 | 17% | 37% |  |
-| 14 | 12% | 21% |  |
-| 15 | 6% | 9% |  |
-| 16 | 2% | 3% |  |
-| 17 | 0.6% | 0.9% |  |
-| 18 | 0.2% | 0.2% |  |
-| 19 | 0% | 0.1% |  |
-| 20 | 0% | 0% |  |
+| 0 | 41% | 100% |  |
+| 1 | 0% | 59% |  |
+| 2 | 0% | 59% |  |
+| 3 | 0% | 59% |  |
+| 4 | 0% | 59% |  |
+| 5 | 0% | 59% |  |
+| 6 | 0% | 59% |  |
+| 7 | 0% | 59% |  |
+| 8 | 8% | 59% |  |
+| 9 | 11% | 50% | Last Result, Median |
+| 10 | 7% | 40% |  |
+| 11 | 6% | 33% |  |
+| 12 | 7% | 27% |  |
+| 13 | 8% | 20% |  |
+| 14 | 6% | 12% |  |
+| 15 | 4% | 5% |  |
+| 16 | 1.4% | 2% |  |
+| 17 | 0.4% | 0.6% |  |
+| 18 | 0.1% | 0.2% |  |
+| 19 | 0% | 0% |  |
 
 
