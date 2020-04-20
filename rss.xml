@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sat, 18 Apr 2020 13:19:24 +0200</pubDate>
+    <pubDate>Sat, 18 Apr 2020 17:40:05 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Marc for Alpha TV, 11–13 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-04-13-Marc.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.0–27.3%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 49.7–55.8%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.1–2.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.1–8.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.7–5.1%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 1.6–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-13-Marc.png"
+        length="210203"
+        type="image/png"/>
+      <pubDate>Sat, 18 Apr 2020 17:05:58 +0200</pubDate>
+      <dc:date>2020-04-18T17:05:58.206239+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 30 March–1 April 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-04-01-PulseRC.html</link>
@@ -16,8 +26,18 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-01-PulseRC.png"
         length="206015"
         type="image/png"/>
-      <pubDate>Sat, 18 Apr 2020 13:08:53 +0200</pubDate>
-      <dc:date>2020-04-18T13:08:53.282025+02:00</dc:date>
+      <pubDate>Sat, 18 Apr 2020 17:13:50 +0200</pubDate>
+      <dc:date>2020-04-18T17:13:50.693022+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Proto Thema, 23–26 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-03-26-OpinionPoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.0–28.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 47.5–53.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.0–7.9%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.6–8.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.4–7.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 1.7–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-03-26-OpinionPoll.png"
+        length="197290"
+        type="image/png"/>
+      <pubDate>Sat, 18 Apr 2020 17:29:20 +0200</pubDate>
+      <dc:date>2020-04-18T17:29:20.090287+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 2–7 March 2020 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-03-07-Alco.png"
         length="235810"
         type="image/png"/>
-      <pubDate>Sat, 18 Apr 2020 13:19:24 +0200</pubDate>
-      <dc:date>2020-04-18T13:19:24.550959+02:00</dc:date>
+      <pubDate>Sat, 18 Apr 2020 17:40:05 +0200</pubDate>
+      <dc:date>2020-04-18T17:40:05.521561+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll, 22–27 January 2020 – Voting Intentions</title>
@@ -229,6 +249,6 @@
       <pubDate>Tue, 31 Dec 2019 14:07:05 +0100</pubDate>
       <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
     </item>
-    <dc:date>2020-04-18T13:19:24.550959+02:00</dc:date>
+    <dc:date>2020-04-18T17:40:05.521561+02:00</dc:date>
   </channel>
 </rss>
