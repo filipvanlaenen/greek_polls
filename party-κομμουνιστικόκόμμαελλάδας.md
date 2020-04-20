@@ -10,10 +10,10 @@ Last result: **5.3%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 5.2–7.6% | 4.9–7.9% | 4.7–8.2% | 4.3–8.8% |
-| [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV | 5.8% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 6.2% | 5.1–7.5% | 4.9–7.8% | 4.7–8.1% | 4.3–8.7% |
+| [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV | 5.8% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–7.9% |
 | [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.5% | 4.8–6.4% | 4.6–6.7% | 4.4–6.9% | 4.0–7.4% |
-| [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 6.9% | 6.0–8.0% | 5.8–8.4% | 5.6–8.6% | 5.2–9.2% |
+| [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 6.9% | 6.0–8.0% | 5.8–8.3% | 5.6–8.6% | 5.2–9.2% |
 | [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 6.3% | N/A | N/A | N/A | N/A |
 | [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
 | [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.5% | N/A | N/A | N/A | N/A |
@@ -42,14 +42,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.4% | 100% |  |
-| 4.5–5.5% | 18% | 98.6% | Last Result |
-| 5.5–6.5% | 40% | 81% | Median |
-| 6.5–7.5% | 30% | 41% |  |
-| 7.5–8.5% | 9% | 10% |  |
-| 8.5–9.5% | 1.0% | 1.1% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 21% | 98% | Last Result |
+| 5.5–6.5% | 42% | 78% | Median |
+| 6.5–7.5% | 27% | 36% |  |
+| 7.5–8.5% | 8% | 9% |  |
+| 8.5–9.5% | 0.8% | 0.9% |  |
 | 9.5–10.5% | 0% | 0% |  |
-| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -60,12 +59,12 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–19 | 13–20 | 12–21 | 11–22 |
-| [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV |  |  |  |  |  |
-| [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 15 | 12–17 | 12–18 | 12–19 | 11–20 |
-| [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 16 | 14–19 | 13–20 | 12–21 | 11–23 |
+| [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV | 16 | 13–18 | 13–19 | 12–20 | 11–21 |
+| [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
+| [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 18 | 16–21 | 15–22 | 15–23 | 14–24 |
 | [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Proto Thema |  |  |  |  |  |
-| [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 17 | 15–21 | 15–21 | 14–21 | 13–23 |
+| [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 18 | 15–20 | 14–21 | 14–21 | 13–23 |
 | [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 15 | 13–18 | 12–19 | 12–19 | 11–21 |
 | [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
@@ -94,19 +93,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 0.7% | 99.9% |  |
-| 12 | 3% | 99.2% |  |
-| 13 | 5% | 96% |  |
-| 14 | 15% | 91% |  |
-| 15 | 22% | 76% | Last Result |
-| 16 | 17% | 54% | Median |
-| 17 | 13% | 37% |  |
-| 18 | 6% | 25% |  |
-| 19 | 13% | 19% |  |
-| 20 | 2% | 6% |  |
-| 21 | 4% | 5% |  |
-| 22 | 0.6% | 0.8% |  |
-| 23 | 0.2% | 0.2% |  |
-| 24 | 0% | 0% |  |
+| 11 | 0.6% | 99.9% |  |
+| 12 | 2% | 99.3% |  |
+| 13 | 6% | 97% |  |
+| 14 | 11% | 91% |  |
+| 15 | 16% | 80% | Last Result |
+| 16 | 17% | 64% | Median |
+| 17 | 15% | 47% |  |
+| 18 | 12% | 32% |  |
+| 19 | 12% | 21% |  |
+| 20 | 4% | 9% |  |
+| 21 | 3% | 5% |  |
+| 22 | 1.1% | 2% |  |
+| 23 | 0.5% | 0.7% |  |
+| 24 | 0.2% | 0.2% |  |
+| 25 | 0.1% | 0.1% |  |
+| 26 | 0% | 0% |  |
 
 
