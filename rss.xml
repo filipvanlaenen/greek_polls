@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sat, 18 Apr 2020 17:40:05 +0200</pubDate>
+    <pubDate>Thu, 30 Apr 2020 07:50:24 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Κάπα Research for ΕΘΝΟΣ, 15–17 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-04-17-ΚάπαResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.7–30.0%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 46.0–52.0%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.6–3.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 4.7–7.5%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.4–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-17-ΚάπαResearch.png"
+        length="245946"
+        type="image/png"/>
+      <pubDate>Thu, 30 Apr 2020 07:50:24 +0200</pubDate>
+      <dc:date>2020-04-30T07:50:24.169341+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Marc for Alpha TV, 11–13 April 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-04-13-Marc.html</link>
@@ -249,6 +259,6 @@
       <pubDate>Tue, 31 Dec 2019 14:07:05 +0100</pubDate>
       <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
     </item>
-    <dc:date>2020-04-18T17:40:05.521561+02:00</dc:date>
+    <dc:date>2020-04-30T07:50:24.169341+02:00</dc:date>
   </channel>
 </rss>
