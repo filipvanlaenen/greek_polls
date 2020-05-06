@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Thu, 30 Apr 2020 07:50:24 +0200</pubDate>
+    <pubDate>Wed, 06 May 2020 08:08:41 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Metron Analysis for MEGA TV, 22–28 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-04-28-MetronAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.0–28.0%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 47.6–53.2%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.2–2.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 4.7–7.4%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.4–7.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.5–4.6%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.9–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-28-MetronAnalysis.png"
+        length="243051"
+        type="image/png"/>
+      <pubDate>Wed, 06 May 2020 07:13:27 +0200</pubDate>
+      <dc:date>2020-05-06T07:13:27.662155+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Παραπολιτικά, 14–22 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-04-22-GPO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.2–28.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 46.7–52.9%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.8–9.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.3–7.1%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.7–6.4%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-22-GPO.png"
+        length="227587"
+        type="image/png"/>
+      <pubDate>Wed, 06 May 2020 08:08:41 +0200</pubDate>
+      <dc:date>2020-05-06T08:08:41.871735+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Κάπα Research for ΕΘΝΟΣ, 15–17 April 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-04-17-ΚάπαResearch.html</link>
@@ -200,36 +220,6 @@
       <dc:date>2019-12-31T13:47:08.061398+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Metron Analysis for Το Βήμα, 18–20 November 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2019-11-20-MetronAnalysis.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 62–75 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 163–178 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 16–24 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 12–19 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 11–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 9–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-11-20-MetronAnalysis-seats.png"
-        length="166806"
-        type="image/png"/>
-      <pubDate>Tue, 31 Dec 2019 13:56:08 +0100</pubDate>
-      <dc:date>2019-12-31T13:56:08.893158+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Metron Analysis for Το Βήμα, 18–20 November 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2019-11-20-MetronAnalysis.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-11-20-MetronAnalysis-coalitions-seats.png"
-        length="203668"
-        type="image/png"/>
-      <pubDate>Tue, 31 Dec 2019 13:56:08 +0100</pubDate>
-      <dc:date>2019-12-31T13:56:08.893158+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Metron Analysis for Το Βήμα, 18–20 November 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2019-11-20-MetronAnalysis.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.3–28.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 42.6–48.2%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.1–2.6%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.1–9.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.6–7.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.0–6.5%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.5–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-11-20-MetronAnalysis.png"
-        length="215561"
-        type="image/png"/>
-      <pubDate>Tue, 31 Dec 2019 13:56:08 +0100</pubDate>
-      <dc:date>2019-12-31T13:56:08.893158+01:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Marc for Proto Thema, 29–31 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 66–82 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 167–186 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0–9 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 14–23 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 12–20 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0–13 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -259,6 +249,6 @@
       <pubDate>Tue, 31 Dec 2019 14:07:05 +0100</pubDate>
       <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
     </item>
-    <dc:date>2020-04-30T07:50:24.169341+02:00</dc:date>
+    <dc:date>2020-05-06T08:08:41.871735+02:00</dc:date>
   </channel>
 </rss>
