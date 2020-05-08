@@ -17,9 +17,9 @@ Last result: **39.8%** (General Election of 7 July 2019)
 | [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV | 52.7% | 50.7–54.7% | 50.2–55.3% | 49.7–55.8% | 48.7–56.8% |
 | [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 50.0% | 48.2–51.8% | 47.7–52.3% | 47.2–52.8% | 46.3–53.7% |
 | [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 50.5% | 48.6–52.4% | 48.0–53.0% | 47.5–53.5% | 46.6–54.4% |
-| [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 48.7% | N/A | N/A | N/A | N/A |
+| [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 48.7% | 46.8–50.5% | 46.3–51.0% | 45.8–51.5% | 45.0–52.4% |
 | [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 43.9% | 41.9–45.9% | 41.3–46.5% | 40.8–47.0% | 39.9–48.0% |
-| [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 43.5% | N/A | N/A | N/A | N/A |
+| [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 43.5% | 41.7–45.3% | 41.2–45.8% | 40.8–46.2% | 39.9–47.1% |
 | [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 48.0% | 46.1–49.9% | 45.5–50.5% | 45.0–51.0% | 44.1–51.9% |
 | [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 43.0% | 41.2–44.8% | 40.6–45.3% | 40.2–45.8% | 39.3–46.7% |
 | [20–22 January 2020](2020-01-22-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 45.2% | 43.4–47.1% | 42.9–47.6% | 42.4–48.1% | 41.5–48.9% |
@@ -81,9 +81,9 @@ Last result: **158** seats (General Election of 7 July 2019)
 | [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV | 191 | 185–196 | 183–199 | 182–200 | 179–203 |
 | [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 184 | 179–190 | 177–191 | 176–193 | 173–195 |
 | [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 182 | 177–187 | 175–189 | 174–190 | 171–192 |
-| [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Proto Thema |  |  |  |  |  |
+| [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 177 | 172–183 | 170–184 | 169–186 | 167–188 |
 | [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 164 | 157–170 | 156–171 | 155–172 | 152–175 |
-| [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 167 | 163–174 | 160–175 | 159–176 | 158–178 |
 | [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 176 | 171–182 | 169–183 | 168–185 | 165–188 |
 | [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 165 | 160–170 | 159–172 | 157–173 | 155–176 |
 | [20–22 January 2020](2020-01-22-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 167 | 163–172 | 161–173 | 160–175 | 158–177 |
