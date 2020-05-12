@@ -10,7 +10,10 @@ Last result: **3.7%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.1–5.5% | 2.9–5.8% | 2.8–6.1% | 2.4–6.6% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.2–5.5% | 3.0–5.9% | 2.8–6.1% | 2.5–6.7% |
+| [4–6 May 2020](2020-05-06-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.5% | 3.8–5.3% | 3.6–5.6% | 3.4–5.8% | 3.1–6.2% |
+| [3–6 May 2020](2020-05-06-Interview.html) | Interview <br> Βεργίνα TV | 5.2% | 4.4–6.1% | 4.2–6.4% | 4.0–6.6% | 3.7–7.1% |
+| [24–29 April 2020](2020-04-29-Prorata.html) | Prorata | 5.0% | N/A | N/A | N/A | N/A |
 | [22–28 April 2020](2020-04-28-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 3.4% | 2.8–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
 | [14–22 April 2020](2020-04-22-GPO.html) | GPO <br> Παραπολιτικά | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [15–17 April 2020](2020-04-17-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 3.8% | 3.1–4.6% | 2.9–4.9% | 2.8–5.1% | 2.5–5.5% |
@@ -46,12 +49,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.9% | 100% |  |
-| 2.5–3.5% | 24% | 99.1% |  |
-| 3.5–4.5% | 39% | 75% | Last Result, Median |
-| 4.5–5.5% | 27% | 36% |  |
-| 5.5–6.5% | 8% | 9% |  |
-| 6.5–7.5% | 0.6% | 0.6% |  |
+| 1.5–2.5% | 0.7% | 100% |  |
+| 2.5–3.5% | 21% | 99.3% |  |
+| 3.5–4.5% | 40% | 79% | Last Result, Median |
+| 4.5–5.5% | 29% | 39% |  |
+| 5.5–6.5% | 9% | 10% |  |
+| 6.5–7.5% | 0.8% | 0.8% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -63,7 +66,10 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–15 | 0–15 | 0–16 | 0–18 |
+| N/A | [Poll Average](average.html) | 11 | 9–15 | 0–16 | 0–16 | 0–18 |
+| [4–6 May 2020](2020-05-06-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12 | 10–15 | 9–15 | 9–16 | 8–17 |
+| [3–6 May 2020](2020-05-06-Interview.html) | Interview <br> Βεργίνα TV | 14 | 12–16 | 11–17 | 11–18 | 10–19 |
+| [24–29 April 2020](2020-04-29-Prorata.html) | Prorata |  |  |  |  |  |
 | [22–28 April 2020](2020-04-28-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 10 | 0–11 | 0–12 | 0–12 | 0–13 |
 | [14–22 April 2020](2020-04-22-GPO.html) | GPO <br> Παραπολιτικά | 13 | 11–16 | 10–16 | 10–17 | 9–18 |
 | [15–17 April 2020](2020-04-17-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 10 | 8–12 | 0–13 | 0–13 | 0–15 |
@@ -100,26 +106,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% |  |
-| 1 | 0% | 93% |  |
-| 2 | 0% | 93% |  |
-| 3 | 0% | 93% |  |
-| 4 | 0% | 93% |  |
-| 5 | 0% | 93% |  |
-| 6 | 0% | 93% |  |
-| 7 | 0% | 93% |  |
-| 8 | 4% | 93% |  |
-| 9 | 12% | 89% |  |
-| 10 | 19% | 77% | Last Result |
-| 11 | 14% | 58% | Median |
-| 12 | 14% | 45% |  |
-| 13 | 11% | 31% |  |
-| 14 | 10% | 20% |  |
-| 15 | 5% | 10% |  |
-| 16 | 3% | 5% |  |
-| 17 | 1.2% | 2% |  |
-| 18 | 0.4% | 0.6% |  |
+| 0 | 6% | 100% |  |
+| 1 | 0% | 94% |  |
+| 2 | 0% | 94% |  |
+| 3 | 0% | 94% |  |
+| 4 | 0% | 94% |  |
+| 5 | 0% | 94% |  |
+| 6 | 0% | 94% |  |
+| 7 | 0% | 94% |  |
+| 8 | 3% | 94% |  |
+| 9 | 11% | 91% |  |
+| 10 | 18% | 80% | Last Result |
+| 11 | 14% | 61% | Median |
+| 12 | 14% | 47% |  |
+| 13 | 10% | 33% |  |
+| 14 | 9% | 23% |  |
+| 15 | 7% | 13% |  |
+| 16 | 4% | 6% |  |
+| 17 | 2% | 2% |  |
+| 18 | 0.6% | 0.8% |  |
 | 19 | 0.1% | 0.2% |  |
-| 20 | 0% | 0% |  |
+| 20 | 0% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 
