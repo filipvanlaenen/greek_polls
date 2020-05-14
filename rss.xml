@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Tue, 12 May 2020 08:08:12 +0200</pubDate>
+    <pubDate>Thu, 14 May 2020 07:36:53 +0200</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 4–6 May 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-05-06-PulseRC.html</link>
@@ -28,6 +28,16 @@
         type="image/png"/>
       <pubDate>Tue, 12 May 2020 08:08:12 +0200</pubDate>
       <dc:date>2020-05-12T08:08:12.923109+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prorata, 24–29 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-04-29-Prorata.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 26.3–29.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 44.0–48.0%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.5–2.6%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.1–7.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.1–7.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.2–5.9%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.4–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-29-Prorata.png"
+        length="224880"
+        type="image/png"/>
+      <pubDate>Thu, 14 May 2020 07:36:53 +0200</pubDate>
+      <dc:date>2020-05-14T07:36:53.958489+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for MEGA TV, 22–28 April 2020 – Voting Intentions</title>
@@ -80,7 +90,7 @@
       <dc:date>2020-04-18T17:13:50.693022+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Opinion Poll for Proto Thema, 23–26 March 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Opinion Poll for Πρώτο ΘΕΜΑ, 23–26 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-03-26-OpinionPoll.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.0–28.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 47.5–53.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.0–7.9%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.6–8.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.4–7.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 1.7–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-03-26-OpinionPoll.png"
@@ -90,7 +100,7 @@
       <dc:date>2020-04-18T17:29:20.090287+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Opinion Poll for Proto Thema, 6–7 March 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Opinion Poll for Πρώτο ΘΕΜΑ, 6–7 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-03-07-OpinionPoll.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.7–28.7%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 45.8–51.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 4.5–7.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.1–7.9%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.5–7.1%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.5–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-03-07-OpinionPoll.png"
@@ -260,7 +270,7 @@
       <dc:date>2019-12-31T13:47:08.061398+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Marc for Proto Thema, 29–31 October 2019 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 29–31 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 66–82 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 167–186 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0–9 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 14–23 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 12–20 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0–13 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc-seats.png"
@@ -270,7 +280,7 @@
       <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Marc for Proto Thema, 29–31 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 29–31 October 2019 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc-coalitions-seats.png"
@@ -280,7 +290,7 @@
       <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Marc for Proto Thema, 29–31 October 2019 – Voting Intentions</title>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 29–31 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.8–30.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 44.5–50.7%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.4–3.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.3–8.4%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.4–4.7%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.4–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc.png"
@@ -289,6 +299,6 @@
       <pubDate>Tue, 31 Dec 2019 14:07:05 +0100</pubDate>
       <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
     </item>
-    <dc:date>2020-05-12T08:08:12.923109+02:00</dc:date>
+    <dc:date>2020-05-14T07:36:53.958489+02:00</dc:date>
   </channel>
 </rss>
