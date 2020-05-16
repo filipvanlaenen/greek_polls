@@ -10,9 +10,9 @@ Last result: **3.7%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.3–5.6% | 3.0–5.8% | 2.8–6.1% | 2.5–6.7% |
-| [5–10 May 2020](2020-05-10-Alco.html) | Alco <br> Open TV | 4.4% | N/A | N/A | N/A | N/A |
-| [7–9 May 2020](2020-05-09-OpinionPoll.html) | Opinion Poll | 5.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.5% | 3.4–5.6% | 3.1–5.9% | 2.9–6.2% | 2.6–6.7% |
+| [5–10 May 2020](2020-05-10-Alco.html) | Alco <br> Open TV | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
+| [7–9 May 2020](2020-05-09-OpinionPoll.html) | Opinion Poll | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
 | [4–6 May 2020](2020-05-06-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.5% | 3.8–5.3% | 3.6–5.6% | 3.4–5.8% | 3.1–6.2% |
 | [3–6 May 2020](2020-05-06-Interview.html) | Interview <br> Βεργίνα TV | 5.2% | 4.4–6.1% | 4.2–6.4% | 4.0–6.6% | 3.7–7.1% |
 | [24–29 April 2020](2020-04-29-Prorata.html) | Prorata | 5.0% | 4.5–5.6% | 4.3–5.8% | 4.2–5.9% | 4.0–6.2% |
@@ -51,12 +51,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.6% | 100% |  |
-| 2.5–3.5% | 18% | 99.4% |  |
-| 3.5–4.5% | 36% | 82% | Last Result, Median |
-| 4.5–5.5% | 35% | 45% |  |
-| 5.5–6.5% | 9% | 10% |  |
-| 6.5–7.5% | 0.7% | 0.7% |  |
+| 1.5–2.5% | 0.5% | 100% |  |
+| 2.5–3.5% | 15% | 99.5% |  |
+| 3.5–4.5% | 36% | 85% | Last Result |
+| 4.5–5.5% | 38% | 49% | Median |
+| 5.5–6.5% | 10% | 11% |  |
+| 6.5–7.5% | 0.8% | 0.8% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -68,9 +68,9 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 9–15 | 0–16 | 0–16 | 0–18 |
-| [5–10 May 2020](2020-05-10-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
-| [7–9 May 2020](2020-05-09-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 12 | 9–15 | 8–16 | 0–16 | 0–18 |
+| [5–10 May 2020](2020-05-10-Alco.html) | Alco <br> Open TV | 13 | 10–15 | 10–15 | 9–15 | 0–18 |
+| [7–9 May 2020](2020-05-09-OpinionPoll.html) | Opinion Poll | 13 | 11–16 | 11–16 | 10–17 | 9–18 |
 | [4–6 May 2020](2020-05-06-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12 | 10–15 | 9–15 | 9–16 | 8–17 |
 | [3–6 May 2020](2020-05-06-Interview.html) | Interview <br> Βεργίνα TV | 14 | 12–16 | 11–17 | 11–18 | 10–19 |
 | [24–29 April 2020](2020-04-29-Prorata.html) | Prorata | 13 | 12–15 | 12–15 | 12–16 | 10–17 |
@@ -110,23 +110,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% |  |
-| 1 | 0% | 95% |  |
-| 2 | 0% | 95% |  |
-| 3 | 0% | 95% |  |
-| 4 | 0% | 95% |  |
-| 5 | 0% | 95% |  |
-| 6 | 0% | 95% |  |
-| 7 | 0% | 95% |  |
-| 8 | 3% | 95% |  |
-| 9 | 9% | 92% |  |
-| 10 | 16% | 83% | Last Result |
-| 11 | 12% | 67% |  |
-| 12 | 15% | 54% | Median |
-| 13 | 12% | 39% |  |
-| 14 | 12% | 27% |  |
-| 15 | 9% | 15% |  |
-| 16 | 3% | 6% |  |
+| 0 | 4% | 100% |  |
+| 1 | 0% | 96% |  |
+| 2 | 0% | 96% |  |
+| 3 | 0% | 96% |  |
+| 4 | 0% | 96% |  |
+| 5 | 0% | 96% |  |
+| 6 | 0% | 96% |  |
+| 7 | 0% | 96% |  |
+| 8 | 2% | 96% |  |
+| 9 | 8% | 94% |  |
+| 10 | 15% | 86% | Last Result |
+| 11 | 12% | 71% |  |
+| 12 | 15% | 59% | Median |
+| 13 | 15% | 43% |  |
+| 14 | 12% | 28% |  |
+| 15 | 10% | 16% |  |
+| 16 | 4% | 6% |  |
 | 17 | 2% | 2% |  |
 | 18 | 0.5% | 0.7% |  |
 | 19 | 0.1% | 0.2% |  |
