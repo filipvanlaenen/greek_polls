@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sat, 16 May 2020 11:30:40 +0200</pubDate>
+    <pubDate>Tue, 02 Jun 2020 07:42:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by MRB for Star, 8–13 May 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-13-MRB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.8–27.7%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 46.9–52.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.0–7.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.2–6.7%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.7–6.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.7–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-13-MRB.png"
+        length="222780"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jun 2020 07:42:40 +0200</pubDate>
+      <dc:date>2020-06-02T07:42:40.392408+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 5–10 May 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-05-10-Alco.html</link>
@@ -319,6 +329,6 @@
       <pubDate>Tue, 31 Dec 2019 14:07:05 +0100</pubDate>
       <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
     </item>
-    <dc:date>2020-05-16T11:30:40.092605+02:00</dc:date>
+    <dc:date>2020-06-02T07:42:40.392408+02:00</dc:date>
   </channel>
 </rss>
