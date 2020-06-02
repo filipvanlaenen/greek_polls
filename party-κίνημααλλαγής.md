@@ -10,7 +10,8 @@ Last result: **8.1%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.4–7.9% | 5.1–8.2% | 4.8–8.6% | 4.4–9.2% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.4–7.8% | 5.1–8.2% | 4.9–8.5% | 4.4–9.2% |
+| [8–13 May 2020](2020-05-13-MRB.html) | MRB <br> Star | 6.2% | 5.4–7.2% | 5.2–7.4% | 5.0–7.7% | 4.6–8.2% |
 | [5–10 May 2020](2020-05-10-Alco.html) | Alco <br> Open TV | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
 | [7–9 May 2020](2020-05-09-OpinionPoll.html) | Opinion Poll | 5.6% | 4.8–6.6% | 4.5–6.8% | 4.3–7.1% | 4.0–7.6% |
 | [4–6 May 2020](2020-05-06-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
@@ -51,12 +52,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.0% | 100% |  |
-| 4.5–5.5% | 14% | 99.0% |  |
-| 5.5–6.5% | 38% | 85% | Median |
-| 6.5–7.5% | 31% | 47% |  |
-| 7.5–8.5% | 14% | 16% | Last Result |
-| 8.5–9.5% | 2% | 3% |  |
+| 3.5–4.5% | 0.9% | 100% |  |
+| 4.5–5.5% | 14% | 99.1% |  |
+| 5.5–6.5% | 39% | 85% | Median |
+| 6.5–7.5% | 31% | 46% |  |
+| 7.5–8.5% | 13% | 15% | Last Result |
+| 8.5–9.5% | 2% | 2% |  |
 | 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -69,7 +70,8 @@ Last result: **22** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–21 | 13–22 | 13–23 | 11–25 |
+| N/A | [Poll Average](average.html) | 17 | 14–21 | 13–22 | 13–23 | 12–25 |
+| [8–13 May 2020](2020-05-13-MRB.html) | MRB <br> Star | 16 | 14–19 | 14–20 | 13–20 | 12–22 |
 | [5–10 May 2020](2020-05-10-Alco.html) | Alco <br> Open TV | 18 | 16–21 | 15–22 | 15–22 | 13–24 |
 | [7–9 May 2020](2020-05-09-OpinionPoll.html) | Opinion Poll | 15 | 12–17 | 12–18 | 11–19 | 10–20 |
 | [4–6 May 2020](2020-05-06-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19 | 16–21 | 16–22 | 15–23 | 14–25 |
@@ -112,23 +114,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 0.4% | 99.8% |  |
-| 12 | 2% | 99.5% |  |
+| 11 | 0.4% | 99.9% |  |
+| 12 | 1.5% | 99.5% |  |
 | 13 | 3% | 98% |  |
-| 14 | 6% | 95% |  |
+| 14 | 7% | 95% |  |
 | 15 | 13% | 88% |  |
-| 16 | 14% | 75% |  |
-| 17 | 15% | 61% | Median |
-| 18 | 14% | 46% |  |
-| 19 | 13% | 33% |  |
-| 20 | 7% | 19% |  |
-| 21 | 5% | 12% |  |
-| 22 | 4% | 7% | Last Result |
+| 16 | 15% | 75% |  |
+| 17 | 16% | 60% | Median |
+| 18 | 14% | 44% |  |
+| 19 | 13% | 31% |  |
+| 20 | 7% | 18% |  |
+| 21 | 5% | 11% |  |
+| 22 | 3% | 6% | Last Result |
 | 23 | 2% | 3% |  |
-| 24 | 0.9% | 1.4% |  |
-| 25 | 0.4% | 0.6% |  |
+| 24 | 0.8% | 1.3% |  |
+| 25 | 0.3% | 0.5% |  |
 | 26 | 0.1% | 0.2% |  |
-| 27 | 0% | 0.1% |  |
-| 28 | 0% | 0% |  |
+| 27 | 0% | 0% |  |
 
 
