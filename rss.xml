@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Mon, 08 Jun 2020 07:43:47 +0200</pubDate>
+    <pubDate>Thu, 09 Jul 2020 07:11:04 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Κάπα Research, 2 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-07-02-ΚάπαResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.3–29.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 44.2–50.4%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.1–2.7%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.1–8.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.0–6.8%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.2–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-02-ΚάπαResearch.png"
+        length="241449"
+        type="image/png"/>
+      <pubDate>Thu, 09 Jul 2020 07:11:04 +0200</pubDate>
+      <dc:date>2020-07-09T07:11:04.661539+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 1–3 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-06-03-PulseRC.html</link>
@@ -359,6 +369,6 @@
       <pubDate>Tue, 31 Dec 2019 14:07:05 +0100</pubDate>
       <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
     </item>
-    <dc:date>2020-06-08T07:43:47.792967+02:00</dc:date>
+    <dc:date>2020-07-09T07:11:04.661539+02:00</dc:date>
   </channel>
 </rss>
