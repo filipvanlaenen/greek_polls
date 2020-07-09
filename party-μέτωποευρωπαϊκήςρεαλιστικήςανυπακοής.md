@@ -10,8 +10,16 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.5–4.2% | 2.3–4.5% | 2.1–4.7% | 1.7–5.2% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.3–4.5% | 2.0–5.0% |
+| [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
+| [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 4.0% | N/A | N/A | N/A | N/A |
+| [22–26 June 2020](2020-06-26-Prorata.html) | Prorata | 3.0% | N/A | N/A | N/A | N/A |
+| [22–26 June 2020](2020-06-26-GPO.html) | GPO <br> Τα Νέα | 3.0% | N/A | N/A | N/A | N/A |
+| [17–25 June 2020](2020-06-25-MRB.html) | MRB <br> Star | 3.2% | N/A | N/A | N/A | N/A |
+| [4–9 June 2020](2020-06-09-Interview.html) | Interview <br> Βεργίνα TV | 3.7% | N/A | N/A | N/A | N/A |
+| [2–8 June 2020](2020-06-08-Alco.html) | Alco <br> Open TV | 3.0% | N/A | N/A | N/A | N/A |
 | [1–3 June 2020](2020-06-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
+| [1–3 June 2020](2020-06-03-OpinionPoll.html) | Opinion Poll <br> paraskhnio.gr | 3.3% | N/A | N/A | N/A | N/A |
 | [22–27 May 2020](2020-05-27-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
 | [22–27 May 2020](2020-05-27-GPO.html) | GPO <br> Παραπολιτικά | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [8–13 May 2020](2020-05-13-MRB.html) | MRB <br> Star | 3.7% | 3.1–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
@@ -54,14 +62,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 11% | 99.9% |  |
-| 2.5–3.5% | 50% | 88% | Last Result, Median |
-| 3.5–4.5% | 35% | 39% |  |
-| 4.5–5.5% | 4% | 4% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 7% | 100% |  |
+| 2.5–3.5% | 57% | 93% | Last Result, Median |
+| 3.5–4.5% | 34% | 37% |  |
+| 4.5–5.5% | 2% | 2% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -72,8 +78,16 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 0–11 | 0–12 | 0–12 | 0–14 |
+| N/A | [Poll Average](average.html) | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
+| [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
+| [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
+| [22–26 June 2020](2020-06-26-Prorata.html) | Prorata |  |  |  |  |  |
+| [22–26 June 2020](2020-06-26-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
+| [17–25 June 2020](2020-06-25-MRB.html) | MRB <br> Star |  |  |  |  |  |
+| [4–9 June 2020](2020-06-09-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
+| [2–8 June 2020](2020-06-08-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
 | [1–3 June 2020](2020-06-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
+| [1–3 June 2020](2020-06-03-OpinionPoll.html) | Opinion Poll <br> paraskhnio.gr |  |  |  |  |  |
 | [22–27 May 2020](2020-05-27-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 9 | 0–10 | 0–11 | 0–11 | 0–12 |
 | [22–27 May 2020](2020-05-27-GPO.html) | GPO <br> Παραπολιτικά | 8 | 0–10 | 0–11 | 0–11 | 0–12 |
 | [8–13 May 2020](2020-05-13-MRB.html) | MRB <br> Star | 10 | 8–12 | 0–12 | 0–13 | 0–14 |
@@ -118,22 +132,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% |  |
-| 1 | 0% | 68% |  |
-| 2 | 0% | 68% |  |
-| 3 | 0% | 68% |  |
-| 4 | 0% | 68% |  |
-| 5 | 0% | 68% |  |
-| 6 | 0% | 68% |  |
-| 7 | 0% | 68% |  |
-| 8 | 9% | 68% |  |
-| 9 | 23% | 59% | Last Result, Median |
-| 10 | 19% | 36% |  |
-| 11 | 10% | 17% |  |
-| 12 | 5% | 7% |  |
-| 13 | 2% | 2% |  |
-| 14 | 0.4% | 0.5% |  |
-| 15 | 0.1% | 0.1% |  |
+| 0 | 27% | 100% |  |
+| 1 | 0% | 73% |  |
+| 2 | 0% | 73% |  |
+| 3 | 0% | 73% |  |
+| 4 | 0% | 73% |  |
+| 5 | 0% | 73% |  |
+| 6 | 0% | 73% |  |
+| 7 | 0% | 73% |  |
+| 8 | 9% | 73% |  |
+| 9 | 28% | 65% | Last Result, Median |
+| 10 | 21% | 36% |  |
+| 11 | 10% | 15% |  |
+| 12 | 3% | 5% |  |
+| 13 | 1.4% | 2% |  |
+| 14 | 0.2% | 0.3% |  |
+| 15 | 0% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
 
