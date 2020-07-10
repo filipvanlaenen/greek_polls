@@ -10,10 +10,10 @@ Last result: **3.7%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 3.2–4.7% | 3.0–5.0% | 2.9–5.2% | 2.6–5.6% |
+| N/A | [Poll Average](average.html) | 3.8% | 3.2–4.6% | 3.0–4.9% | 2.9–5.1% | 2.6–5.5% |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
-| [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 3.9% | N/A | N/A | N/A | N/A |
-| [22–26 June 2020](2020-06-26-Prorata.html) | Prorata | 3.5% | N/A | N/A | N/A | N/A |
+| [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 3.9% | 3.3–4.6% | 3.1–4.9% | 3.0–5.0% | 2.7–5.4% |
+| [22–26 June 2020](2020-06-26-Prorata.html) | Prorata | 3.5% | 3.0–4.1% | 2.9–4.2% | 2.8–4.4% | 2.6–4.6% |
 | [22–26 June 2020](2020-06-26-GPO.html) | GPO <br> Τα Νέα | 5.0% | N/A | N/A | N/A | N/A |
 | [17–25 June 2020](2020-06-25-MRB.html) | MRB <br> Star | 4.4% | N/A | N/A | N/A | N/A |
 | [4–9 June 2020](2020-06-09-Interview.html) | Interview <br> Βεργίνα TV | 5.2% | N/A | N/A | N/A | N/A |
@@ -63,11 +63,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 24% | 99.6% |  |
-| 3.5–4.5% | 59% | 75% | Last Result, Median |
-| 4.5–5.5% | 15% | 16% |  |
-| 5.5–6.5% | 0.7% | 0.7% |  |
+| 1.5–2.5% | 0.3% | 100% |  |
+| 2.5–3.5% | 31% | 99.7% |  |
+| 3.5–4.5% | 58% | 69% | Last Result, Median |
+| 4.5–5.5% | 11% | 11% |  |
+| 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -79,10 +79,10 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–13 | 0–13 | 0–14 | 0–15 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 0–13 | 0–14 | 0–15 |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 10 | 8–13 | 0–13 | 0–14 | 0–15 |
-| [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
-| [22–26 June 2020](2020-06-26-Prorata.html) | Prorata |  |  |  |  |  |
+| [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 10 | 8–12 | 8–12 | 0–13 | 0–14 |
+| [22–26 June 2020](2020-06-26-Prorata.html) | Prorata | 10 | 9–11 | 0–11 | 0–12 | 0–13 |
 | [22–26 June 2020](2020-06-26-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
 | [17–25 June 2020](2020-06-25-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [4–9 June 2020](2020-06-09-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
@@ -133,24 +133,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 0% | 94% |  |
-| 2 | 0% | 94% |  |
-| 3 | 0% | 94% |  |
-| 4 | 0% | 94% |  |
-| 5 | 0% | 94% |  |
-| 6 | 0% | 94% |  |
-| 7 | 0% | 94% |  |
-| 8 | 3% | 94% |  |
-| 9 | 13% | 92% |  |
-| 10 | 23% | 79% | Last Result |
-| 11 | 26% | 56% | Median |
-| 12 | 16% | 30% |  |
-| 13 | 9% | 14% |  |
-| 14 | 3% | 5% |  |
-| 15 | 1.2% | 1.5% |  |
-| 16 | 0.2% | 0.3% |  |
-| 17 | 0.1% | 0.1% |  |
-| 18 | 0% | 0% |  |
+| 0 | 5% | 100% |  |
+| 1 | 0% | 95% |  |
+| 2 | 0% | 95% |  |
+| 3 | 0% | 95% |  |
+| 4 | 0% | 95% |  |
+| 5 | 0% | 95% |  |
+| 6 | 0% | 95% |  |
+| 7 | 0% | 95% |  |
+| 8 | 4% | 95% |  |
+| 9 | 23% | 91% |  |
+| 10 | 26% | 68% | Last Result, Median |
+| 11 | 23% | 42% |  |
+| 12 | 11% | 19% |  |
+| 13 | 6% | 8% |  |
+| 14 | 2% | 3% |  |
+| 15 | 0.6% | 0.8% |  |
+| 16 | 0.1% | 0.1% |  |
+| 17 | 0% | 0% |  |
 
 
