@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Fri, 10 Jul 2020 08:34:39 +0200</pubDate>
+    <pubDate>Sat, 11 Jul 2020 15:22:52 +0200</pubDate>
     <item>
       <title>Opinion Poll by Κάπα Research, 2 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-07-02-ΚάπαResearch.html</link>
@@ -36,8 +36,48 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata.png"
         length="228420"
         type="image/png"/>
-      <pubDate>Fri, 10 Jul 2020 08:34:39 +0200</pubDate>
-      <dc:date>2020-07-10T08:34:39.941309+02:00</dc:date>
+      <pubDate>Sat, 11 Jul 2020 14:33:39 +0200</pubDate>
+      <dc:date>2020-07-11T14:33:39.598218+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Τα Νέα, 22–26 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-26-GPO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.8–28.3%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 46.5–51.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.8–8.4%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.4–7.9%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.0–6.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.2–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-26-GPO.png"
+        length="223192"
+        type="image/png"/>
+      <pubDate>Sat, 11 Jul 2020 14:43:03 +0200</pubDate>
+      <dc:date>2020-07-11T14:43:03.658494+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 17–25 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-25-MRB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.4–27.0%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 44.1–48.3%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.2–2.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.6–8.8%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.1–7.1%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.6–5.4%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.5–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-25-MRB.png"
+        length="232127"
+        type="image/png"/>
+      <pubDate>Sat, 11 Jul 2020 14:56:32 +0200</pubDate>
+      <dc:date>2020-07-11T14:56:32.953631+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 4–9 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-09-Interview.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 21.2–26.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 44.2–50.1%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.3–9.5%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 3.9–6.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.8–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-09-Interview.png"
+        length="228178"
+        type="image/png"/>
+      <pubDate>Sat, 11 Jul 2020 15:04:13 +0200</pubDate>
+      <dc:date>2020-07-11T15:04:13.934608+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Open TV, 2–8 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-08-Alco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.1–29.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 43.0–49.2%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.0–2.6%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.9–9.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.8–7.8%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-08-Alco.png"
+        length="263042"
+        type="image/png"/>
+      <pubDate>Sat, 11 Jul 2020 15:14:01 +0200</pubDate>
+      <dc:date>2020-07-11T15:14:01.962168+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 1–3 June 2020 – Voting Intentions</title>
@@ -48,6 +88,16 @@
         type="image/png"/>
       <pubDate>Mon, 08 Jun 2020 07:17:15 +0200</pubDate>
       <dc:date>2020-06-08T07:17:15.22739+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for paraskhnio.gr, 1–3 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-03-OpinionPoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 21.8–27.0%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 47.9–54.0%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.8–3.7%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.1–8.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.7–7.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.4–5.9%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.4–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-03-OpinionPoll.png"
+        length="244376"
+        type="image/png"/>
+      <pubDate>Sat, 11 Jul 2020 15:22:52 +0200</pubDate>
+      <dc:date>2020-07-11T15:22:52.104779+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for MEGA TV, 22–27 May 2020 – Voting Intentions</title>
@@ -389,6 +439,6 @@
       <pubDate>Tue, 31 Dec 2019 14:07:05 +0100</pubDate>
       <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
     </item>
-    <dc:date>2020-07-10T08:34:39.941309+02:00</dc:date>
+    <dc:date>2020-07-11T15:22:52.104779+02:00</dc:date>
   </channel>
 </rss>
