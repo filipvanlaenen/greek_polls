@@ -2,374 +2,422 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>All Registered Polls for the Hellenic Parliament</title>
-    <link>null</link>
+    <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sat, 28 Dec 2019 11:07:19 +0100</pubDate>
+    <pubDate>Fri, 17 Jul 2020 21:18:39 +0200</pubDate>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 13–15 July 2020 – Voting Intentions</title>
-      <link>null/2020-07-15-Interview.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Interview for Βεργίνα TV, 13–15 July 2020<br/><img src="null/2020-07-15-Interview.png"/><br/>Details on null/2020-07-15-Interview.html]]></description>
-      <enclosure url="null/2020-07-15-Interview.png" length="227348" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Interview for Βεργίνα TV, 13–15 July 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview.png" length="227348" type="image/png"/>
       <pubDate>Fri, 17 Jul 2020 07:15:55 +0200</pubDate>
       <dc:date>2020-07-17T07:15:55.974009+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Αlpha TV, 10–13 July 2020 – Voting Intentions</title>
-      <link>null/2020-07-13-Marc.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Marc for Αlpha TV, 10–13 July 2020<br/><img src="null/2020-07-13-Marc.png"/><br/>Details on null/2020-07-13-Marc.html]]></description>
-      <enclosure url="null/2020-07-13-Marc.png" length="241852" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-07-13-Marc.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Marc for Αlpha TV, 10–13 July 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-07-13-Marc.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-07-13-Marc.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-13-Marc.png" length="241852" type="image/png"/>
       <pubDate>Fri, 17 Jul 2020 07:20:51 +0200</pubDate>
       <dc:date>2020-07-17T07:20:51.915643+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 6–8 July 2020 – Voting Intentions</title>
-      <link>null/2020-07-08-PulseRC.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 6–8 July 2020<br/><img src="null/2020-07-08-PulseRC.png"/><br/>Details on null/2020-07-08-PulseRC.html]]></description>
-      <enclosure url="null/2020-07-08-PulseRC.png" length="237943" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-07-08-PulseRC.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 6–8 July 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-07-08-PulseRC.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-07-08-PulseRC.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-08-PulseRC.png" length="237943" type="image/png"/>
       <pubDate>Fri, 17 Jul 2020 07:51:58 +0200</pubDate>
       <dc:date>2020-07-17T07:51:58.543434+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Alco for Open TV, 29 June–4 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-07-04-Alco.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Alco for Open TV, 29 June–4 July 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-07-04-Alco.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-07-04-Alco.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-04-Alco.png" length="246918" type="image/png"/>
+      <pubDate>Sun, 19 Jul 2020 21:26:20 +0200</pubDate>
+      <dc:date>2020-07-19T21:26:20.017796+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll, 1–3 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-07-03-OpinionPoll.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Opinion Poll, 1–3 July 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-07-03-OpinionPoll.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-07-03-OpinionPoll.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-03-OpinionPoll.png" length="257495" type="image/png"/>
+      <pubDate>Sun, 19 Jul 2020 21:31:20 +0200</pubDate>
+      <dc:date>2020-07-19T21:31:20.294184+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Κάπα Research, 2 July 2020 – Voting Intentions</title>
-      <link>null/2020-07-02-ΚάπαResearch.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Κάπα Research, 2 July 2020<br/><img src="null/2020-07-02-ΚάπαResearch.png"/><br/>Details on null/2020-07-02-ΚάπαResearch.html]]></description>
-      <enclosure url="null/2020-07-02-ΚάπαResearch.png" length="241449" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-07-02-ΚάπαResearch.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Κάπα Research, 2 July 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-07-02-ΚάπαResearch.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-07-02-ΚάπαResearch.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-02-ΚάπαResearch.png" length="241449" type="image/png"/>
       <pubDate>Thu, 9 Jul 2020 07:11:04 +0200</pubDate>
       <dc:date>2020-07-09T07:11:04.661539+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Marc, 1–2 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-07-02-Marc.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Marc, 1–2 July 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-07-02-Marc.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-07-02-Marc.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-02-Marc.png" length="210025" type="image/png"/>
+      <pubDate>Sun, 19 Jul 2020 21:45:34 +0200</pubDate>
+      <dc:date>2020-07-19T21:45:34.531022+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Metron Analysis for Το Βήμα, 24–29 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-29-MetronAnalysis.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Metron Analysis for Το Βήμα, 24–29 June 2020<br/><img src="null/2020-06-29-MetronAnalysis.png"/><br/>Details on null/2020-06-29-MetronAnalysis.html]]></description>
-      <enclosure url="null/2020-06-29-MetronAnalysis.png" length="227742" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-29-MetronAnalysis.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Metron Analysis for Το Βήμα, 24–29 June 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-06-29-MetronAnalysis.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-06-29-MetronAnalysis.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-29-MetronAnalysis.png" length="227742" type="image/png"/>
       <pubDate>Fri, 10 Jul 2020 07:46:53 +0200</pubDate>
       <dc:date>2020-07-10T07:46:53.945076+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Τα Νέα, 22–26 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-26-GPO.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by GPO for Τα Νέα, 22–26 June 2020<br/><img src="null/2020-06-26-GPO.png"/><br/>Details on null/2020-06-26-GPO.html]]></description>
-      <enclosure url="null/2020-06-26-GPO.png" length="223192" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-26-GPO.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by GPO for Τα Νέα, 22–26 June 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-06-26-GPO.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-06-26-GPO.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-26-GPO.png" length="223192" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 14:43:03 +0200</pubDate>
       <dc:date>2020-07-11T14:43:03.658494+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata, 22–26 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-26-Prorata.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Prorata, 22–26 June 2020<br/><img src="null/2020-06-26-Prorata.png"/><br/>Details on null/2020-06-26-Prorata.html]]></description>
-      <enclosure url="null/2020-06-26-Prorata.png" length="228420" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Prorata, 22–26 June 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata.png" length="228420" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 14:33:39 +0200</pubDate>
       <dc:date>2020-07-11T14:33:39.598218+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 17–25 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-25-MRB.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by MRB for Star, 17–25 June 2020<br/><img src="null/2020-06-25-MRB.png"/><br/>Details on null/2020-06-25-MRB.html]]></description>
-      <enclosure url="null/2020-06-25-MRB.png" length="232127" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-25-MRB.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by MRB for Star, 17–25 June 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-06-25-MRB.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-06-25-MRB.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-25-MRB.png" length="232127" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 14:56:32 +0200</pubDate>
       <dc:date>2020-07-11T14:56:32.953631+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 4–9 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-09-Interview.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Interview for Βεργίνα TV, 4–9 June 2020<br/><img src="null/2020-06-09-Interview.png"/><br/>Details on null/2020-06-09-Interview.html]]></description>
-      <enclosure url="null/2020-06-09-Interview.png" length="228178" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-09-Interview.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Interview for Βεργίνα TV, 4–9 June 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-06-09-Interview.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-06-09-Interview.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-09-Interview.png" length="228178" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 15:04:13 +0200</pubDate>
       <dc:date>2020-07-11T15:04:13.934608+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 2–8 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-08-Alco.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Alco for Open TV, 2–8 June 2020<br/><img src="null/2020-06-08-Alco.png"/><br/>Details on null/2020-06-08-Alco.html]]></description>
-      <enclosure url="null/2020-06-08-Alco.png" length="263042" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-08-Alco.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Alco for Open TV, 2–8 June 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-06-08-Alco.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-06-08-Alco.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-08-Alco.png" length="263042" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 15:14:01 +0200</pubDate>
       <dc:date>2020-07-11T15:14:01.962168+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll for paraskhnio.gr, 1–3 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-03-OpinionPoll.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Opinion Poll for paraskhnio.gr, 1–3 June 2020<br/><img src="null/2020-06-03-OpinionPoll.png"/><br/>Details on null/2020-06-03-OpinionPoll.html]]></description>
-      <enclosure url="null/2020-06-03-OpinionPoll.png" length="244376" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-03-OpinionPoll.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Opinion Poll for paraskhnio.gr, 1–3 June 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-06-03-OpinionPoll.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-06-03-OpinionPoll.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-03-OpinionPoll.png" length="244376" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 15:22:52 +0200</pubDate>
       <dc:date>2020-07-11T15:22:52.104779+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 1–3 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-03-PulseRC.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 1–3 June 2020<br/><img src="null/2020-06-03-PulseRC.png"/><br/>Details on null/2020-06-03-PulseRC.html]]></description>
-      <enclosure url="null/2020-06-03-PulseRC.png" length="223354" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-03-PulseRC.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 1–3 June 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-06-03-PulseRC.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-06-03-PulseRC.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-03-PulseRC.png" length="223354" type="image/png"/>
       <pubDate>Mon, 8 Jun 2020 07:17:15 +0200</pubDate>
       <dc:date>2020-06-08T07:17:15.22739+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Παραπολιτικά, 22–27 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-27-GPO.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by GPO for Παραπολιτικά, 22–27 May 2020<br/><img src="null/2020-05-27-GPO.png"/><br/>Details on null/2020-05-27-GPO.html]]></description>
-      <enclosure url="null/2020-05-27-GPO.png" length="228700" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-27-GPO.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by GPO for Παραπολιτικά, 22–27 May 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-05-27-GPO.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-05-27-GPO.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-27-GPO.png" length="228700" type="image/png"/>
       <pubDate>Mon, 8 Jun 2020 07:43:47 +0200</pubDate>
       <dc:date>2020-06-08T07:43:47.792967+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for MEGA TV, 22–27 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-27-MetronAnalysis.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Metron Analysis for MEGA TV, 22–27 May 2020<br/><img src="null/2020-05-27-MetronAnalysis.png"/><br/>Details on null/2020-05-27-MetronAnalysis.html]]></description>
-      <enclosure url="null/2020-05-27-MetronAnalysis.png" length="242457" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-27-MetronAnalysis.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Metron Analysis for MEGA TV, 22–27 May 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-05-27-MetronAnalysis.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-05-27-MetronAnalysis.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-27-MetronAnalysis.png" length="242457" type="image/png"/>
       <pubDate>Mon, 8 Jun 2020 07:38:16 +0200</pubDate>
       <dc:date>2020-06-08T07:38:16.259135+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 8–13 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-13-MRB.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by MRB for Star, 8–13 May 2020<br/><img src="null/2020-05-13-MRB.png"/><br/>Details on null/2020-05-13-MRB.html]]></description>
-      <enclosure url="null/2020-05-13-MRB.png" length="222780" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-13-MRB.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by MRB for Star, 8–13 May 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-05-13-MRB.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-05-13-MRB.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-13-MRB.png" length="222780" type="image/png"/>
       <pubDate>Tue, 2 Jun 2020 07:42:40 +0200</pubDate>
       <dc:date>2020-06-02T07:42:40.392408+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 5–10 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-10-Alco.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Alco for Open TV, 5–10 May 2020<br/><img src="null/2020-05-10-Alco.png"/><br/>Details on null/2020-05-10-Alco.html]]></description>
-      <enclosure url="null/2020-05-10-Alco.png" length="263414" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-10-Alco.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Alco for Open TV, 5–10 May 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-05-10-Alco.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-05-10-Alco.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-10-Alco.png" length="263414" type="image/png"/>
       <pubDate>Sat, 16 May 2020 11:19:49 +0200</pubDate>
       <dc:date>2020-05-16T11:19:49.775673+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll, 7–9 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-09-OpinionPoll.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Opinion Poll, 7–9 May 2020<br/><img src="null/2020-05-09-OpinionPoll.png"/><br/>Details on null/2020-05-09-OpinionPoll.html]]></description>
-      <enclosure url="null/2020-05-09-OpinionPoll.png" length="239013" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-09-OpinionPoll.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Opinion Poll, 7–9 May 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-05-09-OpinionPoll.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-05-09-OpinionPoll.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-09-OpinionPoll.png" length="239013" type="image/png"/>
       <pubDate>Sat, 16 May 2020 11:30:40 +0200</pubDate>
       <dc:date>2020-05-16T11:30:40.092605+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 4–6 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-06-PulseRC.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 4–6 May 2020<br/><img src="null/2020-05-06-PulseRC.png"/><br/>Details on null/2020-05-06-PulseRC.html]]></description>
-      <enclosure url="null/2020-05-06-PulseRC.png" length="241096" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-06-PulseRC.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 4–6 May 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-05-06-PulseRC.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-05-06-PulseRC.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-06-PulseRC.png" length="241096" type="image/png"/>
       <pubDate>Tue, 12 May 2020 08:02:14 +0200</pubDate>
       <dc:date>2020-05-12T08:02:14.809801+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 3–6 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-06-Interview.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Interview for Βεργίνα TV, 3–6 May 2020<br/><img src="null/2020-05-06-Interview.png"/><br/>Details on null/2020-05-06-Interview.html]]></description>
-      <enclosure url="null/2020-05-06-Interview.png" length="227150" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-06-Interview.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Interview for Βεργίνα TV, 3–6 May 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-05-06-Interview.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-05-06-Interview.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-06-Interview.png" length="227150" type="image/png"/>
       <pubDate>Tue, 12 May 2020 08:08:12 +0200</pubDate>
       <dc:date>2020-05-12T08:08:12.923109+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata, 24–29 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-29-Prorata.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Prorata, 24–29 April 2020<br/><img src="null/2020-04-29-Prorata.png"/><br/>Details on null/2020-04-29-Prorata.html]]></description>
-      <enclosure url="null/2020-04-29-Prorata.png" length="224880" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-04-29-Prorata.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Prorata, 24–29 April 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-04-29-Prorata.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-04-29-Prorata.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-29-Prorata.png" length="224880" type="image/png"/>
       <pubDate>Thu, 14 May 2020 07:36:53 +0200</pubDate>
       <dc:date>2020-05-14T07:36:53.958489+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for MEGA TV, 22–28 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-28-MetronAnalysis.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Metron Analysis for MEGA TV, 22–28 April 2020<br/><img src="null/2020-04-28-MetronAnalysis.png"/><br/>Details on null/2020-04-28-MetronAnalysis.html]]></description>
-      <enclosure url="null/2020-04-28-MetronAnalysis.png" length="243051" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-04-28-MetronAnalysis.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Metron Analysis for MEGA TV, 22–28 April 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-04-28-MetronAnalysis.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-04-28-MetronAnalysis.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-28-MetronAnalysis.png" length="243051" type="image/png"/>
       <pubDate>Wed, 6 May 2020 07:13:27 +0200</pubDate>
       <dc:date>2020-05-06T07:13:27.662155+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Παραπολιτικά, 14–22 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-22-GPO.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by GPO for Παραπολιτικά, 14–22 April 2020<br/><img src="null/2020-04-22-GPO.png"/><br/>Details on null/2020-04-22-GPO.html]]></description>
-      <enclosure url="null/2020-04-22-GPO.png" length="227587" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-04-22-GPO.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by GPO for Παραπολιτικά, 14–22 April 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-04-22-GPO.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-04-22-GPO.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-22-GPO.png" length="227587" type="image/png"/>
       <pubDate>Wed, 6 May 2020 08:08:41 +0200</pubDate>
       <dc:date>2020-05-06T08:08:41.871735+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Κάπα Research for ΕΘΝΟΣ, 15–17 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-17-ΚάπαResearch.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Κάπα Research for ΕΘΝΟΣ, 15–17 April 2020<br/><img src="null/2020-04-17-ΚάπαResearch.png"/><br/>Details on null/2020-04-17-ΚάπαResearch.html]]></description>
-      <enclosure url="null/2020-04-17-ΚάπαResearch.png" length="245946" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-04-17-ΚάπαResearch.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Κάπα Research for ΕΘΝΟΣ, 15–17 April 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-04-17-ΚάπαResearch.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-04-17-ΚάπαResearch.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-17-ΚάπαResearch.png" length="245946" type="image/png"/>
       <pubDate>Thu, 30 Apr 2020 07:50:24 +0200</pubDate>
       <dc:date>2020-04-30T07:50:24.169341+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Alpha TV, 11–13 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-13-Marc.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Marc for Alpha TV, 11–13 April 2020<br/><img src="null/2020-04-13-Marc.png"/><br/>Details on null/2020-04-13-Marc.html]]></description>
-      <enclosure url="null/2020-04-13-Marc.png" length="210203" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-04-13-Marc.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Marc for Alpha TV, 11–13 April 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-04-13-Marc.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-04-13-Marc.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-13-Marc.png" length="210203" type="image/png"/>
       <pubDate>Sat, 18 Apr 2020 17:05:58 +0200</pubDate>
       <dc:date>2020-04-18T17:05:58.206239+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 30 March–1 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-01-PulseRC.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 30 March–1 April 2020<br/><img src="null/2020-04-01-PulseRC.png"/><br/>Details on null/2020-04-01-PulseRC.html]]></description>
-      <enclosure url="null/2020-04-01-PulseRC.png" length="206015" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-04-01-PulseRC.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 30 March–1 April 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-04-01-PulseRC.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-04-01-PulseRC.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-01-PulseRC.png" length="206015" type="image/png"/>
       <pubDate>Sat, 18 Apr 2020 17:13:50 +0200</pubDate>
       <dc:date>2020-04-18T17:13:50.693022+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll for Πρώτο ΘΕΜΑ, 23–26 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-26-OpinionPoll.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Opinion Poll for Πρώτο ΘΕΜΑ, 23–26 March 2020<br/><img src="null/2020-03-26-OpinionPoll.png"/><br/>Details on null/2020-03-26-OpinionPoll.html]]></description>
-      <enclosure url="null/2020-03-26-OpinionPoll.png" length="197290" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-03-26-OpinionPoll.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Opinion Poll for Πρώτο ΘΕΜΑ, 23–26 March 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-03-26-OpinionPoll.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-03-26-OpinionPoll.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-03-26-OpinionPoll.png" length="197290" type="image/png"/>
       <pubDate>Sat, 18 Apr 2020 17:29:20 +0200</pubDate>
       <dc:date>2020-04-18T17:29:20.090287+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll for Πρώτο ΘΕΜΑ, 6–7 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-07-OpinionPoll.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Opinion Poll for Πρώτο ΘΕΜΑ, 6–7 March 2020<br/><img src="null/2020-03-07-OpinionPoll.png"/><br/>Details on null/2020-03-07-OpinionPoll.html]]></description>
-      <enclosure url="null/2020-03-07-OpinionPoll.png" length="226997" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-03-07-OpinionPoll.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Opinion Poll for Πρώτο ΘΕΜΑ, 6–7 March 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-03-07-OpinionPoll.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-03-07-OpinionPoll.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-03-07-OpinionPoll.png" length="226997" type="image/png"/>
       <pubDate>Fri, 8 May 2020 07:23:25 +0200</pubDate>
       <dc:date>2020-05-08T07:23:25.278798+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 2–7 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-07-Alco.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Alco for Open TV, 2–7 March 2020<br/><img src="null/2020-03-07-Alco.png"/><br/>Details on null/2020-03-07-Alco.html]]></description>
-      <enclosure url="null/2020-03-07-Alco.png" length="235810" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-03-07-Alco.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Alco for Open TV, 2–7 March 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-03-07-Alco.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-03-07-Alco.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-03-07-Alco.png" length="235810" type="image/png"/>
       <pubDate>Sat, 18 Apr 2020 17:40:05 +0200</pubDate>
       <dc:date>2020-04-18T17:40:05.521561+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 3–4 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-04-PulseRC.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 3–4 March 2020<br/><img src="null/2020-03-04-PulseRC.png"/><br/>Details on null/2020-03-04-PulseRC.html]]></description>
-      <enclosure url="null/2020-03-04-PulseRC.png" length="242039" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-03-04-PulseRC.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 3–4 March 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-03-04-PulseRC.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-03-04-PulseRC.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-03-04-PulseRC.png" length="242039" type="image/png"/>
       <pubDate>Fri, 8 May 2020 07:45:45 +0200</pubDate>
       <dc:date>2020-05-08T07:45:45.181683+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll, 22–27 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-27-OpinionPoll.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Opinion Poll, 22–27 January 2020<br/><img src="null/2020-01-27-OpinionPoll.png"/><br/>Details on null/2020-01-27-OpinionPoll.html]]></description>
-      <enclosure url="null/2020-01-27-OpinionPoll.png" length="193342" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-01-27-OpinionPoll.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Opinion Poll, 22–27 January 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-01-27-OpinionPoll.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-01-27-OpinionPoll.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-01-27-OpinionPoll.png" length="193342" type="image/png"/>
       <pubDate>Sun, 12 Apr 2020 14:33:00 +0200</pubDate>
       <dc:date>2020-04-12T14:33:00.499055+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 21–22 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-22-PulseRC.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 21–22 January 2020<br/><img src="null/2020-01-22-PulseRC.png"/><br/>Details on null/2020-01-22-PulseRC.html]]></description>
-      <enclosure url="null/2020-01-22-PulseRC.png" length="212141" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-01-22-PulseRC.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 21–22 January 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-01-22-PulseRC.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-01-22-PulseRC.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-01-22-PulseRC.png" length="212141" type="image/png"/>
       <pubDate>Sun, 12 Apr 2020 14:39:21 +0200</pubDate>
       <dc:date>2020-04-12T14:39:21.657591+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Το Βήμα, 20–22 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-22-MetronAnalysis.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Metron Analysis for Το Βήμα, 20–22 January 2020<br/><img src="null/2020-01-22-MetronAnalysis.png"/><br/>Details on null/2020-01-22-MetronAnalysis.html]]></description>
-      <enclosure url="null/2020-01-22-MetronAnalysis.png" length="198605" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-01-22-MetronAnalysis.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Metron Analysis for Το Βήμα, 20–22 January 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-01-22-MetronAnalysis.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-01-22-MetronAnalysis.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-01-22-MetronAnalysis.png" length="198605" type="image/png"/>
       <pubDate>Sun, 12 Apr 2020 14:44:53 +0200</pubDate>
       <dc:date>2020-04-12T14:44:53.539018+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 13–17 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-17-MRB.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by MRB for Star, 13–17 January 2020<br/><img src="null/2020-01-17-MRB.png"/><br/>Details on null/2020-01-17-MRB.html]]></description>
-      <enclosure url="null/2020-01-17-MRB.png" length="210453" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-01-17-MRB.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by MRB for Star, 13–17 January 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-01-17-MRB.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-01-17-MRB.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-01-17-MRB.png" length="210453" type="image/png"/>
       <pubDate>Sun, 12 Apr 2020 14:51:20 +0200</pubDate>
       <dc:date>2020-04-12T14:51:20.938167+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 7–8 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-08-Interview.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Interview for Βεργίνα TV, 7–8 January 2020<br/><img src="null/2020-01-08-Interview.png"/><br/>Details on null/2020-01-08-Interview.html]]></description>
-      <enclosure url="null/2020-01-08-Interview.png" length="201073" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-01-08-Interview.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Interview for Βεργίνα TV, 7–8 January 2020<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-01-08-Interview.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-01-08-Interview.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-01-08-Interview.png" length="201073" type="image/png"/>
       <pubDate>Sun, 12 Apr 2020 14:56:46 +0200</pubDate>
       <dc:date>2020-04-12T14:56:46.103925+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 16–18 December 2019 – Seating Plan Projection</title>
-      <link>null/2019-12-18-PulseRC.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 16–18 December 2019<br/><img src="null/2019-12-18-PulseRC-seating-plan.png"/><br/>Details on null/2019-12-18-PulseRC.html]]></description>
-      <enclosure url="null/2019-12-18-PulseRC-seating-plan.png" length="649702" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-12-18-PulseRC.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 16–18 December 2019<br/><img src="https://filipvanlaenen.github.io/greek_polls/2019-12-18-PulseRC-seating-plan.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2019-12-18-PulseRC.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-12-18-PulseRC-seating-plan.png" length="649702" type="image/png"/>
       <pubDate>Tue, 31 Dec 2019 13:29:08 +0100</pubDate>
       <dc:date>2019-12-31T13:29:08.79642+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 16–18 December 2019 – Seat Projections</title>
-      <link>null/2019-12-18-PulseRC.html#seats</link>
-      <description><![CDATA[Seat projections for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 16–18 December 2019<br/><img src="null/2019-12-18-PulseRC-seats.png"/><br/>Details on null/2019-12-18-PulseRC.html]]></description>
-      <enclosure url="null/2019-12-18-PulseRC-seats.png" length="180169" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-12-18-PulseRC.html#seats</link>
+      <description><![CDATA[Seat projections for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 16–18 December 2019<br/><img src="https://filipvanlaenen.github.io/greek_polls/2019-12-18-PulseRC-seats.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2019-12-18-PulseRC.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-12-18-PulseRC-seats.png" length="180169" type="image/png"/>
       <pubDate>Tue, 31 Dec 2019 13:29:08 +0100</pubDate>
       <dc:date>2019-12-31T13:29:08.79642+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 16–18 December 2019 – Voting Intentions</title>
-      <link>null/2019-12-18-PulseRC.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 16–18 December 2019<br/><img src="null/2019-12-18-PulseRC.png"/><br/>Details on null/2019-12-18-PulseRC.html]]></description>
-      <enclosure url="null/2019-12-18-PulseRC.png" length="218412" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-12-18-PulseRC.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 16–18 December 2019<br/><img src="https://filipvanlaenen.github.io/greek_polls/2019-12-18-PulseRC.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2019-12-18-PulseRC.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-12-18-PulseRC.png" length="218412" type="image/png"/>
       <pubDate>Tue, 31 Dec 2019 13:29:08 +0100</pubDate>
       <dc:date>2019-12-31T13:29:08.79642+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 27 November–5 December 2019 – Seating Plan Projection</title>
-      <link>null/2019-12-05-MRB.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by MRB for Star, 27 November–5 December 2019<br/><img src="null/2019-12-05-MRB-seating-plan.png"/><br/>Details on null/2019-12-05-MRB.html]]></description>
-      <enclosure url="null/2019-12-05-MRB-seating-plan.png" length="0" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-12-05-MRB.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by MRB for Star, 27 November–5 December 2019<br/><img src="https://filipvanlaenen.github.io/greek_polls/2019-12-05-MRB-seating-plan.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2019-12-05-MRB.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-12-05-MRB-seating-plan.png" length="0" type="image/png"/>
       <pubDate>Tue, 31 Dec 2019 13:38:50 +0100</pubDate>
       <dc:date>2019-12-31T13:38:50.226622+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 27 November–5 December 2019 – Seat Projections</title>
-      <link>null/2019-12-05-MRB.html#seats</link>
-      <description><![CDATA[Seat projections for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by MRB for Star, 27 November–5 December 2019<br/><img src="null/2019-12-05-MRB-seats.png"/><br/>Details on null/2019-12-05-MRB.html]]></description>
-      <enclosure url="null/2019-12-05-MRB-seats.png" length="180094" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-12-05-MRB.html#seats</link>
+      <description><![CDATA[Seat projections for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by MRB for Star, 27 November–5 December 2019<br/><img src="https://filipvanlaenen.github.io/greek_polls/2019-12-05-MRB-seats.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2019-12-05-MRB.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-12-05-MRB-seats.png" length="180094" type="image/png"/>
       <pubDate>Tue, 31 Dec 2019 13:38:50 +0100</pubDate>
       <dc:date>2019-12-31T13:38:50.226622+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 27 November–5 December 2019 – Voting Intentions</title>
-      <link>null/2019-12-05-MRB.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by MRB for Star, 27 November–5 December 2019<br/><img src="null/2019-12-05-MRB.png"/><br/>Details on null/2019-12-05-MRB.html]]></description>
-      <enclosure url="null/2019-12-05-MRB.png" length="210151" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-12-05-MRB.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by MRB for Star, 27 November–5 December 2019<br/><img src="https://filipvanlaenen.github.io/greek_polls/2019-12-05-MRB.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2019-12-05-MRB.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-12-05-MRB.png" length="210151" type="image/png"/>
       <pubDate>Tue, 31 Dec 2019 13:38:50 +0100</pubDate>
       <dc:date>2019-12-31T13:38:50.226622+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll, 25–28 November 2019 – Seating Plan Projection</title>
-      <link>null/2019-11-28-OpinionPoll.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Opinion Poll, 25–28 November 2019<br/><img src="null/2019-11-28-OpinionPoll-seating-plan.png"/><br/>Details on null/2019-11-28-OpinionPoll.html]]></description>
-      <enclosure url="null/2019-11-28-OpinionPoll-seating-plan.png" length="640898" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-11-28-OpinionPoll.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Opinion Poll, 25–28 November 2019<br/><img src="https://filipvanlaenen.github.io/greek_polls/2019-11-28-OpinionPoll-seating-plan.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2019-11-28-OpinionPoll.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-11-28-OpinionPoll-seating-plan.png" length="640898" type="image/png"/>
       <pubDate>Tue, 31 Dec 2019 13:47:08 +0100</pubDate>
       <dc:date>2019-12-31T13:47:08.061398+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll, 25–28 November 2019 – Seat Projections</title>
-      <link>null/2019-11-28-OpinionPoll.html#seats</link>
-      <description><![CDATA[Seat projections for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Opinion Poll, 25–28 November 2019<br/><img src="null/2019-11-28-OpinionPoll-seats.png"/><br/>Details on null/2019-11-28-OpinionPoll.html]]></description>
-      <enclosure url="null/2019-11-28-OpinionPoll-seats.png" length="161358" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-11-28-OpinionPoll.html#seats</link>
+      <description><![CDATA[Seat projections for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Opinion Poll, 25–28 November 2019<br/><img src="https://filipvanlaenen.github.io/greek_polls/2019-11-28-OpinionPoll-seats.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2019-11-28-OpinionPoll.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-11-28-OpinionPoll-seats.png" length="161358" type="image/png"/>
       <pubDate>Tue, 31 Dec 2019 13:47:08 +0100</pubDate>
       <dc:date>2019-12-31T13:47:08.061398+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll, 25–28 November 2019 – Voting Intentions</title>
-      <link>null/2019-11-28-OpinionPoll.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Opinion Poll, 25–28 November 2019<br/><img src="null/2019-11-28-OpinionPoll.png"/><br/>Details on null/2019-11-28-OpinionPoll.html]]></description>
-      <enclosure url="null/2019-11-28-OpinionPoll.png" length="197785" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-11-28-OpinionPoll.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Opinion Poll, 25–28 November 2019<br/><img src="https://filipvanlaenen.github.io/greek_polls/2019-11-28-OpinionPoll.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2019-11-28-OpinionPoll.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-11-28-OpinionPoll.png" length="197785" type="image/png"/>
       <pubDate>Tue, 31 Dec 2019 13:47:08 +0100</pubDate>
       <dc:date>2019-12-31T13:47:08.061398+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 18–20 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-11-20-PulseRC.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 18–20 November 2019<br/><img src="https://filipvanlaenen.github.io/greek_polls/2019-11-20-PulseRC.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2019-11-20-PulseRC.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-11-20-PulseRC.png" length="243696" type="image/png"/>
+      <pubDate>Mon, 20 Jul 2020 19:48:46 +0200</pubDate>
+      <dc:date>2020-07-20T19:48:46.500359+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Μetron Analysis for Το Βήμα, 18–20 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-11-20-ΜetronAnalysis.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Μetron Analysis for Το Βήμα, 18–20 November 2019<br/><img src="https://filipvanlaenen.github.io/greek_polls/2019-11-20-ΜetronAnalysis.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2019-11-20-ΜetronAnalysis.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-11-20-ΜetronAnalysis.png" length="248474" type="image/png"/>
+      <pubDate>Mon, 20 Jul 2020 19:40:27 +0200</pubDate>
+      <dc:date>2020-07-20T19:40:27.83299+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis for GUE–NGL, 11–14 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-11-14-PalmosAnalysis.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Palmos Analysis for GUE–NGL, 11–14 November 2019<br/><img src="https://filipvanlaenen.github.io/greek_polls/2019-11-14-PalmosAnalysis.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2019-11-14-PalmosAnalysis.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-11-14-PalmosAnalysis.png" length="290267" type="image/png"/>
+      <pubDate>Mon, 20 Jul 2020 23:20:30 +0200</pubDate>
+      <dc:date>2020-07-20T23:20:30.223901+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 29–31 October 2019 – Seating Plan Projection</title>
-      <link>null/2019-10-31-Marc.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Marc for Πρώτο ΘΕΜΑ, 29–31 October 2019<br/><img src="null/2019-10-31-Marc-seating-plan.png"/><br/>Details on null/2019-10-31-Marc.html]]></description>
-      <enclosure url="null/2019-10-31-Marc-seating-plan.png" length="0" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Marc for Πρώτο ΘΕΜΑ, 29–31 October 2019<br/><img src="https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc-seating-plan.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc-seating-plan.png" length="0" type="image/png"/>
       <pubDate>Tue, 31 Dec 2019 14:07:05 +0100</pubDate>
       <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 29–31 October 2019 – Seat Projections</title>
-      <link>null/2019-10-31-Marc.html#seats</link>
-      <description><![CDATA[Seat projections for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Marc for Πρώτο ΘΕΜΑ, 29–31 October 2019<br/><img src="null/2019-10-31-Marc-seats.png"/><br/>Details on null/2019-10-31-Marc.html]]></description>
-      <enclosure url="null/2019-10-31-Marc-seats.png" length="191083" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc.html#seats</link>
+      <description><![CDATA[Seat projections for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Marc for Πρώτο ΘΕΜΑ, 29–31 October 2019<br/><img src="https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc-seats.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc-seats.png" length="191083" type="image/png"/>
       <pubDate>Tue, 31 Dec 2019 14:07:05 +0100</pubDate>
       <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 29–31 October 2019 – Voting Intentions</title>
-      <link>null/2019-10-31-Marc.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Marc for Πρώτο ΘΕΜΑ, 29–31 October 2019<br/><img src="null/2019-10-31-Marc.png"/><br/>Details on null/2019-10-31-Marc.html]]></description>
-      <enclosure url="null/2019-10-31-Marc.png" length="232363" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Marc for Πρώτο ΘΕΜΑ, 29–31 October 2019<br/><img src="https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc.png"/><br/>Details on https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-10-31-Marc.png" length="232363" type="image/png"/>
       <pubDate>Tue, 31 Dec 2019 14:07:05 +0100</pubDate>
       <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
     </item>
