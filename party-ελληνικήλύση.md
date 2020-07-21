@@ -86,12 +86,12 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–14 | 9–16 | 0–17 | 0–19 |
+| N/A | [Poll Average](average.html) | 11 | 9–14 | 8–16 | 0–17 | 0–19 |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 15 | 11–18 | 11–19 | 10–19 | 9–20 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 11 | 10–14 | 9–15 | 9–15 | 0–16 |
 | [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 9–13 | 9–14 | 8–14 | 0–15 |
-| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 10 | 10–11 | 0–11 | 0–11 | 0–14 |
-| [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 11 | 11 | 9–11 | 9–16 | 9–16 |
+| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 10 | 8–12 | 0–13 | 0–13 | 0–15 |
+| [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 11 | 10–14 | 9–15 | 8–15 | 0–16 |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 10 | 8–13 | 0–13 | 0–14 | 0–15 |
 | [1–2 July 2020](2020-07-02-Marc.html) | Marc | 11 | 11 | 10–11 | 9–11 | 9–15 |
 | [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 10 | 8–12 | 8–12 | 0–13 | 0–14 |
@@ -155,12 +155,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 97% |  |
 | 7 | 0% | 97% |  |
 | 8 | 2% | 97% |  |
-| 9 | 10% | 95% |  |
-| 10 | 22% | 85% | Last Result |
-| 11 | 26% | 63% | Median |
-| 12 | 13% | 37% |  |
-| 13 | 10% | 24% |  |
-| 14 | 5% | 14% |  |
+| 9 | 13% | 94% |  |
+| 10 | 18% | 81% | Last Result |
+| 11 | 20% | 63% | Median |
+| 12 | 17% | 43% |  |
+| 13 | 11% | 26% |  |
+| 14 | 6% | 15% |  |
 | 15 | 4% | 9% |  |
 | 16 | 3% | 5% |  |
 | 17 | 1.3% | 3% |  |
