@@ -55,7 +55,7 @@ Last result: **31.5%** (General Election of 7 July 2019)
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 27.6% | 26.0–29.3% | 25.5–29.8% | 25.1–30.2% | 24.4–31.0% |
 | [11–14 November 2019](2019-11-14-PalmosAnalysis.html) | Palmos Analysis <br> GUE–NGL | 27.4% | 25.7–29.3% | 25.2–29.8% | 24.8–30.3% | 24.0–31.2% |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 27.5% | 25.8–29.4% | 25.3–29.9% | 24.8–30.4% | 24.0–31.3% |
-| [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 28.5% | N/A | N/A | N/A | N/A |
+| [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 28.5% | 26.8–30.3% | 26.3–30.8% | 25.9–31.2% | 25.1–32.1% |
 | [16–18 September 2019](2019-09-18-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 26.8% | N/A | N/A | N/A | N/A |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.5% | N/A | N/A | N/A | N/A |
 | [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 26.7% | N/A | N/A | N/A | N/A |
@@ -137,7 +137,7 @@ Last result: **86** seats (General Election of 7 July 2019)
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 73 | 73–74 | 69–78 | 66–78 | 64–78 |
 | [11–14 November 2019](2019-11-14-PalmosAnalysis.html) | Palmos Analysis <br> GUE–NGL | 71 | 70–74 | 70–74 | 70–75 | 70–76 |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 73 | 69–79 | 67–80 | 66–82 | 63–84 |
-| [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 76 | 72–80 | 70–81 | 70–83 | 67–86 |
 | [16–18 September 2019](2019-09-18-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα |  |  |  |  |  |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star |  |  |  |  |  |
