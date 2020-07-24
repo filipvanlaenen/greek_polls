@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Wed, 22 Jul 2020 08:29:28 +0200</pubDate>
+    <pubDate>Fri, 24 Jul 2020 20:11:35 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 13–15 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 58–72 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 169–185 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 16–24 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 11–18 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 11–18 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview-seats.png"
+        length="200945"
+        type="image/png"/>
+      <pubDate>Fri, 24 Jul 2020 19:41:36 +0200</pubDate>
+      <dc:date>2020-07-24T19:41:36.126764+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 13–15 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview-coalitions-seats.png"
+        length="262595"
+        type="image/png"/>
+      <pubDate>Fri, 24 Jul 2020 19:41:36 +0200</pubDate>
+      <dc:date>2020-07-24T19:41:36.126764+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 13–15 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview.png"
         length="227348"
         type="image/png"/>
-      <pubDate>Fri, 17 Jul 2020 07:15:55 +0200</pubDate>
-      <dc:date>2020-07-17T07:15:55.974009+02:00</dc:date>
+      <pubDate>Fri, 24 Jul 2020 19:41:36 +0200</pubDate>
+      <dc:date>2020-07-24T19:41:36.126764+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Αlpha TV, 10–13 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-07-13-Marc.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 60–74 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 177–194 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 15–23 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–21 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 8–15 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-13-Marc-seats.png"
+        length="202118"
+        type="image/png"/>
+      <pubDate>Fri, 24 Jul 2020 19:57:35 +0200</pubDate>
+      <dc:date>2020-07-24T19:57:35.506073+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Αlpha TV, 10–13 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-07-13-Marc.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-13-Marc-coalitions-seats.png"
+        length="257699"
+        type="image/png"/>
+      <pubDate>Fri, 24 Jul 2020 19:57:35 +0200</pubDate>
+      <dc:date>2020-07-24T19:57:35.506073+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Αlpha TV, 10–13 July 2020 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-13-Marc.png"
         length="241852"
         type="image/png"/>
-      <pubDate>Fri, 17 Jul 2020 07:20:51 +0200</pubDate>
-      <dc:date>2020-07-17T07:20:51.915643+02:00</dc:date>
+      <pubDate>Fri, 24 Jul 2020 19:57:35 +0200</pubDate>
+      <dc:date>2020-07-24T19:57:35.506073+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 6–8 July 2020 – Voting Intentions</title>
@@ -60,14 +100,34 @@
       <dc:date>2020-07-21T19:16:46.651638+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Κάπα Research, 2 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-07-02-ΚάπαResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 66–82 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 169–189 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 14–22 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 11–18 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0–14 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-02-ΚάπαResearch-seats.png"
+        length="210887"
+        type="image/png"/>
+      <pubDate>Fri, 24 Jul 2020 20:11:35 +0200</pubDate>
+      <dc:date>2020-07-24T20:11:35.817667+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Κάπα Research, 2 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-07-02-ΚάπαResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-02-ΚάπαResearch-coalitions-seats.png"
+        length="270212"
+        type="image/png"/>
+      <pubDate>Fri, 24 Jul 2020 20:11:35 +0200</pubDate>
+      <dc:date>2020-07-24T20:11:35.817667+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Κάπα Research, 2 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-07-02-ΚάπαResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.3–29.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 44.2–50.4%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.1–2.7%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.1–8.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.0–6.8%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.2–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-02-ΚάπαResearch.png"
         length="241449"
         type="image/png"/>
-      <pubDate>Thu, 09 Jul 2020 07:11:04 +0200</pubDate>
-      <dc:date>2020-07-09T07:11:04.661539+02:00</dc:date>
+      <pubDate>Fri, 24 Jul 2020 20:11:35 +0200</pubDate>
+      <dc:date>2020-07-24T20:11:35.817667+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc, 1–2 July 2020 – Voting Intentions</title>
@@ -76,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-07-02-Marc.png"
         length="210025"
         type="image/png"/>
-      <pubDate>Sun, 19 Jul 2020 21:45:34 +0200</pubDate>
-      <dc:date>2020-07-19T21:45:34.531022+02:00</dc:date>
+      <pubDate>Fri, 24 Jul 2020 17:26:16 +0200</pubDate>
+      <dc:date>2020-07-24T17:26:16.117745+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Το Βήμα, 24–29 June 2020 – Voting Intentions</title>
@@ -539,6 +599,6 @@
       <pubDate>Wed, 22 Jul 2020 08:29:28 +0200</pubDate>
       <dc:date>2020-07-22T08:29:28.780087+02:00</dc:date>
     </item>
-    <dc:date>2020-07-22T08:29:28.780087+02:00</dc:date>
+    <dc:date>2020-07-24T20:11:35.817667+02:00</dc:date>
   </channel>
 </rss>
