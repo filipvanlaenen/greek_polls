@@ -86,14 +86,14 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–14 | 8–16 | 0–17 | 0–19 |
-| [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 15 | 11–18 | 11–19 | 10–19 | 9–20 |
-| [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 11 | 10–14 | 9–15 | 9–15 | 0–16 |
+| N/A | [Poll Average](average.html) | 11 | 9–14 | 8–15 | 0–16 | 0–17 |
+| [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 14 | 12–17 | 11–17 | 11–18 | 10–19 |
+| [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 11 | 9–14 | 9–14 | 8–15 | 0–16 |
 | [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 9–13 | 9–14 | 8–14 | 0–15 |
 | [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 10 | 8–12 | 0–13 | 0–13 | 0–15 |
 | [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 11 | 10–14 | 9–15 | 8–15 | 0–16 |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 10 | 8–13 | 0–13 | 0–14 | 0–15 |
-| [1–2 July 2020](2020-07-02-Marc.html) | Marc | 11 | 11 | 10–11 | 9–11 | 9–15 |
+| [1–2 July 2020](2020-07-02-Marc.html) | Marc | 12 | 10–13 | 10–14 | 9–14 | 9–15 |
 | [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 10 | 8–12 | 8–12 | 0–13 | 0–14 |
 | [22–26 June 2020](2020-06-26-Prorata.html) | Prorata | 10 | 8–11 | 0–11 | 0–12 | 0–13 |
 | [22–26 June 2020](2020-06-26-GPO.html) | GPO <br> Τα Νέα | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
@@ -154,19 +154,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 97% |  |
 | 6 | 0% | 97% |  |
 | 7 | 0% | 97% |  |
-| 8 | 2% | 97% |  |
+| 8 | 3% | 97% |  |
 | 9 | 13% | 94% |  |
 | 10 | 18% | 81% | Last Result |
-| 11 | 20% | 63% | Median |
-| 12 | 17% | 43% |  |
-| 13 | 11% | 26% |  |
-| 14 | 6% | 15% |  |
-| 15 | 4% | 9% |  |
-| 16 | 3% | 5% |  |
-| 17 | 1.3% | 3% |  |
-| 18 | 0.7% | 1.2% |  |
-| 19 | 0.4% | 0.5% |  |
-| 20 | 0.1% | 0.2% |  |
-| 21 | 0% | 0% |  |
+| 11 | 19% | 63% | Median |
+| 12 | 17% | 44% |  |
+| 13 | 12% | 27% |  |
+| 14 | 7% | 15% |  |
+| 15 | 5% | 8% |  |
+| 16 | 2% | 3% |  |
+| 17 | 0.9% | 1.4% |  |
+| 18 | 0.3% | 0.5% |  |
+| 19 | 0.1% | 0.2% |  |
+| 20 | 0% | 0% |  |
 
 
