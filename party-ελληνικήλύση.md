@@ -91,12 +91,12 @@ Last result: **10** seats (General Election of 7 July 2019)
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 11 | 9–14 | 9–14 | 8–15 | 0–16 |
 | [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 9–13 | 9–14 | 8–14 | 0–15 |
 | [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 10 | 8–12 | 0–13 | 0–13 | 0–15 |
-| [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 11 | 10–14 | 9–15 | 8–15 | 0–16 |
+| [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 11 | 9–14 | 9–14 | 8–15 | 0–16 |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 10 | 8–13 | 0–13 | 0–14 | 0–15 |
 | [1–2 July 2020](2020-07-02-Marc.html) | Marc | 12 | 10–13 | 10–14 | 9–14 | 9–15 |
 | [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 10 | 8–12 | 8–12 | 0–13 | 0–14 |
-| [22–26 June 2020](2020-06-26-Prorata.html) | Prorata | 10 | 8–11 | 0–11 | 0–12 | 0–13 |
-| [22–26 June 2020](2020-06-26-GPO.html) | GPO <br> Τα Νέα | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
+| [22–26 June 2020](2020-06-26-Prorata.html) | Prorata | 10 | 8–11 | 0–12 | 0–12 | 0–13 |
+| [22–26 June 2020](2020-06-26-GPO.html) | GPO <br> Τα Νέα | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
 | [17–25 June 2020](2020-06-25-MRB.html) | MRB <br> Star | 12 | 11–14 | 10–14 | 10–15 | 9–16 |
 | [4–9 June 2020](2020-06-09-Interview.html) | Interview <br> Βεργίνα TV | 15 | 12–16 | 12–18 | 12–18 | 10–19 |
 | [2–8 June 2020](2020-06-08-Alco.html) | Alco <br> Open TV | 11 | 10–14 | 9–14 | 0–15 | 0–16 |
@@ -158,14 +158,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 13% | 94% |  |
 | 10 | 18% | 81% | Last Result |
 | 11 | 19% | 63% | Median |
-| 12 | 17% | 44% |  |
-| 13 | 12% | 27% |  |
-| 14 | 7% | 15% |  |
-| 15 | 5% | 8% |  |
+| 12 | 16% | 44% |  |
+| 13 | 12% | 28% |  |
+| 14 | 8% | 15% |  |
+| 15 | 4% | 8% |  |
 | 16 | 2% | 3% |  |
-| 17 | 0.9% | 1.4% |  |
+| 17 | 0.9% | 1.3% |  |
 | 18 | 0.3% | 0.5% |  |
-| 19 | 0.1% | 0.2% |  |
+| 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
 

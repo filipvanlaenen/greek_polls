@@ -86,16 +86,16 @@ Last result: **22** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–22 | 15–22 | 14–23 | 14–25 |
+| N/A | [Poll Average](average.html) | 19 | 16–22 | 15–22 | 15–23 | 14–25 |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 20 | 17–23 | 16–24 | 16–24 | 15–26 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 19 | 16–22 | 15–22 | 15–23 | 14–25 |
-| [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 20 | 17–22 | 16–23 | 15–23 | 15–25 |
+| [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19 | 17–22 | 16–23 | 15–23 | 15–25 |
 | [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 18 | 16–22 | 15–22 | 14–23 | 13–24 |
-| [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 19 | 16–22 | 15–22 | 15–23 | 14–25 |
+| [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 19 | 16–22 | 16–22 | 15–23 | 14–25 |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 18 | 15–21 | 14–22 | 14–22 | 13–24 |
 | [1–2 July 2020](2020-07-02-Marc.html) | Marc | 18 | 17–20 | 16–21 | 16–22 | 15–22 |
 | [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 18 | 16–20 | 15–21 | 15–21 | 14–23 |
-| [22–26 June 2020](2020-06-26-Prorata.html) | Prorata | 16 | 15–18 | 14–19 | 14–20 | 13–21 |
+| [22–26 June 2020](2020-06-26-Prorata.html) | Prorata | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
 | [22–26 June 2020](2020-06-26-GPO.html) | GPO <br> Τα Νέα | 18 | 16–21 | 16–21 | 15–22 | 14–23 |
 | [17–25 June 2020](2020-06-25-MRB.html) | MRB <br> Star | 21 | 19–23 | 18–23 | 18–24 | 17–25 |
 | [4–9 June 2020](2020-06-09-Interview.html) | Interview <br> Βεργίνα TV | 21 | 18–24 | 18–25 | 17–26 | 16–27 |
@@ -147,19 +147,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
-| 13 | 0.3% | 99.9% |  |
+| 13 | 0.4% | 99.9% |  |
 | 14 | 2% | 99.6% |  |
-| 15 | 5% | 97% |  |
+| 15 | 5% | 98% |  |
 | 16 | 10% | 93% |  |
-| 17 | 13% | 82% |  |
-| 18 | 18% | 69% |  |
+| 17 | 14% | 83% |  |
+| 18 | 17% | 69% |  |
 | 19 | 17% | 51% | Median |
-| 20 | 13% | 35% |  |
-| 21 | 11% | 22% |  |
+| 20 | 13% | 34% |  |
+| 21 | 10% | 21% |  |
 | 22 | 7% | 11% | Last Result |
 | 23 | 3% | 5% |  |
-| 24 | 1.0% | 2% |  |
-| 25 | 0.4% | 0.6% |  |
+| 24 | 1.1% | 2% |  |
+| 25 | 0.5% | 0.6% |  |
 | 26 | 0.1% | 0.2% |  |
 | 27 | 0% | 0% |  |
 
