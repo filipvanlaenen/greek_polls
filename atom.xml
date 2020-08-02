@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/greek_polls</id>
   <title>All Registered Polls for the Hellenic Parliament</title>
-  <updated>2020-07-26T11:01:08.775263+02:00</updated>
+  <updated>2020-07-26T13:32:06.067862+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 21.7–26.7%, 58–72 seats</li><li>Νέα Δημοκρατία: 44.5–50.3%, 169–185 seats</li><li>Κίνημα Αλλαγής: 6.0–9.1%, 16–24 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 4.1–6.7%, 11–18 seats</li><li>Ελληνική Λύση: 4.1–6.7%, 11–18 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.0–5.3%, 0–14 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview.html</id>
@@ -46,6 +46,14 @@
     <title>Opinion Poll by Κάπα Research, 2 July 2020</title>
     <updated>2020-07-24T20:11:35.817667+02:00</updated>
     <dc:date>2020-07-24T20:11:35.817667+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.6–27.5%, 62–72 seats</li><li>Νέα Δημοκρατία: 50.0–54.4%, 180–192 seats</li><li>Κίνημα Αλλαγής: 6.0–8.2%, 16–21 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 5.0–7.1%, 13–19 seats</li><li>Ελληνική Λύση: 3.6–5.4%, 9–14 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 1.9–3.3%, 0–8 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/greek_polls/2020-07-02-Marc.html</id>
+    <link href="https://filipvanlaenen.github.io/greek_polls/2020-07-02-Marc.html"/>
+    <title>Opinion Poll by Marc, 1–2 July 2020</title>
+    <updated>2020-07-26T13:32:06.067862+02:00</updated>
+    <dc:date>2020-07-26T13:32:06.067862+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.5–28.2%, 60–71 seats</li><li>Νέα Δημοκρατία: 47.8–53.1%, 171–185 seats</li><li>Κίνημα Αλλαγής: 5.8–8.5%, 15–21 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 6.3–9.1%, 16–23 seats</li><li>Ελληνική Λύση: 3.0–5.0%, 0–13 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.1–5.2%, 8–13 seats</li></ul></div></content>
@@ -103,5 +111,5 @@
     <updated>2019-12-31T14:07:05.761012+01:00</updated>
     <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
   </entry>
-  <dc:date>2020-07-26T11:01:08.775263+02:00</dc:date>
+  <dc:date>2020-07-26T13:32:06.067862+02:00</dc:date>
 </feed>
