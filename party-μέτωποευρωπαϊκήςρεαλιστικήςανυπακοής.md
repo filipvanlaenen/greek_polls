@@ -93,7 +93,7 @@ Last result: **9** seats (General Election of 7 July 2019)
 | [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
 | [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 8 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
-| [1–2 July 2020](2020-07-02-Marc.html) | Marc | 0 | 0–8 | 0–8 | 0–8 | 0–9 |
+| [1–2 July 2020](2020-07-02-Marc.html) | Marc | 0 | 0 | 0–8 | 0–8 | 0–9 |
 | [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 10 | 9–12 | 8–13 | 8–13 | 0–14 |
 | [22–26 June 2020](2020-06-26-Prorata.html) | Prorata | 8 | 0–10 | 0–10 | 0–10 | 0–11 |
 | [22–26 June 2020](2020-06-26-GPO.html) | GPO <br> Τα Νέα | 8 | 0–9 | 0–10 | 0–10 | 0–11 |
