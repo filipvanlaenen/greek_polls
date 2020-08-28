@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sun, 26 Jul 2020 13:32:06 +0200</pubDate>
+    <pubDate>Fri, 28 Aug 2020 11:23:17 +0200</pubDate>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 13–15 July 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview.html#seats</link>
@@ -719,6 +719,26 @@
       <pubDate>Wed, 22 Jul 2020 08:29:28 +0200</pubDate>
       <dc:date>2020-07-22T08:29:28.780087+02:00</dc:date>
     </item>
-    <dc:date>2020-07-26T13:32:06.067862+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Μetron Analysis for Το Βήμα, 16–18 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-09-18-ΜetronAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.4–29.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 43.3–48.9%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.2–2.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.7–8.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.5–8.4%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.9–5.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.4–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-09-18-ΜetronAnalysis.png"
+        length="248105"
+        type="image/png"/>
+      <pubDate>Fri, 28 Aug 2020 11:06:18 +0200</pubDate>
+      <dc:date>2020-08-28T11:06:18.734242+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 17–18 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-09-18-PulseRC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 26.8–32.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 41.6–47.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.7–8.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 3.9–6.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.6–4.8%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.4–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-09-18-PulseRC.png"
+        length="228538"
+        type="image/png"/>
+      <pubDate>Fri, 28 Aug 2020 11:23:17 +0200</pubDate>
+      <dc:date>2020-08-28T11:23:17.918425+02:00</dc:date>
+    </item>
+    <dc:date>2020-08-28T11:23:17.918425+02:00</dc:date>
   </channel>
 </rss>
