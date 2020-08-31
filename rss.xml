@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Fri, 28 Aug 2020 11:23:17 +0200</pubDate>
+    <pubDate>Mon, 31 Aug 2020 07:38:28 +0200</pubDate>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 13–15 July 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview.html#seats</link>
@@ -739,6 +739,16 @@
       <pubDate>Fri, 28 Aug 2020 11:23:17 +0200</pubDate>
       <dc:date>2020-08-28T11:23:17.918425+02:00</dc:date>
     </item>
-    <dc:date>2020-08-28T11:23:17.918425+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by MRB for Star, 14–16 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-09-16-MRB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.0–29.5%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 41.4–47.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.3–9.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.6–7.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 4.0–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-09-16-MRB.png"
+        length="229193"
+        type="image/png"/>
+      <pubDate>Mon, 31 Aug 2020 07:38:28 +0200</pubDate>
+      <dc:date>2020-08-31T07:38:28.552526+02:00</dc:date>
+    </item>
+    <dc:date>2020-08-31T07:38:28.552526+02:00</dc:date>
   </channel>
 </rss>
