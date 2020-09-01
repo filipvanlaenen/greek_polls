@@ -59,8 +59,8 @@ Last result: **5.3%** (General Election of 7 July 2019)
 | [16–18 September 2019](2019-09-18-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 6.8% | 6.0–7.8% | 5.7–8.1% | 5.5–8.4% | 5.1–8.9% |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.0% | 4.3–6.0% | 4.1–6.3% | 3.9–6.5% | 3.6–7.0% |
 | [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 5.9% | 5.0–6.9% | 4.8–7.2% | 4.6–7.5% | 4.2–8.0% |
-| [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5.8% | N/A | N/A | N/A | N/A |
-| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 5.1% | N/A | N/A | N/A | N/A |
+| [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5.8% | 4.9–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
+| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 5.1% | 4.3–6.0% | 4.1–6.3% | 3.9–6.6% | 3.6–7.0% |
 
 ### Probability Mass Function
 
@@ -136,8 +136,8 @@ Last result: **15** seats (General Election of 7 July 2019)
 | [16–18 September 2019](2019-09-18-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 18 | 16–21 | 15–21 | 15–22 | 13–23 |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 13 | 11–16 | 11–17 | 10–17 | 9–19 |
 | [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 16 | 13–18 | 13–19 | 12–20 | 11–21 |
-| [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
-| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
+| [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 16 | 13–19 | 13–19 | 12–20 | 11–22 |
+| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 13 | 11–16 | 11–17 | 11–17 | 10–19 |
 
 ### Probability Mass Function
 
