@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Hellenic Parliament</description>
     <pubDate>Fri, 17 Jul 2020 21:18:39 +0200</pubDate>
     <item>
+      <title>Opinion Poll by GPO for Τα Νέα, 30 August–2 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-09-02-GPO.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by GPO for Τα Νέα, 30 August–2 September 2020<br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-09-02-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-09-02-GPO.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-09-02-GPO.png" length="227796" type="image/png"/>
+      <pubDate>Mon, 7 Sep 2020 09:18:23 +0200</pubDate>
+      <dc:date>2020-09-07T09:18:23.749338+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 13–15 July 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Interview for Βεργίνα TV, 13–15 July 2020<br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-07-15-Interview-seating-plan.png"/>]]></description>
@@ -204,38 +212,6 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-26-GPO.png" length="223192" type="image/png"/>
       <pubDate>Sun, 26 Jul 2020 11:01:08 +0200</pubDate>
       <dc:date>2020-07-26T11:01:08.775263+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Prorata, 22–26 June 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Prorata, 22–26 June 2020<br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata-seating-plan.png" length="696538" type="image/png"/>
-      <pubDate>Sun, 26 Jul 2020 10:50:28 +0200</pubDate>
-      <dc:date>2020-07-26T10:50:28.797198+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Prorata, 22–26 June 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata.html#seats</link>
-      <description><![CDATA[Seat projections for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Prorata, 22–26 June 2020<br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata-seats.png" length="205232" type="image/png"/>
-      <pubDate>Sun, 26 Jul 2020 10:50:28 +0200</pubDate>
-      <dc:date>2020-07-26T10:50:28.797198+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Prorata, 22–26 June 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Prorata, 22–26 June 2020<br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-26-Prorata.png" length="228420" type="image/png"/>
-      <pubDate>Sun, 26 Jul 2020 10:50:28 +0200</pubDate>
-      <dc:date>2020-07-26T10:50:28.797198+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by MRB for Star, 17–25 June 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-25-MRB.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by MRB for Star, 17–25 June 2020<br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-06-25-MRB.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-06-25-MRB.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-25-MRB.png" length="232127" type="image/png"/>
-      <pubDate>Sat, 11 Jul 2020 14:56:32 +0200</pubDate>
-      <dc:date>2020-07-11T14:56:32.953631+02:00</dc:date>
     </item>
   </channel>
 </rss>
