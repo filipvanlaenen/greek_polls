@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Mon, 07 Sep 2020 09:18:23 +0200</pubDate>
+    <pubDate>Tue, 08 Sep 2020 20:42:43 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by GPO for Τα Νέα, 30 August–2 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-09-02-GPO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 63–79 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 165–184 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–27 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–21 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 8–15 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-09-02-GPO-seats.png"
+        length="205537"
+        type="image/png"/>
+      <pubDate>Tue, 08 Sep 2020 20:42:43 +0200</pubDate>
+      <dc:date>2020-09-08T20:42:43.042503+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Τα Νέα, 30 August–2 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-09-02-GPO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-09-02-GPO-coalitions-seats.png"
+        length="274706"
+        type="image/png"/>
+      <pubDate>Tue, 08 Sep 2020 20:42:43 +0200</pubDate>
+      <dc:date>2020-09-08T20:42:43.042503+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by GPO for Τα Νέα, 30 August–2 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-09-02-GPO.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-09-02-GPO.png"
         length="227796"
         type="image/png"/>
-      <pubDate>Mon, 07 Sep 2020 09:18:23 +0200</pubDate>
-      <dc:date>2020-09-07T09:18:23.749338+02:00</dc:date>
+      <pubDate>Tue, 08 Sep 2020 20:42:43 +0200</pubDate>
+      <dc:date>2020-09-08T20:42:43.042503+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 13–15 July 2020 – Seat Projections for the Parties</title>
@@ -779,6 +799,6 @@
       <pubDate>Tue, 01 Sep 2020 08:12:09 +0200</pubDate>
       <dc:date>2020-09-01T08:12:09.341711+02:00</dc:date>
     </item>
-    <dc:date>2020-09-07T09:18:23.749338+02:00</dc:date>
+    <dc:date>2020-09-08T20:42:43.042503+02:00</dc:date>
   </channel>
 </rss>
