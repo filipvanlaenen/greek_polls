@@ -89,7 +89,7 @@ Last result: **15** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 13–19 | 13–20 | 12–21 | 11–22 |
-| [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 17 | 14–19 | 14–21 | 13–21 | 12–23 |
+| [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 17 | 14–20 | 14–20 | 13–21 | 12–23 |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 17 | 14–19 | 13–20 | 13–21 | 12–22 |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 14 | 12–17 | 11–17 | 11–18 | 10–19 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 16 | 14–19 | 13–20 | 13–21 | 12–22 |
@@ -155,8 +155,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 3% | 98% |  |
 | 13 | 6% | 95% |  |
 | 14 | 12% | 89% |  |
-| 15 | 16% | 77% | Last Result |
-| 16 | 19% | 61% | Median |
+| 15 | 17% | 77% | Last Result |
+| 16 | 18% | 60% | Median |
 | 17 | 15% | 42% |  |
 | 18 | 13% | 27% |  |
 | 19 | 7% | 14% |  |
