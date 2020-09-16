@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sun, 13 Sep 2020 17:29:59 +0200</pubDate>
+    <pubDate>Tue, 15 Sep 2020 07:05:35 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 10–12 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-09-12-Marc.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.5–26.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 47.4–52.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.7–9.5%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.2–7.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.8–4.7%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 1.3–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-09-12-Marc.png"
+        length="223671"
+        type="image/png"/>
+      <pubDate>Tue, 15 Sep 2020 07:05:35 +0200</pubDate>
+      <dc:date>2020-09-15T07:05:35.523221+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinion Poll, 7–10 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-09-10-OpinionPoll.html#seats</link>
@@ -829,6 +839,6 @@
       <pubDate>Tue, 01 Sep 2020 08:12:09 +0200</pubDate>
       <dc:date>2020-09-01T08:12:09.341711+02:00</dc:date>
     </item>
-    <dc:date>2020-09-13T17:29:59.495603+02:00</dc:date>
+    <dc:date>2020-09-15T07:05:35.523221+02:00</dc:date>
   </channel>
 </rss>
