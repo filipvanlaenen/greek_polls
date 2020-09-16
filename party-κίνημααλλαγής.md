@@ -10,7 +10,8 @@ Last result: **8.1%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 6.3–8.7% | 6.0–9.1% | 5.8–9.5% | 5.3–10.2% |
+| N/A | [Poll Average](average.html) | 7.6% | 6.5–8.9% | 6.2–9.2% | 6.0–9.6% | 5.6–10.2% |
+| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8.0% | 7.2–8.9% | 6.9–9.2% | 6.7–9.5% | 6.4–9.9% |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 7.4% | 6.4–8.6% | 6.1–8.9% | 5.9–9.2% | 5.5–9.8% |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 7.4% | 6.4–8.5% | 6.2–8.8% | 6.0–9.1% | 5.6–9.6% |
@@ -71,12 +72,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.1% | 100% |  |
-| 5.5–6.5% | 16% | 98.9% |  |
-| 6.5–7.5% | 40% | 83% | Median |
-| 7.5–8.5% | 31% | 44% | Last Result |
-| 8.5–9.5% | 11% | 13% |  |
-| 9.5–10.5% | 2% | 2% |  |
+| 4.5–5.5% | 0.5% | 100% |  |
+| 5.5–6.5% | 10% | 99.5% |  |
+| 6.5–7.5% | 35% | 89% |  |
+| 7.5–8.5% | 37% | 54% | Last Result, Median |
+| 8.5–9.5% | 14% | 17% |  |
+| 9.5–10.5% | 2% | 3% |  |
 | 10.5–11.5% | 0.2% | 0.2% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -89,7 +90,8 @@ Last result: **22** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–23 | 16–24 | 16–25 | 14–27 |
+| N/A | [Poll Average](average.html) | 21 | 18–24 | 17–25 | 16–26 | 15–27 |
+| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 22 | 19–24 | 19–25 | 18–26 | 17–27 |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 20 | 17–23 | 16–24 | 16–24 | 14–26 |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 22 | 19–25 | 18–26 | 18–27 | 17–29 |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 20 | 17–23 | 16–24 | 16–24 | 15–26 |
@@ -151,22 +153,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 0.4% | 99.9% |  |
-| 15 | 2% | 99.5% |  |
-| 16 | 4% | 98% |  |
-| 17 | 9% | 93% |  |
-| 18 | 14% | 85% |  |
-| 19 | 16% | 71% |  |
-| 20 | 16% | 56% | Median |
-| 21 | 14% | 40% |  |
-| 22 | 10% | 25% | Last Result |
-| 23 | 7% | 16% |  |
-| 24 | 4% | 9% |  |
-| 25 | 2% | 4% |  |
-| 26 | 1.1% | 2% |  |
-| 27 | 0.6% | 0.9% |  |
-| 28 | 0.2% | 0.4% |  |
+| 14 | 0.2% | 100% |  |
+| 15 | 1.0% | 99.8% |  |
+| 16 | 3% | 98.7% |  |
+| 17 | 6% | 96% |  |
+| 18 | 11% | 90% |  |
+| 19 | 13% | 79% |  |
+| 20 | 16% | 66% |  |
+| 21 | 16% | 50% | Median |
+| 22 | 13% | 34% | Last Result |
+| 23 | 9% | 21% |  |
+| 24 | 6% | 12% |  |
+| 25 | 3% | 6% |  |
+| 26 | 1.4% | 3% |  |
+| 27 | 0.7% | 1.1% |  |
+| 28 | 0.3% | 0.4% |  |
 | 29 | 0.1% | 0.1% |  |
 | 30 | 0% | 0% |  |
 
