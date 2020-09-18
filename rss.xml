@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Tue, 15 Sep 2020 07:05:35 +0200</pubDate>
+    <pubDate>Thu, 17 Sep 2020 21:31:18 +0200</pubDate>
     <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 10–12 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-09-12-Marc.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-09-12-Marc.png"
         length="223671"
         type="image/png"/>
-      <pubDate>Tue, 15 Sep 2020 07:05:35 +0200</pubDate>
-      <dc:date>2020-09-15T07:05:35.523221+02:00</dc:date>
+      <pubDate>Thu, 17 Sep 2020 21:31:18 +0200</pubDate>
+      <dc:date>2020-09-17T21:31:18.363996+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll, 7–10 September 2020 – Seat Projections for the Parties</title>
@@ -839,6 +839,6 @@
       <pubDate>Tue, 01 Sep 2020 08:12:09 +0200</pubDate>
       <dc:date>2020-09-01T08:12:09.341711+02:00</dc:date>
     </item>
-    <dc:date>2020-09-15T07:05:35.523221+02:00</dc:date>
+    <dc:date>2020-09-17T21:31:18.363996+02:00</dc:date>
   </channel>
 </rss>
