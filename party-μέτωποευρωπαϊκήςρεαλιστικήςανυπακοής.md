@@ -10,8 +10,9 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.8–4.2% | 1.7–4.5% | 1.5–4.8% | 1.3–5.3% |
-| [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 3.4% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.1% | 1.8–4.3% | 1.7–4.6% | 1.5–4.9% | 1.3–5.4% |
+| [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά | 3.1% | N/A | N/A | N/A | N/A |
+| [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1.9% | 1.5–2.4% | 1.4–2.6% | 1.3–2.7% | 1.2–3.0% |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -74,11 +75,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 31% | 97% |  |
-| 2.5–3.5% | 38% | 66% | Last Result, Median |
-| 3.5–4.5% | 23% | 27% |  |
-| 4.5–5.5% | 5% | 5% |  |
-| 5.5–6.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 28% | 97% |  |
+| 2.5–3.5% | 35% | 69% | Last Result, Median |
+| 3.5–4.5% | 28% | 34% |  |
+| 4.5–5.5% | 6% | 6% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -90,8 +91,9 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–11 | 0–12 | 0–13 | 0–14 |
-| [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 8 | 0–12 | 0–12 | 0–13 | 0–14 |
+| [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 9 | 0–12 | 0–12 | 0–13 | 0–14 |
 | [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0 |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 0 | 0–9 | 0–10 | 0–10 | 0–12 |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 8 | 0–10 | 0–11 | 0–11 | 0–12 |
@@ -154,21 +156,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 53% | 100% | Median |
-| 1 | 0% | 47% |  |
-| 2 | 0% | 47% |  |
-| 3 | 0% | 47% |  |
-| 4 | 0% | 47% |  |
-| 5 | 0% | 47% |  |
-| 6 | 0% | 47% |  |
-| 7 | 0% | 47% |  |
-| 8 | 9% | 47% |  |
-| 9 | 12% | 38% | Last Result |
-| 10 | 10% | 26% |  |
-| 11 | 8% | 16% |  |
-| 12 | 5% | 8% |  |
-| 13 | 2% | 4% |  |
-| 14 | 1.0% | 1.4% |  |
+| 0 | 46% | 100% |  |
+| 1 | 0% | 54% |  |
+| 2 | 0% | 54% |  |
+| 3 | 0% | 54% |  |
+| 4 | 0% | 54% |  |
+| 5 | 0% | 54% |  |
+| 6 | 0% | 54% |  |
+| 7 | 0% | 54% |  |
+| 8 | 7% | 54% | Median |
+| 9 | 14% | 47% | Last Result |
+| 10 | 12% | 34% |  |
+| 11 | 11% | 21% |  |
+| 12 | 6% | 11% |  |
+| 13 | 3% | 5% |  |
+| 14 | 1.2% | 2% |  |
 | 15 | 0.3% | 0.4% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
