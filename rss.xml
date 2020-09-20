@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sat, 19 Sep 2020 13:02:55 +0200</pubDate>
+    <pubDate>Sun, 20 Sep 2020 19:24:56 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by GPO for Παραπολιτικά, 14–16 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-09-16-GPO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 64–79 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 164–183 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 17–26 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0–14 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-09-16-GPO-seats.png"
+        length="207200"
+        type="image/png"/>
+      <pubDate>Sun, 20 Sep 2020 19:24:56 +0200</pubDate>
+      <dc:date>2020-09-20T19:24:56.73216+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Παραπολιτικά, 14–16 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-09-16-GPO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-09-16-GPO-coalitions-seats.png"
+        length="269653"
+        type="image/png"/>
+      <pubDate>Sun, 20 Sep 2020 19:24:56 +0200</pubDate>
+      <dc:date>2020-09-20T19:24:56.73216+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Παραπολιτικά, 14–16 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-09-16-GPO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.1–29.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 43.5–49.7%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.6–10.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.2–8.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.2–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-09-16-GPO.png"
+        length="231922"
+        type="image/png"/>
+      <pubDate>Sun, 20 Sep 2020 19:24:56 +0200</pubDate>
+      <dc:date>2020-09-20T19:24:56.73216+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 14–16 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-09-16-Alco.html#seats</link>
@@ -889,6 +919,6 @@
       <pubDate>Tue, 01 Sep 2020 08:12:09 +0200</pubDate>
       <dc:date>2020-09-01T08:12:09.341711+02:00</dc:date>
     </item>
-    <dc:date>2020-09-19T13:02:55.626985+02:00</dc:date>
+    <dc:date>2020-09-20T19:24:56.73216+02:00</dc:date>
   </channel>
 </rss>
