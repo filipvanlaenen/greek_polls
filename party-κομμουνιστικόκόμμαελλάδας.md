@@ -94,10 +94,10 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–19 | 13–20 | 12–21 | 11–23 |
+| N/A | [Poll Average](average.html) | 17 | 14–19 | 13–20 | 13–21 | 11–23 |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 17 | 15–20 | 14–20 | 14–21 | 13–22 |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 16 | 13–18 | 13–19 | 12–20 | 11–21 |
-| [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 15 | 12–17 | 12–18 | 11–19 | 11–20 |
+| [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 15 | 12–17 | 12–18 | 11–19 | 10–20 |
 | [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά | 18 | 15–20 | 14–21 | 14–22 | 13–24 |
 | [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 17 | 14–19 | 13–20 | 13–21 | 12–23 |
 | [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
@@ -164,14 +164,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
 | 11 | 0.5% | 99.9% |  |
-| 12 | 2% | 99.4% |  |
-| 13 | 4% | 97% |  |
+| 12 | 2% | 99.3% |  |
+| 13 | 5% | 98% |  |
 | 14 | 10% | 93% |  |
 | 15 | 14% | 83% | Last Result |
 | 16 | 17% | 69% |  |
 | 17 | 19% | 52% | Median |
 | 18 | 14% | 33% |  |
-| 19 | 9% | 19% |  |
+| 19 | 10% | 19% |  |
 | 20 | 5% | 9% |  |
 | 21 | 3% | 4% |  |
 | 22 | 1.0% | 2% |  |

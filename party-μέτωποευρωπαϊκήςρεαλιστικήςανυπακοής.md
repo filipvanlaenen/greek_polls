@@ -97,7 +97,7 @@ Last result: **9** seats (General Election of 7 July 2019)
 | N/A | [Poll Average](average.html) | 8 | 0–11 | 0–12 | 0–12 | 0–13 |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
-| [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 10 | 0–11 | 0–12 | 0–13 | 0–14 |
+| [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
 | [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά | 8 | 0–10 | 0–11 | 0–11 | 0–13 |
 | [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 9 | 0–12 | 0–12 | 0–13 | 0–14 |
 | [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0 |
@@ -162,20 +162,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 45% | 100% |  |
-| 1 | 0% | 55% |  |
-| 2 | 0% | 55% |  |
-| 3 | 0% | 55% |  |
-| 4 | 0% | 55% |  |
-| 5 | 0% | 55% |  |
-| 6 | 0% | 55% |  |
-| 7 | 0% | 55% |  |
-| 8 | 10% | 55% | Median |
-| 9 | 17% | 46% | Last Result |
-| 10 | 15% | 29% |  |
-| 11 | 9% | 14% |  |
-| 12 | 3% | 5% |  |
-| 13 | 1.4% | 2% |  |
+| 0 | 44% | 100% |  |
+| 1 | 0% | 56% |  |
+| 2 | 0% | 56% |  |
+| 3 | 0% | 56% |  |
+| 4 | 0% | 56% |  |
+| 5 | 0% | 56% |  |
+| 6 | 0% | 56% |  |
+| 7 | 0% | 56% |  |
+| 8 | 10% | 56% | Median |
+| 9 | 19% | 47% | Last Result |
+| 10 | 14% | 27% |  |
+| 11 | 8% | 13% |  |
+| 12 | 4% | 5% |  |
+| 13 | 1.2% | 2% |  |
 | 14 | 0.3% | 0.4% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
