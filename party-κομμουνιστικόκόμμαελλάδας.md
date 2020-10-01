@@ -101,7 +101,7 @@ Last result: **15** seats (General Election of 7 July 2019)
 | [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά | 18 | 15–20 | 14–21 | 14–22 | 13–24 |
 | [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 17 | 14–19 | 13–20 | 13–21 | 12–23 |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 17 | 14–20 | 14–20 | 13–21 | 12–23 |
-| [4–10 September 2020](2020-09-10-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 17 | 15–19 | 15–20 | 14–21 | 13–22 |
+| [4–10 September 2020](2020-09-10-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 17 | 14–19 | 13–20 | 13–21 | 12–22 |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 14 | 12–17 | 11–17 | 11–18 | 10–19 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 16 | 14–19 | 13–20 | 13–21 | 12–22 |
@@ -171,10 +171,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 17% | 69% |  |
 | 17 | 19% | 52% | Median |
 | 18 | 14% | 33% |  |
-| 19 | 9% | 18% |  |
+| 19 | 10% | 19% |  |
 | 20 | 5% | 9% |  |
 | 21 | 3% | 4% |  |
-| 22 | 1.0% | 1.5% |  |
+| 22 | 1.0% | 2% |  |
 | 23 | 0.4% | 0.5% |  |
 | 24 | 0.1% | 0.2% |  |
 | 25 | 0% | 0% |  |
