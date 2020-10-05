@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Thu, 01 Oct 2020 15:55:11 +0200</pubDate>
+    <pubDate>Mon, 05 Oct 2020 07:45:37 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Metron Analysis for MEGA TV, 28–30 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-09-30-MetronAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 61–73 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 169–183 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 14–21 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–19 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 12–19 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-09-30-MetronAnalysis-seats.png"
+        length="203774"
+        type="image/png"/>
+      <pubDate>Mon, 05 Oct 2020 07:45:37 +0200</pubDate>
+      <dc:date>2020-10-05T07:45:37.840591+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for MEGA TV, 28–30 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-09-30-MetronAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-09-30-MetronAnalysis-coalitions-seats.png"
+        length="259384"
+        type="image/png"/>
+      <pubDate>Mon, 05 Oct 2020 07:45:37 +0200</pubDate>
+      <dc:date>2020-10-05T07:45:37.840591+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for MEGA TV, 28–30 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-09-30-MetronAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.4–27.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 45.4–50.6%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.5–8.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.8–7.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.7–7.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.7–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-09-30-MetronAnalysis.png"
+        length="228732"
+        type="image/png"/>
+      <pubDate>Mon, 05 Oct 2020 07:45:37 +0200</pubDate>
+      <dc:date>2020-10-05T07:45:37.840591+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 22–23 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-09-23-PulseRC.html#seats</link>
@@ -1009,6 +1039,6 @@
       <pubDate>Tue, 01 Sep 2020 08:12:09 +0200</pubDate>
       <dc:date>2020-09-01T08:12:09.341711+02:00</dc:date>
     </item>
-    <dc:date>2020-10-01T15:55:11.991684+02:00</dc:date>
+    <dc:date>2020-10-05T07:45:37.840591+02:00</dc:date>
   </channel>
 </rss>
