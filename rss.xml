@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Mon, 05 Oct 2020 07:45:37 +0200</pubDate>
+    <pubDate>Sun, 18 Oct 2020 22:27:07 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Marc for Αlpha TV, 10–14 October 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-10-14-Marc.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 21.8–27.1%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 45.8–52.0%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.6–10.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.2–8.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.2–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-10-14-Marc.png"
+        length="228064"
+        type="image/png"/>
+      <pubDate>Sun, 18 Oct 2020 21:22:45 +0200</pubDate>
+      <dc:date>2020-10-18T21:22:45.054292+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Open TV, 6–10 October 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-10-10-Alco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.2–28.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 40.1–46.2%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.4–3.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.0–9.3%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.6–6.3%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.1–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-10-10-Alco.png"
+        length="267645"
+        type="image/png"/>
+      <pubDate>Sun, 18 Oct 2020 22:27:07 +0200</pubDate>
+      <dc:date>2020-10-18T22:27:07.479309+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Metron Analysis for MEGA TV, 28–30 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-09-30-MetronAnalysis.html#seats</link>
@@ -1039,6 +1059,6 @@
       <pubDate>Tue, 01 Sep 2020 08:12:09 +0200</pubDate>
       <dc:date>2020-09-01T08:12:09.341711+02:00</dc:date>
     </item>
-    <dc:date>2020-10-05T07:45:37.840591+02:00</dc:date>
+    <dc:date>2020-10-18T22:27:07.479309+02:00</dc:date>
   </channel>
 </rss>
