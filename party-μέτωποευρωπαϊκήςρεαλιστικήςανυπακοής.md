@@ -10,7 +10,9 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.1–4.1% | 1.8–4.3% | 1.7–4.5% | 1.4–5.0% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.7–4.4% | 2.5–4.7% | 2.3–5.0% | 2.0–5.6% |
+| [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.8% |
+| [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 3.5% | 3.0–4.3% | 2.8–4.5% | 2.7–4.6% | 2.4–5.0% |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2.9% | 2.4–3.6% | 2.2–3.8% | 2.1–4.0% | 1.9–4.3% |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 3.6% | 2.9–4.4% | 2.7–4.7% | 2.6–4.9% | 2.3–5.4% |
@@ -77,13 +79,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 19% | 98% |  |
-| 2.5–3.5% | 50% | 80% | Last Result, Median |
-| 3.5–4.5% | 28% | 30% |  |
-| 4.5–5.5% | 2% | 2% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 7% | 100% |  |
+| 2.5–3.5% | 50% | 93% | Last Result, Median |
+| 3.5–4.5% | 36% | 43% |  |
+| 4.5–5.5% | 7% | 7% |  |
+| 5.5–6.5% | 0.5% | 0.5% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -95,7 +96,9 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
+| N/A | [Poll Average](average.html) | 9 | 0–11 | 0–12 | 0–13 | 0–15 |
+| [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 8 | 0–10 | 0–11 | 0–11 | 0–12 |
+| [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 11 | 9–13 | 9–14 | 8–15 | 0–16 |
 | [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
@@ -164,22 +167,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% |  |
-| 1 | 0% | 60% |  |
-| 2 | 0% | 60% |  |
-| 3 | 0% | 60% |  |
-| 4 | 0% | 60% |  |
-| 5 | 0% | 60% |  |
-| 6 | 0% | 60% |  |
-| 7 | 0% | 60% |  |
-| 8 | 10% | 60% |  |
-| 9 | 21% | 50% | Last Result, Median |
-| 10 | 15% | 29% |  |
-| 11 | 9% | 14% |  |
-| 12 | 4% | 5% |  |
-| 13 | 1.2% | 2% |  |
-| 14 | 0.3% | 0.4% |  |
-| 15 | 0.1% | 0.1% |  |
-| 16 | 0% | 0% |  |
+| 0 | 27% | 100% |  |
+| 1 | 0% | 73% |  |
+| 2 | 0% | 73% |  |
+| 3 | 0% | 73% |  |
+| 4 | 0% | 73% |  |
+| 5 | 0% | 73% |  |
+| 6 | 0% | 73% |  |
+| 7 | 0% | 73% |  |
+| 8 | 11% | 73% |  |
+| 9 | 21% | 63% | Last Result, Median |
+| 10 | 18% | 41% |  |
+| 11 | 14% | 23% |  |
+| 12 | 6% | 10% |  |
+| 13 | 2% | 4% |  |
+| 14 | 1.0% | 1.5% |  |
+| 15 | 0.4% | 0.5% |  |
+| 16 | 0.1% | 0.1% |  |
+| 17 | 0% | 0% |  |
 
 
