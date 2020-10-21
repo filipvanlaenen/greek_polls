@@ -11,6 +11,7 @@ Last result: **2.9%** (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.3% | 1.7–2.9% | 1.6–3.1% | 1.5–3.3% | 1.3–3.7% |
+| [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 0.0% | N/A | N/A | N/A | N/A |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -96,6 +97,7 @@ Last result: **0** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–8 | 0–10 |
+| [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV |  |  |  |  |  |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0–8 | 0–10 |
 | [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV |  |  |  |  |  |

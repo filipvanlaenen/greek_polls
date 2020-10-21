@@ -10,7 +10,8 @@ Last result: **3.7%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.7–6.0% | 3.5–6.4% | 3.2–6.6% | 2.9–7.2% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.7–6.0% | 3.4–6.3% | 3.2–6.6% | 2.8–7.1% |
+| [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
 | [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 5.8% | 5.1–6.7% | 4.9–7.0% | 4.7–7.2% | 4.4–7.7% |
@@ -80,10 +81,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 6% | 99.9% |  |
-| 3.5–4.5% | 32% | 93% | Last Result |
-| 4.5–5.5% | 39% | 61% | Median |
-| 5.5–6.5% | 19% | 22% |  |
+| 2.5–3.5% | 7% | 99.9% |  |
+| 3.5–4.5% | 35% | 93% | Last Result |
+| 4.5–5.5% | 38% | 58% | Median |
+| 5.5–6.5% | 17% | 20% |  |
 | 6.5–7.5% | 3% | 3% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -97,7 +98,8 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–16 | 9–17 | 9–18 | 0–19 |
+| N/A | [Poll Average](average.html) | 12 | 10–16 | 9–17 | 8–18 | 0–19 |
+| [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 11 | 9–13 | 8–14 | 8–15 | 0–16 |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 11 | 9–13 | 8–14 | 0–14 | 0–16 |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 12 | 11–16 | 10–16 | 10–16 | 9–18 |
 | [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 15 | 13–18 | 13–18 | 12–19 | 11–20 |
@@ -176,20 +178,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 98.9% |  |
 | 6 | 0% | 98.9% |  |
 | 7 | 0% | 98.9% |  |
-| 8 | 1.2% | 98.9% |  |
-| 9 | 4% | 98% |  |
-| 10 | 9% | 93% | Last Result |
-| 11 | 11% | 84% |  |
-| 12 | 19% | 73% |  |
-| 13 | 15% | 55% | Median |
-| 14 | 14% | 40% |  |
-| 15 | 10% | 26% |  |
-| 16 | 9% | 16% |  |
-| 17 | 4% | 7% |  |
+| 8 | 1.5% | 98.9% |  |
+| 9 | 5% | 97% |  |
+| 10 | 11% | 92% | Last Result |
+| 11 | 12% | 81% |  |
+| 12 | 19% | 69% | Median |
+| 13 | 14% | 50% |  |
+| 14 | 13% | 36% |  |
+| 15 | 9% | 23% |  |
+| 16 | 8% | 14% |  |
+| 17 | 4% | 6% |  |
 | 18 | 2% | 3% |  |
-| 19 | 0.7% | 1.0% |  |
+| 19 | 0.6% | 0.9% |  |
 | 20 | 0.2% | 0.3% |  |
-| 21 | 0.1% | 0.1% |  |
+| 21 | 0% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
 
