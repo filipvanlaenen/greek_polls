@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sun, 18 Oct 2020 22:27:07 +0200</pubDate>
+    <pubDate>Wed, 21 Oct 2020 18:37:58 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Opinion Poll, 11–15 October 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-10-15-OpinionPoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 21.3–26.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 46.8–53.0%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 7.2–10.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.7–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-10-15-OpinionPoll.png"
+        length="226702"
+        type="image/png"/>
+      <pubDate>Wed, 21 Oct 2020 18:37:58 +0200</pubDate>
+      <dc:date>2020-10-21T18:37:58.098722+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Marc for Αlpha TV, 10–14 October 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-10-14-Marc.html</link>
@@ -1059,6 +1069,6 @@
       <pubDate>Tue, 01 Sep 2020 08:12:09 +0200</pubDate>
       <dc:date>2020-09-01T08:12:09.341711+02:00</dc:date>
     </item>
-    <dc:date>2020-10-18T22:27:07.479309+02:00</dc:date>
+    <dc:date>2020-10-21T18:37:58.098722+02:00</dc:date>
   </channel>
 </rss>
