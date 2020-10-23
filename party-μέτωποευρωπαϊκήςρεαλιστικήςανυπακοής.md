@@ -98,7 +98,7 @@ Last result: **9** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 0–12 | 0–12 | 0–13 | 0–14 |
-| [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 9 | 0–12 | 0–12 | 0–13 | 0–14 |
+| [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 10 | 8–12 | 0–12 | 0–13 | 0–14 |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 8 | 0–10 | 0–11 | 0–11 | 0–12 |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 11 | 9–13 | 9–14 | 8–15 | 0–16 |
 | [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
@@ -169,20 +169,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% |  |
-| 1 | 0% | 75% |  |
-| 2 | 0% | 75% |  |
-| 3 | 0% | 75% |  |
-| 4 | 0% | 75% |  |
-| 5 | 0% | 75% |  |
-| 6 | 0% | 75% |  |
-| 7 | 0% | 75% |  |
-| 8 | 11% | 75% |  |
-| 9 | 22% | 65% | Last Result, Median |
-| 10 | 19% | 42% |  |
-| 11 | 14% | 24% |  |
-| 12 | 6% | 10% |  |
-| 13 | 2% | 4% |  |
+| 0 | 24% | 100% |  |
+| 1 | 0% | 76% |  |
+| 2 | 0% | 76% |  |
+| 3 | 0% | 76% |  |
+| 4 | 0% | 76% |  |
+| 5 | 0% | 76% |  |
+| 6 | 0% | 76% |  |
+| 7 | 0% | 76% |  |
+| 8 | 11% | 76% |  |
+| 9 | 23% | 65% | Last Result, Median |
+| 10 | 19% | 43% |  |
+| 11 | 13% | 24% |  |
+| 12 | 6% | 11% |  |
+| 13 | 3% | 5% |  |
 | 14 | 0.9% | 1.4% |  |
 | 15 | 0.4% | 0.5% |  |
 | 16 | 0.1% | 0.1% |  |

@@ -98,10 +98,10 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–20 | 13–20 | 13–21 | 11–23 |
-| [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 18 | 15–20 | 14–21 | 14–22 | 13–24 |
-| [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 18 | 15–20 | 14–21 | 14–22 | 13–24 |
-| [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 16 | 14–18 | 13–19 | 13–20 | 12–22 |
+| N/A | [Poll Average](average.html) | 16 | 14–19 | 13–20 | 12–21 | 11–23 |
+| [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 18 | 15–20 | 14–21 | 14–22 | 13–23 |
+| [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 18 | 15–20 | 14–21 | 14–22 | 13–23 |
+| [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 16 | 14–18 | 13–19 | 12–20 | 12–21 |
 | [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 16 | 14–18 | 13–18 | 13–19 | 12–20 |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 17 | 15–20 | 14–20 | 14–21 | 13–22 |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 16 | 13–18 | 13–19 | 12–20 | 11–21 |
@@ -173,17 +173,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.1% | 100% |  |
 | 11 | 0.5% | 99.9% |  |
 | 12 | 2% | 99.4% |  |
-| 13 | 5% | 98% |  |
-| 14 | 10% | 92% |  |
+| 13 | 5% | 97% |  |
+| 14 | 11% | 93% |  |
 | 15 | 15% | 82% | Last Result |
-| 16 | 19% | 67% | Median |
-| 17 | 15% | 49% |  |
-| 18 | 15% | 34% |  |
+| 16 | 17% | 67% | Median |
+| 17 | 17% | 50% |  |
+| 18 | 14% | 33% |  |
 | 19 | 9% | 19% |  |
-| 20 | 6% | 10% |  |
-| 21 | 3% | 4% |  |
-| 22 | 1.3% | 2% |  |
-| 23 | 0.4% | 0.6% |  |
+| 20 | 5% | 10% |  |
+| 21 | 3% | 5% |  |
+| 22 | 1.2% | 2% |  |
+| 23 | 0.5% | 0.7% |  |
 | 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0.1% |  |
 | 26 | 0% | 0% |  |
