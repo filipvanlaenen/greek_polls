@@ -10,18 +10,20 @@ Last result: **3.7%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.7–6.0% | 3.4–6.3% | 3.2–6.6% | 2.8–7.1% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.8–5.8% | 3.5–6.1% | 3.3–6.4% | 2.9–6.9% |
+| [18–22 October 2020](2020-10-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
+| [16–21 October 2020](2020-10-21-Interview.html) | Interview <br> Βεργίνα TV | 5.2% | 4.5–6.2% | 4.3–6.4% | 4.1–6.7% | 3.8–7.1% |
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
-| [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 5.8% | 5.1–6.7% | 4.9–7.0% | 4.7–7.2% | 4.4–7.7% |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 5.7% | N/A | N/A | N/A | N/A |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.6% | 3.9–5.4% | 3.7–5.7% | 3.6–5.9% | 3.3–6.3% |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 5.2% | 4.5–6.2% | 4.2–6.4% | 4.1–6.7% | 3.7–7.2% |
 | [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
+| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.7% | N/A | N/A | N/A | N/A |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.2% | 2.5–5.6% |
-| [4–10 September 2020](2020-09-10-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.7% | 3.1–4.4% | 3.0–4.6% | 2.8–4.7% | 2.6–5.1% |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 5.2% | 4.5–6.2% | 4.2–6.4% | 4.1–6.7% | 3.7–7.2% |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.1–5.5% | 2.8–6.0% |
@@ -80,14 +82,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 7% | 99.9% |  |
-| 3.5–4.5% | 35% | 93% | Last Result |
-| 4.5–5.5% | 38% | 58% | Median |
-| 5.5–6.5% | 17% | 20% |  |
-| 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 5% | 100% |  |
+| 3.5–4.5% | 34% | 95% | Last Result |
+| 4.5–5.5% | 44% | 60% | Median |
+| 5.5–6.5% | 15% | 17% |  |
+| 6.5–7.5% | 1.4% | 1.4% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -98,18 +99,20 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–16 | 9–17 | 8–18 | 0–19 |
+| N/A | [Poll Average](average.html) | 13 | 10–16 | 9–17 | 9–17 | 0–19 |
+| [18–22 October 2020](2020-10-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 13 | 11–16 | 11–17 | 10–17 | 9–19 |
+| [16–21 October 2020](2020-10-21-Interview.html) | Interview <br> Βεργίνα TV | 15 | 12–17 | 12–18 | 11–18 | 11–20 |
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 11 | 9–13 | 8–14 | 8–14 | 0–16 |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 11 | 9–13 | 8–14 | 8–15 | 0–16 |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 13 | 11–16 | 10–16 | 10–17 | 9–18 |
-| [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 15 | 13–18 | 13–18 | 12–19 | 11–20 |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV |  |  |  |  |  |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 13 | 11–15 | 10–15 | 10–16 | 9–17 |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 13 | 11–16 | 10–17 | 10–17 | 9–18 |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 14 | 12–17 | 12–18 | 11–19 | 10–20 |
 | [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά | 10 | 9–13 | 8–13 | 0–14 | 0–15 |
 | [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 14 | 12–17 | 11–18 | 11–18 | 10–20 |
+| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 10 | 8–12 | 0–13 | 0–14 | 0–15 |
-| [4–10 September 2020](2020-09-10-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 10 | 8–12 | 0–12 | 0–13 | 0–14 |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 11 | 9–14 | 9–14 | 8–15 | 0–16 |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 14 | 12–17 | 11–17 | 11–18 | 10–19 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 11 | 9–14 | 9–14 | 8–15 | 0–16 |
@@ -170,28 +173,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.1% | 100% |  |
-| 1 | 0% | 98.9% |  |
-| 2 | 0% | 98.9% |  |
-| 3 | 0% | 98.9% |  |
-| 4 | 0% | 98.9% |  |
-| 5 | 0% | 98.9% |  |
-| 6 | 0% | 98.9% |  |
-| 7 | 0% | 98.9% |  |
-| 8 | 2% | 98.9% |  |
-| 9 | 6% | 97% |  |
-| 10 | 10% | 92% | Last Result |
-| 11 | 14% | 81% |  |
-| 12 | 15% | 67% |  |
-| 13 | 15% | 52% | Median |
-| 14 | 13% | 37% |  |
-| 15 | 11% | 24% |  |
-| 16 | 7% | 14% |  |
-| 17 | 4% | 6% |  |
-| 18 | 2% | 3% |  |
-| 19 | 0.7% | 0.9% |  |
-| 20 | 0.2% | 0.3% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 0 | 0.7% | 100% |  |
+| 1 | 0% | 99.3% |  |
+| 2 | 0% | 99.3% |  |
+| 3 | 0% | 99.3% |  |
+| 4 | 0% | 99.3% |  |
+| 5 | 0% | 99.3% |  |
+| 6 | 0% | 99.3% |  |
+| 7 | 0% | 99.3% |  |
+| 8 | 1.2% | 99.3% |  |
+| 9 | 5% | 98% |  |
+| 10 | 9% | 93% | Last Result |
+| 11 | 14% | 84% |  |
+| 12 | 16% | 70% |  |
+| 13 | 17% | 54% | Median |
+| 14 | 15% | 37% |  |
+| 15 | 11% | 22% |  |
+| 16 | 7% | 12% |  |
+| 17 | 3% | 5% |  |
+| 18 | 1.4% | 2% |  |
+| 19 | 0.4% | 0.6% |  |
+| 20 | 0.2% | 0.2% |  |
+| 21 | 0% | 0% |  |
 
 

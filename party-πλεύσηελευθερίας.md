@@ -11,17 +11,19 @@ Last result: **1.5%** (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.5% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [18–22 October 2020](2020-10-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
+| [16–21 October 2020](2020-10-21-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 0.0% | N/A | N/A | N/A | N/A |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
-| [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 0.0% | N/A | N/A | N/A | N/A |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 0.0% | N/A | N/A | N/A | N/A |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 0.0% | N/A | N/A | N/A | N/A |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
+| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
-| [4–10 September 2020](2020-09-10-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -96,17 +98,19 @@ Last result: **0** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–22 October 2020](2020-10-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [16–21 October 2020](2020-10-21-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV |  |  |  |  |  |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0 |
-| [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV |  |  |  |  |  |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV |  |  |  |  |  |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0–8 |
+| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
-| [4–10 September 2020](2020-09-10-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV |  |  |  |  |  |
