@@ -22,7 +22,7 @@ Last result: **31.5%** (General Election of 7 July 2019)
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 22.9% | 21.4–24.6% | 20.9–25.1% | 20.5–25.5% | 19.8–26.3% |
 | [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά | 26.8% | 25.1–28.7% | 24.6–29.2% | 24.1–29.6% | 23.3–30.5% |
 | [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 25.2% | 23.5–27.0% | 23.0–27.5% | 22.6–28.0% | 21.8–28.9% |
-| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 24.6% | N/A | N/A | N/A | N/A |
+| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 24.6% | 23.2–26.1% | 22.9–26.5% | 22.5–26.9% | 21.9–27.6% |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.4% | 21.3–28.3% |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 26.7% | 25.0–28.6% | 24.5–29.1% | 24.1–29.5% | 23.2–30.4% |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 24.1% | 22.5–25.8% | 22.1–26.3% | 21.7–26.7% | 20.9–27.5% |
@@ -119,7 +119,7 @@ Last result: **86** seats (General Election of 7 July 2019)
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 63 | 59–68 | 58–69 | 57–70 | 55–73 |
 | [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά | 71 | 66–76 | 65–78 | 64–79 | 61–82 |
 | [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 69 | 64–74 | 63–75 | 61–76 | 59–79 |
-| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 67 | 63–70 | 62–72 | 61–73 | 59–75 |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 65 | 60–70 | 59–72 | 58–73 | 56–76 |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 71 | 66–76 | 65–77 | 63–79 | 61–81 |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 64 | 60–69 | 59–71 | 58–72 | 56–74 |
