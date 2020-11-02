@@ -109,7 +109,7 @@ Last result: **22** seats (General Election of 7 July 2019)
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 23 | 20–26 | 19–27 | 18–28 | 17–29 |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 22 | 19–25 | 18–26 | 17–27 | 16–28 |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 20 | 18–23 | 16–24 | 16–25 | 15–27 |
-| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 18 | 16–21 | 15–21 | 15–22 | 14–23 |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 18 | 16–21 | 15–22 | 15–22 | 14–24 |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 21 | 18–23 | 17–24 | 17–25 | 16–26 |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 17 | 14–19 | 14–20 | 13–21 | 12–22 |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 24 | 21–27 | 20–28 | 20–29 | 18–30 |
@@ -121,7 +121,7 @@ Last result: **22** seats (General Election of 7 July 2019)
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 20 | 17–23 | 16–24 | 16–24 | 15–26 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 19 | 16–22 | 15–22 | 15–23 | 14–25 |
 | [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19 | 17–22 | 16–23 | 15–23 | 15–25 |
-| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 18 | 16–22 | 15–22 | 14–23 | 13–24 |
+| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 19 | 16–22 | 15–22 | 15–23 | 14–25 |
 | [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 19 | 16–22 | 16–22 | 15–23 | 14–25 |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 18 | 15–21 | 14–22 | 14–22 | 13–24 |
 | [1–2 July 2020](2020-07-02-Marc.html) | Marc | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
@@ -179,12 +179,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.2% | 100% |  |
 | 13 | 0.6% | 99.8% |  |
-| 14 | 1.3% | 99.3% |  |
+| 14 | 1.3% | 99.2% |  |
 | 15 | 3% | 98% |  |
-| 16 | 6% | 95% |  |
-| 17 | 6% | 89% |  |
-| 18 | 7% | 83% |  |
-| 19 | 12% | 75% |  |
+| 16 | 5% | 95% |  |
+| 17 | 6% | 90% |  |
+| 18 | 8% | 83% |  |
+| 19 | 11% | 75% |  |
 | 20 | 12% | 63% |  |
 | 21 | 11% | 51% | Median |
 | 22 | 11% | 41% | Last Result |

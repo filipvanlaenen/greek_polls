@@ -117,7 +117,7 @@ Last result: **9** seats (General Election of 7 July 2019)
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 11 | 9–13 | 8–14 | 0–14 | 0–15 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 0 | 0 | 0–8 | 0–9 | 0–10 |
 | [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 0–10 | 0–10 | 0–11 | 0–12 |
-| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
+| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 9 | 0–12 | 0–12 | 0–13 | 0–14 |
 | [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 8 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
 | [1–2 July 2020](2020-07-02-Marc.html) | Marc | 0 | 0 | 0–8 | 0–8 | 0–9 |
@@ -173,15 +173,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% |  |
-| 1 | 0% | 82% |  |
-| 2 | 0% | 82% |  |
-| 3 | 0% | 82% |  |
-| 4 | 0% | 82% |  |
-| 5 | 0% | 82% |  |
-| 6 | 0% | 82% |  |
-| 7 | 0% | 82% |  |
-| 8 | 10% | 82% |  |
+| 0 | 19% | 100% |  |
+| 1 | 0% | 81% |  |
+| 2 | 0% | 81% |  |
+| 3 | 0% | 81% |  |
+| 4 | 0% | 81% |  |
+| 5 | 0% | 81% |  |
+| 6 | 0% | 81% |  |
+| 7 | 0% | 81% |  |
+| 8 | 9% | 81% |  |
 | 9 | 23% | 72% | Last Result, Median |
 | 10 | 20% | 49% |  |
 | 11 | 16% | 29% |  |

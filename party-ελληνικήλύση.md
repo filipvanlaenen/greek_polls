@@ -106,7 +106,7 @@ Last result: **10** seats (General Election of 7 July 2019)
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 11 | 9–13 | 8–14 | 8–14 | 0–16 |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 11 | 9–13 | 8–14 | 8–15 | 0–16 |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 13 | 11–16 | 10–16 | 10–17 | 9–18 |
-| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 15 | 13–18 | 12–18 | 12–19 | 11–20 |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 13 | 11–15 | 10–15 | 10–16 | 9–17 |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 13 | 11–16 | 10–17 | 10–17 | 9–18 |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 14 | 12–17 | 12–18 | 11–19 | 10–20 |
@@ -118,7 +118,7 @@ Last result: **10** seats (General Election of 7 July 2019)
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 14 | 12–17 | 11–17 | 11–18 | 10–19 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 11 | 9–14 | 9–14 | 8–15 | 0–16 |
 | [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 9–13 | 9–14 | 8–14 | 0–15 |
-| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 10 | 8–12 | 0–13 | 0–13 | 0–15 |
+| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 10 | 8–12 | 0–13 | 0–14 | 0–15 |
 | [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 11 | 9–14 | 9–14 | 8–15 | 0–16 |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 10 | 8–13 | 0–13 | 0–14 | 0–15 |
 | [1–2 July 2020](2020-07-02-Marc.html) | Marc | 12 | 10–13 | 10–14 | 9–14 | 9–15 |
@@ -187,14 +187,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 8% | 94% | Last Result |
 | 11 | 12% | 86% |  |
 | 12 | 14% | 74% |  |
-| 13 | 15% | 60% | Median |
-| 14 | 14% | 44% |  |
+| 13 | 16% | 60% | Median |
+| 14 | 15% | 44% |  |
 | 15 | 13% | 30% |  |
-| 16 | 9% | 16% |  |
-| 17 | 4% | 7% |  |
+| 16 | 9% | 17% |  |
+| 17 | 5% | 8% |  |
 | 18 | 2% | 3% |  |
-| 19 | 0.7% | 1.0% |  |
-| 20 | 0.2% | 0.3% |  |
+| 19 | 0.8% | 1.1% |  |
+| 20 | 0.3% | 0.3% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 

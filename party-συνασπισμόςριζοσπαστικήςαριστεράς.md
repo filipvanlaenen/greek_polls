@@ -107,25 +107,25 @@ Last result: **86** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 66 | 60–73 | 58–74 | 57–75 | 54–77 |
+| N/A | [Poll Average](average.html) | 66 | 59–73 | 58–74 | 57–75 | 54–77 |
 | [18–22 October 2020](2020-10-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 69 | 64–74 | 63–76 | 62–77 | 60–79 |
 | [16–21 October 2020](2020-10-21-Interview.html) | Interview <br> Βεργίνα TV | 61 | 57–66 | 56–67 | 55–68 | 53–70 |
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 61 | 57–66 | 56–67 | 55–68 | 53–71 |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 65 | 60–70 | 59–71 | 58–72 | 55–75 |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 72 | 69–75 | 68–76 | 66–76 | 60–78 |
-| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 67 | 63–71 | 62–72 | 61–74 | 59–76 |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 67 | 63–72 | 62–73 | 61–74 | 59–76 |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 72 | 68–77 | 66–78 | 65–79 | 63–81 |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 68 | 64–73 | 62–75 | 61–76 | 59–78 |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 63 | 59–68 | 58–69 | 57–70 | 55–73 |
 | [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά | 71 | 66–76 | 65–78 | 64–79 | 61–82 |
 | [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 69 | 64–74 | 63–75 | 61–76 | 59–79 |
-| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 67 | 63–70 | 62–72 | 61–73 | 59–75 |
+| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 67 | 63–71 | 62–72 | 61–73 | 59–75 |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 65 | 60–70 | 59–72 | 58–73 | 56–76 |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 71 | 66–76 | 65–77 | 63–79 | 61–81 |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 64 | 60–69 | 59–71 | 58–72 | 56–74 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 67 | 62–72 | 61–73 | 60–74 | 58–77 |
 | [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 71 | 67–76 | 65–77 | 64–78 | 62–81 |
-| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 72 | 68–77 | 67–81 | 66–81 | 63–83 |
+| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 74 | 69–79 | 68–81 | 66–82 | 64–85 |
 | [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 66 | 62–71 | 61–73 | 60–75 | 57–77 |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 73 | 68–79 | 67–80 | 66–82 | 63–85 |
 | [1–2 July 2020](2020-07-02-Marc.html) | Marc | 67 | 63–70 | 62–71 | 62–72 | 60–74 |
@@ -189,8 +189,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 57 | 2% | 98% |  |
 | 58 | 2% | 96% |  |
 | 59 | 3% | 93% |  |
-| 60 | 4% | 90% |  |
-| 61 | 5% | 86% |  |
+| 60 | 5% | 90% |  |
+| 61 | 5% | 85% |  |
 | 62 | 6% | 80% |  |
 | 63 | 6% | 75% |  |
 | 64 | 6% | 69% |  |
@@ -200,9 +200,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 7% | 42% |  |
 | 69 | 7% | 36% |  |
 | 70 | 6% | 29% |  |
-| 71 | 6% | 22% |  |
+| 71 | 5% | 22% |  |
 | 72 | 5% | 17% |  |
-| 73 | 4% | 11% |  |
+| 73 | 4% | 12% |  |
 | 74 | 3% | 7% |  |
 | 75 | 2% | 4% |  |
 | 76 | 1.3% | 2% |  |

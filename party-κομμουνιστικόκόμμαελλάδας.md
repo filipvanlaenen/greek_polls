@@ -106,19 +106,19 @@ Last result: **15** seats (General Election of 7 July 2019)
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 18 | 15–20 | 14–21 | 14–22 | 13–23 |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 18 | 15–20 | 14–21 | 14–22 | 13–23 |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 16 | 14–18 | 13–19 | 12–20 | 12–21 |
-| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 16 | 13–18 | 13–19 | 13–19 | 11–21 |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 16 | 13–18 | 13–19 | 12–19 | 11–21 |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 17 | 15–20 | 14–20 | 14–21 | 13–22 |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 16 | 13–18 | 13–19 | 12–20 | 11–21 |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 15 | 12–17 | 12–18 | 11–19 | 10–20 |
 | [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά | 18 | 15–20 | 14–21 | 14–22 | 13–24 |
 | [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 17 | 14–19 | 13–20 | 13–21 | 12–23 |
-| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 17 | 15–19 | 15–20 | 14–21 | 13–22 |
+| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 17 | 14–20 | 14–20 | 13–21 | 12–23 |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 17 | 14–19 | 13–20 | 13–21 | 12–22 |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 14 | 12–17 | 11–17 | 11–18 | 10–19 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 16 | 14–19 | 13–20 | 13–21 | 12–22 |
 | [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 16 | 14–19 | 14–20 | 13–20 | 12–21 |
-| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 14 | 12–16 | 12–19 | 12–20 | 11–23 |
+| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 16 | 13–19 | 13–20 | 12–20 | 11–22 |
 | [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 16 | 14–19 | 13–20 | 13–20 | 12–22 |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 14 | 12–17 | 11–18 | 11–18 | 10–20 |
 | [1–2 July 2020](2020-07-02-Marc.html) | Marc | 16 | 14–18 | 14–18 | 13–19 | 12–20 |
@@ -174,16 +174,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.3% | 100% |  |
-| 12 | 1.3% | 99.6% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0.3% | 99.9% |  |
+| 12 | 1.4% | 99.7% |  |
 | 13 | 4% | 98% |  |
 | 14 | 10% | 94% |  |
 | 15 | 14% | 84% | Last Result |
-| 16 | 18% | 70% |  |
+| 16 | 17% | 70% |  |
 | 17 | 18% | 52% | Median |
 | 18 | 14% | 34% |  |
-| 19 | 10% | 20% |  |
-| 20 | 6% | 10% |  |
+| 19 | 9% | 20% |  |
+| 20 | 6% | 11% |  |
 | 21 | 3% | 5% |  |
 | 22 | 1.3% | 2% |  |
 | 23 | 0.5% | 0.7% |  |
