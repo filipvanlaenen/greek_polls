@@ -10,7 +10,9 @@ Last result: **3.7%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.3–5.6% | 3.1–5.9% | 2.9–6.2% | 2.5–6.7% |
+| N/A | [Poll Average](average.html) | 4.4% | 3.4–5.6% | 3.1–5.9% | 2.9–6.2% | 2.6–6.7% |
+| [10–13 November 2020](2020-11-13-GPO.html) | GPO <br> Παραπολιτικά | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
+| [4–11 November 2020](2020-11-11-OpinionPoll.html) | Opinion Poll | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [6–11 November 2020](2020-11-11-Alco.html) | Alco <br> Open TV | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [26–28 October 2020](2020-10-28-GPO.html) | GPO <br> Action24 | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [18–22 October 2020](2020-10-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
@@ -85,11 +87,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.5% | 100% |  |
-| 2.5–3.5% | 18% | 99.5% |  |
-| 3.5–4.5% | 42% | 82% | Last Result, Median |
-| 4.5–5.5% | 29% | 40% |  |
-| 5.5–6.5% | 9% | 10% |  |
+| 1.5–2.5% | 0.4% | 100% |  |
+| 2.5–3.5% | 14% | 99.6% |  |
+| 3.5–4.5% | 43% | 85% | Last Result, Median |
+| 4.5–5.5% | 32% | 42% |  |
+| 5.5–6.5% | 10% | 11% |  |
 | 6.5–7.5% | 0.9% | 0.9% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -102,7 +104,9 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–15 | 8–16 | 0–17 | 0–19 |
+| N/A | [Poll Average](average.html) | 12 | 9–15 | 8–16 | 0–17 | 0–19 |
+| [10–13 November 2020](2020-11-13-GPO.html) | GPO <br> Παραπολιτικά | 12 | 10–14 | 9–15 | 9–15 | 0–17 |
+| [4–11 November 2020](2020-11-11-OpinionPoll.html) | Opinion Poll | 11 | 9–13 | 8–14 | 0–14 | 0–15 |
 | [6–11 November 2020](2020-11-11-Alco.html) | Alco <br> Open TV | 10 | 0–13 | 0–13 | 0–14 | 0–15 |
 | [26–28 October 2020](2020-10-28-GPO.html) | GPO <br> Action24 | 10 | 8–12 | 0–13 | 0–13 | 0–15 |
 | [18–22 October 2020](2020-10-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 13 | 11–16 | 11–17 | 10–17 | 9–19 |
@@ -178,25 +182,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% |  |
-| 1 | 0% | 95% |  |
-| 2 | 0% | 95% |  |
-| 3 | 0% | 95% |  |
-| 4 | 0% | 95% |  |
-| 5 | 0% | 95% |  |
-| 6 | 0% | 95% |  |
-| 7 | 0% | 95% |  |
-| 8 | 3% | 95% |  |
-| 9 | 12% | 92% |  |
-| 10 | 16% | 80% | Last Result |
-| 11 | 16% | 65% | Median |
-| 12 | 14% | 49% |  |
-| 13 | 12% | 35% |  |
-| 14 | 9% | 24% |  |
-| 15 | 7% | 15% |  |
+| 0 | 3% | 100% |  |
+| 1 | 0% | 97% |  |
+| 2 | 0% | 97% |  |
+| 3 | 0% | 97% |  |
+| 4 | 0% | 97% |  |
+| 5 | 0% | 97% |  |
+| 6 | 0% | 97% |  |
+| 7 | 0% | 97% |  |
+| 8 | 2% | 97% |  |
+| 9 | 10% | 95% |  |
+| 10 | 15% | 84% | Last Result |
+| 11 | 15% | 70% |  |
+| 12 | 15% | 54% | Median |
+| 13 | 14% | 39% |  |
+| 14 | 10% | 26% |  |
+| 15 | 7% | 16% |  |
 | 16 | 4% | 8% |  |
 | 17 | 2% | 4% |  |
-| 18 | 0.9% | 1.5% |  |
+| 18 | 1.0% | 1.5% |  |
 | 19 | 0.4% | 0.5% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
