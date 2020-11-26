@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Mon, 23 Nov 2020 07:26:59 +0100</pubDate>
+    <pubDate>Thu, 26 Nov 2020 09:37:59 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Κάπα Research, 20–24 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-11-24-ΚάπαResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.9–31.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 42.7–48.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.9–9.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.9–7.8%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.5–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-11-24-ΚάπαResearch.png"
+        length="230278"
+        type="image/png"/>
+      <pubDate>Thu, 26 Nov 2020 09:37:59 +0100</pubDate>
+      <dc:date>2020-11-26T09:37:59.709118+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by GPO for Παραπολιτικά, 10–13 November 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-11-13-GPO.html</link>
@@ -20,14 +30,34 @@
       <dc:date>2020-11-21T23:38:11.773813+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinion Poll, 4–11 November 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-11-11-OpinionPoll.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 57–71 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 169–187 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–27 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–21 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0–14 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-11-11-OpinionPoll-seats.png"
+        length="202324"
+        type="image/png"/>
+      <pubDate>Wed, 25 Nov 2020 21:13:56 +0100</pubDate>
+      <dc:date>2020-11-25T21:13:56.957413+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll, 4–11 November 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-11-11-OpinionPoll.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-11-11-OpinionPoll-coalitions-seats.png"
+        length="256293"
+        type="image/png"/>
+      <pubDate>Wed, 25 Nov 2020 21:13:56 +0100</pubDate>
+      <dc:date>2020-11-25T21:13:56.957413+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinion Poll, 4–11 November 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-11-11-OpinionPoll.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 21.8–27.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 45.5–51.7%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.8–10.3%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.1–8.2%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.6–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-11-11-OpinionPoll.png"
         length="228133"
         type="image/png"/>
-      <pubDate>Mon, 23 Nov 2020 07:26:59 +0100</pubDate>
-      <dc:date>2020-11-23T07:26:59.967101+01:00</dc:date>
+      <pubDate>Wed, 25 Nov 2020 21:13:56 +0100</pubDate>
+      <dc:date>2020-11-25T21:13:56.957413+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 6–11 November 2020 – Seat Projections for the Parties</title>
@@ -1289,6 +1319,6 @@
       <pubDate>Tue, 01 Sep 2020 08:12:09 +0200</pubDate>
       <dc:date>2020-09-01T08:12:09.341711+02:00</dc:date>
     </item>
-    <dc:date>2020-11-23T07:26:59.967101+01:00</dc:date>
+    <dc:date>2020-11-26T09:37:59.709118+01:00</dc:date>
   </channel>
 </rss>
