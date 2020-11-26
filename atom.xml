@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/greek_polls</id>
   <title>All Registered Polls for the Hellenic Parliament</title>
-  <updated>2020-11-15T16:36:45.45482+01:00</updated>
+  <updated>2020-11-25T21:13:56.957413+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 21.8–27.2%, 57–71 seats</li><li>Νέα Δημοκρατία: 45.5–51.7%, 169–187 seats</li><li>Κίνημα Αλλαγής: 6.8–10.3%, 18–27 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 5.1–8.2%, 13–21 seats</li><li>Ελληνική Λύση: 2.9–5.4%, 0–14 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.6–5.0%, 0–13 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/greek_polls/2020-11-11-OpinionPoll.html</id>
+    <link href="https://filipvanlaenen.github.io/greek_polls/2020-11-11-OpinionPoll.html"/>
+    <title>Opinion Poll by Opinion Poll, 4–11 November 2020</title>
+    <updated>2020-11-25T21:13:56.957413+01:00</updated>
+    <dc:date>2020-11-25T21:13:56.957413+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.3–28.7%, 64–79 seats</li><li>Νέα Δημοκρατία: 40.3–46.5%, 160–180 seats</li><li>Χρυσή Αυγή: 0.8–2.2%, 0 seats</li><li>Κίνημα Αλλαγής: 6.7–10.2%, 19–28 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 5.3–8.4%, 14–23 seats</li><li>Πλεύση Ελευθερίας: 0.8–2.2%, 0 seats</li><li>Ελληνική Λύση: 2.6–5.0%, 0–14 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.5–4.8%, 0–13 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/greek_polls/2020-11-11-Alco.html</id>
@@ -247,5 +255,5 @@
     <updated>2019-12-31T14:07:05.761012+01:00</updated>
     <dc:date>2019-12-31T14:07:05.761012+01:00</dc:date>
   </entry>
-  <dc:date>2020-11-15T16:36:45.45482+01:00</dc:date>
+  <dc:date>2020-11-25T21:13:56.957413+01:00</dc:date>
 </feed>
