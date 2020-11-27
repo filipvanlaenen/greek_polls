@@ -105,9 +105,9 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–20 | 14–21 | 14–22 | 12–24 |
+| N/A | [Poll Average](average.html) | 17 | 15–21 | 14–21 | 14–22 | 12–24 |
 | [20–24 November 2020](2020-11-24-ΚάπαResearch.html) | Κάπα Research | 16 | 14–19 | 13–20 | 13–21 | 12–22 |
-| [10–13 November 2020](2020-11-13-GPO.html) | GPO <br> Παραπολιτικά | 18 | 15–20 | 14–21 | 14–22 | 13–24 |
+| [10–13 November 2020](2020-11-13-GPO.html) | GPO <br> Παραπολιτικά | 18 | 15–21 | 14–21 | 14–22 | 13–24 |
 | [4–11 November 2020](2020-11-11-OpinionPoll.html) | Opinion Poll | 17 | 15–20 | 14–21 | 13–21 | 12–23 |
 | [6–11 November 2020](2020-11-11-Alco.html) | Alco <br> Open TV | 18 | 16–22 | 15–23 | 14–23 | 13–25 |
 | [26–28 October 2020](2020-10-28-GPO.html) | GPO <br> Action24 | 17 | 14–20 | 14–21 | 13–21 | 12–23 |
@@ -191,9 +191,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 10% | 93% | Last Result |
 | 16 | 16% | 83% |  |
 | 17 | 18% | 67% | Median |
-| 18 | 18% | 49% |  |
-| 19 | 13% | 31% |  |
-| 20 | 9% | 18% |  |
+| 18 | 17% | 49% |  |
+| 19 | 13% | 32% |  |
+| 20 | 9% | 19% |  |
 | 21 | 5% | 10% |  |
 | 22 | 3% | 5% |  |
 | 23 | 1.3% | 2% |  |
