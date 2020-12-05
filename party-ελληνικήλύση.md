@@ -10,7 +10,9 @@ Last result: **3.7%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.5–6.2% | 3.2–6.6% | 3.0–6.9% | 2.6–7.4% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.5–6.3% | 3.2–6.7% | 3.0–7.0% | 2.7–7.5% |
+| [27 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 5.9% | 5.1–6.9% | 4.8–7.2% | 4.7–7.5% | 4.3–8.0% |
+| [24–27 November 2020](2020-11-27-Prorata.html) | Prorata | 3.7% | 3.3–4.2% | 3.2–4.4% | 3.0–4.5% | 2.9–4.7% |
 | [24–26 November 2020](2020-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.0% | 5.3–7.0% | 5.0–7.2% | 4.8–7.5% | 4.5–7.9% |
 | [20–24 November 2020](2020-11-24-ΚάπαResearch.html) | Κάπα Research | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.1–5.6% | 2.8–6.0% |
 | [18–24 November 2020](2020-11-24-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 5.5% | 4.7–6.4% | 4.5–6.7% | 4.3–6.9% | 4.0–7.4% |
@@ -91,13 +93,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.3% | 100% |  |
-| 2.5–3.5% | 12% | 99.7% |  |
-| 3.5–4.5% | 34% | 88% | Last Result |
-| 4.5–5.5% | 29% | 54% | Median |
-| 5.5–6.5% | 20% | 25% |  |
-| 6.5–7.5% | 5% | 5% |  |
-| 7.5–8.5% | 0.3% | 0.3% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 13% | 99.8% |  |
+| 3.5–4.5% | 34% | 87% | Last Result |
+| 4.5–5.5% | 26% | 53% | Median |
+| 5.5–6.5% | 21% | 28% |  |
+| 6.5–7.5% | 6% | 6% |  |
+| 7.5–8.5% | 0.5% | 0.5% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -109,7 +111,9 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 9–17 | 9–18 | 0–18 | 0–20 |
+| N/A | [Poll Average](average.html) | 12 | 9–17 | 9–18 | 0–19 | 0–20 |
+| [27 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 16 | 14–19 | 13–20 | 13–20 | 12–22 |
+| [24–27 November 2020](2020-11-27-Prorata.html) | Prorata | 10 | 9–11 | 9–12 | 0–12 | 0–12 |
 | [24–26 November 2020](2020-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 16 | 14–19 | 14–19 | 13–20 | 12–21 |
 | [20–24 November 2020](2020-11-24-ΚάπαResearch.html) | Κάπα Research | 11 | 9–13 | 9–14 | 8–15 | 0–16 |
 | [18–24 November 2020](2020-11-24-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 15 | 12–17 | 12–18 | 11–18 | 11–20 |
@@ -199,21 +203,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 97% |  |
 | 6 | 0% | 97% |  |
 | 7 | 0% | 97% |  |
-| 8 | 2% | 97% |  |
-| 9 | 8% | 95% |  |
-| 10 | 12% | 87% | Last Result |
-| 11 | 13% | 75% |  |
-| 12 | 12% | 62% | Median |
-| 13 | 12% | 50% |  |
-| 14 | 11% | 38% |  |
-| 15 | 10% | 27% |  |
-| 16 | 8% | 18% |  |
-| 17 | 5% | 10% |  |
-| 18 | 3% | 5% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0.6% | 0.8% |  |
-| 21 | 0.2% | 0.2% |  |
-| 22 | 0% | 0.1% |  |
+| 8 | 1.5% | 97% |  |
+| 9 | 10% | 96% |  |
+| 10 | 11% | 86% | Last Result |
+| 11 | 15% | 75% |  |
+| 12 | 11% | 60% | Median |
+| 13 | 10% | 50% |  |
+| 14 | 10% | 40% |  |
+| 15 | 9% | 30% |  |
+| 16 | 8% | 21% |  |
+| 17 | 6% | 13% |  |
+| 18 | 4% | 7% |  |
+| 19 | 2% | 3% |  |
+| 20 | 0.8% | 1.2% |  |
+| 21 | 0.3% | 0.4% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 
