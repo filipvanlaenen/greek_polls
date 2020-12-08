@@ -111,7 +111,7 @@ Last result: **15** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–20 | 13–21 | 12–22 | 11–23 |
-| [27 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 15 | 13–17 | 12–18 | 11–19 | 10–20 |
+| [27 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 15 | 12–17 | 12–18 | 11–19 | 10–20 |
 | [24–27 November 2020](2020-11-27-Prorata.html) | Prorata | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [24–26 November 2020](2020-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 18 | 15–20 | 15–21 | 14–22 | 13–23 |
 | [20–24 November 2020](2020-11-24-ΚάπαResearch.html) | Κάπα Research | 16 | 14–19 | 13–20 | 13–21 | 12–22 |
@@ -195,15 +195,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 0.7% | 99.8% |  |
+| 11 | 0.6% | 99.9% |  |
 | 12 | 2% | 99.2% |  |
-| 13 | 6% | 97% |  |
+| 13 | 5% | 97% |  |
 | 14 | 11% | 92% |  |
 | 15 | 15% | 81% | Last Result |
 | 16 | 17% | 66% | Median |
-| 17 | 15% | 49% |  |
+| 17 | 16% | 49% |  |
 | 18 | 14% | 33% |  |
-| 19 | 9% | 19% |  |
+| 19 | 9% | 20% |  |
 | 20 | 5% | 11% |  |
 | 21 | 3% | 6% |  |
 | 22 | 2% | 3% |  |
