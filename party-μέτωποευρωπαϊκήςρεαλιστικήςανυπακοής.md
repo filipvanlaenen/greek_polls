@@ -11,6 +11,7 @@ Last result: **3.4%** (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.5% | 2.6–4.3% | 2.4–4.5% | 2.2–4.7% | 1.8–5.2% |
+| [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [27 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 2.0–4.7% |
 | [24–27 November 2020](2020-11-27-Prorata.html) | Prorata | 3.7% | 3.3–4.2% | 3.2–4.4% | 3.0–4.5% | 2.9–4.7% |
 | [24–26 November 2020](2020-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.5% | 2.9–4.3% | 2.8–4.5% | 2.6–4.6% | 2.4–5.0% |
@@ -110,6 +111,7 @@ Last result: **9** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
+| [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
 | [27 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 8 | 0–10 | 0–11 | 0–11 | 0–13 |
 | [24–27 November 2020](2020-11-27-Prorata.html) | Prorata | 10 | 9–11 | 9–12 | 8–12 | 0–13 |
 | [24–26 November 2020](2020-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 0–11 | 0–12 | 0–13 | 0–13 |
@@ -202,13 +204,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 77% |  |
 | 7 | 0% | 77% |  |
 | 8 | 10% | 77% |  |
-| 9 | 23% | 67% | Last Result, Median |
+| 9 | 23% | 66% | Last Result, Median |
 | 10 | 22% | 44% |  |
-| 11 | 14% | 23% |  |
-| 12 | 6% | 9% |  |
+| 11 | 14% | 22% |  |
+| 12 | 6% | 8% |  |
 | 13 | 2% | 3% |  |
-| 14 | 0.6% | 0.7% |  |
-| 15 | 0.2% | 0.2% |  |
+| 14 | 0.5% | 0.6% |  |
+| 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
 
