@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sun, 13 Dec 2020 12:49:55 +0100</pubDate>
+    <pubDate>Mon, 28 Dec 2020 19:42:53 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 12–16 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.9–28.7%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 41.0–46.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.4–9.3%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.4–8.1%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.8–6.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.4–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.png"
+        length="225603"
+        type="image/png"/>
+      <pubDate>Mon, 28 Dec 2020 11:14:45 +0100</pubDate>
+      <dc:date>2020-12-28T11:14:45.805648+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 27–11 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-12-11-MRB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.7–29.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 42.1–47.8%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0.7–2.0%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.5–9.6%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.7–7.4%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 0.7–2.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.7–6.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.8–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-11-MRB.png"
+        length="259623"
+        type="image/png"/>
+      <pubDate>Mon, 28 Dec 2020 12:43:47 +0100</pubDate>
+      <dc:date>2020-12-28T12:43:47.937501+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 3–9 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-12-09-Alco.html#seats</link>
@@ -40,7 +60,37 @@
       <dc:date>2020-12-13T12:49:55.441137+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Interview for Βεργίνα TV, 27 November–2 December 2020 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 3–7 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-12-07-Interview.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 61–75 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 165–182 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–26 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 12–19 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 12–19 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-07-Interview-seats.png"
+        length="202062"
+        type="image/png"/>
+      <pubDate>Mon, 28 Dec 2020 19:42:53 +0100</pubDate>
+      <dc:date>2020-12-28T19:42:53.011707+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 3–7 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-12-07-Interview.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-07-Interview-coalitions-seats.png"
+        length="264825"
+        type="image/png"/>
+      <pubDate>Mon, 28 Dec 2020 19:42:53 +0100</pubDate>
+      <dc:date>2020-12-28T19:42:53.011707+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 3–7 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-12-07-Interview.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.4–27.3%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 42.0–47.6%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.6–9.6%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.3–6.9%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.3–6.9%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.4–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-07-Interview.png"
+        length="228444"
+        type="image/png"/>
+      <pubDate>Mon, 28 Dec 2020 19:42:53 +0100</pubDate>
+      <dc:date>2020-12-28T19:42:53.011707+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 26 November–2 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-12-02-Interview.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 62–76 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 164–182 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–27 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 11–19 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 13–20 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-02-Interview-seats.png"
@@ -50,7 +100,7 @@
       <dc:date>2020-12-08T07:45:04.358417+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Interview for Βεργίνα TV, 27 November–2 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 26 November–2 December 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-12-02-Interview.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-02-Interview-coalitions-seats.png"
@@ -60,7 +110,7 @@
       <dc:date>2020-12-08T07:45:04.358417+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Interview for Βεργίνα TV, 27 November–2 December 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 26 November–2 December 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-12-02-Interview.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.9–28.0%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 42.2–48.1%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.5–9.8%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.2–6.9%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.7–7.5%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.2–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-02-Interview.png"
@@ -128,36 +178,6 @@
         type="image/png"/>
       <pubDate>Mon, 30 Nov 2020 07:41:19 +0100</pubDate>
       <dc:date>2020-11-30T07:41:19.882362+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Κάπα Research, 20–24 November 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2020-11-24-ΚάπαResearch.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 68–83 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 162–179 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 15–24 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–21 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 8–15 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-11-24-ΚάπαResearch-seats.png"
-        length="202205"
-        type="image/png"/>
-      <pubDate>Thu, 26 Nov 2020 21:34:16 +0100</pubDate>
-      <dc:date>2020-11-26T21:34:16.817568+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Κάπα Research, 20–24 November 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2020-11-24-ΚάπαResearch.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-11-24-ΚάπαResearch-coalitions-seats.png"
-        length="266710"
-        type="image/png"/>
-      <pubDate>Thu, 26 Nov 2020 21:34:16 +0100</pubDate>
-      <dc:date>2020-11-26T21:34:16.817568+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Κάπα Research, 20–24 November 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2020-11-24-ΚάπαResearch.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.9–31.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 42.7–48.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.9–9.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.9–7.8%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.5–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-11-24-ΚάπαResearch.png"
-        length="230278"
-        type="image/png"/>
-      <pubDate>Thu, 26 Nov 2020 21:34:16 +0100</pubDate>
-      <dc:date>2020-11-26T21:34:16.817568+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for MEGA TV, 18–24 November 2020 – Seat Projections for the Parties</title>
@@ -1539,6 +1559,6 @@
       <pubDate>Tue, 01 Sep 2020 08:12:09 +0200</pubDate>
       <dc:date>2020-09-01T08:12:09.341711+02:00</dc:date>
     </item>
-    <dc:date>2020-12-13T12:49:55.441137+01:00</dc:date>
+    <dc:date>2020-12-28T19:42:53.011707+01:00</dc:date>
   </channel>
 </rss>
