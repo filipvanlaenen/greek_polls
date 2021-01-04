@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Mon, 28 Dec 2020 19:42:53 +0100</pubDate>
+    <pubDate>Mon, 04 Jan 2021 17:51:41 +0100</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 12–16 December 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.html</link>
@@ -20,14 +20,34 @@
       <dc:date>2020-12-28T11:14:45.805648+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by MRB for Star, 27–11 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-12-11-MRB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 65–79 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 161–177 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 17–25 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 12–19 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 10–16 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-11-MRB-seats.png"
+        length="219546"
+        type="image/png"/>
+      <pubDate>Mon, 04 Jan 2021 17:51:41 +0100</pubDate>
+      <dc:date>2021-01-04T17:51:41.081293+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 27–11 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-12-11-MRB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-11-MRB-coalitions-seats.png"
+        length="256421"
+        type="image/png"/>
+      <pubDate>Mon, 04 Jan 2021 17:51:41 +0100</pubDate>
+      <dc:date>2021-01-04T17:51:41.081293+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by MRB for Star, 27–11 December 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-12-11-MRB.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.7–29.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 42.1–47.8%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0.7–2.0%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.5–9.6%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.7–7.4%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 0.7–2.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.7–6.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.8–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-11-MRB.png"
-        length="259623"
+        length="259570"
         type="image/png"/>
-      <pubDate>Mon, 28 Dec 2020 12:43:47 +0100</pubDate>
-      <dc:date>2020-12-28T12:43:47.937501+01:00</dc:date>
+      <pubDate>Mon, 04 Jan 2021 17:51:41 +0100</pubDate>
+      <dc:date>2021-01-04T17:51:41.081293+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 3–9 December 2020 – Seat Projections for the Parties</title>
@@ -1559,6 +1579,6 @@
       <pubDate>Tue, 01 Sep 2020 08:12:09 +0200</pubDate>
       <dc:date>2020-09-01T08:12:09.341711+02:00</dc:date>
     </item>
-    <dc:date>2020-12-28T19:42:53.011707+01:00</dc:date>
+    <dc:date>2021-01-04T17:51:41.081293+01:00</dc:date>
   </channel>
 </rss>
