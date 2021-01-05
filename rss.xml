@@ -8,16 +8,36 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Mon, 04 Jan 2021 17:51:41 +0100</pubDate>
+    <pubDate>Tue, 05 Jan 2021 19:02:19 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 12–16 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 65–78 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 161–177 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 17–25 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 15–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 10–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC-seats.png"
+        length="199534"
+        type="image/png"/>
+      <pubDate>Mon, 04 Jan 2021 20:15:04 +0100</pubDate>
+      <dc:date>2021-01-04T20:15:04.929398+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 12–16 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC-coalitions-seats.png"
+        length="257164"
+        type="image/png"/>
+      <pubDate>Mon, 04 Jan 2021 20:15:04 +0100</pubDate>
+      <dc:date>2021-01-04T20:15:04.929398+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 12–16 December 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.9–28.7%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 41.0–46.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.4–9.3%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.4–8.1%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.8–6.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.4–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.png"
-        length="225603"
+        length="225536"
         type="image/png"/>
-      <pubDate>Mon, 28 Dec 2020 11:14:45 +0100</pubDate>
-      <dc:date>2020-12-28T11:14:45.805648+01:00</dc:date>
+      <pubDate>Mon, 04 Jan 2021 20:15:04 +0100</pubDate>
+      <dc:date>2021-01-04T20:15:04.929398+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 27–11 December 2020 – Seat Projections for the Parties</title>
@@ -258,6 +278,16 @@
         type="image/png"/>
       <pubDate>Sun, 29 Nov 2020 21:37:18 +0100</pubDate>
       <dc:date>2020-11-29T21:37:18.71499+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Κάπα Research, 17–19 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-11-19-ΚάπαResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.9–31.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 42.7–48.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.9–9.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.9–7.8%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.5–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-11-19-ΚάπαResearch.png"
+        length="229750"
+        type="image/png"/>
+      <pubDate>Tue, 05 Jan 2021 19:02:19 +0100</pubDate>
+      <dc:date>2021-01-05T19:02:19.139227+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Παραπολιτικά, 10–13 November 2020 – Seat Projections for the Parties</title>
@@ -1579,6 +1609,6 @@
       <pubDate>Tue, 01 Sep 2020 08:12:09 +0200</pubDate>
       <dc:date>2020-09-01T08:12:09.341711+02:00</dc:date>
     </item>
-    <dc:date>2021-01-04T17:51:41.081293+01:00</dc:date>
+    <dc:date>2021-01-05T19:02:19.139227+01:00</dc:date>
   </channel>
 </rss>
