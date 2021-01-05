@@ -6,12 +6,28 @@
     <description>All Registered Polls for the Hellenic Parliament</description>
     <pubDate>Fri, 17 Jul 2020 21:18:39 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 12–16 December 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 12–16 December 2020<br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC-seating-plan.png" length="704466" type="image/png"/>
+      <pubDate>Mon, 4 Jan 2021 20:15:04 +0100</pubDate>
+      <dc:date>2021-01-04T20:15:04.929398+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 12–16 December 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.html#seats</link>
+      <description><![CDATA[Seat projections for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 12–16 December 2020<br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC-seats.png" length="199534" type="image/png"/>
+      <pubDate>Mon, 4 Jan 2021 20:15:04 +0100</pubDate>
+      <dc:date>2021-01-04T20:15:04.929398+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 12–16 December 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.html</link>
       <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 12–16 December 2020<br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.png" length="225603" type="image/png"/>
-      <pubDate>Mon, 28 Dec 2020 11:14:45 +0100</pubDate>
-      <dc:date>2020-12-28T11:14:45.805648+01:00</dc:date>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.png" length="225536" type="image/png"/>
+      <pubDate>Mon, 4 Jan 2021 20:15:04 +0100</pubDate>
+      <dc:date>2021-01-04T20:15:04.929398+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 27–11 December 2020 – Seating Plan Projection</title>
@@ -204,6 +220,14 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-11-24-MetronAnalysis.png" length="246607" type="image/png"/>
       <pubDate>Sun, 29 Nov 2020 12:29:48 +0100</pubDate>
       <dc:date>2020-11-29T12:29:48.585049+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Κάπα Research, 17–19 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-11-19-ΚάπαResearch.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Κάπα Research, 17–19 November 2020<br/>Details on https://filipvanlaenen.github.io/greek_polls/2020-11-19-ΚάπαResearch.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2020-11-19-ΚάπαResearch.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-11-19-ΚάπαResearch.png" length="229750" type="image/png"/>
+      <pubDate>Tue, 5 Jan 2021 19:02:19 +0100</pubDate>
+      <dc:date>2021-01-05T19:02:19.139227+01:00</dc:date>
     </item>
   </channel>
 </rss>
