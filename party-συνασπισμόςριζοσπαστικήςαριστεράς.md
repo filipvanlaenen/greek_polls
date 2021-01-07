@@ -120,7 +120,7 @@ Last result: **86** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 71 | 65–79 | 63–81 | 62–82 | 60–85 |
+| N/A | [Poll Average](average.html) | 71 | 65–79 | 63–81 | 62–82 | 60–84 |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 71 | 67–76 | 66–77 | 65–78 | 63–81 |
 | [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 72 | 67–76 | 67–78 | 65–79 | 63–81 |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 71 | 65–75 | 64–77 | 63–78 | 61–81 |
@@ -130,7 +130,7 @@ Last result: **86** seats (General Election of 7 July 2019)
 | [24–26 November 2020](2020-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 69 | 65–73 | 63–74 | 62–76 | 61–78 |
 | [18–24 November 2020](2020-11-24-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 66 | 62–70 | 61–71 | 60–72 | 58–75 |
 | [22–24 November 2020](2020-11-24-MRB.html) | MRB <br> Star | 71 | 66–76 | 65–78 | 64–79 | 62–81 |
-| [17–19 November 2020](2020-11-19-ΚάπαResearch.html) | Κάπα Research | 75 | 70–80 | 69–82 | 68–83 | 66–86 |
+| [17–19 November 2020](2020-11-19-ΚάπαResearch.html) | Κάπα Research | 75 | 70–80 | 69–81 | 68–83 | 66–85 |
 | [10–13 November 2020](2020-11-13-GPO.html) | GPO <br> Παραπολιτικά | 78 | 73–83 | 72–84 | 70–86 | 68–88 |
 | [4–11 November 2020](2020-11-11-OpinionPoll.html) | Opinion Poll | 64 | 59–69 | 58–70 | 57–71 | 55–74 |
 | [6–11 November 2020](2020-11-11-Alco.html) | Alco <br> Open TV | 71 | 66–77 | 65–78 | 64–79 | 61–82 |
@@ -218,26 +218,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 3% | 94% |  |
 | 65 | 4% | 91% |  |
 | 66 | 5% | 87% |  |
-| 67 | 6% | 82% |  |
+| 67 | 6% | 83% |  |
 | 68 | 5% | 76% |  |
 | 69 | 7% | 71% |  |
 | 70 | 7% | 64% |  |
 | 71 | 8% | 57% | Median |
-| 72 | 7% | 49% |  |
-| 73 | 7% | 42% |  |
-| 74 | 5% | 35% |  |
-| 75 | 5% | 30% |  |
-| 76 | 4% | 25% |  |
+| 72 | 6% | 49% |  |
+| 73 | 7% | 43% |  |
+| 74 | 5% | 36% |  |
+| 75 | 5% | 31% |  |
+| 76 | 4% | 26% |  |
 | 77 | 4% | 21% |  |
-| 78 | 4% | 18% |  |
-| 79 | 5% | 13% |  |
+| 78 | 4% | 17% |  |
+| 79 | 4% | 13% |  |
 | 80 | 3% | 9% |  |
 | 81 | 2% | 6% |  |
 | 82 | 2% | 4% |  |
 | 83 | 0.9% | 2% |  |
 | 84 | 0.5% | 1.0% |  |
 | 85 | 0.3% | 0.5% |  |
-| 86 | 0.2% | 0.2% | Last Result |
+| 86 | 0.1% | 0.2% | Last Result |
 | 87 | 0.1% | 0.1% |  |
 | 88 | 0% | 0% |  |
 
