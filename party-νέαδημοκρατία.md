@@ -188,9 +188,9 @@ Last result: **158** seats (General Election of 7 July 2019)
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 164 | 159–170 | 157–172 | 156–173 | 153–176 |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 160 | 156–165 | 154–166 | 153–167 | 152–170 |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 174 | 169–180 | 168–181 | 166–183 | 164–186 |
-| [18–20 November 2019](2019-11-20-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 166 | 165–166 | 165–166 | 165–177 | 162–177 |
-| [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 164 | 164–165 | 164–170 | 164–171 | 163–177 |
-| [11–14 November 2019](2019-11-14-PalmosAnalysis.html) | Palmos Analysis <br> GUE–NGL | 158 | 150–158 | 150–158 | 150–158 | 150–169 |
+| [18–20 November 2019](2019-11-20-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 170 | 165–175 | 164–176 | 163–178 | 161–179 |
+| [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 168 | 164–171 | 160–172 | 159–174 | 158–176 |
+| [11–14 November 2019](2019-11-14-PalmosAnalysis.html) | Palmos Analysis <br> GUE–NGL | 157 | 155–165 | 154–167 | 150–168 | 149–172 |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 177 | 170–183 | 168–185 | 167–186 | 164–190 |
 | [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 167 | 163–172 | 161–173 | 160–174 | 157–177 |
 | [16–18 September 2019](2019-09-18-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 170 | 166–176 | 164–178 | 163–178 | 161–181 |

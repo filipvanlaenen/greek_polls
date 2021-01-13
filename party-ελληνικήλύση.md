@@ -183,9 +183,9 @@ Last result: **10** seats (General Election of 7 July 2019)
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 14 | 11–16 | 11–17 | 10–17 | 10–18 |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 13 | 11–15 | 11–15 | 10–16 | 10–16 |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 14 | 12–16 | 11–17 | 11–18 | 10–19 |
-| [18–20 November 2019](2019-11-20-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 14 | 11–14 | 11–14 | 11–15 | 11–16 |
-| [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 17 | 15–17 | 11–17 | 10–17 | 10–17 |
-| [11–14 November 2019](2019-11-14-PalmosAnalysis.html) | Palmos Analysis <br> GUE–NGL | 16 | 12–16 | 12–16 | 11–16 | 10–17 |
+| [18–20 November 2019](2019-11-20-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 13 | 12–16 | 11–16 | 10–17 | 10–18 |
+| [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12 | 11–15 | 10–16 | 10–17 | 10–17 |
+| [11–14 November 2019](2019-11-14-PalmosAnalysis.html) | Palmos Analysis <br> GUE–NGL | 11 | 10–14 | 9–15 | 9–16 | 0–17 |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
 | [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 9–13 | 9–14 | 8–14 | 0–15 |
 | [16–18 September 2019](2019-09-18-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 10 | 9–12 | 8–13 | 0–13 | 0–15 |
