@@ -155,19 +155,19 @@ Last result: **10** seats (General Election of 7 July 2019)
 | [22–26 June 2020](2020-06-26-GPO.html) | GPO <br> Τα Νέα | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
 | [17–25 June 2020](2020-06-25-MRB.html) | MRB <br> Star | 12 | 11–14 | 10–14 | 10–15 | 9–16 |
 | [4–9 June 2020](2020-06-09-Interview.html) | Interview <br> Βεργίνα TV | 15 | 12–16 | 12–18 | 12–18 | 10–19 |
-| [2–8 June 2020](2020-06-08-Alco.html) | Alco <br> Open TV | 11 | 10–14 | 9–14 | 0–15 | 0–16 |
-| [1–3 June 2020](2020-06-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 9–13 | 8–14 | 0–14 | 0–15 |
+| [2–8 June 2020](2020-06-08-Alco.html) | Alco <br> Open TV | 12 | 9–14 | 9–15 | 8–15 | 0–17 |
+| [1–3 June 2020](2020-06-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 9–13 | 8–14 | 8–14 | 0–15 |
 | [1–3 June 2020](2020-06-03-OpinionPoll.html) | Opinion Poll <br> paraskhnio.gr | 12 | 10–14 | 9–15 | 9–15 | 8–17 |
 | [22–27 May 2020](2020-05-27-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
-| [22–27 May 2020](2020-05-27-GPO.html) | GPO <br> Παραπολιτικά | 12 | 11–15 | 10–16 | 9–16 | 9–18 |
+| [22–27 May 2020](2020-05-27-GPO.html) | GPO <br> Παραπολιτικά | 13 | 11–15 | 10–16 | 10–17 | 9–18 |
 | [8–13 May 2020](2020-05-13-MRB.html) | MRB <br> Star | 13 | 11–15 | 10–16 | 10–16 | 9–17 |
 | [5–10 May 2020](2020-05-10-Alco.html) | Alco <br> Open TV | 13 | 10–15 | 10–15 | 9–15 | 0–18 |
-| [7–9 May 2020](2020-05-09-OpinionPoll.html) | Opinion Poll | 13 | 11–16 | 11–16 | 10–17 | 9–18 |
-| [4–6 May 2020](2020-05-06-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12 | 10–15 | 9–15 | 9–16 | 8–17 |
+| [7–9 May 2020](2020-05-09-OpinionPoll.html) | Opinion Poll | 13 | 11–16 | 10–16 | 10–17 | 9–18 |
+| [4–6 May 2020](2020-05-06-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12 | 10–15 | 10–15 | 9–16 | 8–17 |
 | [3–6 May 2020](2020-05-06-Interview.html) | Interview <br> Βεργίνα TV | 14 | 12–16 | 11–17 | 11–18 | 10–19 |
 | [24–29 April 2020](2020-04-29-Prorata.html) | Prorata | 13 | 12–15 | 12–15 | 12–16 | 10–17 |
 | [22–28 April 2020](2020-04-28-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 10 | 0–11 | 0–12 | 0–12 | 0–13 |
-| [14–22 April 2020](2020-04-22-GPO.html) | GPO <br> Παραπολιτικά | 13 | 11–16 | 10–16 | 10–17 | 9–18 |
+| [14–22 April 2020](2020-04-22-GPO.html) | GPO <br> Παραπολιτικά | 13 | 11–15 | 10–16 | 10–17 | 9–18 |
 | [15–17 April 2020](2020-04-17-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 10 | 8–12 | 0–13 | 0–13 | 0–15 |
 | [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV | 10 | 8–12 | 0–13 | 0–14 | 0–15 |
 | [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 14 | 12–16 | 11–17 | 11–17 | 10–19 |
@@ -184,13 +184,13 @@ Last result: **10** seats (General Election of 7 July 2019)
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 13 | 11–15 | 11–15 | 10–16 | 10–16 |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 14 | 12–16 | 11–17 | 11–18 | 10–19 |
 | [18–20 November 2019](2019-11-20-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 13 | 12–16 | 11–16 | 10–17 | 10–18 |
-| [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12 | 11–15 | 10–16 | 10–17 | 10–17 |
-| [11–14 November 2019](2019-11-14-PalmosAnalysis.html) | Palmos Analysis <br> GUE–NGL | 11 | 10–14 | 9–15 | 9–16 | 0–17 |
+| [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12 | 10–15 | 10–16 | 10–16 | 9–17 |
+| [11–14 November 2019](2019-11-14-PalmosAnalysis.html) | Palmos Analysis <br> GUE–NGL | 12 | 10–14 | 9–15 | 9–16 | 0–17 |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
 | [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 9–13 | 9–14 | 8–14 | 0–15 |
 | [16–18 September 2019](2019-09-18-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 10 | 9–12 | 8–13 | 0–13 | 0–15 |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
-| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 10 | 8–13 | 0–13 | 0–14 | 0–15 |
+| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 10 | 8–12 | 0–13 | 0–14 | 0–15 |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9 | 0–11 | 0–12 | 0–12 | 0–14 |
 | [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 10 | 8–12 | 8–13 | 0–13 | 0–15 |
 
