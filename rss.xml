@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Wed, 13 Jan 2021 19:29:10 +0100</pubDate>
+    <pubDate>Wed, 13 Jan 2021 23:01:53 +0100</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 12–16 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-12-16-PulseRC.html#seats</link>
@@ -1170,24 +1170,64 @@
       <dc:date>2020-07-11T15:04:13.934608+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Alco for Open TV, 2–8 June 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-08-Alco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 65–80 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 165–184 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 16–25 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–21 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 8–15 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-08-Alco-seats.png"
+        length="222404"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 21:22:29 +0100</pubDate>
+      <dc:date>2021-01-13T21:22:29.672048+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Open TV, 2–8 June 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-08-Alco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-08-Alco-coalitions-seats.png"
+        length="267928"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 21:22:29 +0100</pubDate>
+      <dc:date>2021-01-13T21:22:29.672048+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Alco for Open TV, 2–8 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-06-08-Alco.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.1–29.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 43.0–49.2%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.0–2.6%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.9–9.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.8–7.8%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-08-Alco.png"
-        length="263042"
+        length="262973"
         type="image/png"/>
-      <pubDate>Sat, 11 Jul 2020 15:14:01 +0200</pubDate>
-      <dc:date>2020-07-11T15:14:01.962168+02:00</dc:date>
+      <pubDate>Wed, 13 Jan 2021 21:22:29 +0100</pubDate>
+      <dc:date>2021-01-13T21:22:29.672048+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 1–3 June 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-03-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 63–77 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 171–188 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 14–22 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 12–19 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 8–14 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-03-PulseRC-seats.png"
+        length="195943"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 21:06:52 +0100</pubDate>
+      <dc:date>2021-01-13T21:06:52.410232+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 1–3 June 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-06-03-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-03-PulseRC-coalitions-seats.png"
+        length="259254"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 21:06:52 +0100</pubDate>
+      <dc:date>2021-01-13T21:06:52.410232+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 1–3 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-06-03-PulseRC.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.6–28.5%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 45.2–50.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.3–8.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.3–6.9%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.0–5.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.6–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-06-03-PulseRC.png"
-        length="223354"
+        length="223233"
         type="image/png"/>
-      <pubDate>Mon, 08 Jun 2020 07:17:15 +0200</pubDate>
-      <dc:date>2020-06-08T07:17:15.22739+02:00</dc:date>
+      <pubDate>Wed, 13 Jan 2021 21:06:52 +0100</pubDate>
+      <dc:date>2021-01-13T21:06:52.410232+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll for paraskhnio.gr, 1–3 June 2020 – Voting Intentions</title>
@@ -1210,24 +1250,64 @@
       <dc:date>2020-06-08T07:38:16.259135+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by GPO for Παραπολιτικά, 22–27 May 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-27-GPO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 57–71 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 173–191 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 15–23 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 10–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-27-GPO-seats.png"
+        length="200483"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 19:55:01 +0100</pubDate>
+      <dc:date>2021-01-13T19:55:01.919736+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Παραπολιτικά, 22–27 May 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-27-GPO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-27-GPO-coalitions-seats.png"
+        length="259597"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 19:55:01 +0100</pubDate>
+      <dc:date>2021-01-13T19:55:01.919736+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by GPO for Παραπολιτικά, 22–27 May 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-05-27-GPO.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 21.6–26.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 47.1–53.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.7–9.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.1–8.2%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.6–6.3%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-27-GPO.png"
-        length="228700"
+        length="228645"
         type="image/png"/>
-      <pubDate>Mon, 08 Jun 2020 07:43:47 +0200</pubDate>
-      <dc:date>2020-06-08T07:43:47.792967+02:00</dc:date>
+      <pubDate>Wed, 13 Jan 2021 19:55:01 +0100</pubDate>
+      <dc:date>2021-01-13T19:55:01.919736+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 8–13 May 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-13-MRB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 60–73 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 173–189 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 13–20 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 11–18 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 10–16 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-13-MRB-seats.png"
+        length="196515"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 20:43:53 +0100</pubDate>
+      <dc:date>2021-01-13T20:43:53.067196+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 8–13 May 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-13-MRB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-13-MRB-coalitions-seats.png"
+        length="256177"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 20:43:53 +0100</pubDate>
+      <dc:date>2021-01-13T20:43:53.067196+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 8–13 May 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-05-13-MRB.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.8–27.7%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 46.9–52.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.0–7.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.2–6.7%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.7–6.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.7–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-13-MRB.png"
-        length="222780"
+        length="222653"
         type="image/png"/>
-      <pubDate>Tue, 02 Jun 2020 07:42:40 +0200</pubDate>
-      <dc:date>2020-06-02T07:42:40.392408+02:00</dc:date>
+      <pubDate>Wed, 13 Jan 2021 20:43:53 +0100</pubDate>
+      <dc:date>2021-01-13T20:43:53.067196+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 5–10 May 2020 – Voting Intentions</title>
@@ -1240,24 +1320,64 @@
       <dc:date>2020-05-16T11:19:49.775673+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Opinion Poll, 7–9 May 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-09-OpinionPoll.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 59–72 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 173–189 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 11–18 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–21 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 10–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-09-OpinionPoll-seats.png"
+        length="205688"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 22:48:42 +0100</pubDate>
+      <dc:date>2021-01-13T22:48:42.229177+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll, 7–9 May 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-09-OpinionPoll.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-09-OpinionPoll-coalitions-seats.png"
+        length="257666"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 22:48:42 +0100</pubDate>
+      <dc:date>2021-01-13T22:48:42.229177+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinion Poll, 7–9 May 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-05-09-OpinionPoll.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.6–27.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 47.4–53.4%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 4.3–7.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.0–7.9%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.8–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-09-OpinionPoll.png"
-        length="239013"
+        length="238909"
         type="image/png"/>
-      <pubDate>Sat, 16 May 2020 11:30:40 +0200</pubDate>
-      <dc:date>2020-05-16T11:30:40.092605+02:00</dc:date>
+      <pubDate>Wed, 13 Jan 2021 22:48:42 +0100</pubDate>
+      <dc:date>2021-01-13T22:48:42.229177+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 4–6 May 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-06-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 61–75 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 171–189 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 15–23 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–20 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–16 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-06-PulseRC-seats.png"
+        length="206205"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 22:57:04 +0100</pubDate>
+      <dc:date>2021-01-13T22:57:04.827215+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 4–6 May 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-05-06-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-06-PulseRC-coalitions-seats.png"
+        length="256629"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 22:57:04 +0100</pubDate>
+      <dc:date>2021-01-13T22:57:04.827215+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 4–6 May 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-05-06-PulseRC.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.6–27.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 45.2–50.8%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0.9–2.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.7–8.6%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.8–7.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.4–5.8%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.2–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-05-06-PulseRC.png"
-        length="241096"
+        length="241009"
         type="image/png"/>
-      <pubDate>Tue, 12 May 2020 08:02:14 +0200</pubDate>
-      <dc:date>2020-05-12T08:02:14.809801+02:00</dc:date>
+      <pubDate>Wed, 13 Jan 2021 22:57:04 +0100</pubDate>
+      <dc:date>2021-01-13T22:57:04.827215+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 3–6 May 2020 – Voting Intentions</title>
@@ -1290,24 +1410,64 @@
       <dc:date>2020-05-06T07:13:27.662155+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by GPO for Παραπολιτικά, 14–22 April 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-04-22-GPO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 60–75 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 172–190 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 15–24 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 11–19 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 10–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-22-GPO-seats.png"
+        length="198674"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 20:32:55 +0100</pubDate>
+      <dc:date>2021-01-13T20:32:55.980574+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Παραπολιτικά, 14–22 April 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-04-22-GPO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-22-GPO-coalitions-seats.png"
+        length="264250"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 20:32:55 +0100</pubDate>
+      <dc:date>2021-01-13T20:32:55.980574+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by GPO for Παραπολιτικά, 14–22 April 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-04-22-GPO.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.2–28.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 46.7–52.9%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.8–9.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.3–7.1%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.7–6.4%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-22-GPO.png"
-        length="227587"
+        length="227494"
         type="image/png"/>
-      <pubDate>Wed, 06 May 2020 08:08:41 +0200</pubDate>
-      <dc:date>2020-05-06T08:08:41.871735+02:00</dc:date>
+      <pubDate>Wed, 13 Jan 2021 20:32:55 +0100</pubDate>
+      <dc:date>2021-01-13T20:32:55.980574+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Κάπα Research for ΕΘΝΟΣ, 15–17 April 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-04-17-ΚάπαResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 65–80 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 171–190 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0–9 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 12–20 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 10–18 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0–13 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-17-ΚάπαResearch-seats.png"
+        length="217565"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 20:04:33 +0100</pubDate>
+      <dc:date>2021-01-13T20:04:33.683689+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Κάπα Research for ΕΘΝΟΣ, 15–17 April 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2020-04-17-ΚάπαResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-17-ΚάπαResearch-coalitions-seats.png"
+        length="268523"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 20:04:33 +0100</pubDate>
+      <dc:date>2021-01-13T20:04:33.683689+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Κάπα Research for ΕΘΝΟΣ, 15–17 April 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2020-04-17-ΚάπαResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.7–30.0%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 46.0–52.0%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.6–3.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 4.7–7.5%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.4–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2020-04-17-ΚάπαResearch.png"
-        length="245946"
+        length="245870"
         type="image/png"/>
-      <pubDate>Thu, 30 Apr 2020 07:50:24 +0200</pubDate>
-      <dc:date>2020-04-30T07:50:24.169341+02:00</dc:date>
+      <pubDate>Wed, 13 Jan 2021 20:04:33 +0100</pubDate>
+      <dc:date>2021-01-13T20:04:33.683689+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Alpha TV, 11–13 April 2020 – Voting Intentions</title>
@@ -1526,8 +1686,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-11-20-PulseRC.png"
         length="243647"
         type="image/png"/>
-      <pubDate>Wed, 13 Jan 2021 19:29:10 +0100</pubDate>
-      <dc:date>2021-01-13T19:29:10.031832+01:00</dc:date>
+      <pubDate>Wed, 13 Jan 2021 23:01:53 +0100</pubDate>
+      <dc:date>2021-01-13T23:01:53.835303+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis for GUE–NGL, 11–14 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-11-14-PalmosAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 67–83 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 150–170 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0–15 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 14–22 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–23 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων: 0 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–16 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-11-14-PalmosAnalysis-seats.png"
+        length="249779"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 19:46:41 +0100</pubDate>
+      <dc:date>2021-01-13T19:46:41.517723+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis for GUE–NGL, 11–14 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-11-14-PalmosAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-11-14-PalmosAnalysis-coalitions-seats.png"
+        length="280018"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 19:46:41 +0100</pubDate>
+      <dc:date>2021-01-13T19:46:41.517723+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Palmos Analysis for GUE–NGL, 11–14 November 2019 – Voting Intentions</title>
@@ -1536,8 +1716,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-11-14-PalmosAnalysis.png"
         length="290181"
         type="image/png"/>
-      <pubDate>Wed, 13 Jan 2021 19:27:20 +0100</pubDate>
-      <dc:date>2021-01-13T19:27:20.716801+01:00</dc:date>
+      <pubDate>Wed, 13 Jan 2021 19:46:41 +0100</pubDate>
+      <dc:date>2021-01-13T19:46:41.517723+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 29–31 October 2019 – Seat Projections for the Parties</title>
@@ -1590,34 +1770,94 @@
       <dc:date>2020-08-28T11:06:18.734242+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 17–18 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-09-18-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 71–86 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 160–177 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 15–23 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 10–17 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0–13 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 9–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-09-18-PulseRC-seats.png"
+        length="202350"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 20:12:54 +0100</pubDate>
+      <dc:date>2021-01-13T20:12:54.306336+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 17–18 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-09-18-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-09-18-PulseRC-coalitions-seats.png"
+        length="261494"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 20:12:54 +0100</pubDate>
+      <dc:date>2021-01-13T20:12:54.306336+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 17–18 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-09-18-PulseRC.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 26.8–32.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 41.6–47.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.7–8.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 3.9–6.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.6–4.8%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.4–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-09-18-PulseRC.png"
-        length="228538"
+        length="228486"
         type="image/png"/>
-      <pubDate>Fri, 28 Aug 2020 11:23:17 +0200</pubDate>
-      <dc:date>2020-08-28T11:23:17.918425+02:00</dc:date>
+      <pubDate>Wed, 13 Jan 2021 20:12:54 +0100</pubDate>
+      <dc:date>2021-01-13T20:12:54.306336+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 14–16 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-09-16-MRB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 65–78 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 160–177 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 17–26 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 12–20 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0–14 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 11–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-09-16-MRB-seats.png"
+        length="198007"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 20:55:21 +0100</pubDate>
+      <dc:date>2021-01-13T20:55:21.018693+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 14–16 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-09-16-MRB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-09-16-MRB-coalitions-seats.png"
+        length="253075"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 20:55:21 +0100</pubDate>
+      <dc:date>2021-01-13T20:55:21.018693+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 14–16 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-09-16-MRB.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.0–29.5%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 41.4–47.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.3–9.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.6–7.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 4.0–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-09-16-MRB.png"
-        length="229193"
+        length="229110"
         type="image/png"/>
-      <pubDate>Mon, 31 Aug 2020 07:38:28 +0200</pubDate>
-      <dc:date>2020-08-31T07:38:28.552526+02:00</dc:date>
+      <pubDate>Wed, 13 Jan 2021 20:55:21 +0100</pubDate>
+      <dc:date>2021-01-13T20:55:21.018693+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 2–5 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-09-05-Marc.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 68–85 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 164–184 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 16–25 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 12–20 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0–12 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-09-05-Marc-seats.png"
+        length="230023"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 20:23:55 +0100</pubDate>
+      <dc:date>2021-01-13T20:23:55.617269+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 2–5 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2019-09-05-Marc.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-09-05-Marc-coalitions-seats.png"
+        length="277650"
+        type="image/png"/>
+      <pubDate>Wed, 13 Jan 2021 20:23:55 +0100</pubDate>
+      <dc:date>2021-01-13T20:23:55.617269+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 2–5 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2019-09-05-Marc.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.5–31.0%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 42.8–49.0%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 1.1–2.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.9–9.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0.8–2.2%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.3–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2019-09-05-Marc.png"
-        length="263979"
+        length="263907"
         type="image/png"/>
-      <pubDate>Tue, 01 Sep 2020 08:04:57 +0200</pubDate>
-      <dc:date>2020-09-01T08:04:57.132862+02:00</dc:date>
+      <pubDate>Wed, 13 Jan 2021 20:23:55 +0100</pubDate>
+      <dc:date>2021-01-13T20:23:55.617269+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll, 2–4 September 2019 – Voting Intentions</title>
@@ -1629,6 +1869,6 @@
       <pubDate>Tue, 01 Sep 2020 08:12:09 +0200</pubDate>
       <dc:date>2020-09-01T08:12:09.341711+02:00</dc:date>
     </item>
-    <dc:date>2021-01-13T19:29:10.031832+01:00</dc:date>
+    <dc:date>2021-01-13T23:01:53.835303+01:00</dc:date>
   </channel>
 </rss>
