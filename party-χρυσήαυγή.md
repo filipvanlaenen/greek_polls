@@ -11,6 +11,8 @@ Last result: **2.9%** (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% |
+| [10–14 January 2021](2021-01-14-Marc.html) | Marc <br> Αlpha TV | 0.0% | N/A | N/A | N/A | N/A |
+| [7–13 January 2021](2021-01-13-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
 | [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% | 0.6–2.3% |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -112,6 +114,8 @@ Last result: **0** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10–14 January 2021](2021-01-14-Marc.html) | Marc <br> Αlpha TV |  |  |  |  |  |
+| [7–13 January 2021](2021-01-13-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0 | 0 |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
@@ -154,23 +158,23 @@ Last result: **0** seats (General Election of 7 July 2019)
 | [4–9 June 2020](2020-06-09-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [2–8 June 2020](2020-06-08-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0 |
 | [1–3 June 2020](2020-06-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [1–3 June 2020](2020-06-03-OpinionPoll.html) | Opinion Poll <br> paraskhnio.gr | 0 | 0–8 | 0–8 | 0–9 | 0–10 |
+| [1–3 June 2020](2020-06-03-OpinionPoll.html) | Opinion Poll <br> paraskhnio.gr | 0 | 0–8 | 0–9 | 0–9 | 0–10 |
 | [22–27 May 2020](2020-05-27-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 0 | 0 | 0 | 0 | 0–9 |
 | [22–27 May 2020](2020-05-27-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [8–13 May 2020](2020-05-13-MRB.html) | MRB <br> Star |  |  |  |  |  |
-| [5–10 May 2020](2020-05-10-Alco.html) | Alco <br> Open TV | 0 | 0–10 | 0–10 | 0–10 | 0–11 |
+| [5–10 May 2020](2020-05-10-Alco.html) | Alco <br> Open TV | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [7–9 May 2020](2020-05-09-OpinionPoll.html) | Opinion Poll | 0 | 0 | 0 | 0 | 0 |
 | [4–6 May 2020](2020-05-06-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [3–6 May 2020](2020-05-06-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [24–29 April 2020](2020-04-29-Prorata.html) | Prorata | 0 | 0 | 0 | 0 | 0 |
-| [22–28 April 2020](2020-04-28-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 0 | 0 | 0 | 0 | 0–8 |
+| [22–28 April 2020](2020-04-28-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 0 | 0 | 0 | 0 | 0 |
 | [14–22 April 2020](2020-04-22-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [15–17 April 2020](2020-04-17-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 0 | 0–8 | 0–8 | 0–9 | 0–10 |
 | [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV | 0 | 0 | 0 | 0 | 0–8 |
 | [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
-| [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 9 | 0–12 | 0–12 | 0–13 | 0–14 |
+| [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
 | [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |

@@ -10,7 +10,9 @@ Last result: **8.1%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 6.2–8.9% | 5.9–9.2% | 5.7–9.5% | 5.3–10.1% |
+| N/A | [Poll Average](average.html) | 8.0% | 7.0–9.0% | 6.7–9.4% | 6.5–9.7% | 6.1–10.2% |
+| [10–14 January 2021](2021-01-14-Marc.html) | Marc <br> Αlpha TV | 8.1% | 7.2–9.2% | 7.0–9.5% | 6.8–9.7% | 6.4–10.3% |
+| [7–13 January 2021](2021-01-13-OpinionPoll.html) | Opinion Poll | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.7% | 6.8–8.7% | 6.6–9.0% | 6.4–9.3% | 6.0–9.8% |
 | [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 7.9% | 7.0–9.0% | 6.7–9.3% | 6.5–9.6% | 6.1–10.2% |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -96,14 +98,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 15% | 98% |  |
-| 6.5–7.5% | 28% | 84% |  |
-| 7.5–8.5% | 38% | 56% | Last Result, Median |
-| 8.5–9.5% | 16% | 18% |  |
-| 9.5–10.5% | 2% | 2% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 3% | 100% |  |
+| 6.5–7.5% | 26% | 97% |  |
+| 7.5–8.5% | 47% | 71% | Last Result, Median |
+| 8.5–9.5% | 21% | 24% |  |
+| 9.5–10.5% | 3% | 3% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -115,7 +116,9 @@ Last result: **22** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 17–24 | 16–25 | 15–26 | 14–27 |
+| N/A | [Poll Average](average.html) | 21 | 19–24 | 18–25 | 17–26 | 16–27 |
+| [10–14 January 2021](2021-01-14-Marc.html) | Marc <br> Αlpha TV | 22 | 19–25 | 19–25 | 18–26 | 17–28 |
+| [7–13 January 2021](2021-01-13-OpinionPoll.html) | Opinion Poll | 21 | 18–25 | 18–25 | 17–26 | 16–28 |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 21 | 19–24 | 18–25 | 17–25 | 16–27 |
 | [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 21 | 19–24 | 18–25 | 17–25 | 16–27 |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 22 | 19–25 | 18–26 | 17–26 | 16–28 |
@@ -158,38 +161,38 @@ Last result: **22** seats (General Election of 7 July 2019)
 | [4–9 June 2020](2020-06-09-Interview.html) | Interview <br> Βεργίνα TV | 21 | 18–24 | 18–25 | 17–26 | 16–27 |
 | [2–8 June 2020](2020-06-08-Alco.html) | Alco <br> Open TV | 20 | 17–23 | 17–24 | 16–25 | 15–26 |
 | [1–3 June 2020](2020-06-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 18 | 15–20 | 15–21 | 14–22 | 13–23 |
-| [1–3 June 2020](2020-06-03-OpinionPoll.html) | Opinion Poll <br> paraskhnio.gr | 17 | 15–20 | 14–20 | 13–21 | 12–22 |
-| [22–27 May 2020](2020-05-27-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 18 | 15–20 | 14–21 | 14–22 | 13–23 |
+| [1–3 June 2020](2020-06-03-OpinionPoll.html) | Opinion Poll <br> paraskhnio.gr | 17 | 14–20 | 14–20 | 13–21 | 12–22 |
+| [22–27 May 2020](2020-05-27-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 17 | 15–20 | 14–21 | 14–21 | 13–23 |
 | [22–27 May 2020](2020-05-27-GPO.html) | GPO <br> Παραπολιτικά | 19 | 16–22 | 16–23 | 15–23 | 14–25 |
 | [8–13 May 2020](2020-05-13-MRB.html) | MRB <br> Star | 16 | 14–19 | 14–20 | 13–20 | 12–22 |
-| [5–10 May 2020](2020-05-10-Alco.html) | Alco <br> Open TV | 18 | 16–21 | 15–22 | 15–22 | 13–24 |
+| [5–10 May 2020](2020-05-10-Alco.html) | Alco <br> Open TV | 18 | 16–21 | 15–23 | 14–23 | 13–25 |
 | [7–9 May 2020](2020-05-09-OpinionPoll.html) | Opinion Poll | 15 | 12–17 | 12–18 | 11–18 | 10–20 |
 | [4–6 May 2020](2020-05-06-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19 | 17–22 | 16–22 | 15–23 | 14–25 |
 | [3–6 May 2020](2020-05-06-Interview.html) | Interview <br> Βεργίνα TV | 20 | 17–23 | 17–24 | 16–24 | 15–26 |
-| [24–29 April 2020](2020-04-29-Prorata.html) | Prorata | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
-| [22–28 April 2020](2020-04-28-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 15 | 14–19 | 13–19 | 13–20 | 12–21 |
+| [24–29 April 2020](2020-04-29-Prorata.html) | Prorata | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| [22–28 April 2020](2020-04-28-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 16 | 14–18 | 13–19 | 12–20 | 11–21 |
 | [14–22 April 2020](2020-04-22-GPO.html) | GPO <br> Παραπολιτικά | 19 | 17–22 | 16–23 | 15–24 | 14–25 |
 | [15–17 April 2020](2020-04-17-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 16 | 14–19 | 13–19 | 12–20 | 11–22 |
 | [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV | 17 | 15–20 | 14–21 | 14–22 | 13–23 |
-| [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 16 | 14–19 | 13–20 | 13–20 | 12–21 |
+| [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 16 | 14–19 | 13–19 | 13–20 | 12–21 |
 | [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Πρώτο ΘΕΜΑ | 17 | 14–19 | 14–20 | 13–21 | 12–22 |
 | [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Πρώτο ΘΕΜΑ | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
-| [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 19 | 16–22 | 16–22 | 15–23 | 14–25 |
-| [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 21 | 18–23 | 17–24 | 16–25 | 15–26 |
+| [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 19 | 16–22 | 15–22 | 15–23 | 14–25 |
+| [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 20 | 18–23 | 17–24 | 17–25 | 16–26 |
 | [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 17 | 14–19 | 14–20 | 13–21 | 12–22 |
-| [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 20 | 18–23 | 17–24 | 16–25 | 15–26 |
+| [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 20 | 18–23 | 17–24 | 17–25 | 15–26 |
 | [20–22 January 2020](2020-01-22-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 19 | 16–21 | 16–22 | 15–22 | 14–24 |
 | [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star | 20 | 18–23 | 17–23 | 17–24 | 16–25 |
 | [7–8 January 2020](2020-01-08-Interview.html) | Interview <br> Βεργίνα TV | 15 | 12–17 | 12–18 | 11–19 | 10–20 |
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 20 | 18–23 | 17–24 | 16–25 | 15–26 |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 23 | 21–25 | 20–26 | 20–27 | 19–28 |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 16 | 14–19 | 14–20 | 13–21 | 12–22 |
-| [18–20 November 2019](2019-11-20-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 20 | 18–22 | 17–23 | 16–24 | 15–25 |
+| [18–20 November 2019](2019-11-20-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 20 | 17–23 | 17–23 | 16–24 | 15–26 |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19 | 16–21 | 16–22 | 15–23 | 14–24 |
 | [11–14 November 2019](2019-11-14-PalmosAnalysis.html) | Palmos Analysis <br> GUE–NGL | 17 | 14–20 | 14–21 | 14–22 | 13–24 |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 18 | 15–21 | 15–22 | 14–23 | 13–24 |
-| [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19 | 17–21 | 16–23 | 15–23 | 14–24 |
-| [16–18 September 2019](2019-09-18-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 19 | 16–21 | 15–22 | 15–23 | 14–24 |
+| [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19 | 16–21 | 15–22 | 15–23 | 14–25 |
+| [16–18 September 2019](2019-09-18-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 19 | 16–21 | 16–22 | 15–23 | 14–24 |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19 | 16–22 | 16–22 | 15–23 | 14–25 |
 | [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 21 | 18–24 | 18–25 | 17–26 | 16–27 |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 20 | 17–23 | 16–24 | 16–25 | 15–27 |
@@ -203,23 +206,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 0.7% | 99.9% |  |
-| 15 | 3% | 99.2% |  |
-| 16 | 5% | 97% |  |
-| 17 | 7% | 91% |  |
-| 18 | 8% | 84% |  |
-| 19 | 11% | 76% |  |
-| 20 | 14% | 65% |  |
-| 21 | 15% | 51% | Median |
-| 22 | 13% | 36% | Last Result |
-| 23 | 11% | 23% |  |
-| 24 | 6% | 13% |  |
-| 25 | 3% | 6% |  |
-| 26 | 2% | 3% |  |
-| 27 | 0.7% | 1.0% |  |
-| 28 | 0.2% | 0.4% |  |
-| 29 | 0.1% | 0.1% |  |
+| 15 | 0.1% | 100% |  |
+| 16 | 0.6% | 99.9% |  |
+| 17 | 2% | 99.3% |  |
+| 18 | 5% | 97% |  |
+| 19 | 10% | 92% |  |
+| 20 | 14% | 82% |  |
+| 21 | 20% | 68% | Median |
+| 22 | 17% | 48% | Last Result |
+| 23 | 13% | 31% |  |
+| 24 | 9% | 17% |  |
+| 25 | 5% | 8% |  |
+| 26 | 2% | 4% |  |
+| 27 | 0.8% | 1.3% |  |
+| 28 | 0.3% | 0.5% |  |
+| 29 | 0.1% | 0.2% |  |
 | 30 | 0% | 0% |  |
 
 
