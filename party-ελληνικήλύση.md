@@ -10,7 +10,7 @@ Last result: **3.7%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 4.1–5.7% | 3.9–6.0% | 3.8–6.2% | 3.5–6.7% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.8–5.7% | 3.6–5.9% | 3.4–6.2% | 2.9–6.7% |
 | [10–14 January 2021](2021-01-14-Marc.html) | Marc <br> Αlpha TV | 4.8% | 4.1–5.7% | 3.9–5.9% | 3.8–6.1% | 3.5–6.5% |
 | [7–13 January 2021](2021-01-13-OpinionPoll.html) | Opinion Poll | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.9% | 4.2–5.7% | 4.0–6.0% | 3.8–6.2% | 3.5–6.6% |
@@ -99,11 +99,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.9% | 100% |  |
-| 3.5–4.5% | 28% | 99.1% | Last Result |
-| 4.5–5.5% | 55% | 71% | Median |
-| 5.5–6.5% | 15% | 16% |  |
-| 6.5–7.5% | 0.8% | 0.9% |  |
+| 2.5–3.5% | 5% | 100% |  |
+| 3.5–4.5% | 34% | 95% | Last Result |
+| 4.5–5.5% | 48% | 62% | Median |
+| 5.5–6.5% | 12% | 13% |  |
+| 6.5–7.5% | 0.7% | 0.7% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -115,7 +115,7 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–16 | 10–17 | 9–18 |
+| N/A | [Poll Average](average.html) | 13 | 10–15 | 9–16 | 9–17 | 0–18 |
 | [10–14 January 2021](2021-01-14-Marc.html) | Marc <br> Αlpha TV | 13 | 11–15 | 11–16 | 10–16 | 9–18 |
 | [7–13 January 2021](2021-01-13-OpinionPoll.html) | Opinion Poll | 11 | 9–13 | 8–14 | 0–14 | 0–15 |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 13 | 11–16 | 11–16 | 10–17 | 10–18 |
@@ -205,18 +205,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.1% | 100% |  |
-| 9 | 0.8% | 99.9% |  |
-| 10 | 4% | 99.1% | Last Result |
-| 11 | 11% | 95% |  |
-| 12 | 19% | 84% |  |
-| 13 | 24% | 65% | Median |
-| 14 | 20% | 42% |  |
-| 15 | 12% | 22% |  |
-| 16 | 7% | 10% |  |
+| 0 | 0.6% | 100% |  |
+| 1 | 0% | 99.4% |  |
+| 2 | 0% | 99.4% |  |
+| 3 | 0% | 99.4% |  |
+| 4 | 0% | 99.4% |  |
+| 5 | 0% | 99.4% |  |
+| 6 | 0% | 99.4% |  |
+| 7 | 0% | 99.4% |  |
+| 8 | 1.3% | 99.4% |  |
+| 9 | 3% | 98% |  |
+| 10 | 8% | 95% | Last Result |
+| 11 | 13% | 86% |  |
+| 12 | 18% | 73% |  |
+| 13 | 20% | 55% | Median |
+| 14 | 17% | 35% |  |
+| 15 | 10% | 18% |  |
+| 16 | 5% | 8% |  |
 | 17 | 2% | 3% |  |
-| 18 | 0.7% | 1.0% |  |
-| 19 | 0.2% | 0.3% |  |
+| 18 | 0.6% | 0.8% |  |
+| 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0.1% |  |
 | 21 | 0% | 0% |  |
 

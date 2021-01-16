@@ -102,7 +102,7 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0.4% | 100% |  |
 | 4.5–5.5% | 12% | 99.6% | Last Result |
 | 5.5–6.5% | 46% | 87% | Median |
-| 6.5–7.5% | 34% | 42% |  |
+| 6.5–7.5% | 34% | 41% |  |
 | 7.5–8.5% | 7% | 7% |  |
 | 8.5–9.5% | 0.4% | 0.4% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -116,7 +116,7 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–20 | 14–21 | 13–21 | 12–23 |
+| N/A | [Poll Average](average.html) | 17 | 14–20 | 14–21 | 13–21 | 12–23 |
 | [10–14 January 2021](2021-01-14-Marc.html) | Marc <br> Αlpha TV | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
 | [7–13 January 2021](2021-01-13-OpinionPoll.html) | Opinion Poll | 17 | 14–19 | 14–20 | 13–21 | 12–22 |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 18 | 16–21 | 15–21 | 15–22 | 14–23 |
@@ -206,20 +206,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.1% | 100% |  |
-| 12 | 0.6% | 99.8% |  |
-| 13 | 2% | 99.2% |  |
-| 14 | 6% | 97% |  |
-| 15 | 11% | 91% | Last Result |
-| 16 | 18% | 80% |  |
-| 17 | 17% | 61% | Median |
-| 18 | 19% | 44% |  |
-| 19 | 12% | 25% |  |
-| 20 | 7% | 14% |  |
+| 11 | 0.2% | 100% |  |
+| 12 | 0.7% | 99.8% |  |
+| 13 | 3% | 99.1% |  |
+| 14 | 7% | 97% |  |
+| 15 | 12% | 90% | Last Result |
+| 16 | 18% | 78% |  |
+| 17 | 17% | 60% | Median |
+| 18 | 19% | 43% |  |
+| 19 | 11% | 24% |  |
+| 20 | 7% | 13% |  |
 | 21 | 4% | 6% |  |
-| 22 | 2% | 2% |  |
-| 23 | 0.6% | 0.9% |  |
-| 24 | 0.2% | 0.3% |  |
+| 22 | 1.4% | 2% |  |
+| 23 | 0.6% | 0.8% |  |
+| 24 | 0.2% | 0.2% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
