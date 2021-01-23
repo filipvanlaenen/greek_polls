@@ -10,9 +10,10 @@ Last result: **5.3%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.4% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.5% |
-| [10–14 January 2021](2021-01-14-Marc.html) | Marc <br> Αlpha TV | 6.3% | 5.5–7.3% | 5.3–7.5% | 5.1–7.8% | 4.8–8.2% |
-| [7–13 January 2021](2021-01-13-OpinionPoll.html) | Opinion Poll | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
+| N/A | [Poll Average](average.html) | 6.1% | 4.9–7.3% | 4.5–7.6% | 4.2–7.9% | 3.7–8.4% |
+| [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 4.9% | 4.1–6.0% | 3.9–6.3% | 3.7–6.6% | 3.4–7.1% |
+| [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
+| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll | 6.3% | 5.4–7.4% | 5.1–7.7% | 4.9–8.0% | 4.5–8.5% |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.6% | 5.8–7.6% | 5.6–7.9% | 5.4–8.1% | 5.0–8.6% |
 | [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 5.9% | 5.1–6.9% | 4.9–7.2% | 4.7–7.4% | 4.3–7.9% |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
@@ -98,13 +99,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 12% | 99.6% | Last Result |
-| 5.5–6.5% | 46% | 87% | Median |
-| 6.5–7.5% | 34% | 41% |  |
-| 7.5–8.5% | 7% | 7% |  |
-| 8.5–9.5% | 0.4% | 0.4% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.3% | 100% |  |
+| 3.5–4.5% | 5% | 99.7% |  |
+| 4.5–5.5% | 21% | 94% | Last Result |
+| 5.5–6.5% | 41% | 73% | Median |
+| 6.5–7.5% | 27% | 32% |  |
+| 7.5–8.5% | 5% | 5% |  |
+| 8.5–9.5% | 0.3% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -116,9 +118,10 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–20 | 14–21 | 13–21 | 12–23 |
-| [10–14 January 2021](2021-01-14-Marc.html) | Marc <br> Αlpha TV | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
-| [7–13 January 2021](2021-01-13-OpinionPoll.html) | Opinion Poll | 17 | 14–19 | 13–20 | 13–21 | 12–22 |
+| N/A | [Poll Average](average.html) | 16 | 13–19 | 12–20 | 11–21 | 10–23 |
+| [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 14 | 11–16 | 11–17 | 10–18 | 9–19 |
+| [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 17 | 15–20 | 14–21 | 13–21 | 12–23 |
+| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll | 17 | 14–19 | 13–20 | 13–21 | 12–22 |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 18 | 16–21 | 15–21 | 15–22 | 14–23 |
 | [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 16 | 14–18 | 13–19 | 12–19 | 11–21 |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 18 | 15–20 | 14–21 | 14–22 | 13–24 |
@@ -206,21 +209,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.2% | 100% |  |
-| 12 | 0.7% | 99.8% |  |
-| 13 | 3% | 99.1% |  |
-| 14 | 7% | 97% |  |
-| 15 | 12% | 90% | Last Result |
-| 16 | 17% | 78% |  |
-| 17 | 19% | 60% | Median |
-| 18 | 16% | 41% |  |
-| 19 | 12% | 25% |  |
-| 20 | 7% | 13% |  |
-| 21 | 4% | 6% |  |
-| 22 | 1.5% | 2% |  |
-| 23 | 0.5% | 0.8% |  |
-| 24 | 0.2% | 0.2% |  |
-| 25 | 0.1% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 0.8% | 99.8% |  |
+| 11 | 2% | 99.0% |  |
+| 12 | 4% | 97% |  |
+| 13 | 5% | 93% |  |
+| 14 | 11% | 87% |  |
+| 15 | 13% | 77% | Last Result |
+| 16 | 16% | 64% | Median |
+| 17 | 16% | 47% |  |
+| 18 | 13% | 32% |  |
+| 19 | 9% | 19% |  |
+| 20 | 5% | 10% |  |
+| 21 | 3% | 4% |  |
+| 22 | 1.1% | 2% |  |
+| 23 | 0.4% | 0.6% |  |
+| 24 | 0.1% | 0.2% |  |
+| 25 | 0% | 0% |  |
 
 
