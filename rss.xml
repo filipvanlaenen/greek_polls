@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sat, 23 Jan 2021 17:40:11 +0100</pubDate>
+    <pubDate>Thu, 28 Jan 2021 19:57:08 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by GPO for Παραπολιτικά, 19–20 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-01-20-GPO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.9–30.5%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 41.0–47.2%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.8–9.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.7–9.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.7–6.4%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.6–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-01-20-GPO.png"
+        length="232070"
+        type="image/png"/>
+      <pubDate>Thu, 28 Jan 2021 19:57:08 +0100</pubDate>
+      <dc:date>2021-01-28T19:57:08.461274+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by To The Point for Voria.gr, 7–16 January 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-01-16-ToThePoint.html#seats</link>
@@ -2439,6 +2449,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-01-23T17:40:11.978288+01:00</dc:date>
+    <dc:date>2021-01-28T19:57:08.461274+01:00</dc:date>
   </channel>
 </rss>
