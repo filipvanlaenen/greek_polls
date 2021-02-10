@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Mon, 08 Feb 2021 20:57:33 +0100</pubDate>
+    <pubDate>Tue, 09 Feb 2021 19:29:27 +0100</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 25–27 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-01-27-PulseRC.html</link>
@@ -28,6 +28,16 @@
         type="image/png"/>
       <pubDate>Mon, 08 Feb 2021 20:57:33 +0100</pubDate>
       <dc:date>2021-02-08T20:57:33.563872+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Παραπολιτικά, 19–22 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-01-22-GPO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.9–30.5%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 41.0–47.2%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.8–9.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.7–9.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.5–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-01-22-GPO.png"
+        length="232517"
+        type="image/png"/>
+      <pubDate>Tue, 09 Feb 2021 19:29:27 +0100</pubDate>
+      <dc:date>2021-02-09T19:29:27.305114+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 14–19 January 2021 – Seat Projections for the Parties</title>
@@ -2489,6 +2499,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-02-08T20:57:33.563872+01:00</dc:date>
+    <dc:date>2021-02-09T19:29:27.305114+01:00</dc:date>
   </channel>
 </rss>
