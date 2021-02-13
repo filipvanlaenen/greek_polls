@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Tue, 09 Feb 2021 19:29:27 +0100</pubDate>
+    <pubDate>Sat, 13 Feb 2021 14:08:27 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 25–27 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-01-27-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 64–75 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 161–174 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–25 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 16–23 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 11–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-01-27-PulseRC-seats.png"
+        length="196896"
+        type="image/png"/>
+      <pubDate>Sat, 13 Feb 2021 14:08:27 +0100</pubDate>
+      <dc:date>2021-02-13T14:08:27.055388+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 25–27 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-01-27-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-01-27-PulseRC-coalitions-seats.png"
+        length="246420"
+        type="image/png"/>
+      <pubDate>Sat, 13 Feb 2021 14:08:27 +0100</pubDate>
+      <dc:date>2021-02-13T14:08:27.055388+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 25–27 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-01-27-PulseRC.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-01-27-PulseRC.png"
         length="223981"
         type="image/png"/>
-      <pubDate>Mon, 08 Feb 2021 20:50:35 +0100</pubDate>
-      <dc:date>2021-02-08T20:50:35.429127+01:00</dc:date>
+      <pubDate>Sat, 13 Feb 2021 14:08:27 +0100</pubDate>
+      <dc:date>2021-02-13T14:08:27.055388+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Mega, 19–25 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-01-25-MetronAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 61–75 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 165–182 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–26 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 16–24 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–16 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-01-25-MetronAnalysis-seats.png"
+        length="201729"
+        type="image/png"/>
+      <pubDate>Sat, 13 Feb 2021 13:56:11 +0100</pubDate>
+      <dc:date>2021-02-13T13:56:11.451008+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Mega, 19–25 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-01-25-MetronAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-01-25-MetronAnalysis-coalitions-seats.png"
+        length="259759"
+        type="image/png"/>
+      <pubDate>Sat, 13 Feb 2021 13:56:11 +0100</pubDate>
+      <dc:date>2021-02-13T13:56:11.451008+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Mega, 19–25 January 2021 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-01-25-MetronAnalysis.png"
         length="229166"
         type="image/png"/>
-      <pubDate>Mon, 08 Feb 2021 20:57:33 +0100</pubDate>
-      <dc:date>2021-02-08T20:57:33.563872+01:00</dc:date>
+      <pubDate>Sat, 13 Feb 2021 13:56:11 +0100</pubDate>
+      <dc:date>2021-02-13T13:56:11.451008+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Παραπολιτικά, 19–22 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-01-22-GPO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 66–81 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 159–176 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 16–24 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 15–24 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–16 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-01-22-GPO-seats.png"
+        length="203929"
+        type="image/png"/>
+      <pubDate>Sat, 13 Feb 2021 13:15:33 +0100</pubDate>
+      <dc:date>2021-02-13T13:15:33.022848+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Παραπολιτικά, 19–22 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-01-22-GPO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-01-22-GPO-coalitions-seats.png"
+        length="266606"
+        type="image/png"/>
+      <pubDate>Sat, 13 Feb 2021 13:15:33 +0100</pubDate>
+      <dc:date>2021-02-13T13:15:33.022848+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Παραπολιτικά, 19–22 January 2021 – Voting Intentions</title>
@@ -36,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-01-22-GPO.png"
         length="232517"
         type="image/png"/>
-      <pubDate>Tue, 09 Feb 2021 19:29:27 +0100</pubDate>
-      <dc:date>2021-02-09T19:29:27.305114+01:00</dc:date>
+      <pubDate>Sat, 13 Feb 2021 13:15:33 +0100</pubDate>
+      <dc:date>2021-02-13T13:15:33.022848+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 14–19 January 2021 – Seat Projections for the Parties</title>
@@ -2499,6 +2559,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-02-09T19:29:27.305114+01:00</dc:date>
+    <dc:date>2021-02-13T14:08:27.055388+01:00</dc:date>
   </channel>
 </rss>
