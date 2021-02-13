@@ -121,10 +121,10 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–16 | 9–17 | 9–18 | 0–19 |
+| N/A | [Poll Average](average.html) | 13 | 10–16 | 10–17 | 9–18 | 0–19 |
 | [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 14 | 12–16 | 11–16 | 11–17 | 10–18 |
-| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega | 12 | 10–14 | 10–15 | 9–16 | 9–17 |
-| [19–22 January 2021](2021-01-22-GPO.html) | GPO <br> Παραπολιτικά | 12 | 11–15 | 10–16 | 9–16 | 8–18 |
+| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega | 12 | 10–15 | 10–15 | 9–16 | 9–17 |
+| [19–22 January 2021](2021-01-22-GPO.html) | GPO <br> Παραπολιτικά | 13 | 11–15 | 10–16 | 9–16 | 8–18 |
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 13 | 10–15 | 10–16 | 10–17 | 9–18 |
 | [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 15 | 13–18 | 12–19 | 11–20 | 10–21 |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 13 | 11–15 | 10–16 | 10–17 | 9–18 |
@@ -225,16 +225,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 99.4% |  |
 | 7 | 0% | 99.4% |  |
 | 8 | 0.9% | 99.4% |  |
-| 9 | 4% | 98.5% |  |
-| 10 | 7% | 95% | Last Result |
-| 11 | 15% | 88% |  |
-| 12 | 19% | 73% |  |
-| 13 | 16% | 54% | Median |
-| 14 | 14% | 37% |  |
-| 15 | 12% | 23% |  |
-| 16 | 6% | 11% |  |
+| 9 | 3% | 98.5% |  |
+| 10 | 8% | 95% | Last Result |
+| 11 | 13% | 87% |  |
+| 12 | 18% | 74% |  |
+| 13 | 19% | 56% | Median |
+| 14 | 15% | 38% |  |
+| 15 | 11% | 22% |  |
+| 16 | 6% | 12% |  |
 | 17 | 3% | 5% |  |
-| 18 | 2% | 3% |  |
+| 18 | 1.5% | 3% |  |
 | 19 | 0.7% | 1.1% |  |
 | 20 | 0.2% | 0.4% |  |
 | 21 | 0.1% | 0.2% |  |

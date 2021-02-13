@@ -123,9 +123,9 @@ Last result: **22** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 17–24 | 16–25 | 15–26 | 14–27 |
-| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 22 | 20–24 | 19–25 | 18–26 | 17–27 |
+| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 22 | 20–24 | 19–25 | 18–25 | 17–27 |
 | [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega | 22 | 19–25 | 18–26 | 18–26 | 17–28 |
-| [19–22 January 2021](2021-01-22-GPO.html) | GPO <br> Παραπολιτικά | 19 | 17–23 | 16–23 | 15–24 | 14–26 |
+| [19–22 January 2021](2021-01-22-GPO.html) | GPO <br> Παραπολιτικά | 20 | 17–22 | 16–23 | 16–24 | 14–26 |
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 18 | 16–21 | 15–22 | 15–23 | 13–25 |
 | [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 18 | 16–22 | 15–23 | 14–23 | 13–25 |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 22 | 19–25 | 18–26 | 18–27 | 16–28 |
@@ -222,16 +222,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 2% | 99.1% |  |
 | 16 | 4% | 97% |  |
 | 17 | 6% | 93% |  |
-| 18 | 9% | 87% |  |
-| 19 | 13% | 78% |  |
-| 20 | 14% | 65% |  |
+| 18 | 10% | 87% |  |
+| 19 | 12% | 77% |  |
+| 20 | 15% | 65% |  |
 | 21 | 14% | 51% | Median |
-| 22 | 14% | 36% | Last Result |
+| 22 | 13% | 36% | Last Result |
 | 23 | 10% | 23% |  |
 | 24 | 6% | 13% |  |
-| 25 | 4% | 6% |  |
+| 25 | 3% | 6% |  |
 | 26 | 2% | 3% |  |
-| 27 | 0.8% | 1.1% |  |
+| 27 | 0.7% | 1.1% |  |
 | 28 | 0.3% | 0.4% |  |
 | 29 | 0.1% | 0.1% |  |
 | 30 | 0% | 0% |  |
