@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sun, 21 Feb 2021 10:52:02 +0100</pubDate>
+    <pubDate>Fri, 26 Feb 2021 19:55:44 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Political, 15–19 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-02-19-OpinionPoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.5–27.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 43.2–49.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 7.2–10.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.2–8.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.2–7.1%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.8–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-02-19-OpinionPoll.png"
+        length="230876"
+        type="image/png"/>
+      <pubDate>Fri, 26 Feb 2021 19:55:44 +0100</pubDate>
+      <dc:date>2021-02-26T19:55:44.93121+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 15–18 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-02-18-Alco.html#seats</link>
@@ -2619,6 +2629,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-02-21T10:52:02.547143+01:00</dc:date>
+    <dc:date>2021-02-26T19:55:44.93121+01:00</dc:date>
   </channel>
 </rss>
