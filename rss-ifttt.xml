@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Hellenic Parliament</description>
     <pubDate>Fri, 17 Jul 2020 21:18:39 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Κάπα Research, 20–24 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-02-24-ΚάπαResearch.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Κάπα Research, 20–24 February 2021<br/>Details on https://filipvanlaenen.github.io/greek_polls/2021-02-24-ΚάπαResearch.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2021-02-24-ΚάπαResearch.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-02-24-ΚάπαResearch.png" length="220347" type="image/png"/>
+      <pubDate>Sat, 27 Feb 2021 18:58:52 +0100</pubDate>
+      <dc:date>2021-02-27T18:58:52.105792+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Opinion Poll for Political, 15–19 February 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-02-19-OpinionPoll.html</link>
       <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Opinion Poll for Political, 15–19 February 2021<br/>Details on https://filipvanlaenen.github.io/greek_polls/2021-02-19-OpinionPoll.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2021-02-19-OpinionPoll.png"/>]]></description>
@@ -204,30 +212,6 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-01-11-Marc.png" length="227315" type="image/png"/>
       <pubDate>Sat, 23 Jan 2021 17:40:11 +0100</pubDate>
       <dc:date>2021-01-23T17:40:11.978288+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinion Poll, 4–8 January 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2021-01-08-OpinionPoll.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Opinion Poll, 4–8 January 2021<br/>Details on https://filipvanlaenen.github.io/greek_polls/2021-01-08-OpinionPoll.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2021-01-08-OpinionPoll-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-01-08-OpinionPoll-seating-plan.png" length="706564" type="image/png"/>
-      <pubDate>Sat, 23 Jan 2021 17:29:44 +0100</pubDate>
-      <dc:date>2021-01-23T17:29:44.920353+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinion Poll, 4–8 January 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2021-01-08-OpinionPoll.html#seats</link>
-      <description><![CDATA[Seat projections for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Opinion Poll, 4–8 January 2021<br/>Details on https://filipvanlaenen.github.io/greek_polls/2021-01-08-OpinionPoll.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2021-01-08-OpinionPoll-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-01-08-OpinionPoll-seats.png" length="200908" type="image/png"/>
-      <pubDate>Sat, 23 Jan 2021 17:29:44 +0100</pubDate>
-      <dc:date>2021-01-23T17:29:44.920353+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinion Poll, 4–8 January 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2021-01-08-OpinionPoll.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Opinion Poll, 4–8 January 2021<br/>Details on https://filipvanlaenen.github.io/greek_polls/2021-01-08-OpinionPoll.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2021-01-08-OpinionPoll.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-01-08-OpinionPoll.png" length="224987" type="image/png"/>
-      <pubDate>Sat, 23 Jan 2021 17:29:44 +0100</pubDate>
-      <dc:date>2021-01-23T17:29:44.920353+01:00</dc:date>
     </item>
   </channel>
 </rss>
