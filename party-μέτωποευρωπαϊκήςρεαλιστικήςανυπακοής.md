@@ -124,7 +124,7 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 0–12 | 0–12 | 0–13 | 0–15 |
+| N/A | [Poll Average](average.html) | 9 | 0–12 | 0–12 | 0–13 | 0–14 |
 | [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 9 | 0–10 | 0–11 | 0–11 | 0–12 |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 10 | 8–12 | 0–13 | 0–13 | 0–15 |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
@@ -231,13 +231,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 82% |  |
 | 6 | 0% | 82% |  |
 | 7 | 0% | 82% |  |
-| 8 | 9% | 82% |  |
+| 8 | 10% | 82% |  |
 | 9 | 26% | 73% | Last Result, Median |
 | 10 | 21% | 47% |  |
-| 11 | 15% | 26% |  |
+| 11 | 14% | 26% |  |
 | 12 | 7% | 12% |  |
 | 13 | 3% | 5% |  |
-| 14 | 1.2% | 2% |  |
+| 14 | 1.1% | 2% |  |
 | 15 | 0.4% | 0.5% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |

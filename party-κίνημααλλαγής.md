@@ -127,8 +127,8 @@ Last result: **22** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 19–26 | 18–27 | 17–28 | 16–30 |
-| [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 20 | 18–22 | 18–22 | 17–23 | 16–24 |
-| [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 23 | 20–26 | 19–27 | 19–28 | 18–30 |
+| [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 20 | 18–22 | 17–22 | 17–23 | 16–24 |
+| [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 23 | 20–26 | 19–27 | 19–28 | 17–29 |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 21 | 18–24 | 17–25 | 16–25 | 15–27 |
 | [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 25 | 22–28 | 21–29 | 20–30 | 19–32 |
 | [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 22 | 20–24 | 19–25 | 18–25 | 17–27 |
@@ -228,20 +228,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0.1% | 100% |  |
 | 16 | 0.6% | 99.8% |  |
 | 17 | 2% | 99.2% |  |
-| 18 | 6% | 97% |  |
+| 18 | 5% | 97% |  |
 | 19 | 9% | 92% |  |
-| 20 | 13% | 83% |  |
-| 21 | 16% | 70% |  |
-| 22 | 15% | 54% | Last Result, Median |
-| 23 | 11% | 39% |  |
-| 24 | 10% | 28% |  |
-| 25 | 6% | 17% |  |
+| 20 | 14% | 83% |  |
+| 21 | 15% | 69% |  |
+| 22 | 15% | 55% | Last Result, Median |
+| 23 | 12% | 40% |  |
+| 24 | 9% | 28% |  |
+| 25 | 7% | 18% |  |
 | 26 | 5% | 11% |  |
 | 27 | 3% | 6% |  |
-| 28 | 1.3% | 3% |  |
-| 29 | 0.9% | 2% |  |
+| 28 | 1.4% | 3% |  |
+| 29 | 0.8% | 2% |  |
 | 30 | 0.5% | 0.9% |  |
-| 31 | 0.2% | 0.3% |  |
+| 31 | 0.2% | 0.4% |  |
 | 32 | 0.1% | 0.1% |  |
 | 33 | 0% | 0% |  |
 
