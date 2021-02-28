@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sat, 27 Feb 2021 18:58:52 +0100</pubDate>
+    <pubDate>Sun, 28 Feb 2021 09:16:12 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Κάπα Research, 20–24 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-02-24-ΚάπαResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 74–86 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 162–175 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 17–23 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 11–16 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 10–14 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-02-24-ΚάπαResearch-seats.png"
+        length="194743"
+        type="image/png"/>
+      <pubDate>Sun, 28 Feb 2021 09:16:12 +0100</pubDate>
+      <dc:date>2021-02-28T09:16:12.56229+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Κάπα Research, 20–24 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-02-24-ΚάπαResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-02-24-ΚάπαResearch-coalitions-seats.png"
+        length="248823"
+        type="image/png"/>
+      <pubDate>Sun, 28 Feb 2021 09:16:12 +0100</pubDate>
+      <dc:date>2021-02-28T09:16:12.56229+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Κάπα Research, 20–24 February 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-02-24-ΚάπαResearch.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-02-24-ΚάπαResearch.png"
         length="220347"
         type="image/png"/>
-      <pubDate>Sat, 27 Feb 2021 18:58:52 +0100</pubDate>
-      <dc:date>2021-02-27T18:58:52.105792+01:00</dc:date>
+      <pubDate>Sun, 28 Feb 2021 09:16:12 +0100</pubDate>
+      <dc:date>2021-02-28T09:16:12.56229+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Political, 15–19 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-02-19-OpinionPoll.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 59–73 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 162–179 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 19–28 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 11–18 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-02-19-OpinionPoll-seats.png"
+        length="201030"
+        type="image/png"/>
+      <pubDate>Sat, 27 Feb 2021 20:52:57 +0100</pubDate>
+      <dc:date>2021-02-27T20:52:57.251078+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Political, 15–19 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-02-19-OpinionPoll.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-02-19-OpinionPoll-coalitions-seats.png"
+        length="261219"
+        type="image/png"/>
+      <pubDate>Sat, 27 Feb 2021 20:52:57 +0100</pubDate>
+      <dc:date>2021-02-27T20:52:57.251078+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll for Political, 15–19 February 2021 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-02-19-OpinionPoll.png"
         length="230876"
         type="image/png"/>
-      <pubDate>Fri, 26 Feb 2021 19:55:44 +0100</pubDate>
-      <dc:date>2021-02-26T19:55:44.93121+01:00</dc:date>
+      <pubDate>Sat, 27 Feb 2021 20:52:57 +0100</pubDate>
+      <dc:date>2021-02-27T20:52:57.251078+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 15–18 February 2021 – Seat Projections for the Parties</title>
@@ -2639,6 +2679,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-02-27T18:58:52.105792+01:00</dc:date>
+    <dc:date>2021-02-28T09:16:12.56229+01:00</dc:date>
   </channel>
 </rss>
