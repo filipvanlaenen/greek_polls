@@ -10,7 +10,12 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.8–4.4% | 2.7–4.7% | 2.5–4.9% | 2.2–5.4% |
+| N/A | [Poll Average](average.html) | 3.8% | 3.0–4.9% | 2.8–5.2% | 2.7–5.5% | 2.4–6.0% |
+| [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Τα Νέα | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
+| [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
+| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.5% | 2.9–4.3% | 2.8–4.5% | 2.7–4.7% | 2.4–5.1% |
+| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
+| [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 3.3% | 2.9–3.9% | 2.7–4.1% | 2.6–4.2% | 2.4–4.5% |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.2% | 2.5–5.6% |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
@@ -108,12 +113,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 49% | 97% | Last Result |
-| 3.5–4.5% | 42% | 48% | Median |
-| 4.5–5.5% | 6% | 6% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 1.3% | 100% |  |
+| 2.5–3.5% | 36% | 98.7% | Last Result |
+| 3.5–4.5% | 46% | 63% | Median |
+| 4.5–5.5% | 15% | 17% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -124,7 +130,12 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 0–12 | 0–12 | 0–13 | 0–14 |
+| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–14 | 0–14 | 0–16 |
+| [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Τα Νέα | 10 | 0–12 | 0–13 | 0–13 | 0–14 |
+| [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0 | 0 |
+| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
+| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 13 | 10–15 | 10–15 | 9–16 | 9–18 |
+| [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
 | [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 9 | 0–10 | 0–11 | 0–11 | 0–12 |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 10 | 8–12 | 0–13 | 0–13 | 0–15 |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
@@ -223,23 +234,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% |  |
-| 1 | 0% | 82% |  |
-| 2 | 0% | 82% |  |
-| 3 | 0% | 82% |  |
-| 4 | 0% | 82% |  |
-| 5 | 0% | 82% |  |
-| 6 | 0% | 82% |  |
-| 7 | 0% | 82% |  |
-| 8 | 10% | 82% |  |
-| 9 | 26% | 73% | Last Result, Median |
-| 10 | 21% | 47% |  |
-| 11 | 14% | 26% |  |
-| 12 | 7% | 12% |  |
-| 13 | 3% | 5% |  |
-| 14 | 1.1% | 2% |  |
-| 15 | 0.4% | 0.5% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 0 | 23% | 100% |  |
+| 1 | 0% | 77% |  |
+| 2 | 0% | 77% |  |
+| 3 | 0% | 77% |  |
+| 4 | 0% | 77% |  |
+| 5 | 0% | 77% |  |
+| 6 | 0% | 77% |  |
+| 7 | 0% | 77% |  |
+| 8 | 7% | 77% |  |
+| 9 | 18% | 70% | Last Result |
+| 10 | 18% | 51% | Median |
+| 11 | 14% | 33% |  |
+| 12 | 8% | 19% |  |
+| 13 | 5% | 11% |  |
+| 14 | 4% | 6% |  |
+| 15 | 1.2% | 2% |  |
+| 16 | 0.4% | 0.7% |  |
+| 17 | 0.2% | 0.3% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 
