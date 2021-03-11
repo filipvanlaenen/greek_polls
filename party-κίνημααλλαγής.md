@@ -132,9 +132,9 @@ Last result: **22** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 15–25 | 15–27 | 15–28 | 15–30 |
+| N/A | [Poll Average](average.html) | 21 | 18–25 | 17–27 | 16–28 | 15–30 |
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Τα Νέα | 22 | 20–25 | 19–26 | 18–27 | 17–29 |
-| [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 15 | 15 | 15 | 15 | 15 |
+| [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 19 | 16–22 | 15–22 | 15–23 | 14–25 |
 | [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 23 | 21–26 | 20–27 | 20–28 | 18–29 |
 | [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 19 | 16–22 | 16–23 | 15–24 | 14–26 |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 22 | 19–25 | 19–26 | 18–27 | 17–29 |
@@ -236,19 +236,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.1% | 100% |  |
-| 15 | 13% | 99.8% |  |
-| 16 | 1.3% | 87% |  |
-| 17 | 3% | 86% |  |
-| 18 | 6% | 83% |  |
-| 19 | 8% | 77% |  |
-| 20 | 11% | 69% |  |
-| 21 | 11% | 57% | Median |
-| 22 | 11% | 46% | Last Result |
-| 23 | 10% | 35% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.2% | 99.9% |  |
+| 15 | 0.9% | 99.7% |  |
+| 16 | 2% | 98.7% |  |
+| 17 | 4% | 96% |  |
+| 18 | 8% | 92% |  |
+| 19 | 11% | 84% |  |
+| 20 | 13% | 73% |  |
+| 21 | 12% | 60% | Median |
+| 22 | 12% | 48% | Last Result |
+| 23 | 11% | 35% |  |
 | 24 | 8% | 25% |  |
 | 25 | 7% | 17% |  |
-| 26 | 4% | 10% |  |
+| 26 | 5% | 10% |  |
 | 27 | 3% | 5% |  |
 | 28 | 1.3% | 3% |  |
 | 29 | 0.7% | 1.4% |  |

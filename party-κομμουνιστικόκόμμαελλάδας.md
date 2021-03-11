@@ -131,9 +131,9 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 12–20 | 12–21 | 12–22 | 11–25 |
+| N/A | [Poll Average](average.html) | 17 | 13–20 | 12–21 | 12–22 | 11–25 |
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Τα Νέα | 20 | 17–23 | 16–24 | 15–25 | 15–26 |
-| [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 12 | 12 | 12 | 12 | 12 |
+| [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 15 | 13–18 | 12–19 | 12–19 | 11–21 |
 | [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 18 | 17–20 | 16–20 | 14–22 | 13–24 |
 | [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 15 | 13–18 | 12–19 | 11–19 | 11–21 |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 18 | 15–20 | 14–21 | 14–22 | 13–23 |
@@ -236,16 +236,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.2% | 100% |  |
-| 11 | 1.1% | 99.8% |  |
-| 12 | 16% | 98.7% |  |
-| 13 | 6% | 83% |  |
-| 14 | 9% | 77% |  |
-| 15 | 9% | 68% | Last Result |
-| 16 | 10% | 59% | Median |
-| 17 | 11% | 50% |  |
-| 18 | 12% | 39% |  |
-| 19 | 11% | 27% |  |
-| 20 | 8% | 15% |  |
+| 11 | 1.3% | 99.8% |  |
+| 12 | 4% | 98% |  |
+| 13 | 7% | 95% |  |
+| 14 | 11% | 87% |  |
+| 15 | 12% | 76% | Last Result |
+| 16 | 12% | 65% |  |
+| 17 | 12% | 53% | Median |
+| 18 | 13% | 41% |  |
+| 19 | 12% | 27% |  |
+| 20 | 9% | 16% |  |
 | 21 | 4% | 7% |  |
 | 22 | 1.1% | 3% |  |
 | 23 | 0.6% | 2% |  |
