@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Tue, 09 Mar 2021 08:30:52 +0100</pubDate>
+    <pubDate>Thu, 11 Mar 2021 18:16:07 +0100</pubDate>
     <item>
       <title>Opinion Poll by GPO for Τα Νέα, 3–5 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-03-05-GPO.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-03-03-MRB.png"
         length="228621"
         type="image/png"/>
-      <pubDate>Mon, 08 Mar 2021 23:31:34 +0100</pubDate>
-      <dc:date>2021-03-08T23:31:34.61405+01:00</dc:date>
+      <pubDate>Thu, 11 Mar 2021 18:16:07 +0100</pubDate>
+      <dc:date>2021-03-11T18:16:07.099771+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 26–28 February 2021 – Voting Intentions</title>
@@ -2729,6 +2729,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-03-09T08:30:52.775183+01:00</dc:date>
+    <dc:date>2021-03-11T18:16:07.099771+01:00</dc:date>
   </channel>
 </rss>
