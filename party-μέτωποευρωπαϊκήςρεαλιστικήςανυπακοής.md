@@ -131,10 +131,10 @@ Last result: **9** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 0–13 | 0–14 | 0–15 | 0–16 |
-| [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Τα Νέα | 10 | 0–12 | 0–13 | 0–13 | 0–14 |
+| [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Τα Νέα | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 11 | 9–14 | 9–14 | 8–15 | 0–16 |
 | [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
-| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 13 | 10–15 | 10–15 | 9–16 | 9–18 |
+| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 13 | 10–15 | 10–16 | 9–16 | 8–18 |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
 | [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 9 | 0–10 | 0–11 | 0–11 | 0–12 |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 10 | 8–12 | 0–13 | 0–13 | 0–15 |
@@ -243,14 +243,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 89% |  |
 | 7 | 0% | 89% |  |
 | 8 | 7% | 89% |  |
-| 9 | 19% | 82% | Last Result |
-| 10 | 21% | 62% | Median |
-| 11 | 17% | 42% |  |
+| 9 | 21% | 82% | Last Result |
+| 10 | 20% | 62% | Median |
+| 11 | 16% | 41% |  |
 | 12 | 11% | 25% |  |
 | 13 | 7% | 14% |  |
-| 14 | 5% | 7% |  |
+| 14 | 4% | 7% |  |
 | 15 | 2% | 3% |  |
-| 16 | 0.5% | 0.9% |  |
+| 16 | 0.7% | 1.0% |  |
 | 17 | 0.2% | 0.3% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
