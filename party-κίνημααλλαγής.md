@@ -132,10 +132,10 @@ Last result: **22** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 18–25 | 17–27 | 16–28 | 15–30 |
+| N/A | [Poll Average](average.html) | 21 | 18–26 | 17–27 | 16–28 | 15–30 |
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Τα Νέα | 22 | 20–26 | 19–26 | 18–27 | 17–29 |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 19 | 16–22 | 15–22 | 15–23 | 14–25 |
-| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 23 | 21–26 | 20–27 | 20–28 | 18–29 |
+| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24 | 21–26 | 20–27 | 20–28 | 18–29 |
 | [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 19 | 16–22 | 16–23 | 15–24 | 14–26 |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 22 | 19–25 | 19–26 | 18–27 | 17–29 |
 | [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 20 | 18–22 | 17–22 | 17–23 | 16–24 |
@@ -244,10 +244,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 8% | 92% |  |
 | 19 | 11% | 84% |  |
 | 20 | 13% | 73% |  |
-| 21 | 13% | 60% | Median |
+| 21 | 12% | 60% | Median |
 | 22 | 12% | 48% | Last Result |
-| 23 | 10% | 35% |  |
-| 24 | 8% | 25% |  |
+| 23 | 10% | 36% |  |
+| 24 | 9% | 26% |  |
 | 25 | 7% | 17% |  |
 | 26 | 5% | 10% |  |
 | 27 | 3% | 5% |  |

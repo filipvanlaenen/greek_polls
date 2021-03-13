@@ -141,7 +141,7 @@ Last result: **158** seats (General Election of 7 July 2019)
 | N/A | [Poll Average](average.html) | 167 | 161–173 | 159–175 | 158–177 | 155–180 |
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Τα Νέα | 164 | 159–170 | 157–172 | 156–173 | 154–176 |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 166 | 161–171 | 160–173 | 158–174 | 156–177 |
-| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 165 | 160–171 | 159–172 | 158–173 | 156–176 |
+| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 165 | 161–171 | 159–172 | 158–174 | 156–176 |
 | [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 164 | 159–171 | 157–172 | 156–174 | 153–177 |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 172 | 166–177 | 165–179 | 163–181 | 161–184 |
 | [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 168 | 164–172 | 162–174 | 162–175 | 160–177 |
@@ -250,7 +250,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 157 | 0.9% | 98.8% |  |
 | 158 | 1.5% | 98% | Last Result |
 | 159 | 2% | 96% |  |
-| 160 | 3% | 94% |  |
+| 160 | 3% | 95% |  |
 | 161 | 4% | 92% |  |
 | 162 | 5% | 88% |  |
 | 163 | 6% | 82% |  |
@@ -260,7 +260,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 167 | 9% | 52% | Median |
 | 168 | 8% | 43% |  |
 | 169 | 7% | 35% |  |
-| 170 | 6% | 28% |  |
+| 170 | 7% | 28% |  |
 | 171 | 5% | 21% |  |
 | 172 | 4% | 16% |  |
 | 173 | 3% | 12% |  |
