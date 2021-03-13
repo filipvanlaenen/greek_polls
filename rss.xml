@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Fri, 12 Mar 2021 18:45:38 +0100</pubDate>
+    <pubDate>Fri, 12 Mar 2021 20:06:54 +0100</pubDate>
     <item>
       <title>Opinion Poll by GPO for Τα Νέα, 3–5 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-03-05-GPO.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2021-03-11T21:06:47.23424+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 26–28 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-02-28-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 64–77 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 158–174 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 20–28 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 15–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 11–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-02-28-PulseRC-seats.png"
+        length="199176"
+        type="image/png"/>
+      <pubDate>Fri, 12 Mar 2021 20:06:54 +0100</pubDate>
+      <dc:date>2021-03-12T20:06:54.363321+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 26–28 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-02-28-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-02-28-PulseRC-coalitions-seats.png"
+        length="252722"
+        type="image/png"/>
+      <pubDate>Fri, 12 Mar 2021 20:06:54 +0100</pubDate>
+      <dc:date>2021-03-12T20:06:54.363321+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 26–28 February 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-02-28-PulseRC.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.2–27.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 39.4–44.7%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 7.1–10.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.3–8.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.9–6.3%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.7–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-02-28-PulseRC.png"
         length="228648"
         type="image/png"/>
-      <pubDate>Tue, 09 Mar 2021 07:24:45 +0100</pubDate>
-      <dc:date>2021-03-09T07:24:45.757247+01:00</dc:date>
+      <pubDate>Fri, 12 Mar 2021 20:06:54 +0100</pubDate>
+      <dc:date>2021-03-12T20:06:54.363321+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 23–26 February 2021 – Seat Projections for the Parties</title>
@@ -2809,6 +2829,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-03-12T18:45:38.242882+01:00</dc:date>
+    <dc:date>2021-03-12T20:06:54.363321+01:00</dc:date>
   </channel>
 </rss>
