@@ -138,7 +138,7 @@ Last result: **15** seats (General Election of 7 July 2019)
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Τα Νέα | 20 | 17–23 | 16–24 | 16–24 | 15–26 |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 15 | 13–18 | 12–18 | 12–19 | 11–21 |
 | [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 18 | 16–20 | 16–22 | 15–22 | 13–23 |
-| [22–27 February 2021](2021-02-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 16 | 13–18 | 13–19 | 12–19 | 11–21 |
+| [22–27 February 2021](2021-02-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 16 | 13–18 | 13–19 | 12–20 | 11–21 |
 | [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 15 | 13–18 | 12–19 | 12–19 | 11–21 |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 17 | 15–20 | 14–21 | 14–22 | 13–23 |
 | [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
@@ -240,15 +240,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.2% | 100% |  |
-| 11 | 1.1% | 99.8% |  |
+| 11 | 1.2% | 99.8% |  |
 | 12 | 4% | 98.7% |  |
 | 13 | 7% | 95% |  |
 | 14 | 10% | 88% |  |
-| 15 | 11% | 78% | Last Result |
+| 15 | 12% | 77% | Last Result |
 | 16 | 13% | 66% |  |
-| 17 | 15% | 54% | Median |
+| 17 | 14% | 53% | Median |
 | 18 | 13% | 39% |  |
-| 19 | 10% | 25% |  |
+| 19 | 9% | 25% |  |
 | 20 | 6% | 16% |  |
 | 21 | 4% | 9% |  |
 | 22 | 3% | 5% |  |
