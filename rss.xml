@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Mon, 22 Mar 2021 17:26:00 +0100</pubDate>
+    <pubDate>Tue, 23 Mar 2021 18:11:12 +0100</pubDate>
     <item>
       <title>Opinion Poll by Alco for Open TV, 14–18 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-03-18-Alco.html#seats</link>
@@ -130,14 +130,34 @@
       <dc:date>2021-03-12T20:06:54.363321+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Metron Analysis for Mega, 22–27 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-02-27-MetronAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 70–84 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 160–178 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–27 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 12–20 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–15 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-02-27-MetronAnalysis-seats.png"
+        length="203912"
+        type="image/png"/>
+      <pubDate>Tue, 23 Mar 2021 18:11:12 +0100</pubDate>
+      <dc:date>2021-03-23T18:11:12.428864+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Mega, 22–27 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-02-27-MetronAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-02-27-MetronAnalysis-coalitions-seats.png"
+        length="267359"
+        type="image/png"/>
+      <pubDate>Tue, 23 Mar 2021 18:11:12 +0100</pubDate>
+      <dc:date>2021-03-23T18:11:12.428864+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Metron Analysis for Mega, 22–27 February 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-02-27-MetronAnalysis.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 26.0–31.1%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 41.2–46.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.8–9.9%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.6–7.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.2–5.5%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.2–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-02-27-MetronAnalysis.png"
         length="228658"
         type="image/png"/>
-      <pubDate>Sun, 21 Mar 2021 21:54:22 +0100</pubDate>
-      <dc:date>2021-03-21T21:54:22.910555+01:00</dc:date>
+      <pubDate>Tue, 23 Mar 2021 18:11:12 +0100</pubDate>
+      <dc:date>2021-03-23T18:11:12.428864+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 23–26 February 2021 – Seat Projections for the Parties</title>
@@ -2869,6 +2889,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-03-22T17:26:00.27974+01:00</dc:date>
+    <dc:date>2021-03-23T18:11:12.428864+01:00</dc:date>
   </channel>
 </rss>
