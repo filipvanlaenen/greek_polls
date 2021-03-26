@@ -10,7 +10,9 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.8% | 2.7–5.1% | 2.5–5.4% | 2.2–6.0% |
+| N/A | [Poll Average](average.html) | 3.8% | 3.0–5.0% | 2.8–5.3% | 2.6–5.6% | 2.4–6.2% |
+| [17–23 March 2021](2021-03-23-MetronAnalysis.html) | Metron Analysis <br> Mega | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
+| [19–22 March 2021](2021-03-22-Marc.html) | Marc <br> Alpha TV | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [14–18 March 2021](2021-03-18-Alco.html) | Alco <br> Open TV | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Τα Νέα | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
@@ -116,11 +118,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 39% | 97% | Last Result |
-| 3.5–4.5% | 42% | 58% | Median |
-| 4.5–5.5% | 14% | 16% |  |
-| 5.5–6.5% | 2% | 2% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 33% | 98% | Last Result |
+| 3.5–4.5% | 44% | 65% | Median |
+| 4.5–5.5% | 18% | 21% |  |
+| 5.5–6.5% | 3% | 3% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -134,6 +136,8 @@ Last result: **9** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 0–13 | 0–14 | 0–15 | 0–16 |
+| [17–23 March 2021](2021-03-23-MetronAnalysis.html) | Metron Analysis <br> Mega | 12 | 10–15 | 10–16 | 9–16 | 8–17 |
+| [19–22 March 2021](2021-03-22-Marc.html) | Marc <br> Alpha TV | 9 | 0–12 | 0–12 | 0–13 | 0–14 |
 | [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV | 11 | 9–14 | 9–14 | 0–15 | 0–16 |
 | [14–18 March 2021](2021-03-18-Alco.html) | Alco <br> Open TV | 9 | 0–11 | 0–12 | 0–12 | 0–14 |
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Τα Νέα | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
@@ -240,24 +244,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% |  |
-| 1 | 0% | 85% |  |
-| 2 | 0% | 85% |  |
-| 3 | 0% | 85% |  |
-| 4 | 0% | 85% |  |
-| 5 | 0% | 85% |  |
-| 6 | 0% | 85% |  |
-| 7 | 0% | 85% |  |
-| 8 | 8% | 85% |  |
-| 9 | 19% | 77% | Last Result |
-| 10 | 20% | 58% | Median |
-| 11 | 14% | 38% |  |
-| 12 | 10% | 23% |  |
-| 13 | 7% | 13% |  |
-| 14 | 4% | 6% |  |
-| 15 | 2% | 3% |  |
-| 16 | 0.7% | 1.0% |  |
-| 17 | 0.2% | 0.3% |  |
+| 0 | 11% | 100% |  |
+| 1 | 0% | 89% |  |
+| 2 | 0% | 89% |  |
+| 3 | 0% | 89% |  |
+| 4 | 0% | 89% |  |
+| 5 | 0% | 89% |  |
+| 6 | 0% | 89% |  |
+| 7 | 0% | 89% |  |
+| 8 | 7% | 89% |  |
+| 9 | 17% | 82% | Last Result |
+| 10 | 20% | 65% | Median |
+| 11 | 16% | 44% |  |
+| 12 | 12% | 29% |  |
+| 13 | 8% | 17% |  |
+| 14 | 5% | 8% |  |
+| 15 | 2% | 4% |  |
+| 16 | 1.0% | 1.4% |  |
+| 17 | 0.3% | 0.4% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
