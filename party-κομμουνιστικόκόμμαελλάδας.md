@@ -10,7 +10,8 @@ Last result: **5.3%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.2% | 4.8–7.6% | 4.5–8.0% | 4.3–8.4% | 3.9–9.1% |
+| N/A | [Poll Average](average.html) | 6.2% | 5.0–7.7% | 4.7–8.1% | 4.4–8.5% | 3.9–9.2% |
+| [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.1% | 5.3–7.1% | 5.1–7.3% | 4.9–7.6% | 4.6–8.0% |
 | [17–23 March 2021](2021-03-23-MetronAnalysis.html) | Metron Analysis <br> Mega | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
 | [19–22 March 2021](2021-03-22-Marc.html) | Marc <br> Alpha TV | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.7% |
 | [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
@@ -117,14 +118,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
+| 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 5% | 99.9% |  |
-| 4.5–5.5% | 25% | 95% | Last Result |
-| 5.5–6.5% | 34% | 70% | Median |
-| 6.5–7.5% | 25% | 37% |  |
-| 7.5–8.5% | 9% | 11% |  |
+| 3.5–4.5% | 4% | 99.9% |  |
+| 4.5–5.5% | 21% | 96% | Last Result |
+| 5.5–6.5% | 37% | 75% | Median |
+| 6.5–7.5% | 26% | 38% |  |
+| 7.5–8.5% | 10% | 12% |  |
 | 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.1% | 0.2% |  |
+| 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -136,7 +138,8 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 13–20 | 12–21 | 12–22 | 11–24 |
+| N/A | [Poll Average](average.html) | 17 | 13–20 | 13–21 | 12–22 | 11–24 |
+| [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
 | [17–23 March 2021](2021-03-23-MetronAnalysis.html) | Metron Analysis <br> Mega | 15 | 13–18 | 13–19 | 12–20 | 11–21 |
 | [19–22 March 2021](2021-03-22-Marc.html) | Marc <br> Alpha TV | 17 | 15–20 | 14–21 | 14–22 | 13–23 |
 | [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV | 14 | 12–16 | 11–17 | 11–18 | 10–19 |
@@ -246,23 +249,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.1% | 100% |  |
-| 10 | 0.4% | 99.9% |  |
-| 11 | 2% | 99.6% |  |
-| 12 | 5% | 98% |  |
-| 13 | 8% | 93% |  |
-| 14 | 11% | 85% |  |
-| 15 | 12% | 74% | Last Result |
-| 16 | 12% | 62% | Median |
-| 17 | 13% | 50% |  |
-| 18 | 12% | 37% |  |
-| 19 | 9% | 24% |  |
-| 20 | 6% | 15% |  |
-| 21 | 4% | 9% |  |
+| 10 | 0.3% | 99.9% |  |
+| 11 | 1.2% | 99.6% |  |
+| 12 | 3% | 98% |  |
+| 13 | 6% | 95% |  |
+| 14 | 10% | 89% |  |
+| 15 | 13% | 79% | Last Result |
+| 16 | 14% | 66% |  |
+| 17 | 14% | 52% | Median |
+| 18 | 12% | 38% |  |
+| 19 | 9% | 26% |  |
+| 20 | 7% | 17% |  |
+| 21 | 5% | 9% |  |
 | 22 | 2% | 5% |  |
 | 23 | 1.3% | 2% |  |
 | 24 | 0.7% | 1.1% |  |
 | 25 | 0.3% | 0.4% |  |
-| 26 | 0.1% | 0.1% |  |
+| 26 | 0.1% | 0.2% |  |
 | 27 | 0% | 0% |  |
 
 
