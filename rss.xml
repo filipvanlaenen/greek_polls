@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Wed, 31 Mar 2021 20:01:00 +0200</pubDate>
+    <pubDate>Wed, 31 Mar 2021 20:43:19 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 26–28 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-03-28-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 70–84 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 156–172 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–26 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–21 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 11–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-03-28-PulseRC-seats.png"
+        length="198672"
+        type="image/png"/>
+      <pubDate>Wed, 31 Mar 2021 20:43:19 +0200</pubDate>
+      <dc:date>2021-03-31T20:43:19.309232+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 26–28 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-03-28-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-03-28-PulseRC-coalitions-seats.png"
+        length="258921"
+        type="image/png"/>
+      <pubDate>Wed, 31 Mar 2021 20:43:19 +0200</pubDate>
+      <dc:date>2021-03-31T20:43:19.309232+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 26–28 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-03-28-PulseRC.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-03-28-PulseRC.png"
         length="228554"
         type="image/png"/>
-      <pubDate>Wed, 31 Mar 2021 20:01:00 +0200</pubDate>
-      <dc:date>2021-03-31T20:01:00.569866+02:00</dc:date>
+      <pubDate>Wed, 31 Mar 2021 20:43:19 +0200</pubDate>
+      <dc:date>2021-03-31T20:43:19.309232+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Mega, 17–23 March 2021 – Seat Projections for the Parties</title>
@@ -2989,6 +3009,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-03-31T20:01:00.569866+02:00</dc:date>
+    <dc:date>2021-03-31T20:43:19.309232+02:00</dc:date>
   </channel>
 </rss>
