@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Tue, 20 Apr 2021 16:02:50 +0200</pubDate>
+    <pubDate>Mon, 26 Apr 2021 20:29:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Interview for Politic.gr, 19–22 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.0–28.1%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 39.5–45.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.3–9.4%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.2–8.1%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.3–7.0%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.2–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview.png"
+        length="231193"
+        type="image/png"/>
+      <pubDate>Mon, 26 Apr 2021 07:06:39 +0200</pubDate>
+      <dc:date>2021-04-26T07:06:39.457063+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 13–19 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-04-19-Interview.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.8–27.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 39.5–45.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.3–9.4%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.1–8.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.7–7.5%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.9–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-04-19-Interview.png"
+        length="231582"
+        type="image/png"/>
+      <pubDate>Mon, 26 Apr 2021 07:57:38 +0200</pubDate>
+      <dc:date>2021-04-26T07:57:38.444778+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Open TV, 12–16 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-04-16-Alco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.9–30.5%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 40.3–46.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.1–8.2%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 1.0–2.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.7–6.4%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.4–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-04-16-Alco.png"
+        length="246802"
+        type="image/png"/>
+      <pubDate>Mon, 26 Apr 2021 20:29:18 +0200</pubDate>
+      <dc:date>2021-04-26T20:29:18.728731+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by GPO for powergame.gr, 10–12 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-04-12-GPO.html</link>
@@ -3049,6 +3079,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-04-20T16:02:50.59997+02:00</dc:date>
+    <dc:date>2021-04-26T20:29:18.728731+02:00</dc:date>
   </channel>
 </rss>
