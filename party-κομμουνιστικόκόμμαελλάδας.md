@@ -142,9 +142,9 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–21 | 14–22 | 13–23 | 12–25 |
+| N/A | [Poll Average](average.html) | 17 | 14–21 | 13–22 | 13–23 | 12–25 |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 18 | 15–20 | 15–21 | 14–22 | 13–23 |
-| [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 17 | 15–20 | 14–21 | 14–22 | 13–23 |
+| [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 18 | 15–20 | 14–21 | 14–22 | 13–23 |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 18 | 15–21 | 14–22 | 14–22 | 13–24 |
 | [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 20 | 17–23 | 17–24 | 16–25 | 15–26 |
 | [8–9 April 2021](2021-04-09-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 16 | 13–18 | 13–19 | 12–20 | 11–22 |
@@ -265,7 +265,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 12% | 88% | Last Result |
 | 16 | 15% | 76% |  |
 | 17 | 15% | 61% | Median |
-| 18 | 15% | 46% |  |
+| 18 | 14% | 45% |  |
 | 19 | 12% | 31% |  |
 | 20 | 8% | 20% |  |
 | 21 | 5% | 12% |  |

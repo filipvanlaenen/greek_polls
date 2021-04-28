@@ -148,8 +148,8 @@ Last result: **158** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 164 | 158–170 | 156–172 | 154–173 | 152–177 |
-| [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 165 | 160–170 | 158–172 | 158–172 | 155–176 |
-| [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 165 | 161–171 | 159–172 | 158–174 | 156–176 |
+| [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 165 | 160–170 | 159–171 | 157–173 | 155–175 |
+| [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 165 | 160–171 | 159–172 | 158–174 | 155–176 |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 167 | 162–173 | 160–175 | 159–176 | 156–180 |
 | [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 161 | 154–167 | 153–169 | 153–171 | 150–173 |
 | [8–9 April 2021](2021-04-09-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 163 | 157–170 | 156–172 | 154–173 | 152–176 |
@@ -278,9 +278,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 162 | 9% | 69% |  |
 | 163 | 8% | 60% |  |
 | 164 | 8% | 52% | Median |
-| 165 | 7% | 44% |  |
+| 165 | 8% | 45% |  |
 | 166 | 7% | 37% |  |
-| 167 | 8% | 30% |  |
+| 167 | 7% | 29% |  |
 | 168 | 5% | 22% |  |
 | 169 | 5% | 17% |  |
 | 170 | 4% | 12% |  |
