@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/greek_polls</id>
   <title>All Registered Polls for the Hellenic Parliament</title>
-  <updated>2021-04-27T18:09:35.197361+02:00</updated>
+  <updated>2021-04-28T16:30:46.856922+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.0–28.1%, 63–76 seats</li><li>Νέα Δημοκρατία: 39.5–45.3%, 157–173 seats</li><li>Κίνημα Αλλαγής: 6.3–9.4%, 17–26 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 5.2–8.1%, 14–22 seats</li><li>Ελληνική Λύση: 4.3–7.0%, 12–19 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.2–5.6%, 9–15 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview.html</id>
+    <link href="https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview.html"/>
+    <title>Opinion Poll by Interview for Politic.gr, 19–22 April 2021</title>
+    <updated>2021-04-28T16:30:46.856922+02:00</updated>
+    <dc:date>2021-04-28T16:30:46.856922+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.8–27.9%, 62–76 seats</li><li>Νέα Δημοκρατία: 39.5–45.3%, 158–174 seats</li><li>Κίνημα Αλλαγής: 6.3–9.4%, 17–26 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 5.1–8.0%, 14–22 seats</li><li>Ελληνική Λύση: 4.7–7.5%, 13–20 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.9–5.2%, 0–14 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/greek_polls/2021-04-19-Interview.html</id>
+    <link href="https://filipvanlaenen.github.io/greek_polls/2021-04-19-Interview.html"/>
+    <title>Opinion Poll by Interview for Βεργίνα TV, 13–19 April 2021</title>
+    <updated>2021-04-28T07:59:25.674588+02:00</updated>
+    <dc:date>2021-04-28T07:59:25.674588+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.9–30.5%, 67–83 seats</li><li>Νέα Δημοκρατία: 40.3–46.4%, 159–176 seats</li><li>Κίνημα Αλλαγής: 5.4–8.5%, 15–23 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 5.1–8.2%, 14–22 seats</li><li>Πλεύση Ελευθερίας: 1.0–2.6%, 0 seats</li><li>Ελληνική Λύση: 3.7–6.4%, 10–17 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.4–4.7%, 0–13 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/greek_polls/2021-04-16-Alco.html</id>
@@ -823,5 +839,5 @@
     <updated>2021-01-15T07:25:58.446398+01:00</updated>
     <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
   </entry>
-  <dc:date>2021-04-27T18:09:35.197361+02:00</dc:date>
+  <dc:date>2021-04-28T16:30:46.856922+02:00</dc:date>
 </feed>
