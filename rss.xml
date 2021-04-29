@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Wed, 28 Apr 2021 16:30:46 +0200</pubDate>
+    <pubDate>Thu, 29 Apr 2021 08:02:03 +0200</pubDate>
     <item>
       <title>Opinion Poll by Interview for Politic.gr, 19–22 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview.html#seats</link>
@@ -100,14 +100,34 @@
       <dc:date>2021-04-27T18:09:35.197361+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by GPO for powergame.gr, 10–12 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-04-12-GPO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 66–81 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 153–170 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–27 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 16–25 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–16 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-04-12-GPO-seats.png"
+        length="204971"
+        type="image/png"/>
+      <pubDate>Thu, 29 Apr 2021 08:02:03 +0200</pubDate>
+      <dc:date>2021-04-29T08:02:03.05557+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for powergame.gr, 10–12 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-04-12-GPO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-04-12-GPO-coalitions-seats.png"
+        length="266631"
+        type="image/png"/>
+      <pubDate>Thu, 29 Apr 2021 08:02:03 +0200</pubDate>
+      <dc:date>2021-04-29T08:02:03.05557+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by GPO for powergame.gr, 10–12 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-04-12-GPO.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.1–30.7%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 39.5–45.6%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.7–10.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 6.1–9.4%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-04-12-GPO.png"
         length="234804"
         type="image/png"/>
-      <pubDate>Thu, 15 Apr 2021 17:01:43 +0200</pubDate>
-      <dc:date>2021-04-15T17:01:43.38396+02:00</dc:date>
+      <pubDate>Thu, 29 Apr 2021 08:02:03 +0200</pubDate>
+      <dc:date>2021-04-29T08:02:03.05557+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 8–9 April 2021 – Seat Projections for the Parties</title>
@@ -3139,6 +3159,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-04-28T16:30:46.856922+02:00</dc:date>
+    <dc:date>2021-04-29T08:02:03.05557+02:00</dc:date>
   </channel>
 </rss>
