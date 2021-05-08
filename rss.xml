@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Thu, 29 Apr 2021 08:02:03 +0200</pubDate>
+    <pubDate>Fri, 07 May 2021 21:29:36 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 27–29 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-04-29-Marc.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.2–28.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 41.6–47.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.8–10.3%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.2–8.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.1–6.9%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.6–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-04-29-Marc.png"
+        length="229240"
+        type="image/png"/>
+      <pubDate>Fri, 07 May 2021 21:29:36 +0200</pubDate>
+      <dc:date>2021-05-07T21:29:36.037115+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Interview for Politic.gr, 19–22 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview.html#seats</link>
@@ -3159,6 +3169,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-04-29T08:02:03.05557+02:00</dc:date>
+    <dc:date>2021-05-07T21:29:36.037115+02:00</dc:date>
   </channel>
 </rss>
