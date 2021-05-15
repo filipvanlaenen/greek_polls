@@ -10,11 +10,11 @@ Last result: **5.3%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.4% | 5.4–7.5% | 5.1–7.9% | 4.9–8.1% | 4.4–8.7% |
+| N/A | [Poll Average](average.html) | 6.4% | 5.3–7.5% | 5.0–7.8% | 4.8–8.1% | 4.4–8.7% |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 7.2% | N/A | N/A | N/A | N/A |
 | [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
 | [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
-| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 5.9% | N/A | N/A | N/A | N/A |
+| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 6.5% | 5.6–7.5% | 5.4–7.8% | 5.2–8.1% | 4.8–8.6% |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 6.4% | 5.5–7.4% | 5.3–7.7% | 5.1–8.0% | 4.7–8.5% |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
@@ -128,12 +128,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.9% | 100% |  |
-| 4.5–5.5% | 13% | 99.1% | Last Result |
-| 5.5–6.5% | 41% | 86% | Median |
-| 6.5–7.5% | 35% | 45% |  |
-| 7.5–8.5% | 9% | 10% |  |
-| 8.5–9.5% | 0.8% | 0.8% |  |
+| 3.5–4.5% | 1.1% | 100% |  |
+| 4.5–5.5% | 15% | 98.9% | Last Result |
+| 5.5–6.5% | 43% | 84% | Median |
+| 6.5–7.5% | 32% | 41% |  |
+| 7.5–8.5% | 8% | 9% |  |
+| 8.5–9.5% | 0.7% | 0.7% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -145,11 +145,11 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–21 | 14–21 | 13–22 | 12–24 |
+| N/A | [Poll Average](average.html) | 17 | 14–20 | 13–21 | 13–22 | 12–24 |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 |  |  |  |  |  |
 | [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 17 | 15–20 | 14–21 | 14–22 | 12–24 |
 | [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 18 | 15–21 | 15–22 | 14–23 | 13–24 |
-| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
+| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 16 | 13–18 | 13–19 | 12–20 | 11–21 |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 18 | 15–20 | 15–21 | 14–22 | 13–23 |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 18 | 15–20 | 14–21 | 14–22 | 13–23 |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 18 | 15–21 | 14–22 | 14–22 | 13–24 |
@@ -264,21 +264,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.2% | 100% |  |
-| 12 | 0.8% | 99.7% |  |
-| 13 | 3% | 99.0% |  |
-| 14 | 6% | 96% |  |
-| 15 | 12% | 90% | Last Result |
-| 16 | 15% | 79% |  |
-| 17 | 17% | 64% | Median |
-| 18 | 14% | 47% |  |
-| 19 | 15% | 32% |  |
-| 20 | 7% | 18% |  |
-| 21 | 7% | 11% |  |
-| 22 | 2% | 4% |  |
-| 23 | 0.8% | 2% |  |
-| 24 | 0.6% | 0.8% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0.3% | 99.9% |  |
+| 12 | 1.3% | 99.6% |  |
+| 13 | 4% | 98% |  |
+| 14 | 7% | 94% |  |
+| 15 | 13% | 87% | Last Result |
+| 16 | 16% | 75% |  |
+| 17 | 17% | 59% | Median |
+| 18 | 16% | 42% |  |
+| 19 | 12% | 27% |  |
+| 20 | 7% | 15% |  |
+| 21 | 4% | 8% |  |
+| 22 | 2% | 3% |  |
+| 23 | 1.0% | 2% |  |
+| 24 | 0.4% | 0.5% |  |
 | 25 | 0.1% | 0.2% |  |
-| 26 | 0% | 0% |  |
+| 26 | 0% | 0.1% |  |
+| 27 | 0% | 0% |  |
 
 
