@@ -10,8 +10,8 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.6% | 2.7–4.9% | 2.5–5.1% | 2.2–5.6% |
-| [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 3.8% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.6% | 2.7–4.9% | 2.6–5.1% | 2.3–5.6% |
+| [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
@@ -128,10 +128,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 39% | 97% | Last Result |
-| 3.5–4.5% | 47% | 58% | Median |
-| 4.5–5.5% | 10% | 11% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 38% | 98% | Last Result |
+| 3.5–4.5% | 48% | 60% | Median |
+| 4.5–5.5% | 11% | 12% |  |
 | 5.5–6.5% | 0.6% | 0.7% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -144,8 +144,8 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–14 | 0–14 | 0–15 |
-| [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–13 | 0–14 | 0–15 |
+| [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 10 | 8–12 | 0–13 | 0–14 | 0–15 |
 | [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 10 | 0–12 | 0–13 | 0–13 | 0–14 |
 | [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 0–11 | 0–12 | 0–13 | 0–14 |
 | [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
@@ -263,23 +263,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% |  |
-| 1 | 0% | 87% |  |
-| 2 | 0% | 87% |  |
-| 3 | 0% | 87% |  |
-| 4 | 0% | 87% |  |
-| 5 | 0% | 87% |  |
-| 6 | 0% | 87% |  |
-| 7 | 0% | 87% |  |
-| 8 | 6% | 87% |  |
-| 9 | 16% | 81% | Last Result |
-| 10 | 22% | 65% | Median |
-| 11 | 17% | 43% |  |
-| 12 | 13% | 27% |  |
+| 0 | 12% | 100% |  |
+| 1 | 0% | 88% |  |
+| 2 | 0% | 88% |  |
+| 3 | 0% | 88% |  |
+| 4 | 0% | 88% |  |
+| 5 | 0% | 88% |  |
+| 6 | 0% | 88% |  |
+| 7 | 0% | 88% |  |
+| 8 | 6% | 88% |  |
+| 9 | 16% | 82% | Last Result |
+| 10 | 21% | 65% | Median |
+| 11 | 17% | 44% |  |
+| 12 | 14% | 27% |  |
 | 13 | 8% | 13% |  |
 | 14 | 3% | 5% |  |
-| 15 | 1.3% | 2% |  |
-| 16 | 0.4% | 0.5% |  |
+| 15 | 1.2% | 2% |  |
+| 16 | 0.3% | 0.4% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
