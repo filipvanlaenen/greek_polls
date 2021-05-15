@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sat, 15 May 2021 09:59:58 +0200</pubDate>
+    <pubDate>Sat, 15 May 2021 10:10:27 +0200</pubDate>
     <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 27–29 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-04-29-Marc.html</link>
@@ -26,8 +26,18 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-04-25-PulseRC.png"
         length="230956"
         type="image/png"/>
-      <pubDate>Sat, 15 May 2021 09:59:58 +0200</pubDate>
-      <dc:date>2021-05-15T09:59:58.541315+02:00</dc:date>
+      <pubDate>Sat, 15 May 2021 10:01:20 +0200</pubDate>
+      <dc:date>2021-05-15T10:01:20.979219+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll, 21–24 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-04-24-OpinionPoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.5–28.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 43.6–49.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.6–7.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.0–6.8%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.5–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-04-24-OpinionPoll.png"
+        length="226027"
+        type="image/png"/>
+      <pubDate>Sat, 15 May 2021 10:10:27 +0200</pubDate>
+      <dc:date>2021-05-15T10:10:27.759852+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Interview for Politic.gr, 19–22 April 2021 – Seat Projections for the Parties</title>
@@ -3179,6 +3189,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-05-15T09:59:58.541315+02:00</dc:date>
+    <dc:date>2021-05-15T10:10:27.759852+02:00</dc:date>
   </channel>
 </rss>
