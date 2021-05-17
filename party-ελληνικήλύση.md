@@ -147,10 +147,10 @@ Last result: **10** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 9–16 | 0–17 | 0–18 | 0–19 |
-| [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 12 | 10–15 | 9–15 | 9–16 | 8–17 |
-| [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 14 | 12–17 | 11–18 | 10–18 | 10–20 |
-| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 14 | 11–16 | 11–17 | 11–18 | 9–19 |
-| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 14 | 11–16 | 11–17 | 10–18 | 10–19 |
+| [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 12 | 10–15 | 10–15 | 9–16 | 8–17 |
+| [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 14 | 12–17 | 11–18 | 11–18 | 10–20 |
+| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 14 | 12–16 | 11–17 | 10–18 | 10–19 |
+| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 14 | 12–16 | 11–17 | 10–18 | 10–19 |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 16 | 14–19 | 13–20 | 13–20 | 12–22 |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 13 | 11–16 | 11–17 | 10–17 | 9–19 |
@@ -275,16 +275,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 94% |  |
 | 8 | 3% | 94% |  |
 | 9 | 4% | 91% |  |
-| 10 | 3% | 87% | Last Result |
-| 11 | 8% | 83% |  |
-| 12 | 10% | 75% |  |
-| 13 | 18% | 65% | Median |
-| 14 | 16% | 47% |  |
-| 15 | 13% | 31% |  |
-| 16 | 10% | 18% |  |
+| 10 | 4% | 87% | Last Result |
+| 11 | 7% | 84% |  |
+| 12 | 12% | 77% |  |
+| 13 | 17% | 65% | Median |
+| 14 | 16% | 48% |  |
+| 15 | 15% | 33% |  |
+| 16 | 9% | 17% |  |
 | 17 | 5% | 8% |  |
 | 18 | 2% | 4% |  |
-| 19 | 0.9% | 1.3% |  |
+| 19 | 0.8% | 1.2% |  |
 | 20 | 0.3% | 0.4% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |

@@ -146,10 +146,10 @@ Last result: **22** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 18–25 | 17–26 | 16–26 | 15–28 |
+| N/A | [Poll Average](average.html) | 21 | 18–24 | 17–25 | 16–26 | 15–28 |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 23 | 20–26 | 19–27 | 18–27 | 17–29 |
-| [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 23 | 19–26 | 19–27 | 18–27 | 17–29 |
-| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 22 | 18–24 | 18–25 | 17–26 | 16–27 |
+| [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 22 | 20–25 | 19–26 | 18–27 | 17–29 |
+| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 21 | 18–24 | 18–25 | 17–26 | 16–28 |
 | [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 21 | 18–24 | 18–25 | 17–26 | 16–27 |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 21 | 18–24 | 18–25 | 17–26 | 16–27 |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 21 | 19–24 | 18–25 | 17–26 | 16–27 |
@@ -271,15 +271,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 2% | 98.9% |  |
 | 17 | 5% | 97% |  |
 | 18 | 7% | 92% |  |
-| 19 | 12% | 86% |  |
-| 20 | 14% | 74% |  |
-| 21 | 14% | 59% | Median |
-| 22 | 14% | 45% | Last Result |
-| 23 | 12% | 31% |  |
-| 24 | 9% | 19% |  |
+| 19 | 12% | 85% |  |
+| 20 | 14% | 73% |  |
+| 21 | 15% | 60% | Median |
+| 22 | 14% | 44% | Last Result |
+| 23 | 12% | 30% |  |
+| 24 | 8% | 18% |  |
 | 25 | 5% | 10% |  |
 | 26 | 3% | 5% |  |
-| 27 | 1.4% | 2% |  |
+| 27 | 1.3% | 2% |  |
 | 28 | 0.5% | 0.9% |  |
 | 29 | 0.2% | 0.3% |  |
 | 30 | 0.1% | 0.1% |  |

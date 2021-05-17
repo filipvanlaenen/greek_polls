@@ -146,10 +146,10 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–21 | 14–22 | 13–22 | 12–24 |
+| N/A | [Poll Average](average.html) | 17 | 14–21 | 14–21 | 13–22 | 12–24 |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 19 | 17–22 | 16–23 | 15–24 | 14–25 |
-| [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 17 | 15–20 | 14–21 | 14–22 | 12–24 |
-| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 18 | 15–21 | 15–22 | 14–23 | 13–24 |
+| [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 18 | 15–20 | 14–21 | 14–22 | 13–24 |
+| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 18 | 16–21 | 15–22 | 14–23 | 13–24 |
 | [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 16 | 13–18 | 13–19 | 12–20 | 11–21 |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 18 | 15–20 | 15–21 | 14–22 | 13–23 |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 18 | 15–20 | 14–21 | 14–22 | 13–23 |
@@ -266,19 +266,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.3% | 100% |  |
-| 12 | 1.1% | 99.7% |  |
-| 13 | 3% | 98.6% |  |
-| 14 | 6% | 95% |  |
-| 15 | 11% | 89% | Last Result |
-| 16 | 15% | 78% |  |
-| 17 | 16% | 63% | Median |
-| 18 | 15% | 47% |  |
-| 19 | 13% | 32% |  |
-| 20 | 9% | 19% |  |
+| 12 | 1.0% | 99.7% |  |
+| 13 | 3% | 98.7% |  |
+| 14 | 6% | 96% |  |
+| 15 | 11% | 90% | Last Result |
+| 16 | 14% | 79% |  |
+| 17 | 16% | 65% | Median |
+| 18 | 16% | 49% |  |
+| 19 | 12% | 32% |  |
+| 20 | 10% | 20% |  |
 | 21 | 5% | 10% |  |
 | 22 | 3% | 5% |  |
 | 23 | 1.4% | 2% |  |
-| 24 | 0.6% | 0.9% |  |
+| 24 | 0.5% | 0.8% |  |
 | 25 | 0.2% | 0.3% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
