@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | ΚΑ | ΚΚΕ | Ποτάμι | ΑΝΕΛ | ΕΚ | ΛΑΕ | ΠΕ | ΕΛ | ΜέΡΑ25 |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 7 July 2019 | General Election | 31.5% <br> 86 | 39.8% <br> 158 | 2.9% <br> 0 | 8.1% <br> 22 | 5.3% <br> 15 | 0.0% <br> 0 | 0.0% <br> 0 | 1.2% <br> 0 | 0.0% <br> 0 | 1.5% <br> 0 | 3.7% <br> 10 | 3.4% <br> 9 |
+| [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 25–30% <br> 65–79 | 40–47% <br> 156–173 | N/A <br> N/A | 7–10% <br> 18–27 | 6–9% <br> 15–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 9–16 | 3–5% <br> 0–14 |
 | [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 23–29% <br> 61–76 | 42–48% <br> 160–177 | N/A <br> N/A | 7–10% <br> 18–27 | 5–8% <br> 14–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 11–18 | 3–5% <br> 0–13 |
 | [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24–30% <br> 67–82 | 39–45% <br> 156–174 | N/A <br> N/A | 6–10% <br> 17–26 | 5–8% <br> 14–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 10–18 | 2–5% <br> 0–13 |
