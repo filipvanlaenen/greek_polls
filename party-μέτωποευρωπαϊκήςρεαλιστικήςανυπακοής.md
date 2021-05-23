@@ -10,8 +10,8 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.9–4.5% | 2.7–4.7% | 2.5–4.9% | 2.2–5.4% |
-| [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 4.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.7% | 2.7–4.9% | 2.6–5.2% | 2.3–5.7% |
+| [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
@@ -129,11 +129,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 43% | 97% | Last Result |
-| 3.5–4.5% | 46% | 54% | Median |
-| 4.5–5.5% | 7% | 8% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 37% | 98% | Last Result |
+| 3.5–4.5% | 48% | 61% | Median |
+| 4.5–5.5% | 12% | 13% |  |
+| 5.5–6.5% | 0.9% | 0.9% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -145,8 +145,8 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
-| [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 10 | 0–12 | 0–13 | 0–14 | 0–16 |
+| [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 11 | 9–13 | 9–14 | 8–15 | 0–17 |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 10 | 8–12 | 0–13 | 0–14 | 0–15 |
 | [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
 | [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
@@ -265,23 +265,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 0% | 84% |  |
-| 2 | 0% | 84% |  |
-| 3 | 0% | 84% |  |
-| 4 | 0% | 84% |  |
-| 5 | 0% | 84% |  |
-| 6 | 0% | 84% |  |
-| 7 | 0% | 84% |  |
-| 8 | 8% | 84% |  |
-| 9 | 24% | 76% | Last Result |
-| 10 | 23% | 52% | Median |
-| 11 | 16% | 28% |  |
-| 12 | 8% | 13% |  |
-| 13 | 3% | 5% |  |
-| 14 | 1.0% | 1.4% |  |
-| 15 | 0.3% | 0.3% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 0 | 13% | 100% |  |
+| 1 | 0% | 87% |  |
+| 2 | 0% | 87% |  |
+| 3 | 0% | 87% |  |
+| 4 | 0% | 87% |  |
+| 5 | 0% | 87% |  |
+| 6 | 0% | 87% |  |
+| 7 | 0% | 87% |  |
+| 8 | 7% | 87% |  |
+| 9 | 21% | 80% | Last Result |
+| 10 | 23% | 59% | Median |
+| 11 | 18% | 36% |  |
+| 12 | 10% | 18% |  |
+| 13 | 5% | 8% |  |
+| 14 | 2% | 3% |  |
+| 15 | 0.7% | 1.2% |  |
+| 16 | 0.3% | 0.5% |  |
+| 17 | 0.1% | 0.2% |  |
+| 18 | 0% | 0% |  |
 
 
