@@ -11,6 +11,7 @@ Last result: **8.1%** (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.2% | 7.1–9.4% | 6.8–9.8% | 6.5–10.1% | 6.0–10.7% |
+| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 8.4% | N/A | N/A | N/A | N/A |
 | [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
@@ -146,8 +147,9 @@ Last result: **22** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 19–25 | 18–26 | 18–27 | 16–29 |
-| [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 23 | 20–26 | 19–27 | 18–28 | 17–29 |
+| N/A | [Poll Average](average.html) | 22 | 19–25 | 18–26 | 17–27 | 16–29 |
+| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
+| [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 22 | 19–25 | 19–26 | 18–27 | 17–29 |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 23 | 20–26 | 19–27 | 18–27 | 17–29 |
 | [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 22 | 20–25 | 19–26 | 18–27 | 17–29 |
 | [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 21 | 18–24 | 18–25 | 17–26 | 16–28 |
@@ -269,17 +271,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0.1% | 100% |  |
 | 16 | 0.6% | 99.8% |  |
 | 17 | 2% | 99.3% |  |
-| 18 | 4% | 98% |  |
-| 19 | 8% | 94% |  |
-| 20 | 12% | 86% |  |
-| 21 | 15% | 74% |  |
-| 22 | 16% | 59% | Last Result, Median |
-| 23 | 15% | 43% |  |
-| 24 | 12% | 28% |  |
-| 25 | 8% | 16% |  |
+| 18 | 4% | 97% |  |
+| 19 | 8% | 93% |  |
+| 20 | 13% | 85% |  |
+| 21 | 16% | 72% |  |
+| 22 | 16% | 57% | Last Result, Median |
+| 23 | 15% | 41% |  |
+| 24 | 11% | 26% |  |
+| 25 | 7% | 15% |  |
 | 26 | 4% | 8% |  |
 | 27 | 2% | 4% |  |
-| 28 | 1.1% | 2% |  |
+| 28 | 0.9% | 1.5% |  |
 | 29 | 0.4% | 0.6% |  |
 | 30 | 0.1% | 0.2% |  |
 | 31 | 0% | 0.1% |  |
