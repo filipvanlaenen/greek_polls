@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sun, 23 May 2021 12:01:11 +0200</pubDate>
+    <pubDate>Tue, 25 May 2021 07:53:31 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 15–17 May 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-05-17-Interview.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 60–74 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 157–173 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–27 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 12–20 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 9–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-05-17-Interview-seats.png"
+        length="199373"
+        type="image/png"/>
+      <pubDate>Tue, 25 May 2021 07:53:31 +0200</pubDate>
+      <dc:date>2021-05-25T07:53:31.793439+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 15–17 May 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-05-17-Interview.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-05-17-Interview-coalitions-seats.png"
+        length="260148"
+        type="image/png"/>
+      <pubDate>Tue, 25 May 2021 07:53:31 +0200</pubDate>
+      <dc:date>2021-05-25T07:53:31.793439+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 15–17 May 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-05-17-Interview.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-05-17-Interview.png"
         length="233832"
         type="image/png"/>
-      <pubDate>Sun, 23 May 2021 12:01:11 +0200</pubDate>
-      <dc:date>2021-05-23T12:01:11.177502+02:00</dc:date>
+      <pubDate>Tue, 25 May 2021 07:53:31 +0200</pubDate>
+      <dc:date>2021-05-25T07:53:31.793439+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for ANT1, 5–7 May 2021 – Seat Projections for the Parties</title>
@@ -3289,6 +3309,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-05-23T12:01:11.177502+02:00</dc:date>
+    <dc:date>2021-05-25T07:53:31.793439+02:00</dc:date>
   </channel>
 </rss>
