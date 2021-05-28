@@ -148,7 +148,7 @@ Last result: **10** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 11–17 | 10–18 | 10–19 | 9–20 |
-| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 13 | 11–15 | 10–16 | 10–17 | 8–18 |
+| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 13 | 11–15 | 10–16 | 10–16 | 9–18 |
 | [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 16 | 14–19 | 13–20 | 12–20 | 11–22 |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 12 | 10–15 | 10–15 | 9–16 | 8–17 |
 | [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 14 | 12–17 | 11–18 | 11–18 | 10–20 |
@@ -277,15 +277,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 99.9% |  |
 | 7 | 0% | 99.9% |  |
 | 8 | 0.2% | 99.9% |  |
-| 9 | 1.0% | 99.7% |  |
+| 9 | 1.0% | 99.8% |  |
 | 10 | 4% | 98.7% | Last Result |
 | 11 | 8% | 95% |  |
 | 12 | 14% | 86% |  |
-| 13 | 18% | 73% |  |
-| 14 | 16% | 55% | Median |
-| 15 | 17% | 39% |  |
-| 16 | 9% | 22% |  |
-| 17 | 6% | 13% |  |
+| 13 | 19% | 73% |  |
+| 14 | 16% | 54% | Median |
+| 15 | 16% | 38% |  |
+| 16 | 10% | 22% |  |
+| 17 | 6% | 12% |  |
 | 18 | 4% | 6% |  |
 | 19 | 2% | 3% |  |
 | 20 | 0.7% | 1.1% |  |
