@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Thu, 27 May 2021 19:39:08 +0200</pubDate>
+    <pubDate>Thu, 27 May 2021 19:48:12 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Alco for Open TV, 17–21 May 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-05-21-Alco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 68–83 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 158–175 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 17–26 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–21 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 10–16 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-05-21-Alco-seats.png"
+        length="213455"
+        type="image/png"/>
+      <pubDate>Thu, 27 May 2021 19:48:12 +0200</pubDate>
+      <dc:date>2021-05-27T19:48:12.358695+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Open TV, 17–21 May 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-05-21-Alco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-05-21-Alco-coalitions-seats.png"
+        length="263011"
+        type="image/png"/>
+      <pubDate>Thu, 27 May 2021 19:48:12 +0200</pubDate>
+      <dc:date>2021-05-27T19:48:12.358695+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 17–21 May 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-05-21-Alco.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-05-21-Alco.png"
         length="248927"
         type="image/png"/>
-      <pubDate>Thu, 27 May 2021 19:39:08 +0200</pubDate>
-      <dc:date>2021-05-27T19:39:08.981086+02:00</dc:date>
+      <pubDate>Thu, 27 May 2021 19:48:12 +0200</pubDate>
+      <dc:date>2021-05-27T19:48:12.358695+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 15–17 May 2021 – Seat Projections for the Parties</title>
@@ -3319,6 +3339,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-05-27T19:39:08.981086+02:00</dc:date>
+    <dc:date>2021-05-27T19:48:12.358695+02:00</dc:date>
   </channel>
 </rss>
