@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Thu, 27 May 2021 19:48:12 +0200</pubDate>
+    <pubDate>Mon, 31 May 2021 16:40:56 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Mega, 18–24 May 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-05-24-MetronAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 61–75 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 156–172 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 16–25 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 10–18 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 12–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-05-24-MetronAnalysis-seats.png"
+        length="201558"
+        type="image/png"/>
+      <pubDate>Mon, 31 May 2021 16:40:56 +0200</pubDate>
+      <dc:date>2021-05-31T16:40:56.383225+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Mega, 18–24 May 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-05-24-MetronAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-05-24-MetronAnalysis-coalitions-seats.png"
+        length="258809"
+        type="image/png"/>
+      <pubDate>Mon, 31 May 2021 16:40:56 +0200</pubDate>
+      <dc:date>2021-05-31T16:40:56.383225+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Mega, 18–24 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-05-24-MetronAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.9–28.3%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 40.1–46.2%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.1–9.4%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.3–8.4%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 4.7–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-05-24-MetronAnalysis.png"
+        length="235128"
+        type="image/png"/>
+      <pubDate>Mon, 31 May 2021 16:40:56 +0200</pubDate>
+      <dc:date>2021-05-31T16:40:56.383225+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 17–21 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-05-21-Alco.html#seats</link>
@@ -3339,6 +3369,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-05-27T19:48:12.358695+02:00</dc:date>
+    <dc:date>2021-05-31T16:40:56.383225+02:00</dc:date>
   </channel>
 </rss>
