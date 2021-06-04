@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Fri, 04 Jun 2021 09:44:55 +0200</pubDate>
+    <pubDate>Fri, 04 Jun 2021 16:51:00 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 31 May–2 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-06-02-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 67–81 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 159–174 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 17–25 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–20 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–15 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-06-02-PulseRC-seats.png"
+        length="201048"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jun 2021 16:51:00 +0200</pubDate>
+      <dc:date>2021-06-04T16:51:00.315607+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 31 May–2 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-06-02-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-06-02-PulseRC-coalitions-seats.png"
+        length="256291"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jun 2021 16:51:00 +0200</pubDate>
+      <dc:date>2021-06-04T16:51:00.315607+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 31 May–2 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-06-02-PulseRC.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-06-02-PulseRC.png"
         length="228119"
         type="image/png"/>
-      <pubDate>Fri, 04 Jun 2021 08:39:45 +0200</pubDate>
-      <dc:date>2021-06-04T08:39:45.493372+02:00</dc:date>
+      <pubDate>Fri, 04 Jun 2021 16:51:00 +0200</pubDate>
+      <dc:date>2021-06-04T16:51:00.315607+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll, 27–30 May 2021 – Voting Intentions</title>
@@ -3389,6 +3409,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-06-04T09:44:55.543625+02:00</dc:date>
+    <dc:date>2021-06-04T16:51:00.315607+02:00</dc:date>
   </channel>
 </rss>
