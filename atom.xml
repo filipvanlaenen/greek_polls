@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/greek_polls</id>
   <title>All Registered Polls for the Hellenic Parliament</title>
-  <updated>2021-05-31T16:40:56.383225+02:00</updated>
+  <updated>2021-06-04T16:51:00.315607+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.6–29.4%, 67–81 seats</li><li>Νέα Δημοκρατία: 39.7–45.0%, 159–174 seats</li><li>Κίνημα Αλλαγής: 6.3–9.3%, 17–25 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 4.8–7.4%, 13–20 seats</li><li>Ελληνική Λύση: 3.4–5.6%, 9–15 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.9–5.0%, 0–14 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/greek_polls/2021-06-02-PulseRC.html</id>
+    <link href="https://filipvanlaenen.github.io/greek_polls/2021-06-02-PulseRC.html"/>
+    <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 31 May–2 June 2021</title>
+    <updated>2021-06-04T16:51:00.315607+02:00</updated>
+    <dc:date>2021-06-04T16:51:00.315607+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.9–28.3%, 61–75 seats</li><li>Νέα Δημοκρατία: 40.1–46.2%, 156–172 seats</li><li>Κίνημα Αλλαγής: 6.1–9.4%, 16–25 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 5.3–8.4%, 14–22 seats</li><li>Ελληνική Λύση: 3.9–6.6%, 10–18 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 4.7–7.7%, 12–20 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/greek_polls/2021-05-24-MetronAnalysis.html</id>
@@ -903,5 +911,5 @@
     <updated>2021-01-15T07:25:58.446398+01:00</updated>
     <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
   </entry>
-  <dc:date>2021-05-31T16:40:56.383225+02:00</dc:date>
+  <dc:date>2021-06-04T16:51:00.315607+02:00</dc:date>
 </feed>
