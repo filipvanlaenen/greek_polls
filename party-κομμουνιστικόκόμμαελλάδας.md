@@ -10,7 +10,9 @@ Last result: **5.3%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 5.5–7.8% | 5.3–8.1% | 5.0–8.4% | 4.6–9.0% |
+| N/A | [Poll Average](average.html) | 6.6% | 5.6–7.7% | 5.3–8.1% | 5.1–8.4% | 4.7–9.0% |
+| [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.0% | 5.2–6.9% | 5.0–7.2% | 4.8–7.4% | 4.5–7.9% |
+| [27–30 May 2021](2021-05-30-OpinionPoll.html) | Opinion Poll | 6.6% | 5.9–7.5% | 5.7–7.7% | 5.5–8.0% | 5.2–8.4% |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega | 6.7% | 5.8–7.8% | 5.5–8.2% | 5.3–8.4% | 4.9–9.0% |
 | [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 6.4% | 5.5–7.5% | 5.2–7.8% | 5.0–8.1% | 4.6–8.7% |
 | [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.0–8.1% | 4.6–8.7% |
@@ -131,11 +133,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 10% | 99.6% | Last Result |
-| 5.5–6.5% | 38% | 90% |  |
-| 6.5–7.5% | 37% | 52% | Median |
-| 7.5–8.5% | 13% | 15% |  |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 9% | 99.7% | Last Result |
+| 5.5–6.5% | 39% | 91% |  |
+| 6.5–7.5% | 38% | 52% | Median |
+| 7.5–8.5% | 12% | 14% |  |
 | 8.5–9.5% | 2% | 2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -149,7 +151,9 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–21 | 14–22 | 13–22 | 12–24 |
+| N/A | [Poll Average](average.html) | 17 | 15–20 | 14–21 | 14–22 | 13–24 |
+| [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 16 | 14–19 | 14–20 | 13–20 | 12–22 |
+| [27–30 May 2021](2021-05-30-OpinionPoll.html) | Opinion Poll | 17 | 15–20 | 15–20 | 14–21 | 14–22 |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega | 18 | 15–21 | 15–22 | 14–22 | 13–24 |
 | [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 16 | 14–19 | 13–20 | 13–21 | 12–22 |
 | [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 18 | 15–21 | 14–21 | 14–22 | 13–24 |
@@ -271,21 +275,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.2% | 100% |  |
-| 12 | 0.8% | 99.8% |  |
-| 13 | 2% | 99.0% |  |
-| 14 | 6% | 97% |  |
-| 15 | 11% | 91% | Last Result |
-| 16 | 14% | 79% |  |
-| 17 | 16% | 66% | Median |
-| 18 | 16% | 49% |  |
-| 19 | 13% | 34% |  |
-| 20 | 10% | 21% |  |
-| 21 | 6% | 11% |  |
-| 22 | 3% | 5% |  |
-| 23 | 1.5% | 2% |  |
-| 24 | 0.5% | 0.8% |  |
-| 25 | 0.2% | 0.3% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 0.4% | 99.9% |  |
+| 13 | 2% | 99.5% |  |
+| 14 | 5% | 98% |  |
+| 15 | 11% | 93% | Last Result |
+| 16 | 15% | 82% |  |
+| 17 | 18% | 67% | Median |
+| 18 | 17% | 48% |  |
+| 19 | 13% | 32% |  |
+| 20 | 10% | 19% |  |
+| 21 | 5% | 9% |  |
+| 22 | 2% | 4% |  |
+| 23 | 1.3% | 2% |  |
+| 24 | 0.4% | 0.7% |  |
+| 25 | 0.2% | 0.2% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
