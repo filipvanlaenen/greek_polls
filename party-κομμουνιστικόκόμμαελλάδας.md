@@ -152,7 +152,7 @@ Last result: **15** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–20 | 14–21 | 14–22 | 13–24 |
-| [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 16 | 14–19 | 14–20 | 13–20 | 12–22 |
+| [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 17 | 14–19 | 14–20 | 13–20 | 12–22 |
 | [27–30 May 2021](2021-05-30-OpinionPoll.html) | Opinion Poll | 17 | 15–20 | 15–20 | 14–21 | 14–22 |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega | 18 | 15–21 | 15–22 | 14–22 | 13–24 |
 | [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 16 | 14–19 | 13–20 | 13–21 | 12–22 |
@@ -281,9 +281,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 5% | 98% |  |
 | 15 | 11% | 93% | Last Result |
 | 16 | 15% | 82% |  |
-| 17 | 18% | 67% | Median |
+| 17 | 19% | 67% | Median |
 | 18 | 17% | 48% |  |
-| 19 | 13% | 32% |  |
+| 19 | 13% | 31% |  |
 | 20 | 10% | 19% |  |
 | 21 | 5% | 9% |  |
 | 22 | 2% | 4% |  |
