@@ -153,7 +153,7 @@ Last result: **9** seats (General Election of 7 July 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 8–16 | 8–17 | 0–18 | 0–20 |
 | [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 9–13 | 8–13 | 0–14 | 0–15 |
-| [27–30 May 2021](2021-05-30-OpinionPoll.html) | Opinion Poll | 10 | 8–12 | 8–12 | 8–13 | 0–14 |
+| [27–30 May 2021](2021-05-30-OpinionPoll.html) | Opinion Poll | 10 | 9–12 | 8–12 | 0–13 | 0–14 |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega | 16 | 14–19 | 13–20 | 12–20 | 11–22 |
 | [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 9 | 0–12 | 0–12 | 0–13 | 0–14 |
 | [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 12 | 10–14 | 9–15 | 9–15 | 0–17 |
@@ -286,8 +286,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 7% | 95% |  |
 | 9 | 15% | 88% | Last Result |
 | 10 | 18% | 73% |  |
-| 11 | 16% | 55% | Median |
-| 12 | 13% | 38% |  |
+| 11 | 17% | 55% | Median |
+| 12 | 12% | 38% |  |
 | 13 | 7% | 26% |  |
 | 14 | 5% | 19% |  |
 | 15 | 4% | 15% |  |
