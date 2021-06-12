@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Hellenic Parliament</description>
     <pubDate>Fri, 17 Jul 2020 21:18:39 +0200</pubDate>
     <item>
+      <title>Opinion Poll by GPO for ANT1, 4–7 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-06-07-GPO.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by GPO for ANT1, 4–7 June 2021<br/>Details on https://filipvanlaenen.github.io/greek_polls/2021-06-07-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2021-06-07-GPO.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-06-07-GPO.png" length="229064" type="image/png"/>
+      <pubDate>Sat, 12 Jun 2021 16:08:48 +0200</pubDate>
+      <dc:date>2021-06-12T16:08:48.291193+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 31 May–2 June 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-06-02-PulseRC.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 31 May–2 June 2021<br/>Details on https://filipvanlaenen.github.io/greek_polls/2021-06-02-PulseRC.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2021-06-02-PulseRC-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-04-24-OpinionPoll.png" length="226027" type="image/png"/>
       <pubDate>Mon, 17 May 2021 17:15:06 +0200</pubDate>
       <dc:date>2021-05-17T17:15:06.086885+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Interview for Politic.gr, 19–22 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Interview for Politic.gr, 19–22 April 2021<br/>Details on https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview-seating-plan.png" length="701800" type="image/png"/>
-      <pubDate>Wed, 28 Apr 2021 16:30:46 +0200</pubDate>
-      <dc:date>2021-04-28T16:30:46.856922+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Interview for Politic.gr, 19–22 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview.html#seats</link>
-      <description><![CDATA[Seat projections for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Interview for Politic.gr, 19–22 April 2021<br/>Details on https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview-seats.png" length="197506" type="image/png"/>
-      <pubDate>Wed, 28 Apr 2021 16:30:46 +0200</pubDate>
-      <dc:date>2021-04-28T16:30:46.856922+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Interview for Politic.gr, 19–22 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Interview for Politic.gr, 19–22 April 2021<br/>Details on https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-04-22-Interview.png" length="231193" type="image/png"/>
-      <pubDate>Wed, 28 Apr 2021 16:30:46 +0200</pubDate>
-      <dc:date>2021-04-28T16:30:46.856922+02:00</dc:date>
     </item>
   </channel>
 </rss>
