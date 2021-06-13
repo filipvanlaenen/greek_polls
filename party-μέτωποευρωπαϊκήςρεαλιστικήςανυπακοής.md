@@ -153,7 +153,7 @@ Last result: **9** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 8–16 | 8–17 | 0–18 | 0–20 |
-| [4–7 June 2021](2021-06-07-GPO.html) | GPO <br> ANT1 | 11 | 9–13 | 8–14 | 0–15 | 0–16 |
+| [4–7 June 2021](2021-06-07-GPO.html) | GPO <br> ANT1 | 11 | 9–13 | 8–14 | 0–14 | 0–16 |
 | [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 9–13 | 8–13 | 0–14 | 0–15 |
 | [27–30 May 2021](2021-05-30-OpinionPoll.html) | Opinion Poll | 10 | 9–12 | 8–12 | 0–13 | 0–14 |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega | 16 | 14–19 | 13–20 | 12–20 | 11–22 |
