@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Fri, 09 Jul 2021 18:18:03 +0200</pubDate>
+    <pubDate>Sat, 10 Jul 2021 16:07:57 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 27 June–7 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-07-07-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 66–79 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 156–170 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 17–25 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 15–23 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 11–18 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 8–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-07-07-PulseRC-seats.png"
+        length="195336"
+        type="image/png"/>
+      <pubDate>Sat, 10 Jul 2021 14:54:11 +0200</pubDate>
+      <dc:date>2021-07-10T14:54:11.668876+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 27 June–7 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-07-07-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-07-07-PulseRC-coalitions-seats.png"
+        length="253569"
+        type="image/png"/>
+      <pubDate>Sat, 10 Jul 2021 14:54:11 +0200</pubDate>
+      <dc:date>2021-07-10T14:54:11.668876+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 27 June–7 July 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-07-07-PulseRC.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-07-07-PulseRC.png"
         length="227411"
         type="image/png"/>
-      <pubDate>Fri, 09 Jul 2021 18:01:54 +0200</pubDate>
-      <dc:date>2021-07-09T18:01:54.601004+02:00</dc:date>
+      <pubDate>Sat, 10 Jul 2021 14:54:11 +0200</pubDate>
+      <dc:date>2021-07-10T14:54:11.668876+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 4–7 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-07-07-MRB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 68–83 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 157–175 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–27 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–21 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 8–15 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-07-07-MRB-seats.png"
+        length="199022"
+        type="image/png"/>
+      <pubDate>Sat, 10 Jul 2021 15:08:05 +0200</pubDate>
+      <dc:date>2021-07-10T15:08:05.860092+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 4–7 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-07-07-MRB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-07-07-MRB-coalitions-seats.png"
+        length="263620"
+        type="image/png"/>
+      <pubDate>Sat, 10 Jul 2021 15:08:05 +0200</pubDate>
+      <dc:date>2021-07-10T15:08:05.860092+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 4–7 July 2021 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-07-07-MRB.png"
         length="228386"
         type="image/png"/>
-      <pubDate>Fri, 09 Jul 2021 18:09:42 +0200</pubDate>
-      <dc:date>2021-07-09T18:09:42.246419+02:00</dc:date>
+      <pubDate>Sat, 10 Jul 2021 15:08:05 +0200</pubDate>
+      <dc:date>2021-07-10T15:08:05.860092+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Τα Νέα, 1–2 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-07-02-GPO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 68–83 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 155–172 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 17–26 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 15–24 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 10–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-07-02-GPO-seats.png"
+        length="199937"
+        type="image/png"/>
+      <pubDate>Sat, 10 Jul 2021 15:22:03 +0200</pubDate>
+      <dc:date>2021-07-10T15:22:03.287644+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Τα Νέα, 1–2 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-07-02-GPO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-07-02-GPO-coalitions-seats.png"
+        length="265343"
+        type="image/png"/>
+      <pubDate>Sat, 10 Jul 2021 15:22:03 +0200</pubDate>
+      <dc:date>2021-07-10T15:22:03.287644+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Τα Νέα, 1–2 July 2021 – Voting Intentions</title>
@@ -36,8 +96,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-07-02-GPO.png"
         length="229586"
         type="image/png"/>
-      <pubDate>Fri, 09 Jul 2021 18:18:03 +0200</pubDate>
-      <dc:date>2021-07-09T18:18:03.208673+02:00</dc:date>
+      <pubDate>Sat, 10 Jul 2021 15:22:03 +0200</pubDate>
+      <dc:date>2021-07-10T15:22:03.287644+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 20–25 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-06-25-Marc.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 62–76 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 164–180 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 17–26 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 8–15 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-06-25-Marc-seats.png"
+        length="200987"
+        type="image/png"/>
+      <pubDate>Sat, 10 Jul 2021 15:37:47 +0200</pubDate>
+      <dc:date>2021-07-10T15:37:47.190688+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 20–25 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-06-25-Marc.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-06-25-Marc-coalitions-seats.png"
+        length="257546"
+        type="image/png"/>
+      <pubDate>Sat, 10 Jul 2021 15:37:47 +0200</pubDate>
+      <dc:date>2021-07-10T15:37:47.190688+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 20–25 June 2021 – Voting Intentions</title>
@@ -46,8 +126,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-06-25-Marc.png"
         length="230718"
         type="image/png"/>
-      <pubDate>Fri, 02 Jul 2021 13:52:16 +0200</pubDate>
-      <dc:date>2021-07-02T13:52:16.567079+02:00</dc:date>
+      <pubDate>Sat, 10 Jul 2021 15:37:47 +0200</pubDate>
+      <dc:date>2021-07-10T15:37:47.190688+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 17–23 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-06-23-Interview.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 62–76 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 158–173 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–27 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 11–18 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-06-23-Interview-seats.png"
+        length="202767"
+        type="image/png"/>
+      <pubDate>Sat, 10 Jul 2021 15:51:55 +0200</pubDate>
+      <dc:date>2021-07-10T15:51:55.462889+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 17–23 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-06-23-Interview.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-06-23-Interview-coalitions-seats.png"
+        length="261281"
+        type="image/png"/>
+      <pubDate>Sat, 10 Jul 2021 15:51:55 +0200</pubDate>
+      <dc:date>2021-07-10T15:51:55.462889+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 17–23 June 2021 – Voting Intentions</title>
@@ -56,8 +156,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-06-23-Interview.png"
         length="227140"
         type="image/png"/>
-      <pubDate>Fri, 02 Jul 2021 14:05:03 +0200</pubDate>
-      <dc:date>2021-07-02T14:05:03.565142+02:00</dc:date>
+      <pubDate>Sat, 10 Jul 2021 15:51:55 +0200</pubDate>
+      <dc:date>2021-07-10T15:51:55.462889+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Open TV, 15–19 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-06-19-Alco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 67–82 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 156–173 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 17–26 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–21 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–16 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-06-19-Alco-seats.png"
+        length="214816"
+        type="image/png"/>
+      <pubDate>Sat, 10 Jul 2021 16:07:57 +0200</pubDate>
+      <dc:date>2021-07-10T16:07:57.878638+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Open TV, 15–19 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-06-19-Alco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-06-19-Alco-coalitions-seats.png"
+        length="264494"
+        type="image/png"/>
+      <pubDate>Sat, 10 Jul 2021 16:07:57 +0200</pubDate>
+      <dc:date>2021-07-10T16:07:57.878638+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 15–19 June 2021 – Voting Intentions</title>
@@ -66,8 +186,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-06-19-Alco.png"
         length="249505"
         type="image/png"/>
-      <pubDate>Fri, 02 Jul 2021 14:17:48 +0200</pubDate>
-      <dc:date>2021-07-02T14:17:48.527058+02:00</dc:date>
+      <pubDate>Sat, 10 Jul 2021 16:07:57 +0200</pubDate>
+      <dc:date>2021-07-10T16:07:57.878638+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for ANT1, 4–7 June 2021 – Seat Projections for the Parties</title>
@@ -3519,6 +3639,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-07-09T18:18:03.208673+02:00</dc:date>
+    <dc:date>2021-07-10T16:07:57.878638+02:00</dc:date>
   </channel>
 </rss>
