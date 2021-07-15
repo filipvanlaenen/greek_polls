@@ -10,7 +10,9 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.1% | 2.4–5.6% |
+| N/A | [Poll Average](average.html) | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.1% | 2.5–5.6% |
+| [9–12 July 2021](2021-07-12-Interview.html) | Interview <br> Βεργίνα TV | 4.2% | N/A | N/A | N/A | N/A |
+| [7–11 July 2021](2021-07-11-GPO.html) | GPO <br> ANT1 | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.0–5.2% | 2.8–5.6% |
 | [1–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 3.8% | 3.2–4.5% | 3.0–4.8% | 2.9–5.0% | 2.6–5.3% |
 | [4–7 July 2021](2021-07-07-MRB.html) | MRB <br> Star | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
@@ -141,10 +143,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.9% | 100% |  |
-| 2.5–3.5% | 30% | 99.1% | Last Result |
+| 1.5–2.5% | 0.8% | 100% |  |
+| 2.5–3.5% | 30% | 99.2% | Last Result |
 | 3.5–4.5% | 56% | 70% | Median |
-| 4.5–5.5% | 13% | 13% |  |
+| 4.5–5.5% | 12% | 13% |  |
 | 5.5–6.5% | 0.6% | 0.6% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -158,6 +160,8 @@ Last result: **9** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 8–12 | 0–13 | 0–14 | 0–15 |
+| [9–12 July 2021](2021-07-12-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
+| [7–11 July 2021](2021-07-11-GPO.html) | GPO <br> ANT1 | 10 | 0–12 | 0–13 | 0–13 | 0–14 |
 | [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 9–13 | 9–14 | 8–14 | 0–15 |
 | [1–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 10 | 8–12 | 0–12 | 0–13 | 0–14 |
 | [4–7 July 2021](2021-07-07-MRB.html) | MRB <br> Star | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
@@ -296,16 +300,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 93% |  |
 | 5 | 0% | 93% |  |
 | 6 | 0% | 93% |  |
-| 7 | 0% | 93% |  |
+| 7 | 0.1% | 93% |  |
 | 8 | 7% | 93% |  |
-| 9 | 20% | 86% | Last Result |
-| 10 | 24% | 66% | Median |
-| 11 | 21% | 42% |  |
-| 12 | 12% | 21% |  |
-| 13 | 6% | 9% |  |
+| 9 | 20% | 85% | Last Result |
+| 10 | 25% | 65% | Median |
+| 11 | 20% | 40% |  |
+| 12 | 12% | 20% |  |
+| 13 | 5% | 8% |  |
 | 14 | 2% | 3% |  |
-| 15 | 0.6% | 0.8% |  |
-| 16 | 0.2% | 0.2% |  |
+| 15 | 0.5% | 0.7% |  |
+| 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
 
