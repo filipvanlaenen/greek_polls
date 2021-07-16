@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Wed, 14 Jul 2021 18:12:42 +0200</pubDate>
+    <pubDate>Fri, 16 Jul 2021 18:02:28 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 9–12 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-07-12-Interview.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 54–68 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 159–175 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 22–32 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 12–20 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 15–23 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 8–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-07-12-Interview-seats.png"
+        length="200164"
+        type="image/png"/>
+      <pubDate>Fri, 16 Jul 2021 18:02:28 +0200</pubDate>
+      <dc:date>2021-07-16T18:02:28.474481+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 9–12 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-07-12-Interview.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-07-12-Interview-coalitions-seats.png"
+        length="258167"
+        type="image/png"/>
+      <pubDate>Fri, 16 Jul 2021 18:02:28 +0200</pubDate>
+      <dc:date>2021-07-16T18:02:28.474481+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 9–12 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-07-12-Interview.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 19.7–24.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 40.1–46.2%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 8.0–11.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.3–7.2%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 5.5–8.7%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.1–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-07-12-Interview.png"
+        length="233165"
+        type="image/png"/>
+      <pubDate>Fri, 16 Jul 2021 18:02:28 +0200</pubDate>
+      <dc:date>2021-07-16T18:02:28.474481+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by GPO for ANT1, 7–11 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-07-11-GPO.html#seats</link>
@@ -3699,6 +3729,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-07-14T18:12:42.883244+02:00</dc:date>
+    <dc:date>2021-07-16T18:02:28.474481+02:00</dc:date>
   </channel>
 </rss>
