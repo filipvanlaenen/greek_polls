@@ -13,6 +13,7 @@ Last result: **1.5%** (General Election of 7 July 2019)
 | N/A | [Poll Average](average.html) | 1.9% | 1.4–2.5% | 1.2–2.7% | 1.2–2.8% | 1.0–3.2% |
 | [12–17 July 2021](2021-07-17-Alco.html) | Alco <br> Open TV | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [9–12 July 2021](2021-07-12-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
+| [7–11 July 2021](2021-07-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
 | [7–11 July 2021](2021-07-11-GPO.html) | GPO <br> ANT1 | 0.0% | N/A | N/A | N/A | N/A |
 | [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
 | [1–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 0.0% | N/A | N/A | N/A | N/A |
@@ -162,6 +163,7 @@ Last result: **0** seats (General Election of 7 July 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–8 |
 | [12–17 July 2021](2021-07-17-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0–8 |
 | [9–12 July 2021](2021-07-12-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
+| [7–11 July 2021](2021-07-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
 | [7–11 July 2021](2021-07-11-GPO.html) | GPO <br> ANT1 |  |  |  |  |  |
 | [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [1–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr |  |  |  |  |  |
