@@ -171,10 +171,10 @@ Last result: **86** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 72 | 62–81 | 59–84 | 57–86 | 54–88 |
+| N/A | [Poll Average](average.html) | 72 | 62–81 | 59–84 | 57–85 | 54–89 |
 | [12–17 July 2021](2021-07-17-Alco.html) | Alco <br> Open TV | 73 | 69–78 | 67–80 | 66–81 | 64–83 |
 | [9–12 July 2021](2021-07-12-Interview.html) | Interview <br> Βεργίνα TV | 60 | 56–65 | 55–66 | 54–68 | 52–70 |
-| [7–11 July 2021](2021-07-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 82 | 78–87 | 77–88 | 76–89 | 74–91 |
+| [7–11 July 2021](2021-07-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 82 | 78–87 | 77–88 | 76–89 | 74–92 |
 | [7–11 July 2021](2021-07-11-GPO.html) | GPO <br> ANT1 | 76 | 71–81 | 70–83 | 69–84 | 66–87 |
 | [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 72 | 68–76 | 67–78 | 66–79 | 64–81 |
 | [1–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 68 | 64–72 | 63–73 | 62–74 | 60–76 |
@@ -335,17 +335,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 76 | 5% | 31% |  |
 | 77 | 4% | 26% |  |
 | 78 | 4% | 22% |  |
-| 79 | 4% | 18% |  |
-| 80 | 3% | 14% |  |
+| 79 | 3% | 18% |  |
+| 80 | 3% | 15% |  |
 | 81 | 3% | 12% |  |
 | 82 | 2% | 9% |  |
 | 83 | 2% | 7% |  |
 | 84 | 2% | 5% |  |
-| 85 | 0.8% | 3% |  |
-| 86 | 1.3% | 3% | Last Result |
-| 87 | 0.6% | 1.4% |  |
-| 88 | 0.4% | 0.8% |  |
-| 89 | 0.2% | 0.5% |  |
+| 85 | 1.2% | 4% |  |
+| 86 | 0.9% | 2% | Last Result |
+| 87 | 0.6% | 2% |  |
+| 88 | 0.4% | 0.9% |  |
+| 89 | 0.3% | 0.5% |  |
 | 90 | 0.1% | 0.3% |  |
 | 91 | 0.1% | 0.1% |  |
 | 92 | 0% | 0.1% |  |

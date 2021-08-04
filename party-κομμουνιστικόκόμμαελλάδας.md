@@ -166,7 +166,7 @@ Last result: **15** seats (General Election of 7 July 2019)
 | N/A | [Poll Average](average.html) | 17 | 14–20 | 13–21 | 12–22 | 11–24 |
 | [12–17 July 2021](2021-07-17-Alco.html) | Alco <br> Open TV | 17 | 14–20 | 14–20 | 13–21 | 12–23 |
 | [9–12 July 2021](2021-07-12-Interview.html) | Interview <br> Βεργίνα TV | 15 | 13–18 | 12–19 | 12–20 | 11–21 |
-| [7–11 July 2021](2021-07-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 13 | 12–16 | 11–16 | 11–17 | 10–18 |
+| [7–11 July 2021](2021-07-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 14 | 12–15 | 11–16 | 11–17 | 10–18 |
 | [7–11 July 2021](2021-07-11-GPO.html) | GPO <br> ANT1 | 19 | 16–21 | 15–22 | 15–23 | 14–25 |
 | [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19 | 17–21 | 16–22 | 15–23 | 14–24 |
 | [1–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 18 | 16–21 | 16–22 | 15–22 | 14–24 |
@@ -304,7 +304,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 3% | 98.9% |  |
 | 13 | 6% | 96% |  |
 | 14 | 8% | 90% |  |
-| 15 | 10% | 83% | Last Result |
+| 15 | 10% | 82% | Last Result |
 | 16 | 13% | 72% |  |
 | 17 | 15% | 60% | Median |
 | 18 | 14% | 45% |  |
