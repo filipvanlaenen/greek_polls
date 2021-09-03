@@ -10,7 +10,10 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.0–4.7% | 2.8–5.0% | 2.6–5.3% | 2.3–5.7% |
+| N/A | [Poll Average](average.html) | 3.8% | 2.5–4.8% | 2.3–5.1% | 2.1–5.3% | 1.9–5.8% |
+| [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 4.3% | 3.7–5.1% | 3.5–5.3% | 3.3–5.5% | 3.0–5.9% |
+| [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis | 2.5% | 2.1–3.1% | 2.0–3.2% | 1.9–3.3% | 1.7–3.6% |
 | [12–17 July 2021](2021-07-17-Alco.html) | Alco <br> Open TV | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [9–12 July 2021](2021-07-12-Interview.html) | Interview <br> Βεργίνα TV | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [7–11 July 2021](2021-07-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
@@ -145,11 +148,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 32% | 98% | Last Result |
-| 3.5–4.5% | 51% | 66% | Median |
-| 4.5–5.5% | 14% | 15% |  |
-| 5.5–6.5% | 1.0% | 1.0% |  |
+| 1.5–2.5% | 11% | 100% |  |
+| 2.5–3.5% | 27% | 89% | Last Result |
+| 3.5–4.5% | 45% | 62% | Median |
+| 4.5–5.5% | 16% | 17% |  |
+| 5.5–6.5% | 1.1% | 1.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -161,7 +164,10 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–13 | 0–14 | 0–15 |
+| N/A | [Poll Average](average.html) | 11 | 9–14 | 0–14 | 0–15 | 0–16 |
+| [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 12 | 11–15 | 10–15 | 10–16 | 9–17 |
+| [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 10 | 0–12 | 0–13 | 0–13 | 0–14 |
+| [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis |  |  |  |  |  |
 | [12–17 July 2021](2021-07-17-Alco.html) | Alco <br> Open TV | 11 | 9–13 | 9–14 | 0–15 | 0–16 |
 | [9–12 July 2021](2021-07-12-Interview.html) | Interview <br> Βεργίνα TV | 12 | 9–14 | 9–15 | 8–15 | 0–17 |
 | [7–11 July 2021](2021-07-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 8 | 0–10 | 0–10 | 0–11 | 0–12 |
@@ -297,24 +303,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% |  |
-| 1 | 0% | 89% |  |
-| 2 | 0% | 89% |  |
-| 3 | 0% | 89% |  |
-| 4 | 0% | 89% |  |
-| 5 | 0% | 89% |  |
-| 6 | 0% | 89% |  |
-| 7 | 0% | 89% |  |
-| 8 | 6% | 89% |  |
-| 9 | 19% | 83% | Last Result |
-| 10 | 21% | 64% | Median |
-| 11 | 19% | 42% |  |
-| 12 | 12% | 23% |  |
-| 13 | 7% | 12% |  |
-| 14 | 3% | 4% |  |
-| 15 | 1.2% | 2% |  |
-| 16 | 0.4% | 0.5% |  |
-| 17 | 0.1% | 0.1% |  |
-| 18 | 0% | 0% |  |
+| 0 | 5% | 100% |  |
+| 1 | 0% | 95% |  |
+| 2 | 0% | 95% |  |
+| 3 | 0% | 95% |  |
+| 4 | 0% | 95% |  |
+| 5 | 0% | 95% |  |
+| 6 | 0% | 95% |  |
+| 7 | 0% | 95% |  |
+| 8 | 0.9% | 95% |  |
+| 9 | 12% | 94% | Last Result |
+| 10 | 16% | 82% |  |
+| 11 | 24% | 65% | Median |
+| 12 | 18% | 41% |  |
+| 13 | 13% | 24% |  |
+| 14 | 6% | 10% |  |
+| 15 | 3% | 4% |  |
+| 16 | 0.9% | 1.2% |  |
+| 17 | 0.2% | 0.3% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 
