@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Wed, 04 Aug 2021 12:29:34 +0200</pubDate>
+    <pubDate>Fri, 03 Sep 2021 08:03:07 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Interview for Politic.gr, 23–27 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-08-27-Interview.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.2–27.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 37.1–42.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 5.8–8.5%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.9–7.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.1–6.5%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.3–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-08-27-Interview.png"
+        length="230932"
+        type="image/png"/>
+      <pubDate>Fri, 03 Sep 2021 07:30:41 +0200</pubDate>
+      <dc:date>2021-09-03T07:30:41.906485+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Τα Νέα, 20–25 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-08-25-GPO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.7–31.3%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 37.2–43.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.0–9.3%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.6–6.3%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.5–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-08-25-GPO.png"
+        length="232515"
+        type="image/png"/>
+      <pubDate>Fri, 03 Sep 2021 08:03:07 +0200</pubDate>
+      <dc:date>2021-09-03T08:03:07.20035+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 12–17 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-07-17-Alco.html#seats</link>
@@ -3789,6 +3809,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-08-04T12:29:34.733835+02:00</dc:date>
+    <dc:date>2021-09-03T08:03:07.20035+02:00</dc:date>
   </channel>
 </rss>
