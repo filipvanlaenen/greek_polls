@@ -10,62 +10,59 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.5–4.8% | 2.3–5.1% | 2.1–5.3% | 1.9–5.8% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.3–4.8% | 2.1–5.1% | 2.0–5.3% | 1.8–5.8% |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 4.3% | 3.7–5.1% | 3.5–5.3% | 3.3–5.5% | 3.0–5.9% |
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
-| [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis | 2.5% | 2.1–3.1% | 2.0–3.2% | 1.9–3.3% | 1.7–3.6% |
+| [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis | 2.4% | 2.0–2.9% | 1.9–3.1% | 1.8–3.2% | 1.6–3.5% |
 | [12–17 July 2021](2021-07-17-Alco.html) | Alco <br> Open TV | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
-| [9–12 July 2021](2021-07-12-Interview.html) | Interview <br> Βεργίνα TV | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
-| [7–11 July 2021](2021-07-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
-| [7–11 July 2021](2021-07-11-GPO.html) | GPO <br> ANT1 | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
-| [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.0–5.2% | 2.8–5.6% |
-| [1–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 3.8% | 3.2–4.5% | 3.0–4.8% | 2.9–5.0% | 2.6–5.3% |
-| [4–7 July 2021](2021-07-07-MRB.html) | MRB <br> Star | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
-| [1–2 July 2021](2021-07-02-GPO.html) | GPO <br> Τα Νέα | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
-| [20–25 June 2021](2021-06-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
-| [17–23 June 2021](2021-06-23-Interview.html) | Interview <br> Βεργίνα TV | 3.9% | 3.2–4.8% | 3.1–5.0% | 2.9–5.2% | 2.6–5.7% |
+| [7–11 July 2021](2021-07-11-Prorata.html) | Prorata | 3.0% | N/A | N/A | N/A | N/A |
+| [7–10 July 2021](2021-07-10-GPO.html) | GPO <br> Powergame.gr | 3.6% | N/A | N/A | N/A | N/A |
+| [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.0% | N/A | N/A | N/A | N/A |
+| [30 June–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 3.8% | N/A | N/A | N/A | N/A |
+| [23 June–1 July 2021](2021-07-01-MRB.html) | MRB | 3.6% | N/A | N/A | N/A | N/A |
+| [26–29 June 2021](2021-06-29-GPO.html) | GPO <br> Τα Νέα | 3.5% | N/A | N/A | N/A | N/A |
+| [18–24 June 2021](2021-06-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.6% | N/A | N/A | N/A | N/A |
+| [17–23 June 2021](2021-06-23-Interview.html) | Interview <br> Βεργίνα TV | 3.9% | N/A | N/A | N/A | N/A |
 | [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
-| [4–7 June 2021](2021-06-07-GPO.html) | GPO <br> ANT1 | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
-| [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.8% | 3.2–4.6% | 3.1–4.8% | 2.9–5.0% | 2.7–5.4% |
-| [27–30 May 2021](2021-05-30-OpinionPoll.html) | Opinion Poll | 3.8% | 3.3–4.5% | 3.1–4.7% | 3.0–4.9% | 2.7–5.2% |
-| [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
-| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
-| [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
-| [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
-| [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
-| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
-| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
-| [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.2–5.6% | 2.9–6.0% |
+| [3–5 June 2021](2021-06-05-GPO.html) | GPO <br> Powergame.gr | 4.1% | N/A | N/A | N/A | N/A |
+| [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.0% | N/A | N/A | N/A | N/A |
+| [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll | 3.9% | N/A | N/A | N/A | N/A |
+| [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6.0% | N/A | N/A | N/A | N/A |
+| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 3.4% | N/A | N/A | N/A | N/A |
+| [11–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 4.2% | N/A | N/A | N/A | N/A |
+| [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> Powergame.gr | 3.8% | N/A | N/A | N/A | N/A |
+| [22–27 April 2021](2021-04-27-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.6% | N/A | N/A | N/A | N/A |
+| [23–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.5% | N/A | N/A | N/A | N/A |
+| [19–23 April 2021](2021-04-23-OpinionPoll.html) | Opinion Poll | 3.5% | N/A | N/A | N/A | N/A |
+| [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 4.2% | N/A | N/A | N/A | N/A |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 3.9% | 3.2–4.7% | 3.0–5.0% | 2.9–5.2% | 2.6–5.6% |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
-| [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
-| [8–9 April 2021](2021-04-09-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
-| [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.4% | 2.8–4.1% | 2.7–4.3% | 2.5–4.5% | 2.3–4.9% |
-| [17–23 March 2021](2021-03-23-MetronAnalysis.html) | Metron Analysis <br> Mega | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
+| [6–9 April 2021](2021-04-09-GPO.html) | GPO <br> Powergame.gr | 4.0% | N/A | N/A | N/A | N/A |
+| [31 March–6 April 2021](2021-04-06-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3.8% | N/A | N/A | N/A | N/A |
+| [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.5% | N/A | N/A | N/A | N/A |
+| [16–22 March 2021](2021-03-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.6% | N/A | N/A | N/A | N/A |
 | [19–22 March 2021](2021-03-22-Marc.html) | Marc <br> Alpha TV | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
-| [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
-| [14–18 March 2021](2021-03-18-Alco.html) | Alco <br> Open TV | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
-| [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Τα Νέα | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
+| [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV | 4.0% | N/A | N/A | N/A | N/A |
+| [12–17 March 2021](2021-03-17-Alco.html) | Alco <br> Open TV | 3.3% | N/A | N/A | N/A | N/A |
+| [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Powergame.gr | 3.6% | N/A | N/A | N/A | N/A |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
-| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.5% | 2.9–4.3% | 2.8–4.5% | 2.7–4.7% | 2.4–5.1% |
-| [22–27 February 2021](2021-02-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 3.0% | 2.4–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
-| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
+| [1–3 March 2021](2021-03-03-GPO.html) | GPO <br> Τα Νέα | 3.6% | N/A | N/A | N/A | N/A |
+| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.6% | N/A | N/A | N/A | N/A |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
-| [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 3.3% | 2.9–3.9% | 2.7–4.1% | 2.6–4.2% | 2.4–4.5% |
-| [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.2% | 2.5–5.6% |
-| [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
-| [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
-| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.5% | 3.0–4.2% | 2.9–4.3% | 2.7–4.5% | 2.5–4.8% |
-| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
-| [19–22 January 2021](2021-01-22-GPO.html) | GPO <br> Παραπολιτικά | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [14–22 February 2021](2021-02-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 4.4% | N/A | N/A | N/A | N/A |
+| [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll | 3.8% | N/A | N/A | N/A | N/A |
+| [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 3.4% | N/A | N/A | N/A | N/A |
+| [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 3.9% | N/A | N/A | N/A | N/A |
+| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.5% | N/A | N/A | N/A | N/A |
+| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3.1% | N/A | N/A | N/A | N/A |
+| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 3.6% | N/A | N/A | N/A | N/A |
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
-| [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 3.5% | 2.8–4.4% | 2.6–4.7% | 2.5–4.9% | 2.2–5.4% |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
-| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.3–4.6% | 2.1–5.0% |
-| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.3% | 2.7–4.0% | 2.6–4.2% | 2.4–4.4% | 2.2–4.8% |
-| [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 3.7% | 3.1–4.5% | 2.9–4.8% | 2.8–5.0% | 2.5–5.4% |
+| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political | 3.3% | N/A | N/A | N/A | N/A |
+| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2.9% | N/A | N/A | N/A | N/A |
+| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 3.7% | N/A | N/A | N/A | N/A |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
-| [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Βεργίνα TV | 3.2% | 2.7–4.0% | 2.5–4.2% | 2.4–4.4% | 2.1–4.8% |
+| [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political | 3.2% | N/A | N/A | N/A | N/A |
 | [26 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 2.0–4.7% |
 | [24–27 November 2020](2020-11-27-Prorata.html) | Prorata | 3.7% | 3.3–4.2% | 3.2–4.4% | 3.0–4.5% | 2.9–4.7% |
 | [24–26 November 2020](2020-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.5% | 2.9–4.3% | 2.8–4.5% | 2.6–4.6% | 2.4–5.0% |
@@ -147,12 +144,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 11% | 100% |  |
-| 2.5–3.5% | 27% | 89% | Last Result |
-| 3.5–4.5% | 45% | 62% | Median |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 16% | 99.9% |  |
+| 2.5–3.5% | 26% | 84% | Last Result |
+| 3.5–4.5% | 40% | 57% | Median |
 | 4.5–5.5% | 16% | 17% |  |
-| 5.5–6.5% | 1.1% | 1.1% |  |
+| 5.5–6.5% | 1.2% | 1.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -164,62 +161,59 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–14 | 0–14 | 0–15 | 0–16 |
+| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–14 | 0–15 | 0–16 |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 12 | 11–15 | 10–15 | 10–16 | 9–17 |
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 10 | 0–12 | 0–13 | 0–13 | 0–14 |
-| [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis |  |  |  |  |  |
+| [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis | 0 | 0 | 0 | 0–9 | 0–9 |
 | [12–17 July 2021](2021-07-17-Alco.html) | Alco <br> Open TV | 11 | 9–13 | 9–14 | 0–15 | 0–16 |
-| [9–12 July 2021](2021-07-12-Interview.html) | Interview <br> Βεργίνα TV | 12 | 9–14 | 9–15 | 8–15 | 0–17 |
-| [7–11 July 2021](2021-07-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 8 | 0–10 | 0–10 | 0–11 | 0–12 |
-| [7–11 July 2021](2021-07-11-GPO.html) | GPO <br> ANT1 | 10 | 0–12 | 0–13 | 0–13 | 0–14 |
-| [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 9–13 | 9–14 | 8–14 | 0–15 |
-| [1–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 10 | 8–12 | 0–12 | 0–13 | 0–14 |
-| [4–7 July 2021](2021-07-07-MRB.html) | MRB <br> Star | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
-| [1–2 July 2021](2021-07-02-GPO.html) | GPO <br> Τα Νέα | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
-| [20–25 June 2021](2021-06-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 10 | 8–12 | 0–13 | 0–13 | 0–14 |
-| [17–23 June 2021](2021-06-23-Interview.html) | Interview <br> Βεργίνα TV | 11 | 9–13 | 8–14 | 0–14 | 0–16 |
+| [7–11 July 2021](2021-07-11-Prorata.html) | Prorata |  |  |  |  |  |
+| [7–10 July 2021](2021-07-10-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
+| [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [30 June–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr |  |  |  |  |  |
+| [23 June–1 July 2021](2021-07-01-MRB.html) | MRB |  |  |  |  |  |
+| [26–29 June 2021](2021-06-29-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
+| [18–24 June 2021](2021-06-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [17–23 June 2021](2021-06-23-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV | 10 | 9–13 | 0–13 | 0–14 | 0–15 |
-| [4–7 June 2021](2021-06-07-GPO.html) | GPO <br> ANT1 | 11 | 9–13 | 8–14 | 0–14 | 0–16 |
-| [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 9–13 | 8–13 | 0–14 | 0–15 |
-| [27–30 May 2021](2021-05-30-OpinionPoll.html) | Opinion Poll | 10 | 9–12 | 8–12 | 0–13 | 0–14 |
-| [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega | 16 | 14–19 | 13–20 | 12–20 | 11–22 |
-| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 9 | 0–12 | 0–12 | 0–13 | 0–14 |
-| [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 12 | 10–14 | 9–15 | 9–15 | 0–17 |
-| [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 10 | 8–12 | 0–13 | 0–14 | 0–15 |
-| [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
-| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
-| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
-| [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 12 | 10–14 | 9–14 | 9–15 | 0–16 |
+| [3–5 June 2021](2021-06-05-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
+| [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
+| [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
+| [11–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
+| [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
+| [22–27 April 2021](2021-04-27-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [23–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [19–23 April 2021](2021-04-23-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
+| [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 11 | 9–13 | 8–13 | 0–14 | 0–15 |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
-| [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 11 | 9–13 | 8–14 | 0–14 | 0–15 |
-| [8–9 April 2021](2021-04-09-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 12 | 9–14 | 8–15 | 0–15 | 0–16 |
-| [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
-| [17–23 March 2021](2021-03-23-MetronAnalysis.html) | Metron Analysis <br> Mega | 12 | 10–15 | 10–16 | 9–16 | 8–17 |
+| [6–9 April 2021](2021-04-09-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
+| [31 March–6 April 2021](2021-04-06-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [16–22 March 2021](2021-03-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [19–22 March 2021](2021-03-22-Marc.html) | Marc <br> Alpha TV | 9 | 0–12 | 0–12 | 0–13 | 0–14 |
-| [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV | 11 | 9–14 | 9–14 | 0–15 | 0–16 |
-| [14–18 March 2021](2021-03-18-Alco.html) | Alco <br> Open TV | 9 | 0–11 | 0–12 | 0–12 | 0–14 |
-| [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Τα Νέα | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
+| [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
+| [12–17 March 2021](2021-03-17-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
+| [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 11 | 9–14 | 9–14 | 8–15 | 0–16 |
-| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
-| [22–27 February 2021](2021-02-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 8 | 0–10 | 0–10 | 0–11 | 0–12 |
-| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 13 | 10–15 | 10–16 | 9–16 | 8–18 |
+| [1–3 March 2021](2021-03-03-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
+| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
-| [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 9 | 0–10 | 0–11 | 0–11 | 0–12 |
-| [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 10 | 8–12 | 0–13 | 0–13 | 0–15 |
-| [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
-| [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 11 | 9–13 | 8–14 | 0–14 | 0–16 |
-| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 0–11 | 0–12 | 0–12 | 0–13 |
-| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega | 8 | 0–10 | 0–11 | 0–11 | 0–12 |
-| [19–22 January 2021](2021-01-22-GPO.html) | GPO <br> Παραπολιτικά | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
+| [14–22 February 2021](2021-02-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
+| [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
+| [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
+| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 8 | 0–11 | 0–11 | 0–12 | 0–13 |
-| [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 10 | 0–12 | 0–13 | 0–13 | 0–15 |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 0 | 0–8 | 0–9 | 0–9 | 0–11 |
-| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
-| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
-| [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 10 | 8–12 | 0–12 | 0–13 | 0–14 |
+| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political |  |  |  |  |  |
+| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 10 | 0–12 | 0–12 | 0–13 | 0–14 |
-| [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Βεργίνα TV | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
+| [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political |  |  |  |  |  |
 | [26 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 8 | 0–10 | 0–11 | 0–11 | 0–13 |
 | [24–27 November 2020](2020-11-27-Prorata.html) | Prorata | 10 | 9–11 | 9–12 | 8–12 | 0–13 |
 | [24–26 November 2020](2020-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 0–11 | 0–12 | 0–13 | 0–13 |
@@ -303,23 +297,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% |  |
-| 1 | 0% | 95% |  |
-| 2 | 0% | 95% |  |
-| 3 | 0% | 95% |  |
-| 4 | 0% | 95% |  |
-| 5 | 0% | 95% |  |
-| 6 | 0% | 95% |  |
-| 7 | 0% | 95% |  |
-| 8 | 0.9% | 95% |  |
-| 9 | 12% | 94% | Last Result |
-| 10 | 16% | 82% |  |
-| 11 | 24% | 65% | Median |
-| 12 | 18% | 41% |  |
-| 13 | 13% | 24% |  |
-| 14 | 6% | 10% |  |
+| 0 | 29% | 100% |  |
+| 1 | 0% | 71% |  |
+| 2 | 0% | 71% |  |
+| 3 | 0% | 71% |  |
+| 4 | 0% | 71% |  |
+| 5 | 0% | 71% |  |
+| 6 | 0% | 71% |  |
+| 7 | 0% | 71% |  |
+| 8 | 0.8% | 71% |  |
+| 9 | 10% | 71% | Last Result |
+| 10 | 11% | 61% | Median |
+| 11 | 18% | 50% |  |
+| 12 | 12% | 32% |  |
+| 13 | 11% | 19% |  |
+| 14 | 5% | 9% |  |
 | 15 | 3% | 4% |  |
-| 16 | 0.9% | 1.2% |  |
+| 16 | 0.8% | 1.1% |  |
 | 17 | 0.2% | 0.3% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
