@@ -11,6 +11,7 @@ Last result: **1.5%** (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.9% | 1.4–2.5% | 1.2–2.7% | 1.2–2.8% | 1.0–3.2% |
+| [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political | 0.0% | N/A | N/A | N/A | N/A |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 0.0% | N/A | N/A | N/A | N/A |
 | [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis | 0.0% | N/A | N/A | N/A | N/A |
@@ -28,7 +29,7 @@ Last result: **1.5%** (General Election of 7 July 2019)
 | [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
 | [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0.0% | N/A | N/A | N/A | N/A |
-| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 1.3% | N/A | N/A | N/A | N/A |
+| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [11–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> Powergame.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [22–27 April 2021](2021-04-27-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
@@ -43,7 +44,7 @@ Last result: **1.5%** (General Election of 7 July 2019)
 | [16–22 March 2021](2021-03-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0.0% | N/A | N/A | N/A | N/A |
 | [19–22 March 2021](2021-03-22-Marc.html) | Marc <br> Alpha TV | 0.0% | N/A | N/A | N/A | N/A |
 | [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
-| [12–17 March 2021](2021-03-17-Alco.html) | Alco <br> Open TV | 1.7% | N/A | N/A | N/A | N/A |
+| [12–17 March 2021](2021-03-17-Alco.html) | Alco <br> Open TV | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Powergame.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 0.0% | N/A | N/A | N/A | N/A |
 | [1–3 March 2021](2021-03-03-GPO.html) | GPO <br> Τα Νέα | 0.0% | N/A | N/A | N/A | N/A |
@@ -161,6 +162,7 @@ Last result: **0** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–8 |
+| [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political |  |  |  |  |  |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
 | [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis |  |  |  |  |  |
@@ -178,7 +180,7 @@ Last result: **0** seats (General Election of 7 July 2019)
 | [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
-| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
+| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0 |
 | [11–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
 | [22–27 April 2021](2021-04-27-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
@@ -193,7 +195,7 @@ Last result: **0** seats (General Election of 7 July 2019)
 | [16–22 March 2021](2021-03-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [19–22 March 2021](2021-03-22-Marc.html) | Marc <br> Alpha TV |  |  |  |  |  |
 | [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
-| [12–17 March 2021](2021-03-17-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
+| [12–17 March 2021](2021-03-17-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0–8 |
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [1–3 March 2021](2021-03-03-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
