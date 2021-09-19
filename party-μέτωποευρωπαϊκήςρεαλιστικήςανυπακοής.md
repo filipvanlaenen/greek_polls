@@ -162,11 +162,11 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 0–13 | 0–14 | 0–15 | 0–16 |
+| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–14 | 0–15 | 0–16 |
 | [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political | 11 | 9–13 | 8–14 | 8–14 | 0–16 |
-| [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 12 | 11–15 | 10–15 | 10–16 | 9–17 |
+| [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 12 | 10–15 | 10–15 | 10–16 | 9–17 |
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 10 | 0–12 | 0–13 | 0–13 | 0–14 |
-| [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis | 0 | 0 | 0 | 0–9 | 0–9 |
+| [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis | 0 | 0 | 0–8 | 0–9 | 0–10 |
 | [12–17 July 2021](2021-07-17-Alco.html) | Alco <br> Open TV | 11 | 9–13 | 9–14 | 0–15 | 0–16 |
 | [7–11 July 2021](2021-07-11-Prorata.html) | Prorata | 8 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [7–10 July 2021](2021-07-10-GPO.html) | GPO <br> Powergame.gr | 10 | 0–12 | 0–13 | 0–13 | 0–14 |
@@ -307,16 +307,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 77% |  |
 | 6 | 0% | 77% |  |
 | 7 | 0% | 77% |  |
-| 8 | 1.3% | 77% |  |
-| 9 | 11% | 75% | Last Result |
-| 10 | 13% | 65% |  |
-| 11 | 19% | 51% | Median |
+| 8 | 3% | 77% |  |
+| 9 | 11% | 74% | Last Result |
+| 10 | 14% | 64% | Median |
+| 11 | 18% | 50% |  |
 | 12 | 13% | 32% |  |
 | 13 | 11% | 19% |  |
 | 14 | 5% | 8% |  |
 | 15 | 2% | 3% |  |
 | 16 | 0.8% | 1.0% |  |
-| 17 | 0.2% | 0.2% |  |
+| 17 | 0.2% | 0.3% |  |
 | 18 | 0% | 0.1% |  |
 | 19 | 0% | 0% |  |
 

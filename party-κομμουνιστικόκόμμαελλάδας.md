@@ -164,10 +164,10 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–20 | 14–22 | 13–23 | 12–24 |
+| N/A | [Poll Average](average.html) | 17 | 15–21 | 14–22 | 13–23 | 12–24 |
 | [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political | 18 | 16–21 | 15–22 | 15–23 | 13–24 |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 17 | 15–20 | 14–20 | 14–21 | 13–22 |
-| [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 19 | 16–22 | 16–23 | 15–24 | 14–26 |
+| [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 19 | 17–22 | 16–23 | 15–24 | 14–26 |
 | [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis | 16 | 14–18 | 13–18 | 13–19 | 12–20 |
 | [12–17 July 2021](2021-07-17-Alco.html) | Alco <br> Open TV | 17 | 14–20 | 14–20 | 13–21 | 12–23 |
 | [7–11 July 2021](2021-07-11-Prorata.html) | Prorata | 13 | 12–16 | 11–16 | 11–17 | 10–18 |
@@ -302,21 +302,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.1% | 100% |  |
-| 12 | 0.5% | 99.9% |  |
+| 12 | 0.4% | 99.9% |  |
 | 13 | 2% | 99.5% |  |
 | 14 | 6% | 97% |  |
 | 15 | 11% | 92% | Last Result |
 | 16 | 15% | 81% |  |
-| 17 | 16% | 66% | Median |
-| 18 | 17% | 50% |  |
-| 19 | 15% | 33% |  |
-| 20 | 8% | 18% |  |
-| 21 | 5% | 10% |  |
-| 22 | 3% | 5% |  |
+| 17 | 17% | 66% | Median |
+| 18 | 15% | 49% |  |
+| 19 | 13% | 33% |  |
+| 20 | 9% | 21% |  |
+| 21 | 5% | 11% |  |
+| 22 | 3% | 6% |  |
 | 23 | 2% | 3% |  |
-| 24 | 0.6% | 0.9% |  |
-| 25 | 0.2% | 0.4% |  |
-| 26 | 0.1% | 0.2% |  |
+| 24 | 0.6% | 1.1% |  |
+| 25 | 0.3% | 0.4% |  |
+| 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
 
