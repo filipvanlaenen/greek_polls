@@ -10,7 +10,10 @@ Last result: **3.7%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.9–5.8% | 3.7–6.1% | 3.5–6.4% | 3.2–6.9% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.8–5.7% | 3.6–6.0% | 3.4–6.3% | 3.0–6.9% |
+| [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
+| [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
+| [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political | 4.5% | 3.7–5.5% | 3.5–5.7% | 3.4–6.0% | 3.0–6.5% |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 5.1% | 4.4–6.0% | 4.2–6.2% | 4.1–6.5% | 3.7–6.9% |
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
@@ -50,11 +53,11 @@ Last result: **3.7%** (General Election of 7 July 2019)
 | [1–3 March 2021](2021-03-03-GPO.html) | GPO <br> Τα Νέα | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.2% | 4.5–6.1% | 4.3–6.3% | 4.1–6.6% | 3.8–7.0% |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
-| [14–22 February 2021](2021-02-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3.2% | N/A | N/A | N/A | N/A |
-| [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll | 5.5% | N/A | N/A | N/A | N/A |
-| [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 5.2% | N/A | N/A | N/A | N/A |
-| [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 5.7% | N/A | N/A | N/A | N/A |
-| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.2% | N/A | N/A | N/A | N/A |
+| [14–22 February 2021](2021-02-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.2–7.1% | 3.9–7.6% |
+| [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
+| [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 5.7% | 5.0–6.7% | 4.7–7.0% | 4.5–7.2% | 4.2–7.7% |
+| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.2% | 4.6–6.0% | 4.4–6.2% | 4.3–6.4% | 3.9–6.8% |
 | [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.6% | N/A | N/A | N/A | N/A |
 | [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 4.7% | N/A | N/A | N/A | N/A |
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
@@ -146,11 +149,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 34% | 97% | Last Result |
-| 4.5–5.5% | 46% | 63% | Median |
-| 5.5–6.5% | 16% | 17% |  |
-| 6.5–7.5% | 1.5% | 2% |  |
+| 2.5–3.5% | 5% | 100% |  |
+| 3.5–4.5% | 41% | 95% | Last Result |
+| 4.5–5.5% | 40% | 54% | Median |
+| 5.5–6.5% | 13% | 14% |  |
+| 6.5–7.5% | 1.3% | 1.4% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -163,7 +166,10 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–16 | 10–17 | 10–18 | 9–19 |
+| N/A | [Poll Average](average.html) | 13 | 10–16 | 10–17 | 9–18 | 8–19 |
+| [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 14 | 13–18 | 12–19 | 12–19 | 11–20 |
+| [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 12 | 10–14 | 9–14 | 9–15 | 0–17 |
+| [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 12 | 10–14 | 9–15 | 9–15 | 0–17 |
 | [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political | 12 | 10–14 | 9–15 | 9–16 | 8–17 |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 15 | 13–17 | 12–18 | 12–18 | 11–20 |
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 13 | 11–16 | 10–17 | 10–17 | 9–18 |
@@ -203,10 +209,10 @@ Last result: **10** seats (General Election of 7 July 2019)
 | [1–3 March 2021](2021-03-03-GPO.html) | GPO <br> Τα Νέα | 13 | 11–16 | 10–16 | 10–17 | 9–18 |
 | [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 14 | 13–16 | 12–18 | 12–18 | 11–19 |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 14 | 12–16 | 11–17 | 10–18 | 10–19 |
-| [14–22 February 2021](2021-02-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
-| [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
-| [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
-| [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
+| [14–22 February 2021](2021-02-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
+| [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll | 14 | 12–17 | 12–18 | 11–18 | 10–20 |
+| [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 13 | 12–17 | 12–18 | 12–18 | 11–19 |
+| [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 16 | 14–18 | 13–19 | 12–20 | 11–21 |
 | [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
@@ -300,26 +306,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 0% | 99.9% |  |
-| 2 | 0% | 99.9% |  |
-| 3 | 0% | 99.9% |  |
-| 4 | 0% | 99.9% |  |
-| 5 | 0% | 99.9% |  |
-| 6 | 0% | 99.9% |  |
-| 7 | 0% | 99.9% |  |
-| 8 | 0.2% | 99.9% |  |
-| 9 | 2% | 99.7% |  |
-| 10 | 6% | 98% | Last Result |
-| 11 | 11% | 92% |  |
-| 12 | 16% | 81% |  |
-| 13 | 20% | 64% | Median |
-| 14 | 18% | 44% |  |
-| 15 | 12% | 26% |  |
-| 16 | 8% | 15% |  |
-| 17 | 4% | 7% |  |
-| 18 | 2% | 3% |  |
-| 19 | 0.6% | 0.9% |  |
+| 0 | 0.5% | 100% |  |
+| 1 | 0% | 99.5% |  |
+| 2 | 0% | 99.5% |  |
+| 3 | 0% | 99.5% |  |
+| 4 | 0% | 99.5% |  |
+| 5 | 0% | 99.5% |  |
+| 6 | 0% | 99.5% |  |
+| 7 | 0% | 99.5% |  |
+| 8 | 0.4% | 99.5% |  |
+| 9 | 3% | 99.1% |  |
+| 10 | 8% | 96% | Last Result |
+| 11 | 12% | 88% |  |
+| 12 | 19% | 75% |  |
+| 13 | 25% | 57% | Median |
+| 14 | 12% | 32% |  |
+| 15 | 8% | 20% |  |
+| 16 | 6% | 13% |  |
+| 17 | 3% | 6% |  |
+| 18 | 2% | 4% |  |
+| 19 | 1.4% | 2% |  |
 | 20 | 0.2% | 0.3% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |

@@ -11,6 +11,9 @@ Last result: **1.5%** (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.9% | 1.4–2.5% | 1.2–2.7% | 1.2–2.8% | 1.0–3.2% |
+| [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
+| [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 0.0% | N/A | N/A | N/A | N/A |
+| [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 0.0% | N/A | N/A | N/A | N/A |
 | [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political | 0.0% | N/A | N/A | N/A | N/A |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 0.0% | N/A | N/A | N/A | N/A |
@@ -52,7 +55,7 @@ Last result: **1.5%** (General Election of 7 July 2019)
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 0.0% | N/A | N/A | N/A | N/A |
 | [14–22 February 2021](2021-02-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
-| [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 1.5% | N/A | N/A | N/A | N/A |
+| [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
 | [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
 | [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -161,7 +164,10 @@ Last result: **0** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–8 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–9 |
+| [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0–9 |
+| [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star |  |  |  |  |  |
+| [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political |  |  |  |  |  |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
@@ -203,7 +209,7 @@ Last result: **0** seats (General Election of 7 July 2019)
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political |  |  |  |  |  |
 | [14–22 February 2021](2021-02-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
-| [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
+| [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0 |
 | [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
@@ -298,15 +304,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.8% | 100% | Last Result, Median |
-| 1 | 0% | 1.2% |  |
-| 2 | 0% | 1.2% |  |
-| 3 | 0% | 1.2% |  |
-| 4 | 0% | 1.2% |  |
-| 5 | 0% | 1.2% |  |
-| 6 | 0% | 1.2% |  |
-| 7 | 0% | 1.2% |  |
-| 8 | 0.7% | 1.2% |  |
+| 0 | 99.1% | 100% | Last Result, Median |
+| 1 | 0% | 0.9% |  |
+| 2 | 0% | 0.9% |  |
+| 3 | 0% | 0.9% |  |
+| 4 | 0% | 0.9% |  |
+| 5 | 0% | 0.9% |  |
+| 6 | 0% | 0.9% |  |
+| 7 | 0% | 0.9% |  |
+| 8 | 0.4% | 0.9% |  |
 | 9 | 0.4% | 0.5% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
