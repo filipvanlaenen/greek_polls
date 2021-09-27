@@ -6,6 +6,22 @@
     <description>All Registered Polls for the Hellenic Parliament</description>
     <pubDate>Fri, 17 Jul 2020 21:18:39 +0200</pubDate>
     <item>
+      <title>Opinion Poll by MRB for Star, 22 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-09-22-MRB.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by MRB for Star, 22 September 2021<br/>Details on https://filipvanlaenen.github.io/greek_polls/2021-09-22-MRB.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2021-09-22-MRB.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-22-MRB.png" length="266841" type="image/png"/>
+      <pubDate>Mon, 27 Sep 2021 07:05:17 +0200</pubDate>
+      <dc:date>2021-09-27T07:05:17.71262+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 19–21 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-09-21-PulseRC.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 19–21 September 2021<br/>Details on https://filipvanlaenen.github.io/greek_polls/2021-09-21-PulseRC.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2021-09-21-PulseRC.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-21-PulseRC.png" length="225083" type="image/png"/>
+      <pubDate>Mon, 27 Sep 2021 07:16:11 +0200</pubDate>
+      <dc:date>2021-09-27T07:16:11.556661+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Alco for Open TV, 13–17 September 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-09-17-Alco.html</link>
       <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Alco for Open TV, 13–17 September 2021<br/>Details on https://filipvanlaenen.github.io/greek_polls/2021-09-17-Alco.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2021-09-17-Alco.png"/>]]></description>
@@ -148,22 +164,6 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-07-17-Alco.png" length="249574" type="image/png"/>
       <pubDate>Wed, 21 Jul 2021 14:03:55 +0200</pubDate>
       <dc:date>2021-07-21T14:03:55.514117+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Prorata, 7–11 July 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2021-07-11-Prorata.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Prorata, 7–11 July 2021<br/>Details on https://filipvanlaenen.github.io/greek_polls/2021-07-11-Prorata.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2021-07-11-Prorata.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-07-11-Prorata.png" length="217002" type="image/png"/>
-      <pubDate>Tue, 7 Sep 2021 07:03:11 +0200</pubDate>
-      <dc:date>2021-09-07T07:03:11.176158+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GPO for Powergame.gr, 7–10 July 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2021-07-10-GPO.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by GPO for Powergame.gr, 7–10 July 2021<br/>Details on https://filipvanlaenen.github.io/greek_polls/2021-07-10-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2021-07-10-GPO.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-07-10-GPO.png" length="231644" type="image/png"/>
-      <pubDate>Tue, 7 Sep 2021 07:08:25 +0200</pubDate>
-      <dc:date>2021-09-07T07:08:25.683393+02:00</dc:date>
     </item>
   </channel>
 </rss>
