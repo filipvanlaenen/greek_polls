@@ -10,7 +10,9 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.5–4.7% | 2.2–5.0% | 2.1–5.2% | 1.8–5.7% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.6–4.8% | 2.3–5.1% | 2.1–5.3% | 1.8–5.8% |
+| [22 September 2021](2021-09-22-MRB.html) | MRB <br> Star | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
+| [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.4% | 2.9–4.0% | 2.8–4.2% | 2.7–4.3% | 2.5–4.6% |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
@@ -149,11 +151,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 12% | 100% |  |
-| 2.5–3.5% | 32% | 88% | Last Result |
-| 3.5–4.5% | 43% | 56% | Median |
-| 4.5–5.5% | 13% | 14% |  |
-| 5.5–6.5% | 0.8% | 0.9% |  |
+| 1.5–2.5% | 10% | 100% |  |
+| 2.5–3.5% | 32% | 90% | Last Result |
+| 3.5–4.5% | 43% | 58% | Median |
+| 4.5–5.5% | 14% | 15% |  |
+| 5.5–6.5% | 1.1% | 1.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -165,7 +167,9 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–14 | 0–14 | 0–16 |
+| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–14 | 0–15 | 0–16 |
+| [22 September 2021](2021-09-22-MRB.html) | MRB <br> Star | 12 | 10–14 | 9–15 | 9–15 | 0–17 |
+| [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 8–11 | 0–12 | 0–12 | 0–13 |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 10 | 0–12 | 0–12 | 0–13 | 0–15 |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 10 | 0–12 | 0–13 | 0–13 | 0–14 |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 10 | 0–12 | 0–13 | 0–13 | 0–14 |
@@ -305,24 +309,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 23% | 100% |  |
-| 1 | 0% | 77% |  |
-| 2 | 0% | 77% |  |
-| 3 | 0% | 77% |  |
-| 4 | 0% | 77% |  |
-| 5 | 0% | 77% |  |
-| 6 | 0% | 77% |  |
-| 7 | 0% | 77% |  |
-| 8 | 4% | 77% |  |
-| 9 | 13% | 73% | Last Result |
-| 10 | 20% | 60% | Median |
-| 11 | 15% | 40% |  |
-| 12 | 12% | 25% |  |
-| 13 | 7% | 13% |  |
-| 14 | 4% | 6% |  |
-| 15 | 2% | 2% |  |
-| 16 | 0.5% | 0.7% |  |
-| 17 | 0.1% | 0.2% |  |
-| 18 | 0% | 0% |  |
+| 0 | 20% | 100% |  |
+| 1 | 0% | 80% |  |
+| 2 | 0% | 80% |  |
+| 3 | 0% | 80% |  |
+| 4 | 0% | 80% |  |
+| 5 | 0% | 80% |  |
+| 6 | 0% | 80% |  |
+| 7 | 0% | 80% |  |
+| 8 | 3% | 80% |  |
+| 9 | 15% | 77% | Last Result |
+| 10 | 20% | 63% | Median |
+| 11 | 13% | 42% |  |
+| 12 | 15% | 30% |  |
+| 13 | 8% | 15% |  |
+| 14 | 5% | 7% |  |
+| 15 | 2% | 3% |  |
+| 16 | 0.6% | 0.8% |  |
+| 17 | 0.2% | 0.2% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 
