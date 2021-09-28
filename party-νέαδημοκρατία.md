@@ -59,16 +59,16 @@ Last result: **39.8%** (General Election of 7 July 2019)
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll | 46.3% | 44.2–48.3% | 43.7–48.9% | 43.2–49.4% | 42.2–50.3% |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 43.2% | 41.2–45.2% | 40.6–45.8% | 40.2–46.3% | 39.2–47.3% |
 | [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 43.2% | 41.4–45.1% | 40.9–45.6% | 40.5–46.1% | 39.6–46.9% |
-| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 42.8% | 41.2–44.4% | 40.8–44.8% | 40.4–45.2% | 39.7–45.9% |
-| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 46.3% | N/A | N/A | N/A | N/A |
-| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 44.1% | N/A | N/A | N/A | N/A |
+| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 42.8% | 41.3–44.3% | 40.8–44.8% | 40.5–45.2% | 39.7–45.9% |
+| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 46.3% | 44.5–48.2% | 44.0–48.7% | 43.5–49.2% | 42.6–50.1% |
+| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 44.1% | 42.1–46.1% | 41.5–46.7% | 41.0–47.2% | 40.1–48.2% |
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 44.2% | 42.2–46.2% | 41.6–46.8% | 41.1–47.3% | 40.2–48.3% |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 48.3% | 46.3–50.3% | 45.7–50.9% | 45.2–51.4% | 44.3–52.4% |
-| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political | 47.8% | N/A | N/A | N/A | N/A |
-| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 43.9% | N/A | N/A | N/A | N/A |
-| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 44.9% | N/A | N/A | N/A | N/A |
+| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political | 47.8% | 45.8–49.8% | 45.2–50.4% | 44.7–50.9% | 43.8–51.9% |
+| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 43.9% | 42.6–45.2% | 42.3–45.6% | 41.9–45.9% | 41.3–46.5% |
+| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 44.9% | 43.5–46.3% | 43.1–46.7% | 42.7–47.1% | 42.1–47.8% |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 44.1% | 42.1–46.1% | 41.5–46.7% | 41.0–47.2% | 40.1–48.2% |
-| [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political | 44.8% | N/A | N/A | N/A | N/A |
+| [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political | 44.8% | 43.0–46.7% | 42.5–47.2% | 42.0–47.6% | 41.2–48.5% |
 | [26 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 45.2% | 43.3–47.1% | 42.7–47.7% | 42.2–48.1% | 41.4–49.1% |
 | [24–27 November 2020](2020-11-27-Prorata.html) | Prorata | 44.2% | 43.0–45.4% | 42.6–45.8% | 42.3–46.1% | 41.8–46.7% |
 | [24–26 November 2020](2020-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 44.0% | 42.2–45.8% | 41.7–46.3% | 41.3–46.7% | 40.5–47.5% |
@@ -199,12 +199,12 @@ Last result: **158** seats (General Election of 7 July 2019)
 | [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV | 164 | 159–170 | 158–171 | 156–173 | 154–176 |
 | [3–5 June 2021](2021-06-05-GPO.html) | GPO <br> Powergame.gr | 162 | 157–169 | 156–170 | 155–171 | 153–175 |
 | [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 165 | 160–169 | 158–170 | 157–171 | 155–174 |
-| [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll | 175 | 175 | 175 | 175 | 175 |
+| [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll | 172 | 169–176 | 168–177 | 167–177 | 165–180 |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 164 | 159–169 | 158–170 | 157–172 | 155–174 |
 | [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 167 | 161–172 | 159–174 | 158–176 | 155–178 |
 | [11–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 165 | 161–170 | 159–171 | 158–172 | 156–174 |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> Powergame.gr | 164 | 159–170 | 157–171 | 157–173 | 154–176 |
-| [22–27 April 2021](2021-04-27-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 169 | 164–173 | 164–173 | 160–173 | 157–173 |
+| [22–27 April 2021](2021-04-27-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 168 | 164–172 | 162–174 | 160–176 | 158–180 |
 | [23–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 165 | 160–169 | 158–172 | 157–173 | 155–175 |
 | [19–23 April 2021](2021-04-23-OpinionPoll.html) | Opinion Poll | 172 | 167–178 | 166–180 | 164–182 | 162–184 |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 165 | 160–170 | 159–171 | 157–173 | 155–175 |
@@ -220,22 +220,22 @@ Last result: **158** seats (General Election of 7 July 2019)
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Powergame.gr | 164 | 158–169 | 157–171 | 155–172 | 153–176 |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 166 | 161–171 | 160–173 | 158–174 | 156–177 |
 | [1–3 March 2021](2021-03-03-GPO.html) | GPO <br> Τα Νέα | 164 | 159–169 | 157–171 | 156–173 | 154–176 |
-| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 165 | 161–171 | 159–172 | 158–174 | 156–176 |
+| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 165 | 161–170 | 159–172 | 158–174 | 156–176 |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 172 | 166–177 | 165–179 | 163–181 | 161–184 |
 | [14–22 February 2021](2021-02-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 164 | 158–170 | 156–171 | 155–173 | 152–175 |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll | 170 | 165–176 | 164–177 | 162–179 | 160–182 |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 167 | 162–173 | 160–174 | 159–176 | 156–179 |
 | [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 168 | 163–173 | 162–174 | 160–176 | 158–178 |
-| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
-| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 166 | 162–171 | 161–172 | 160–174 | 158–176 |
+| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 174 | 168–178 | 166–180 | 165–182 | 162–185 |
+| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 166 | 162–173 | 160–174 | 158–175 | 156–180 |
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 171 | 165–177 | 163–179 | 162–180 | 159–183 |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 179 | 173–185 | 172–186 | 170–188 | 168–190 |
-| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political |  |  |  |  |  |
-| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star |  |  |  |  |  |
+| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political | 175 | 169–181 | 168–183 | 167–185 | 164–188 |
+| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 173 | 168–177 | 167–178 | 166–178 | 164–180 |
+| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 169 | 165–172 | 164–173 | 163–175 | 161–178 |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 168 | 163–175 | 161–176 | 160–178 | 157–181 |
-| [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political |  |  |  |  |  |
+| [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political | 172 | 168–179 | 166–180 | 165–182 | 162–184 |
 | [26 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 173 | 167–178 | 165–180 | 164–182 | 161–184 |
 | [24–27 November 2020](2020-11-27-Prorata.html) | Prorata | 169 | 166–173 | 165–174 | 164–175 | 163–178 |
 | [24–26 November 2020](2020-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 168 | 163–173 | 162–175 | 161–176 | 159–179 |

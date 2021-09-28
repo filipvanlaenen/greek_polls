@@ -60,15 +60,15 @@ Last result: **31.5%** (General Election of 7 July 2019)
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 26.7% | 25.0–28.6% | 24.5–29.1% | 24.1–29.5% | 23.2–30.4% |
 | [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 23.5% | 22.0–25.1% | 21.5–25.6% | 21.2–26.0% | 20.5–26.8% |
 | [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25.4% | 24.1–26.8% | 23.7–27.2% | 23.4–27.5% | 22.7–28.2% |
-| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 25.3% | N/A | N/A | N/A | N/A |
-| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 27.6% | N/A | N/A | N/A | N/A |
+| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 25.3% | 23.8–27.0% | 23.3–27.5% | 23.0–27.9% | 22.2–28.7% |
+| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 27.6% | 25.8–29.5% | 25.3–30.0% | 24.9–30.5% | 24.1–31.4% |
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 27.1% | 25.3–29.0% | 24.9–29.5% | 24.4–29.9% | 23.6–30.8% |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 25.0% | 23.4–26.9% | 22.9–27.4% | 22.5–27.8% | 21.7–28.7% |
-| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political | 26.5% | N/A | N/A | N/A | N/A |
-| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 26.6% | N/A | N/A | N/A | N/A |
-| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 27.2% | N/A | N/A | N/A | N/A |
+| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political | 26.5% | 24.8–28.3% | 24.3–28.9% | 23.9–29.3% | 23.0–30.2% |
+| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 26.6% | 25.5–27.8% | 25.1–28.1% | 24.9–28.4% | 24.3–29.0% |
+| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 27.2% | 25.9–28.5% | 25.6–28.9% | 25.3–29.2% | 24.7–29.8% |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 26.2% | 24.5–28.0% | 24.0–28.6% | 23.6–29.0% | 22.8–29.9% |
-| [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political | 24.7% | N/A | N/A | N/A | N/A |
+| [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political | 24.7% | 23.2–26.4% | 22.7–26.8% | 22.4–27.3% | 21.6–28.1% |
 | [26 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 25.4% | 23.7–27.1% | 23.3–27.6% | 22.9–28.0% | 22.1–28.9% |
 | [24–27 November 2020](2020-11-27-Prorata.html) | Prorata | 29.4% | 28.3–30.5% | 28.0–30.8% | 27.7–31.1% | 27.2–31.7% |
 | [24–26 November 2020](2020-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25.5% | 24.0–27.1% | 23.6–27.6% | 23.2–28.0% | 22.5–28.7% |
@@ -196,12 +196,12 @@ Last result: **86** seats (General Election of 7 July 2019)
 | [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV | 75 | 70–79 | 68–81 | 67–82 | 65–85 |
 | [3–5 June 2021](2021-06-05-GPO.html) | GPO <br> Powergame.gr | 73 | 69–79 | 67–80 | 67–82 | 64–84 |
 | [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 73 | 69–78 | 69–78 | 68–81 | 65–82 |
-| [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll | 66 | 66 | 66 | 66 | 66 |
+| [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll | 65 | 61–68 | 60–69 | 60–70 | 58–72 |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 68 | 64–72 | 62–73 | 61–74 | 60–76 |
 | [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 75 | 70–81 | 68–82 | 67–84 | 65–86 |
 | [11–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 66 | 63–69 | 62–70 | 61–71 | 59–74 |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> Powergame.gr | 72 | 67–77 | 66–78 | 65–79 | 63–82 |
-| [22–27 April 2021](2021-04-27-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 68 | 68–70 | 67–71 | 65–78 | 60–79 |
+| [22–27 April 2021](2021-04-27-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 68 | 65–72 | 63–74 | 61–76 | 59–78 |
 | [23–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 75 | 71–79 | 69–81 | 68–82 | 67–84 |
 | [19–23 April 2021](2021-04-23-OpinionPoll.html) | Opinion Poll | 69 | 63–73 | 62–74 | 62–76 | 60–79 |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 69 | 65–73 | 64–75 | 63–76 | 61–78 |
@@ -217,22 +217,22 @@ Last result: **86** seats (General Election of 7 July 2019)
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Powergame.gr | 71 | 68–76 | 65–78 | 64–80 | 62–82 |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 73 | 69–78 | 68–80 | 66–81 | 64–83 |
 | [1–3 March 2021](2021-03-03-GPO.html) | GPO <br> Τα Νέα | 71 | 66–77 | 65–78 | 64–79 | 62–82 |
-| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 70 | 67–75 | 65–76 | 64–76 | 62–80 |
+| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 70 | 66–75 | 65–76 | 64–77 | 62–80 |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 66 | 61–71 | 60–72 | 59–73 | 57–76 |
 | [14–22 February 2021](2021-02-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 83 | 77–88 | 76–90 | 75–91 | 72–94 |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll | 66 | 61–70 | 59–71 | 58–72 | 56–75 |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 72 | 67–77 | 66–79 | 66–80 | 63–83 |
 | [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 64 | 60–68 | 59–70 | 58–71 | 56–73 |
-| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
-| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 69 | 65–73 | 64–74 | 63–75 | 62–77 |
+| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 68 | 63–71 | 62–73 | 61–74 | 59–77 |
+| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 73 | 68–78 | 67–79 | 66–81 | 64–83 |
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 74 | 69–79 | 68–81 | 66–82 | 64–85 |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 67 | 62–72 | 61–73 | 60–75 | 58–77 |
-| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political |  |  |  |  |  |
-| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star |  |  |  |  |  |
+| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political | 69 | 65–74 | 64–76 | 62–77 | 60–79 |
+| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 72 | 69–75 | 69–76 | 68–77 | 66–80 |
+| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 72 | 69–75 | 68–77 | 67–78 | 65–79 |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 71 | 65–75 | 64–77 | 63–78 | 61–81 |
-| [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political |  |  |  |  |  |
+| [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political | 68 | 63–73 | 63–74 | 61–75 | 59–77 |
 | [26 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 69 | 64–74 | 63–75 | 62–76 | 60–79 |
 | [24–27 November 2020](2020-11-27-Prorata.html) | Prorata | 79 | 76–83 | 75–84 | 75–84 | 73–86 |
 | [24–26 November 2020](2020-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 69 | 65–73 | 63–74 | 62–76 | 61–78 |

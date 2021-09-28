@@ -66,7 +66,7 @@ Last result: **2.9%** (General Election of 7 July 2019)
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 0.0% | N/A | N/A | N/A | N/A |
 | [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political | 0.0% | N/A | N/A | N/A | N/A |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
-| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 1.2% | N/A | N/A | N/A | N/A |
+| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 1.2% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
 | [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political | 0.0% | N/A | N/A | N/A | N/A |
 | [26 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -221,7 +221,7 @@ Last result: **0** seats (General Election of 7 July 2019)
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV |  |  |  |  |  |
 | [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political |  |  |  |  |  |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star |  |  |  |  |  |
+| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0 | 0 |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
 | [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political |  |  |  |  |  |
 | [26 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
