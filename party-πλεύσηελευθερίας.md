@@ -165,7 +165,7 @@ Last result: **0** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–8 |
 | [22 September 2021](2021-09-22-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0 | 0 |
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0–9 |
@@ -307,16 +307,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Last Result, Median |
-| 1 | 0% | 0.4% |  |
-| 2 | 0% | 0.4% |  |
-| 3 | 0% | 0.4% |  |
-| 4 | 0% | 0.4% |  |
-| 5 | 0% | 0.4% |  |
-| 6 | 0% | 0.4% |  |
-| 7 | 0% | 0.4% |  |
-| 8 | 0.2% | 0.4% |  |
-| 9 | 0.2% | 0.3% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0% | 0.5% |  |
+| 2 | 0% | 0.5% |  |
+| 3 | 0% | 0.5% |  |
+| 4 | 0% | 0.5% |  |
+| 5 | 0% | 0.5% |  |
+| 6 | 0% | 0.5% |  |
+| 7 | 0% | 0.5% |  |
+| 8 | 0.2% | 0.5% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
 

@@ -169,11 +169,11 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–21 | 14–22 | 14–22 | 12–24 |
-| [22 September 2021](2021-09-22-MRB.html) | MRB <br> Star | 17 | 14–19 | 13–19 | 12–21 | 11–22 |
-| [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19 | 17–21 | 17–22 | 16–23 | 15–24 |
-| [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 18 | 16–21 | 15–22 | 14–23 | 14–24 |
-| [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 17 | 15–20 | 14–21 | 13–21 | 13–23 |
+| N/A | [Poll Average](average.html) | 18 | 15–21 | 14–22 | 13–22 | 12–24 |
+| [22 September 2021](2021-09-22-MRB.html) | MRB <br> Star | 16 | 14–19 | 13–20 | 12–20 | 11–22 |
+| [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19 | 17–21 | 17–22 | 16–22 | 15–24 |
+| [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 18 | 16–21 | 15–22 | 14–23 | 13–24 |
+| [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 17 | 15–20 | 14–21 | 13–22 | 12–23 |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 18 | 16–22 | 16–23 | 15–23 | 13–25 |
 | [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political | 18 | 16–21 | 15–22 | 15–23 | 13–24 |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 17 | 15–20 | 14–20 | 14–21 | 13–22 |
@@ -312,19 +312,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.1% | 100% |  |
-| 12 | 0.7% | 99.9% |  |
-| 13 | 2% | 99.2% |  |
-| 14 | 5% | 98% |  |
+| 12 | 0.6% | 99.9% |  |
+| 13 | 2% | 99.3% |  |
+| 14 | 5% | 97% |  |
 | 15 | 9% | 92% | Last Result |
-| 16 | 11% | 83% |  |
-| 17 | 17% | 71% |  |
-| 18 | 17% | 55% | Median |
-| 19 | 16% | 37% |  |
-| 20 | 9% | 22% |  |
-| 21 | 7% | 13% |  |
+| 16 | 14% | 83% |  |
+| 17 | 15% | 70% |  |
+| 18 | 18% | 54% | Median |
+| 19 | 15% | 36% |  |
+| 20 | 10% | 21% |  |
+| 21 | 6% | 11% |  |
 | 22 | 3% | 5% |  |
 | 23 | 2% | 2% |  |
-| 24 | 0.6% | 0.8% |  |
+| 24 | 0.5% | 0.8% |  |
 | 25 | 0.2% | 0.2% |  |
 | 26 | 0% | 0.1% |  |
 | 27 | 0% | 0% |  |
