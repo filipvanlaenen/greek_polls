@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Tue, 28 Sep 2021 07:45:59 +0200</pubDate>
+    <pubDate>Thu, 30 Sep 2021 19:10:33 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by MRB for Star, 22 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-09-22-MRB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 70–86 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 152–168 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–27 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 12–20 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 8–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-22-MRB-seats.png"
+        length="221430"
+        type="image/png"/>
+      <pubDate>Thu, 30 Sep 2021 17:01:11 +0200</pubDate>
+      <dc:date>2021-09-30T17:01:11.818548+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 22 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-09-22-MRB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-22-MRB-coalitions-seats.png"
+        length="264292"
+        type="image/png"/>
+      <pubDate>Thu, 30 Sep 2021 17:01:11 +0200</pubDate>
+      <dc:date>2021-09-30T17:01:11.818548+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MRB for Star, 22 September 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-09-22-MRB.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-22-MRB.png"
         length="266841"
         type="image/png"/>
-      <pubDate>Mon, 27 Sep 2021 07:05:17 +0200</pubDate>
-      <dc:date>2021-09-27T07:05:17.71262+02:00</dc:date>
+      <pubDate>Thu, 30 Sep 2021 17:01:11 +0200</pubDate>
+      <dc:date>2021-09-30T17:01:11.818548+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 19–21 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-09-21-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 71–83 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 154–167 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–24 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 16–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 12–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-21-PulseRC-seats.png"
+        length="198538"
+        type="image/png"/>
+      <pubDate>Thu, 30 Sep 2021 19:10:33 +0200</pubDate>
+      <dc:date>2021-09-30T19:10:33.836738+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 19–21 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-09-21-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-21-PulseRC-coalitions-seats.png"
+        length="246996"
+        type="image/png"/>
+      <pubDate>Thu, 30 Sep 2021 19:10:33 +0200</pubDate>
+      <dc:date>2021-09-30T19:10:33.836738+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 19–21 September 2021 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-21-PulseRC.png"
         length="225083"
         type="image/png"/>
-      <pubDate>Mon, 27 Sep 2021 07:16:11 +0200</pubDate>
-      <dc:date>2021-09-27T07:16:11.556661+02:00</dc:date>
+      <pubDate>Thu, 30 Sep 2021 19:10:33 +0200</pubDate>
+      <dc:date>2021-09-30T19:10:33.836738+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Open TV, 13–17 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-09-17-Alco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 69–84 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 151–168 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–27 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–23 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 12–19 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-17-Alco-seats.png"
+        length="226342"
+        type="image/png"/>
+      <pubDate>Thu, 30 Sep 2021 17:40:46 +0200</pubDate>
+      <dc:date>2021-09-30T17:40:46.915733+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Open TV, 13–17 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-09-17-Alco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-17-Alco-coalitions-seats.png"
+        length="271061"
+        type="image/png"/>
+      <pubDate>Thu, 30 Sep 2021 17:40:46 +0200</pubDate>
+      <dc:date>2021-09-30T17:40:46.915733+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 13–17 September 2021 – Voting Intentions</title>
@@ -36,8 +96,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-17-Alco.png"
         length="269743"
         type="image/png"/>
-      <pubDate>Thu, 23 Sep 2021 08:44:45 +0200</pubDate>
-      <dc:date>2021-09-23T08:44:45.818257+02:00</dc:date>
+      <pubDate>Thu, 30 Sep 2021 17:40:46 +0200</pubDate>
+      <dc:date>2021-09-30T17:40:46.915733+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 13–15 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-09-15-MRB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 69–85 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 154–171 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–28 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–16 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-15-MRB-seats.png"
+        length="204697"
+        type="image/png"/>
+      <pubDate>Thu, 30 Sep 2021 17:10:53 +0200</pubDate>
+      <dc:date>2021-09-30T17:10:53.484853+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 13–15 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-09-15-MRB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-15-MRB-coalitions-seats.png"
+        length="268703"
+        type="image/png"/>
+      <pubDate>Thu, 30 Sep 2021 17:10:53 +0200</pubDate>
+      <dc:date>2021-09-30T17:10:53.484853+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 13–15 September 2021 – Voting Intentions</title>
@@ -46,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-15-MRB.png"
         length="233274"
         type="image/png"/>
-      <pubDate>Thu, 23 Sep 2021 09:00:06 +0200</pubDate>
-      <dc:date>2021-09-23T09:00:06.934487+02:00</dc:date>
+      <pubDate>Thu, 30 Sep 2021 17:10:53 +0200</pubDate>
+      <dc:date>2021-09-30T17:10:53.484853+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Παραπολιτικά, 13–15 September 2021 – Voting Intentions</title>
@@ -3089,6 +3169,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-09-28T07:45:59.107708+02:00</dc:date>
+    <dc:date>2021-09-30T19:10:33.836738+02:00</dc:date>
   </channel>
 </rss>
