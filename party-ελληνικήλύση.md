@@ -10,9 +10,13 @@ Last result: **3.7%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.8–5.8% | 3.6–6.1% | 3.4–6.3% | 3.1–6.9% |
-| [22 September 2021](2021-09-22-MRB.html) | MRB <br> Star | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
+| N/A | [Poll Average](average.html) | 5.0% | 4.1–5.9% | 3.9–6.2% | 3.7–6.5% | 3.3–7.0% |
+| [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr | 4.8% | 4.1–5.7% | 3.9–6.0% | 3.7–6.2% | 3.4–6.7% |
+| [21–27 September 2021](2021-09-27-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5.3% | N/A | N/A | N/A | N/A |
+| [20–24 September 2021](2021-09-24-GPO.html) | GPO <br> Powergame.gr | 4.0% | N/A | N/A | N/A | N/A |
+| [19–23 September 2021](2021-09-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5.5% | N/A | N/A | N/A | N/A |
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.2% | 4.6–5.9% | 4.5–6.1% | 4.3–6.3% | 4.0–6.6% |
+| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star | 4.6% | N/A | N/A | N/A | N/A |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
@@ -151,12 +155,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 35% | 96% | Last Result |
-| 4.5–5.5% | 45% | 62% | Median |
-| 5.5–6.5% | 15% | 17% |  |
-| 6.5–7.5% | 1.3% | 1.3% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 2% | 100% |  |
+| 3.5–4.5% | 24% | 98% | Last Result |
+| 4.5–5.5% | 52% | 75% | Median |
+| 5.5–6.5% | 20% | 22% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -168,9 +172,13 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–16 | 10–17 | 9–18 | 8–19 |
-| [22 September 2021](2021-09-22-MRB.html) | MRB <br> Star | 12 | 10–15 | 10–16 | 9–17 | 8–18 |
+| N/A | [Poll Average](average.html) | 14 | 11–16 | 10–17 | 10–18 | 9–20 |
+| [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr | 13 | 11–16 | 11–17 | 10–17 | 9–19 |
+| [21–27 September 2021](2021-09-27-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [20–24 September 2021](2021-09-24-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
+| [19–23 September 2021](2021-09-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 15 | 13–16 | 12–17 | 12–17 | 11–18 |
+| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 14 | 13–18 | 12–19 | 12–19 | 11–20 |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 12 | 10–14 | 9–15 | 9–16 | 0–17 |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 12 | 9–14 | 9–15 | 8–15 | 0–17 |
@@ -310,27 +318,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 0% | 99.7% |  |
-| 2 | 0% | 99.7% |  |
-| 3 | 0% | 99.7% |  |
-| 4 | 0% | 99.7% |  |
-| 5 | 0% | 99.7% |  |
-| 6 | 0% | 99.7% |  |
-| 7 | 0% | 99.7% |  |
-| 8 | 0.3% | 99.7% |  |
-| 9 | 3% | 99.3% |  |
-| 10 | 7% | 97% | Last Result |
-| 11 | 12% | 90% |  |
-| 12 | 16% | 78% |  |
-| 13 | 18% | 62% | Median |
-| 14 | 16% | 43% |  |
-| 15 | 12% | 27% |  |
-| 16 | 8% | 14% |  |
-| 17 | 4% | 7% |  |
-| 18 | 2% | 3% |  |
-| 19 | 0.9% | 1.3% |  |
-| 20 | 0.3% | 0.4% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0% | 99.9% |  |
+| 4 | 0% | 99.9% |  |
+| 5 | 0% | 99.9% |  |
+| 6 | 0% | 99.9% |  |
+| 7 | 0% | 99.9% |  |
+| 8 | 0.2% | 99.9% |  |
+| 9 | 1.5% | 99.7% |  |
+| 10 | 4% | 98% | Last Result |
+| 11 | 8% | 94% |  |
+| 12 | 13% | 86% |  |
+| 13 | 20% | 73% |  |
+| 14 | 20% | 53% | Median |
+| 15 | 16% | 33% |  |
+| 16 | 9% | 18% |  |
+| 17 | 4% | 8% |  |
+| 18 | 2% | 4% |  |
+| 19 | 1.2% | 2% |  |
+| 20 | 0.4% | 0.5% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
