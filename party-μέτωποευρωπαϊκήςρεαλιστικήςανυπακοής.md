@@ -10,7 +10,9 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.6–5.3% | 2.3–5.8% | 2.1–6.1% | 1.7–6.8% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.5–5.4% | 2.2–5.8% | 2.0–6.1% | 1.7–6.8% |
+| [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
+| [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 4.4% | 3.7–5.3% | 3.5–5.5% | 3.3–5.8% | 3.0–6.2% |
 | [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.6–3.5% | 1.4–3.8% |
 | [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.3–4.6% | 2.1–5.0% |
@@ -159,12 +161,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 9% | 99.8% |  |
-| 2.5–3.5% | 34% | 91% | Last Result |
-| 3.5–4.5% | 34% | 57% | Median |
-| 4.5–5.5% | 16% | 23% |  |
-| 5.5–6.5% | 6% | 7% |  |
-| 6.5–7.5% | 0.9% | 1.0% |  |
+| 1.5–2.5% | 11% | 99.8% |  |
+| 2.5–3.5% | 32% | 89% | Last Result |
+| 3.5–4.5% | 31% | 57% | Median |
+| 4.5–5.5% | 18% | 26% |  |
+| 5.5–6.5% | 7% | 8% |  |
+| 6.5–7.5% | 0.9% | 0.9% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -176,8 +178,10 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 0–14 | 0–16 | 0–17 | 0–18 |
-| [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 12 | 11–15 | 10–15 | 9–16 | 0–17 |
+| N/A | [Poll Average](average.html) | 10 | 0–15 | 0–16 | 0–17 | 0–18 |
+| [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
+| [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 13 | 11–15 | 10–16 | 10–16 | 9–18 |
+| [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 12 | 10–14 | 9–15 | 9–16 | 0–17 |
 | [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0 | 0–9 | 0–9 | 0–10 | 0–10 |
 | [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
 | [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr | 12 | 10–15 | 10–16 | 9–16 | 8–17 |
@@ -325,25 +329,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 21% | 100% |  |
-| 1 | 0% | 79% |  |
-| 2 | 0% | 79% |  |
-| 3 | 0% | 79% |  |
-| 4 | 0% | 79% |  |
-| 5 | 0% | 79% |  |
-| 6 | 0% | 79% |  |
-| 7 | 0% | 79% |  |
-| 8 | 4% | 79% |  |
-| 9 | 16% | 76% | Last Result |
-| 10 | 15% | 59% | Median |
-| 11 | 13% | 44% |  |
-| 12 | 10% | 31% |  |
-| 13 | 5% | 22% |  |
-| 14 | 7% | 16% |  |
-| 15 | 4% | 10% |  |
+| 0 | 23% | 100% |  |
+| 1 | 0% | 77% |  |
+| 2 | 0% | 77% |  |
+| 3 | 0% | 77% |  |
+| 4 | 0% | 77% |  |
+| 5 | 0% | 77% |  |
+| 6 | 0% | 77% |  |
+| 7 | 0% | 77% |  |
+| 8 | 4% | 77% |  |
+| 9 | 14% | 73% | Last Result |
+| 10 | 13% | 59% | Median |
+| 11 | 10% | 45% |  |
+| 12 | 11% | 35% |  |
+| 13 | 8% | 24% |  |
+| 14 | 6% | 16% |  |
+| 15 | 5% | 10% |  |
 | 16 | 3% | 5% |  |
-| 17 | 2% | 3% |  |
-| 18 | 0.7% | 1.1% |  |
+| 17 | 1.5% | 3% |  |
+| 18 | 0.7% | 1.0% |  |
 | 19 | 0.3% | 0.4% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |

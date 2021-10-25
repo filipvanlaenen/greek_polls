@@ -10,7 +10,9 @@ Last result: **5.3%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 5.3–7.8% | 5.0–8.1% | 4.7–8.4% | 4.3–9.0% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.3–7.7% | 5.0–8.0% | 4.7–8.4% | 4.3–9.0% |
+| [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.7% |
+| [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 6.2% | 5.3–7.2% | 5.1–7.5% | 4.9–7.8% | 4.5–8.3% |
 | [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 5.4% | 4.6–6.4% | 4.4–6.6% | 4.2–6.9% | 3.9–7.4% |
 | [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 6.9% | 5.9–8.0% | 5.7–8.3% | 5.4–8.6% | 5.0–9.2% |
@@ -159,11 +161,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 1.4% | 100% |  |
-| 4.5–5.5% | 13% | 98.6% | Last Result |
-| 5.5–6.5% | 35% | 85% |  |
-| 6.5–7.5% | 36% | 51% | Median |
-| 7.5–8.5% | 13% | 14% |  |
-| 8.5–9.5% | 2% | 2% |  |
+| 4.5–5.5% | 14% | 98.6% | Last Result |
+| 5.5–6.5% | 37% | 84% |  |
+| 6.5–7.5% | 35% | 48% | Median |
+| 7.5–8.5% | 11% | 13% |  |
+| 8.5–9.5% | 1.5% | 2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -177,7 +179,9 @@ Last result: **15** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 15–21 | 14–22 | 13–23 | 12–25 |
-| [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 17 | 15–20 | 14–21 | 14–22 | 13–23 |
+| [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 18 | 15–21 | 15–22 | 14–23 | 13–24 |
+| [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 17 | 15–20 | 14–20 | 13–21 | 12–22 |
+| [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 18 | 16–21 | 15–22 | 14–23 | 13–24 |
 | [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 15 | 13–18 | 12–19 | 12–19 | 11–21 |
 | [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 18 | 16–22 | 15–22 | 15–23 | 13–25 |
 | [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr | 16 | 13–18 | 13–19 | 12–20 | 11–21 |
@@ -327,19 +331,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.2% | 100% |  |
 | 12 | 1.0% | 99.7% |  |
-| 13 | 2% | 98.7% |  |
+| 13 | 2% | 98.8% |  |
 | 14 | 4% | 96% |  |
-| 15 | 8% | 92% | Last Result |
-| 16 | 11% | 84% |  |
-| 17 | 14% | 73% |  |
-| 18 | 17% | 59% | Median |
-| 19 | 14% | 42% |  |
-| 20 | 13% | 28% |  |
+| 15 | 10% | 92% | Last Result |
+| 16 | 10% | 82% |  |
+| 17 | 14% | 72% |  |
+| 18 | 17% | 58% | Median |
+| 19 | 13% | 40% |  |
+| 20 | 12% | 27% |  |
 | 21 | 8% | 15% |  |
-| 22 | 4% | 8% |  |
-| 23 | 2% | 4% |  |
-| 24 | 0.9% | 1.4% |  |
-| 25 | 0.4% | 0.6% |  |
+| 22 | 4% | 7% |  |
+| 23 | 2% | 3% |  |
+| 24 | 0.8% | 1.3% |  |
+| 25 | 0.3% | 0.5% |  |
 | 26 | 0.1% | 0.2% |  |
 | 27 | 0% | 0.1% |  |
 | 28 | 0% | 0% |  |
