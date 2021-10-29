@@ -177,7 +177,7 @@ Last result: **0** seats (General Election of 7 July 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 0 | 0 | 0 | 0 | 0 |
 | [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0–8 |
-| [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 0 | 0 | 0 | 0 | 0–9 |
+| [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 0 | 0 | 0 | 0 | 0–8 |
 | [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
 | [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
 | [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
@@ -325,15 +325,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Last Result, Median |
-| 1 | 0% | 0.4% |  |
-| 2 | 0% | 0.4% |  |
-| 3 | 0% | 0.4% |  |
-| 4 | 0% | 0.4% |  |
-| 5 | 0% | 0.4% |  |
-| 6 | 0% | 0.4% |  |
-| 7 | 0% | 0.4% |  |
-| 8 | 0.2% | 0.4% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0% | 0.5% |  |
+| 2 | 0% | 0.5% |  |
+| 3 | 0% | 0.5% |  |
+| 4 | 0% | 0.5% |  |
+| 5 | 0% | 0.5% |  |
+| 6 | 0% | 0.5% |  |
+| 7 | 0% | 0.5% |  |
+| 8 | 0.2% | 0.5% |  |
 | 9 | 0.2% | 0.3% |  |
 | 10 | 0% | 0% |  |
 

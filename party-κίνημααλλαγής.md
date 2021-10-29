@@ -179,9 +179,9 @@ Last result: **22** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 18–24 | 17–25 | 17–26 | 15–28 |
-| [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 21 | 18–24 | 17–25 | 16–26 | 15–27 |
-| [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 20 | 18–23 | 17–24 | 17–24 | 15–26 |
-| [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 23 | 20–26 | 19–27 | 18–28 | 17–29 |
+| [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 21 | 18–24 | 17–25 | 16–25 | 15–27 |
+| [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 20 | 18–23 | 17–24 | 16–25 | 15–27 |
+| [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 23 | 20–26 | 19–27 | 19–27 | 17–29 |
 | [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 22 | 19–25 | 18–26 | 18–27 | 17–28 |
 | [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 21 | 19–24 | 17–25 | 17–26 | 16–27 |
 | [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr | 22 | 19–25 | 19–26 | 18–27 | 17–28 |
@@ -330,21 +330,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.1% | 100% |  |
-| 15 | 0.4% | 99.9% |  |
-| 16 | 1.4% | 99.4% |  |
+| 15 | 0.5% | 99.8% |  |
+| 16 | 2% | 99.3% |  |
 | 17 | 3% | 98% |  |
-| 18 | 7% | 95% |  |
-| 19 | 13% | 88% |  |
-| 20 | 15% | 75% |  |
-| 21 | 16% | 60% | Median |
-| 22 | 16% | 44% | Last Result |
-| 23 | 11% | 28% |  |
-| 24 | 9% | 18% |  |
-| 25 | 4% | 9% |  |
+| 18 | 6% | 94% |  |
+| 19 | 12% | 88% |  |
+| 20 | 15% | 76% |  |
+| 21 | 16% | 61% | Median |
+| 22 | 16% | 45% | Last Result |
+| 23 | 12% | 29% |  |
+| 24 | 8% | 17% |  |
+| 25 | 5% | 9% |  |
 | 26 | 3% | 5% |  |
-| 27 | 1.3% | 2% |  |
-| 28 | 0.5% | 0.8% |  |
-| 29 | 0.2% | 0.3% |  |
+| 27 | 1.2% | 2% |  |
+| 28 | 0.5% | 0.7% |  |
+| 29 | 0.2% | 0.2% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 
