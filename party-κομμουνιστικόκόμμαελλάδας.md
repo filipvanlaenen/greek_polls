@@ -183,7 +183,7 @@ Last result: **15** seats (General Election of 7 July 2019)
 | [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 17 | 14–20 | 14–21 | 13–21 | 12–23 |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 18 | 16–21 | 15–21 | 14–22 | 13–23 |
 | [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 15 | 13–18 | 12–19 | 12–19 | 11–21 |
-| [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 18 | 16–22 | 15–22 | 15–23 | 13–25 |
+| [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 19 | 16–22 | 15–22 | 15–23 | 14–25 |
 | [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr | 16 | 13–18 | 13–19 | 12–20 | 11–21 |
 | [21–27 September 2021](2021-09-27-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 18 | 16–21 | 15–22 | 15–23 | 14–24 |
 | [20–24 September 2021](2021-09-24-GPO.html) | GPO <br> Powergame.gr | 20 | 17–23 | 17–24 | 16–25 | 15–26 |
@@ -334,12 +334,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 2% | 98.8% |  |
 | 14 | 5% | 96% |  |
 | 15 | 8% | 91% | Last Result |
-| 16 | 11% | 83% |  |
-| 17 | 15% | 71% |  |
+| 16 | 12% | 83% |  |
+| 17 | 14% | 71% |  |
 | 18 | 16% | 57% | Median |
-| 19 | 14% | 41% |  |
-| 20 | 12% | 26% |  |
-| 21 | 7% | 14% |  |
+| 19 | 15% | 41% |  |
+| 20 | 11% | 26% |  |
+| 21 | 8% | 15% |  |
 | 22 | 4% | 7% |  |
 | 23 | 2% | 3% |  |
 | 24 | 0.8% | 1.3% |  |
