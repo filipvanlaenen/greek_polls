@@ -10,7 +10,9 @@ Last result: **5.3%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.3–7.7% | 5.0–8.0% | 4.7–8.4% | 4.3–9.0% |
+| N/A | [Poll Average](average.html) | 6.2% | 5.2–7.5% | 4.9–7.8% | 4.7–8.1% | 4.3–8.8% |
+| [27–29 October 2021](2021-10-29-GPO.html) | GPO <br> Powergame.gr | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
+| [22–25 October 2021](2021-10-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.8% | 5.2–6.6% | 5.0–6.8% | 4.8–7.0% | 4.6–7.3% |
 | [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.7% |
 | [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 6.2% | 5.3–7.2% | 5.1–7.5% | 4.9–7.8% | 4.5–8.3% |
@@ -160,13 +162,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.4% | 100% |  |
-| 4.5–5.5% | 14% | 98.6% | Last Result |
-| 5.5–6.5% | 37% | 84% |  |
-| 6.5–7.5% | 35% | 48% | Median |
-| 7.5–8.5% | 11% | 13% |  |
-| 8.5–9.5% | 1.5% | 2% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 19% | 98% | Last Result |
+| 5.5–6.5% | 43% | 80% | Median |
+| 6.5–7.5% | 28% | 37% |  |
+| 7.5–8.5% | 8% | 9% |  |
+| 8.5–9.5% | 0.9% | 0.9% |  |
+| 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -178,7 +180,9 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–21 | 14–22 | 13–23 | 12–25 |
+| N/A | [Poll Average](average.html) | 17 | 14–20 | 14–21 | 13–22 | 12–24 |
+| [27–29 October 2021](2021-10-29-GPO.html) | GPO <br> Powergame.gr | 18 | 16–21 | 15–22 | 15–23 | 14–25 |
+| [22–25 October 2021](2021-10-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
 | [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 18 | 15–21 | 15–22 | 14–22 | 13–24 |
 | [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 17 | 14–20 | 14–21 | 13–21 | 12–23 |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 18 | 16–21 | 15–21 | 14–22 | 13–23 |
@@ -330,22 +334,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.2% | 100% |  |
-| 12 | 0.9% | 99.7% |  |
-| 13 | 2% | 98.8% |  |
-| 14 | 5% | 96% |  |
-| 15 | 8% | 91% | Last Result |
-| 16 | 12% | 83% |  |
-| 17 | 14% | 71% |  |
-| 18 | 16% | 57% | Median |
-| 19 | 15% | 41% |  |
-| 20 | 11% | 26% |  |
-| 21 | 8% | 15% |  |
-| 22 | 4% | 7% |  |
-| 23 | 2% | 3% |  |
-| 24 | 0.8% | 1.3% |  |
-| 25 | 0.3% | 0.5% |  |
-| 26 | 0.1% | 0.2% |  |
-| 27 | 0% | 0.1% |  |
-| 28 | 0% | 0% |  |
+| 12 | 1.0% | 99.7% |  |
+| 13 | 3% | 98.8% |  |
+| 14 | 6% | 96% |  |
+| 15 | 11% | 90% | Last Result |
+| 16 | 15% | 79% |  |
+| 17 | 16% | 64% | Median |
+| 18 | 16% | 47% |  |
+| 19 | 12% | 31% |  |
+| 20 | 9% | 19% |  |
+| 21 | 5% | 10% |  |
+| 22 | 3% | 5% |  |
+| 23 | 1.2% | 2% |  |
+| 24 | 0.4% | 0.7% |  |
+| 25 | 0.2% | 0.3% |  |
+| 26 | 0% | 0.1% |  |
+| 27 | 0% | 0% |  |
 
 
