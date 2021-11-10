@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Tue, 09 Nov 2021 07:46:36 +0100</pubDate>
+    <pubDate>Wed, 10 Nov 2021 17:55:25 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by GPO for Powergame.gr, 27–29 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-10-29-GPO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 70–86 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 154–171 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–27 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 15–23 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 8–15 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-10-29-GPO-seats.png"
+        length="205753"
+        type="image/png"/>
+      <pubDate>Wed, 10 Nov 2021 17:44:43 +0100</pubDate>
+      <dc:date>2021-11-10T17:44:43.27791+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Powergame.gr, 27–29 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-10-29-GPO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-10-29-GPO-coalitions-seats.png"
+        length="269453"
+        type="image/png"/>
+      <pubDate>Wed, 10 Nov 2021 17:44:43 +0100</pubDate>
+      <dc:date>2021-11-10T17:44:43.27791+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by GPO for Powergame.gr, 27–29 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-10-29-GPO.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-10-29-GPO.png"
         length="235271"
         type="image/png"/>
-      <pubDate>Tue, 09 Nov 2021 07:38:39 +0100</pubDate>
-      <dc:date>2021-11-09T07:38:39.957637+01:00</dc:date>
+      <pubDate>Wed, 10 Nov 2021 17:44:43 +0100</pubDate>
+      <dc:date>2021-11-10T17:44:43.27791+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 22–25 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-10-25-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 70–82 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 155–168 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 22–30 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–19 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–14 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-10-25-PulseRC-seats.png"
+        length="200239"
+        type="image/png"/>
+      <pubDate>Wed, 10 Nov 2021 17:55:25 +0100</pubDate>
+      <dc:date>2021-11-10T17:55:25.464416+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 22–25 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-10-25-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-10-25-PulseRC-coalitions-seats.png"
+        length="251195"
+        type="image/png"/>
+      <pubDate>Wed, 10 Nov 2021 17:55:25 +0100</pubDate>
+      <dc:date>2021-11-10T17:55:25.464416+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 22–25 October 2021 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-10-25-PulseRC.png"
         length="225239"
         type="image/png"/>
-      <pubDate>Tue, 09 Nov 2021 07:46:36 +0100</pubDate>
-      <dc:date>2021-11-09T07:46:36.975411+01:00</dc:date>
+      <pubDate>Wed, 10 Nov 2021 17:55:25 +0100</pubDate>
+      <dc:date>2021-11-10T17:55:25.464416+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll for Mononews, 13–19 October 2021 – Seat Projections for the Parties</title>
@@ -3479,6 +3519,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58.446398+01:00</dc:date>
     </item>
-    <dc:date>2021-11-09T07:46:36.975411+01:00</dc:date>
+    <dc:date>2021-11-10T17:55:25.464416+01:00</dc:date>
   </channel>
 </rss>
