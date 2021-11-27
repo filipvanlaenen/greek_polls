@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sat, 27 Nov 2021 10:06:22 +0100</pubDate>
+    <pubDate>Sat, 27 Nov 2021 19:45:59 +0100</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 20–25 November 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-11-25-PulseRC.html#seats</link>
@@ -128,6 +128,36 @@
         type="image/png"/>
       <pubDate>Sat, 27 Nov 2021 10:06:22 +0100</pubDate>
       <dc:date>2021-11-27T10:06:22.908704+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Politic.gr, 3–8 November 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-11-08-Interview.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 66–78 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 152–166 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 24–32 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–20 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 13–19 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-11-08-Interview-seats.png"
+        length="202268"
+        type="image/png"/>
+      <pubDate>Sat, 27 Nov 2021 19:45:59 +0100</pubDate>
+      <dc:date>2021-11-27T19:45:59.606442+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Politic.gr, 3–8 November 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-11-08-Interview.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-11-08-Interview-coalitions-seats.png"
+        length="254217"
+        type="image/png"/>
+      <pubDate>Sat, 27 Nov 2021 19:45:59 +0100</pubDate>
+      <dc:date>2021-11-27T19:45:59.606442+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Politic.gr, 3–8 November 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-11-08-Interview.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.3–28.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 37.7–42.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 9.0–11.9%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.1–7.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.9–7.1%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.6–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-11-08-Interview.png"
+        length="226977"
+        type="image/png"/>
+      <pubDate>Sat, 27 Nov 2021 19:45:59 +0100</pubDate>
+      <dc:date>2021-11-27T19:45:59.606442+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 12–17 July 2021 – Seat Projections for the Parties</title>
@@ -3909,6 +3939,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58+01:00</dc:date>
     </item>
-    <dc:date>2021-11-27T10:06:22.908704+01:00</dc:date>
+    <dc:date>2021-11-27T19:45:59.606442+01:00</dc:date>
   </channel>
 </rss>
