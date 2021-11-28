@@ -20,10 +20,10 @@ Last result: **31.5%** (General Election of 7 July 2019)
 | [3–8 November 2021](2021-11-08-Interview.html) | Interview <br> Politic.gr | 26.3% | 25.0–27.7% | 24.6–28.1% | 24.3–28.4% | 23.7–29.1% |
 | [27–29 October 2021](2021-10-29-GPO.html) | GPO <br> Powergame.gr | 28.7% | 26.9–30.6% | 26.4–31.1% | 26.0–31.6% | 25.1–32.5% |
 | [22–25 October 2021](2021-10-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 27.3% | N/A | N/A | N/A | N/A |
-| [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 27.3% | N/A | N/A | N/A | N/A |
+| [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 27.3% | 25.5–29.1% | 25.0–29.6% | 24.6–30.1% | 23.8–31.0% |
 | [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 28.3% | N/A | N/A | N/A | N/A |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 25.3% | N/A | N/A | N/A | N/A |
-| [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 31.1% | N/A | N/A | N/A | N/A |
+| [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 31.1% | 29.4–32.9% | 28.9–33.4% | 28.5–33.9% | 27.7–34.8% |
 | [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 27.1% | N/A | N/A | N/A | N/A |
 | [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr | 27.2% | N/A | N/A | N/A | N/A |
 | [21–27 September 2021](2021-09-27-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 26.2% | N/A | N/A | N/A | N/A |
@@ -220,10 +220,10 @@ Last result: **86** seats (General Election of 7 July 2019)
 | [3–8 November 2021](2021-11-08-Interview.html) | Interview <br> Politic.gr | 72 | 68–75 | 67–77 | 66–78 | 64–79 |
 | [27–29 October 2021](2021-10-29-GPO.html) | GPO <br> Powergame.gr | 77 | 73–83 | 71–84 | 70–86 | 68–88 |
 | [22–25 October 2021](2021-10-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews |  |  |  |  |  |
+| [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 75 | 70–80 | 68–81 | 67–82 | 65–85 |
 | [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political |  |  |  |  |  |
-| [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 88 | 82–93 | 81–94 | 80–95 | 77–99 |
 | [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
 | [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [21–27 September 2021](2021-09-27-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
