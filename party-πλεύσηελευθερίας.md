@@ -30,7 +30,7 @@ Last result: **1.5%** (General Election of 7 July 2019)
 | [20–24 September 2021](2021-09-24-GPO.html) | GPO <br> Powergame.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [19–23 September 2021](2021-09-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
-| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star | 1.3% | N/A | N/A | N/A | N/A |
+| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 1.8% | N/A | N/A | N/A | N/A |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 0.0% | N/A | N/A | N/A | N/A |
@@ -222,7 +222,7 @@ Last result: **0** seats (General Election of 7 July 2019)
 | [20–24 September 2021](2021-09-24-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
 | [19–23 September 2021](2021-09-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star |  |  |  |  |  |
+| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0 | 0 |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
