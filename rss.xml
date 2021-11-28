@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sun, 28 Nov 2021 20:10:42 +0100</pubDate>
+    <pubDate>Sun, 28 Nov 2021 21:29:23 +0100</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 20–25 November 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2021-11-25-PulseRC.html#seats</link>
@@ -248,6 +248,36 @@
         type="image/png"/>
       <pubDate>Sun, 28 Nov 2021 20:10:42 +0100</pubDate>
       <dc:date>2021-11-28T20:10:42.119362+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 20–21 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-09-21-MRB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 70–86 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 152–168 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18–27 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 12–20 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 8–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-21-MRB-seats.png"
+        length="222409"
+        type="image/png"/>
+      <pubDate>Sun, 28 Nov 2021 21:29:23 +0100</pubDate>
+      <dc:date>2021-11-28T21:29:23.294196+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 20–21 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-09-21-MRB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-21-MRB-coalitions-seats.png"
+        length="264858"
+        type="image/png"/>
+      <pubDate>Sun, 28 Nov 2021 21:29:23 +0100</pubDate>
+      <dc:date>2021-11-28T21:29:23.294196+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 20–21 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2021-09-21-MRB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.9–31.5%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 37.6–43.7%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 6.6–10.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.6–7.5%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0.8–2.2%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.5–6.1%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.1–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2021-09-21-MRB.png"
+        length="267416"
+        type="image/png"/>
+      <pubDate>Sun, 28 Nov 2021 21:29:23 +0100</pubDate>
+      <dc:date>2021-11-28T21:29:23.294196+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 12–17 July 2021 – Seat Projections for the Parties</title>
@@ -4029,6 +4059,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58+01:00</dc:date>
     </item>
-    <dc:date>2021-11-28T20:10:42.119362+01:00</dc:date>
+    <dc:date>2021-11-28T21:29:23.294196+01:00</dc:date>
   </channel>
 </rss>
