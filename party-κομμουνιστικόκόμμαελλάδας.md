@@ -10,10 +10,10 @@ Last result: **5.3%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.9% | 4.8–7.1% | 4.5–7.5% | 4.3–7.8% | 3.9–8.4% |
+| N/A | [Poll Average](average.html) | 5.8% | 4.8–7.0% | 4.5–7.4% | 4.3–7.7% | 3.9–8.3% |
 | [12–18 January 2022](2022-01-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5.5% | 4.8–6.4% | 4.6–6.7% | 4.4–6.9% | 4.1–7.3% |
 | [14–16 January 2022](2022-01-16-Prorata.html) | Prorata <br> iEidiseis | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
-| [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr | 5.3% | N/A | N/A | N/A | N/A |
+| [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr | 5.3% | 4.6–6.2% | 4.4–6.4% | 4.3–6.6% | 3.9–7.0% |
 | [13–18 December 2021](2021-12-18-Alco.html) | Alco <br> Open TV | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [13–17 December 2021](2021-12-17-GPO.html) | GPO <br> Powergame.gr | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
 | [13–16 December 2021](2021-12-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.5% |
@@ -200,12 +200,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 5% | 99.9% |  |
-| 4.5–5.5% | 30% | 95% | Last Result |
-| 5.5–6.5% | 41% | 65% | Median |
-| 6.5–7.5% | 20% | 24% |  |
-| 7.5–8.5% | 4% | 4% |  |
-| 8.5–9.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 6% | 99.9% |  |
+| 4.5–5.5% | 35% | 94% | Last Result |
+| 5.5–6.5% | 39% | 59% | Median |
+| 6.5–7.5% | 16% | 20% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.2% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -220,7 +220,7 @@ Last result: **15** seats (General Election of 7 July 2019)
 | N/A | [Poll Average](average.html) | 16 | 13–19 | 12–20 | 12–21 | 11–23 |
 | [12–18 January 2022](2022-01-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 15 | 13–17 | 12–18 | 12–18 | 11–20 |
 | [14–16 January 2022](2022-01-16-Prorata.html) | Prorata <br> iEidiseis | 15 | 12–17 | 12–18 | 11–19 | 10–20 |
-| [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
 | [13–18 December 2021](2021-12-18-Alco.html) | Alco <br> Open TV | 17 | 15–20 | 14–21 | 13–22 | 12–23 |
 | [13–17 December 2021](2021-12-17-GPO.html) | GPO <br> Powergame.gr | 18 | 15–20 | 14–21 | 14–22 | 13–24 |
 | [13–16 December 2021](2021-12-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 17 | 15–20 | 14–21 | 13–22 | 12–23 |
@@ -409,21 +409,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.3% | 100% |  |
-| 11 | 1.2% | 99.6% |  |
+| 11 | 1.4% | 99.7% |  |
 | 12 | 4% | 98% |  |
-| 13 | 9% | 94% |  |
-| 14 | 12% | 86% |  |
-| 15 | 15% | 74% | Last Result |
-| 16 | 16% | 59% | Median |
-| 17 | 16% | 43% |  |
-| 18 | 12% | 27% |  |
-| 19 | 7% | 15% |  |
-| 20 | 4% | 8% |  |
-| 21 | 2% | 4% |  |
-| 22 | 1.3% | 2% |  |
-| 23 | 0.6% | 0.8% |  |
-| 24 | 0.2% | 0.2% |  |
-| 25 | 0% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 13 | 10% | 94% |  |
+| 14 | 14% | 84% |  |
+| 15 | 16% | 69% | Last Result |
+| 16 | 16% | 53% | Median |
+| 17 | 14% | 37% |  |
+| 18 | 10% | 23% |  |
+| 19 | 6% | 12% |  |
+| 20 | 3% | 7% |  |
+| 21 | 2% | 3% |  |
+| 22 | 1.1% | 2% |  |
+| 23 | 0.4% | 0.6% |  |
+| 24 | 0.1% | 0.2% |  |
+| 25 | 0% | 0% |  |
 
 

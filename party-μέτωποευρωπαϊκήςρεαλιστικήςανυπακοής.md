@@ -10,10 +10,10 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.2–4.7% | 2.0–4.9% | 1.8–5.2% | 1.5–5.6% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.3–4.6% | 2.0–4.9% | 1.9–5.1% | 1.5–5.6% |
 | [12–18 January 2022](2022-01-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.1% | 3.5–4.9% | 3.3–5.2% | 3.2–5.4% | 2.9–5.8% |
 | [14–16 January 2022](2022-01-16-Prorata.html) | Prorata <br> iEidiseis | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
-| [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr | 3.7% | N/A | N/A | N/A | N/A |
+| [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr | 3.7% | 3.1–4.4% | 2.9–4.6% | 2.8–4.8% | 2.6–5.2% |
 | [13–18 December 2021](2021-12-18-Alco.html) | Alco <br> Open TV | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [13–17 December 2021](2021-12-17-GPO.html) | GPO <br> Powergame.gr | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [13–16 December 2021](2021-12-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
@@ -200,12 +200,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.7% | 100% |  |
-| 1.5–2.5% | 17% | 99.3% |  |
-| 2.5–3.5% | 29% | 83% | Last Result |
-| 3.5–4.5% | 41% | 54% | Median |
-| 4.5–5.5% | 12% | 13% |  |
-| 5.5–6.5% | 0.7% | 0.7% |  |
+| 0.5–1.5% | 0.5% | 100% |  |
+| 1.5–2.5% | 13% | 99.5% |  |
+| 2.5–3.5% | 31% | 86% | Last Result |
+| 3.5–4.5% | 44% | 56% | Median |
+| 4.5–5.5% | 11% | 12% |  |
+| 5.5–6.5% | 0.6% | 0.6% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -217,10 +217,10 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–13 | 0–14 | 0–15 |
+| N/A | [Poll Average](average.html) | 10 | 0–12 | 0–13 | 0–14 | 0–15 |
 | [12–18 January 2022](2022-01-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 11 | 9–13 | 9–14 | 8–14 | 0–15 |
 | [14–16 January 2022](2022-01-16-Prorata.html) | Prorata <br> iEidiseis | 0 | 0–8 | 0–9 | 0–9 | 0–10 |
-| [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr | 10 | 8–12 | 0–13 | 0–13 | 0–14 |
 | [13–18 December 2021](2021-12-18-Alco.html) | Alco <br> Open TV | 11 | 9–14 | 8–14 | 0–15 | 0–16 |
 | [13–17 December 2021](2021-12-17-GPO.html) | GPO <br> Powergame.gr | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
 | [13–16 December 2021](2021-12-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0–9 | 0–9 | 0–10 | 0–11 |
@@ -408,22 +408,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 29% | 100% |  |
-| 1 | 0% | 71% |  |
-| 2 | 0% | 71% |  |
-| 3 | 0% | 71% |  |
-| 4 | 0% | 71% |  |
-| 5 | 0% | 71% |  |
-| 6 | 0% | 71% |  |
-| 7 | 0% | 71% |  |
-| 8 | 5% | 71% |  |
-| 9 | 13% | 67% | Last Result |
-| 10 | 16% | 54% | Median |
-| 11 | 16% | 37% |  |
-| 12 | 10% | 21% |  |
-| 13 | 6% | 11% |  |
-| 14 | 3% | 5% |  |
-| 15 | 0.9% | 1.4% |  |
+| 0 | 24% | 100% |  |
+| 1 | 0% | 76% |  |
+| 2 | 0% | 76% |  |
+| 3 | 0% | 76% |  |
+| 4 | 0% | 76% |  |
+| 5 | 0% | 76% |  |
+| 6 | 0% | 76% |  |
+| 7 | 0% | 76% |  |
+| 8 | 4% | 76% |  |
+| 9 | 15% | 71% | Last Result |
+| 10 | 19% | 56% | Median |
+| 11 | 17% | 38% |  |
+| 12 | 10% | 20% |  |
+| 13 | 6% | 10% |  |
+| 14 | 3% | 4% |  |
+| 15 | 0.8% | 1.1% |  |
 | 16 | 0.3% | 0.4% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
