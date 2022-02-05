@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sat, 05 Feb 2022 16:33:21 +0100</pubDate>
+    <pubDate>Sat, 05 Feb 2022 19:55:53 +0100</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 26–29 January 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2022-01-29-PulseRC.html#seats</link>
@@ -38,6 +38,66 @@
         type="image/png"/>
       <pubDate>Sat, 05 Feb 2022 16:33:21 +0100</pubDate>
       <dc:date>2022-02-05T16:33:21.689896+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Abacus Research for Alpha TV, 19–23 January 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-01-23-AbacusResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 53–68 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 151–169 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 51–66 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 0–9 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-01-23-AbacusResearch-seats.png"
+        length="201939"
+        type="image/png"/>
+      <pubDate>Sat, 05 Feb 2022 19:49:51 +0100</pubDate>
+      <dc:date>2022-02-05T19:49:51.001297+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Abacus Research for Alpha TV, 19–23 January 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-01-23-AbacusResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-01-23-AbacusResearch-coalitions-seats.png"
+        length="261806"
+        type="image/png"/>
+      <pubDate>Sat, 05 Feb 2022 19:49:51 +0100</pubDate>
+      <dc:date>2022-02-05T19:49:51.001297+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Abacus Research for Alpha TV, 19–23 January 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-01-23-AbacusResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 18.9–24.0%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 36.1–42.1%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 18.3–23.3%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.8–7.8%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 1.6–3.5%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 1.6–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-01-23-AbacusResearch.png"
+        length="236245"
+        type="image/png"/>
+      <pubDate>Sat, 05 Feb 2022 19:49:51 +0100</pubDate>
+      <dc:date>2022-02-05T19:49:51.001297+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for ANT1, 18–22 January 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-01-22-Marc.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 57–72 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 145–162 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 41–54 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 12–20 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 11–19 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-01-22-Marc-seats.png"
+        length="198237"
+        type="image/png"/>
+      <pubDate>Sat, 05 Feb 2022 19:55:53 +0100</pubDate>
+      <dc:date>2022-02-05T19:55:53.850567+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for ANT1, 18–22 January 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-01-22-Marc.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-01-22-Marc-coalitions-seats.png"
+        length="258001"
+        type="image/png"/>
+      <pubDate>Sat, 05 Feb 2022 19:55:53 +0100</pubDate>
+      <dc:date>2022-02-05T19:55:53.850567+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for ANT1, 18–22 January 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-01-22-Marc.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 21.1–26.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 35.3–41.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 15.1–19.8%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.6–7.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.1–7.0%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 1.9–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-01-22-Marc.png"
+        length="235282"
+        type="image/png"/>
+      <pubDate>Sat, 05 Feb 2022 19:55:53 +0100</pubDate>
+      <dc:date>2022-02-05T19:55:53.850567+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Mega TV, 12–18 January 2022 – Seat Projections for the Parties</title>
@@ -4449,6 +4509,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58+01:00</dc:date>
     </item>
-    <dc:date>2022-02-05T16:33:21.689896+01:00</dc:date>
+    <dc:date>2022-02-05T19:55:53.850567+01:00</dc:date>
   </channel>
 </rss>
