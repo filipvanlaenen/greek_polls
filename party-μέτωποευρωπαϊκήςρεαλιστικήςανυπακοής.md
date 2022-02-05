@@ -10,10 +10,10 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.2–4.5% | 2.0–4.7% | 1.8–5.0% | 1.5–5.4% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.1–4.3% | 1.9–4.6% | 1.8–4.8% | 1.5–5.3% |
 | [26–29 January 2022](2022-01-29-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2.8% | 2.3–3.5% | 2.2–3.7% | 2.1–3.9% | 1.8–4.2% |
-| [19–23 January 2022](2022-01-23-AbacusResearch.html) | Abacus Research <br> Alpha TV | 2.4% | N/A | N/A | N/A | N/A |
-| [18–22 January 2022](2022-01-22-Marc.html) | Marc <br> ANT1 | 2.8% | N/A | N/A | N/A | N/A |
+| [19–23 January 2022](2022-01-23-AbacusResearch.html) | Abacus Research <br> Alpha TV | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
+| [18–22 January 2022](2022-01-22-Marc.html) | Marc <br> ANT1 | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [12–18 January 2022](2022-01-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.1% | 3.5–4.9% | 3.3–5.2% | 3.2–5.4% | 2.9–5.8% |
 | [14–16 January 2022](2022-01-16-Prorata.html) | Prorata <br> iEidiseis | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr | 3.7% | 3.1–4.4% | 2.9–4.6% | 2.8–4.8% | 2.6–5.2% |
@@ -203,12 +203,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.7% | 100% |  |
-| 1.5–2.5% | 21% | 99.3% |  |
-| 2.5–3.5% | 38% | 78% | Last Result, Median |
-| 3.5–4.5% | 33% | 41% |  |
-| 4.5–5.5% | 8% | 8% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 0.8% | 100% |  |
+| 1.5–2.5% | 28% | 99.2% |  |
+| 2.5–3.5% | 42% | 71% | Last Result, Median |
+| 3.5–4.5% | 24% | 29% |  |
+| 4.5–5.5% | 5% | 5% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -220,10 +220,10 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 0–12 | 0–13 | 0–13 | 0–14 |
+| N/A | [Poll Average](average.html) | 0 | 0–11 | 0–12 | 0–13 | 0–14 |
 | [26–29 January 2022](2022-01-29-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
-| [19–23 January 2022](2022-01-23-AbacusResearch.html) | Abacus Research <br> Alpha TV |  |  |  |  |  |
-| [18–22 January 2022](2022-01-22-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
+| [19–23 January 2022](2022-01-23-AbacusResearch.html) | Abacus Research <br> Alpha TV | 0 | 0–9 | 0–9 | 0–10 | 0–11 |
+| [18–22 January 2022](2022-01-22-Marc.html) | Marc <br> ANT1 | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [12–18 January 2022](2022-01-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 11 | 9–13 | 9–14 | 8–14 | 0–15 |
 | [14–16 January 2022](2022-01-16-Prorata.html) | Prorata <br> iEidiseis | 0 | 0–8 | 0–9 | 0–9 | 0–10 |
 | [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr | 10 | 8–12 | 0–13 | 0–13 | 0–14 |
@@ -414,22 +414,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 39% | 100% |  |
-| 1 | 0% | 61% |  |
-| 2 | 0% | 61% |  |
-| 3 | 0% | 61% |  |
-| 4 | 0% | 61% |  |
-| 5 | 0% | 61% |  |
-| 6 | 0% | 61% |  |
-| 7 | 0% | 61% |  |
-| 8 | 4% | 61% |  |
-| 9 | 15% | 57% | Last Result, Median |
-| 10 | 14% | 42% |  |
-| 11 | 14% | 28% |  |
-| 12 | 8% | 14% |  |
-| 13 | 4% | 6% |  |
-| 14 | 2% | 2% |  |
-| 15 | 0.3% | 0.4% |  |
+| 0 | 51% | 100% | Median |
+| 1 | 0% | 49% |  |
+| 2 | 0% | 49% |  |
+| 3 | 0% | 49% |  |
+| 4 | 0% | 49% |  |
+| 5 | 0% | 49% |  |
+| 6 | 0% | 49% |  |
+| 7 | 0% | 49% |  |
+| 8 | 4% | 49% |  |
+| 9 | 14% | 44% | Last Result |
+| 10 | 11% | 30% |  |
+| 11 | 10% | 19% |  |
+| 12 | 5% | 9% |  |
+| 13 | 3% | 4% |  |
+| 14 | 1.0% | 1.3% |  |
+| 15 | 0.2% | 0.3% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
