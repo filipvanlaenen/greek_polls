@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Fri, 25 Feb 2022 16:45:09 +0100</pubDate>
+    <pubDate>Wed, 02 Mar 2022 17:53:25 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 25–28 February 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-02-28-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 65–79 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 142–157 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 38–49 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 12–19 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–16 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-02-28-PulseRC-seats.png"
+        length="204116"
+        type="image/png"/>
+      <pubDate>Wed, 02 Mar 2022 17:53:25 +0100</pubDate>
+      <dc:date>2022-03-02T17:53:25.827714+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 25–28 February 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-02-28-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-02-28-PulseRC-coalitions-seats.png"
+        length="256201"
+        type="image/png"/>
+      <pubDate>Wed, 02 Mar 2022 17:53:25 +0100</pubDate>
+      <dc:date>2022-03-02T17:53:25.827714+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 25–28 February 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-02-28-PulseRC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.6–28.5%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 33.5–38.9%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 13.8–17.9%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.4–7.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.4–5.8%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.5–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-02-28-PulseRC.png"
+        length="234964"
+        type="image/png"/>
+      <pubDate>Wed, 02 Mar 2022 17:53:25 +0100</pubDate>
+      <dc:date>2022-03-02T17:53:25.827714+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 14–18 February 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2022-02-18-Alco.html#seats</link>
@@ -4689,6 +4719,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58+01:00</dc:date>
     </item>
-    <dc:date>2022-02-25T16:45:09.043812+01:00</dc:date>
+    <dc:date>2022-03-02T17:53:25.827714+01:00</dc:date>
   </channel>
 </rss>
