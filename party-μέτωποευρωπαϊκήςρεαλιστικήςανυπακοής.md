@@ -10,7 +10,8 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.2–4.0% | 2.0–4.2% | 1.8–4.5% | 1.5–4.9% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.1% | 2.1–4.3% | 1.9–4.5% | 1.6–5.0% |
+| [25–28 February 2022](2022-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.4% | 2.8–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
 | [14–18 February 2022](2022-02-18-Alco.html) | Alco <br> Open TV | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [10–14 February 2022](2022-02-14-Interview.html) | Interview <br> Politic.gr | 3.3% | 2.7–4.0% | 2.6–4.2% | 2.5–4.3% | 2.2–4.7% |
 | [7–12 February 2022](2022-02-12-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 3.2% | 2.6–3.9% | 2.5–4.1% | 2.3–4.3% | 2.1–4.7% |
@@ -209,12 +210,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.6% | 100% |  |
-| 1.5–2.5% | 22% | 99.4% |  |
-| 2.5–3.5% | 54% | 78% | Last Result, Median |
-| 3.5–4.5% | 22% | 24% |  |
+| 0.5–1.5% | 0.4% | 100% |  |
+| 1.5–2.5% | 14% | 99.6% |  |
+| 2.5–3.5% | 54% | 86% | Last Result, Median |
+| 3.5–4.5% | 29% | 32% |  |
 | 4.5–5.5% | 2% | 2% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -226,7 +227,8 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 0–11 | 0–11 | 0–12 | 0–13 |
+| N/A | [Poll Average](average.html) | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
+| [25–28 February 2022](2022-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 0–11 | 0–12 | 0–12 | 0–14 |
 | [14–18 February 2022](2022-02-18-Alco.html) | Alco <br> Open TV | 9 | 0–12 | 0–12 | 0–13 | 0–14 |
 | [10–14 February 2022](2022-02-14-Interview.html) | Interview <br> Politic.gr | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
 | [7–12 February 2022](2022-02-12-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 9 | 0–10 | 0–11 | 0–11 | 0–12 |
@@ -426,21 +428,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 48% | 100% |  |
-| 1 | 0% | 52% |  |
-| 2 | 0% | 52% |  |
-| 3 | 0% | 52% |  |
-| 4 | 0% | 52% |  |
-| 5 | 0% | 52% |  |
-| 6 | 0% | 52% |  |
-| 7 | 0% | 52% |  |
-| 8 | 9% | 52% | Median |
-| 9 | 20% | 44% | Last Result |
-| 10 | 14% | 24% |  |
-| 11 | 7% | 10% |  |
-| 12 | 3% | 4% |  |
-| 13 | 0.8% | 1.1% |  |
-| 14 | 0.2% | 0.3% |  |
+| 0 | 36% | 100% |  |
+| 1 | 0% | 64% |  |
+| 2 | 0% | 64% |  |
+| 3 | 0% | 64% |  |
+| 4 | 0% | 64% |  |
+| 5 | 0% | 64% |  |
+| 6 | 0% | 64% |  |
+| 7 | 0% | 64% |  |
+| 8 | 10% | 64% |  |
+| 9 | 22% | 54% | Last Result, Median |
+| 10 | 17% | 32% |  |
+| 11 | 9% | 14% |  |
+| 12 | 4% | 5% |  |
+| 13 | 1.2% | 2% |  |
+| 14 | 0.3% | 0.4% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
