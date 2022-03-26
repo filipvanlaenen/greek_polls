@@ -10,7 +10,14 @@ Last result: **3.7%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.7–5.9% | 3.5–6.3% | 3.3–6.5% | 2.9–7.1% |
+| N/A | [Poll Average](average.html) | 5.3% | 4.2–6.5% | 3.9–6.8% | 3.7–7.0% | 3.3–7.6% |
+| [16–21 March 2022](2022-03-21-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5.9% | 5.1–6.8% | 4.9–7.1% | 4.7–7.3% | 4.4–7.8% |
+| [16–21 March 2022](2022-03-21-Marc.html) | Marc <br> ANT1 | 5.4% | 4.6–6.4% | 4.4–6.7% | 4.2–7.0% | 3.9–7.5% |
+| [11–14 March 2022](2022-03-14-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 4.1% | N/A | N/A | N/A | N/A |
+| [9–11 March 2022](2022-03-11-GPO.html) | GPO <br> Powergame.gr | 4.9% | N/A | N/A | N/A | N/A |
+| [8–10 March 2022](2022-03-10-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5.4% | N/A | N/A | N/A | N/A |
+| [2–8 March 2022](2022-03-08-AbacusResearch.html) | Abacus Research <br> Alpha TV | 4.5% | N/A | N/A | N/A | N/A |
+| [2–6 March 2022](2022-03-06-Interview.html) | Interview <br> Politic.gr | 5.3% | N/A | N/A | N/A | N/A |
 | [25–28 February 2022](2022-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.5% | 3.8–5.3% | 3.6–5.6% | 3.4–5.8% | 3.1–6.2% |
 | [14–18 February 2022](2022-02-18-Alco.html) | Alco <br> Open TV | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [10–14 February 2022](2022-02-14-Interview.html) | Interview <br> Politic.gr | 5.6% | 4.9–6.5% | 4.7–6.7% | 4.5–7.0% | 4.2–7.4% |
@@ -210,12 +217,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 6% | 100% |  |
-| 3.5–4.5% | 35% | 94% | Last Result |
-| 4.5–5.5% | 40% | 59% | Median |
-| 5.5–6.5% | 17% | 20% |  |
-| 6.5–7.5% | 2% | 2% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 1.3% | 100% |  |
+| 3.5–4.5% | 19% | 98.7% | Last Result |
+| 4.5–5.5% | 38% | 80% | Median |
+| 5.5–6.5% | 33% | 42% |  |
+| 6.5–7.5% | 8% | 9% |  |
+| 7.5–8.5% | 0.5% | 0.5% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -227,7 +234,14 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–16 | 9–17 | 9–18 | 0–19 |
+| N/A | [Poll Average](average.html) | 15 | 11–18 | 11–18 | 10–19 | 9–20 |
+| [16–21 March 2022](2022-03-21-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 16 | 14–19 | 13–19 | 13–20 | 12–21 |
+| [16–21 March 2022](2022-03-21-Marc.html) | Marc <br> ANT1 | 15 | 13–18 | 12–18 | 12–19 | 11–20 |
+| [11–14 March 2022](2022-03-14-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [9–11 March 2022](2022-03-11-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
+| [8–10 March 2022](2022-03-10-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [2–8 March 2022](2022-03-08-AbacusResearch.html) | Abacus Research <br> Alpha TV |  |  |  |  |  |
+| [2–6 March 2022](2022-03-06-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [25–28 February 2022](2022-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12 | 10–15 | 10–15 | 9–16 | 9–17 |
 | [14–18 February 2022](2022-02-18-Alco.html) | Alco <br> Open TV | 11 | 9–14 | 9–14 | 8–15 | 0–16 |
 | [10–14 February 2022](2022-02-14-Interview.html) | Interview <br> Politic.gr | 15 | 13–18 | 13–18 | 12–19 | 11–20 |
@@ -428,28 +442,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.7% | 100% |  |
-| 1 | 0% | 99.3% |  |
-| 2 | 0% | 99.3% |  |
-| 3 | 0% | 99.3% |  |
-| 4 | 0% | 99.3% |  |
-| 5 | 0% | 99.3% |  |
-| 6 | 0% | 99.3% |  |
-| 7 | 0% | 99.3% |  |
-| 8 | 0.7% | 99.3% |  |
-| 9 | 4% | 98.6% |  |
-| 10 | 9% | 95% | Last Result |
-| 11 | 14% | 86% |  |
-| 12 | 17% | 72% |  |
-| 13 | 17% | 55% | Median |
-| 14 | 14% | 39% |  |
-| 15 | 10% | 24% |  |
-| 16 | 7% | 14% |  |
-| 17 | 4% | 7% |  |
-| 18 | 2% | 3% |  |
-| 19 | 0.8% | 1.1% |  |
-| 20 | 0.2% | 0.3% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0% | 99.9% |  |
+| 4 | 0% | 99.9% |  |
+| 5 | 0% | 99.9% |  |
+| 6 | 0% | 99.9% |  |
+| 7 | 0% | 99.9% |  |
+| 8 | 0.1% | 99.9% |  |
+| 9 | 0.8% | 99.9% |  |
+| 10 | 3% | 99.1% | Last Result |
+| 11 | 7% | 96% |  |
+| 12 | 10% | 90% |  |
+| 13 | 13% | 79% |  |
+| 14 | 15% | 66% |  |
+| 15 | 15% | 51% | Median |
+| 16 | 15% | 36% |  |
+| 17 | 10% | 21% |  |
+| 18 | 6% | 11% |  |
+| 19 | 3% | 5% |  |
+| 20 | 1.3% | 2% |  |
+| 21 | 0.4% | 0.5% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
