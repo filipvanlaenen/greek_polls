@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sun, 27 Mar 2022 14:31:42 +0200</pubDate>
+    <pubDate>Wed, 20 Apr 2022 21:39:33 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by DATA RC for Πελοπόννησος &amp; Dnews, 28 March–15 April 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-04-15-DATARC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 72–87 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 141–157 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 36–48 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–21 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–16 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-04-15-DATARC-seats.png"
+        length="208678"
+        type="image/png"/>
+      <pubDate>Wed, 20 Apr 2022 21:39:33 +0200</pubDate>
+      <dc:date>2022-04-20T21:39:33.712869+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by DATA RC for Πελοπόννησος &amp; Dnews, 28 March–15 April 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-04-15-DATARC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-04-15-DATARC-coalitions-seats.png"
+        length="266495"
+        type="image/png"/>
+      <pubDate>Wed, 20 Apr 2022 21:39:33 +0200</pubDate>
+      <dc:date>2022-04-20T21:39:33.712869+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by DATA RC for Πελοπόννησος &amp; Dnews, 28 March–15 April 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-04-15-DATARC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 26.2–31.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 33.1–39.0%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 13.0–17.3%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.4–5.9%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-04-15-DATARC.png"
+        length="242687"
+        type="image/png"/>
+      <pubDate>Wed, 20 Apr 2022 21:39:33 +0200</pubDate>
+      <dc:date>2022-04-20T21:39:33.712869+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Mega TV, 16–21 March 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2022-03-21-MetronAnalysis.html#seats</link>
@@ -4899,6 +4929,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58+01:00</dc:date>
     </item>
-    <dc:date>2022-03-27T14:31:42.33665+02:00</dc:date>
+    <dc:date>2022-04-20T21:39:33.712869+02:00</dc:date>
   </channel>
 </rss>
