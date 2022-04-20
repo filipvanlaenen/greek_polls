@@ -10,7 +10,14 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.3–4.4% | 2.0–4.7% | 1.9–5.0% | 1.6–5.5% |
+| N/A | [Poll Average](average.html) | 3.4% | 1.9–4.7% | 1.7–5.1% | 1.5–5.3% | 1.3–5.8% |
+| [28 March–15 April 2022](2022-04-15-DATARC.html) | DATA RC <br> Πελοπόννησος & Dnews | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
+| [8–11 April 2022](2022-04-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2.4% | N/A | N/A | N/A | N/A |
+| [30 March–5 April 2022](2022-04-05-Interview.html) | Interview <br> Politic.gr | 3.4% | N/A | N/A | N/A | N/A |
+| [30 March–1 April 2022](2022-04-01-OpinionPoll.html) | Opinion Poll <br> Mononews | 3.5% | N/A | N/A | N/A | N/A |
+| [27–29 March 2022](2022-03-29-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2.9% | N/A | N/A | N/A | N/A |
+| [18–26 March 2022](2022-03-26-MRB.html) | MRB <br> Newsbomb | 3.8% | N/A | N/A | N/A | N/A |
+| [21–26 March 2022](2022-03-26-Alco.html) | Alco <br> Open TV | 3.3% | N/A | N/A | N/A | N/A |
 | [16–21 March 2022](2022-03-21-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.4% | 3.7–5.2% | 3.5–5.4% | 3.4–5.6% | 3.1–6.1% |
 | [16–21 March 2022](2022-03-21-Marc.html) | Marc <br> ANT1 | 3.4% | 2.7–4.2% | 2.6–4.4% | 2.4–4.6% | 2.2–5.1% |
 | [11–14 March 2022](2022-03-14-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
@@ -217,12 +224,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.4% | 100% |  |
-| 1.5–2.5% | 18% | 99.6% |  |
-| 2.5–3.5% | 46% | 81% | Last Result, Median |
-| 3.5–4.5% | 28% | 35% |  |
-| 4.5–5.5% | 7% | 7% |  |
-| 5.5–6.5% | 0.5% | 0.5% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 26% | 97% |  |
+| 2.5–3.5% | 26% | 71% | Last Result, Median |
+| 3.5–4.5% | 31% | 45% |  |
+| 4.5–5.5% | 13% | 15% |  |
+| 5.5–6.5% | 1.1% | 1.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -234,7 +241,14 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 0–12 | 0–13 | 0–14 | 0–15 |
+| N/A | [Poll Average](average.html) | 9 | 0–13 | 0–14 | 0–14 | 0–16 |
+| [28 March–15 April 2022](2022-04-15-DATARC.html) | DATA RC <br> Πελοπόννησος & Dnews | 0 | 0 | 0 | 0–8 | 0–9 |
+| [8–11 April 2022](2022-04-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [30 March–5 April 2022](2022-04-05-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [30 March–1 April 2022](2022-04-01-OpinionPoll.html) | Opinion Poll <br> Mononews |  |  |  |  |  |
+| [27–29 March 2022](2022-03-29-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [18–26 March 2022](2022-03-26-MRB.html) | MRB <br> Newsbomb |  |  |  |  |  |
+| [21–26 March 2022](2022-03-26-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
 | [16–21 March 2022](2022-03-21-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 12 | 10–14 | 10–15 | 9–15 | 8–16 |
 | [16–21 March 2022](2022-03-21-Marc.html) | Marc <br> ANT1 | 10 | 0–11 | 0–12 | 0–12 | 0–14 |
 | [11–14 March 2022](2022-03-14-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0 | 0–8 | 0–9 | 0–9 | 0–10 |
@@ -450,16 +464,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 61% |  |
 | 6 | 0% | 61% |  |
 | 7 | 0% | 61% |  |
-| 8 | 5% | 61% |  |
-| 9 | 16% | 55% | Last Result, Median |
-| 10 | 14% | 39% |  |
-| 11 | 12% | 25% |  |
-| 12 | 7% | 13% |  |
-| 13 | 4% | 6% |  |
-| 14 | 2% | 3% |  |
-| 15 | 0.7% | 0.9% |  |
-| 16 | 0.2% | 0.2% |  |
-| 17 | 0% | 0.1% |  |
+| 8 | 2% | 61% |  |
+| 9 | 9% | 58% | Last Result, Median |
+| 10 | 12% | 49% |  |
+| 11 | 13% | 37% |  |
+| 12 | 11% | 24% |  |
+| 13 | 7% | 13% |  |
+| 14 | 4% | 6% |  |
+| 15 | 2% | 2% |  |
+| 16 | 0.4% | 0.6% |  |
+| 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
 
