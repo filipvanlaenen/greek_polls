@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Mon, 23 May 2022 18:28:49 +0200</pubDate>
+    <pubDate>Mon, 23 May 2022 19:14:23 +0200</pubDate>
     <item>
       <title>Opinion Poll by MRB for Newsbomb, 16–18 May 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2022-05-18-MRB.html#seats</link>
@@ -188,6 +188,36 @@
         type="image/png"/>
       <pubDate>Mon, 23 May 2022 18:28:49 +0200</pubDate>
       <dc:date>2022-05-23T18:28:49.347937+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Open TV, 26–30 April 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-04-30-Alco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 63–78 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 138–154 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 35–47 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 15–24 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 12–20 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-04-30-Alco-seats.png"
+        length="218890"
+        type="image/png"/>
+      <pubDate>Mon, 23 May 2022 19:14:23 +0200</pubDate>
+      <dc:date>2022-05-23T19:14:23.943271+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Open TV, 26–30 April 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-04-30-Alco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-04-30-Alco-coalitions-seats.png"
+        length="264975"
+        type="image/png"/>
+      <pubDate>Mon, 23 May 2022 19:14:23 +0200</pubDate>
+      <dc:date>2022-05-23T19:14:23.943271+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Open TV, 26–30 April 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-04-30-Alco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.5–28.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 32.6–38.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 13.0–17.5%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.4–7.3%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.5–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-04-30-Alco.png"
+        length="258315"
+        type="image/png"/>
+      <pubDate>Mon, 23 May 2022 19:14:23 +0200</pubDate>
+      <dc:date>2022-05-23T19:14:23.943271+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by DATA RC for Πελοπόννησος &amp; Dnews, 28 March–15 April 2022 – Seat Projections for the Parties</title>
@@ -5289,6 +5319,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58+01:00</dc:date>
     </item>
-    <dc:date>2022-05-23T18:28:49.347937+02:00</dc:date>
+    <dc:date>2022-05-23T19:14:23.943271+02:00</dc:date>
   </channel>
 </rss>
