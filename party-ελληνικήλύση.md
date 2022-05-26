@@ -11,6 +11,7 @@ Last result: **3.7%** (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.6% | 4.4–6.8% | 4.1–7.1% | 3.9–7.4% | 3.5–8.0% |
+| [18–22 May 2022](2022-05-22-Marc.html) | Marc <br> ANT1 | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.8% | 3.7–7.4% |
 | [16–18 May 2022](2022-05-18-MRB.html) | MRB <br> Newsbomb | 5.5% | 4.6–6.5% | 4.4–6.8% | 4.2–7.1% | 3.9–7.6% |
 | [16–18 May 2022](2022-05-18-GPO.html) | GPO <br> Τα Νέα | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
 | [11–13 May 2022](2022-05-13-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 6.3% | 5.4–7.4% | 5.2–7.7% | 4.9–8.0% | 4.6–8.5% |
@@ -232,10 +233,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.7% | 100% |  |
-| 3.5–4.5% | 13% | 99.3% | Last Result |
-| 4.5–5.5% | 36% | 86% |  |
-| 5.5–6.5% | 36% | 51% | Median |
+| 2.5–3.5% | 0.6% | 100% |  |
+| 3.5–4.5% | 12% | 99.4% | Last Result |
+| 4.5–5.5% | 35% | 87% |  |
+| 5.5–6.5% | 37% | 52% | Median |
 | 6.5–7.5% | 13% | 15% |  |
 | 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
@@ -251,6 +252,7 @@ Last result: **10** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 12–19 | 11–20 | 11–20 | 10–22 |
+| [18–22 May 2022](2022-05-22-Marc.html) | Marc <br> ANT1 | 15 | 12–17 | 12–18 | 11–19 | 10–20 |
 | [16–18 May 2022](2022-05-18-MRB.html) | MRB <br> Newsbomb | 15 | 13–18 | 12–19 | 12–20 | 11–21 |
 | [16–18 May 2022](2022-05-18-GPO.html) | GPO <br> Τα Νέα | 14 | 12–17 | 11–18 | 11–19 | 10–20 |
 | [11–13 May 2022](2022-05-13-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 17 | 15–20 | 14–21 | 14–22 | 12–23 |
@@ -475,15 +477,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0% | 100% |  |
 | 9 | 0.4% | 99.9% |  |
-| 10 | 2% | 99.5% | Last Result |
+| 10 | 1.4% | 99.6% | Last Result |
 | 11 | 4% | 98% |  |
-| 12 | 8% | 94% |  |
-| 13 | 11% | 86% |  |
-| 14 | 14% | 75% |  |
-| 15 | 14% | 60% | Median |
-| 16 | 14% | 46% |  |
-| 17 | 13% | 32% |  |
-| 18 | 9% | 19% |  |
+| 12 | 7% | 94% |  |
+| 13 | 11% | 87% |  |
+| 14 | 14% | 76% |  |
+| 15 | 15% | 62% | Median |
+| 16 | 14% | 47% |  |
+| 17 | 13% | 33% |  |
+| 18 | 9% | 20% |  |
 | 19 | 6% | 11% |  |
 | 20 | 3% | 5% |  |
 | 21 | 2% | 2% |  |
