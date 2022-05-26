@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Mon, 23 May 2022 19:14:23 +0200</pubDate>
+    <pubDate>Thu, 26 May 2022 13:42:45 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Marc for ANT1, 18–22 May 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 62–77 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 142–159 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 36–48 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 11–19 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc-seats.png"
+        length="204479"
+        type="image/png"/>
+      <pubDate>Thu, 26 May 2022 13:42:45 +0200</pubDate>
+      <dc:date>2022-05-26T13:42:45.020378+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for ANT1, 18–22 May 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc-coalitions-seats.png"
+        length="261471"
+        type="image/png"/>
+      <pubDate>Thu, 26 May 2022 13:42:45 +0200</pubDate>
+      <dc:date>2022-05-26T13:42:45.020378+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for ANT1, 18–22 May 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.9–28.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 34.1–40.0%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 13.3–17.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.2–8.2%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.1–6.8%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.3–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc.png"
+        length="235648"
+        type="image/png"/>
+      <pubDate>Thu, 26 May 2022 13:42:45 +0200</pubDate>
+      <dc:date>2022-05-26T13:42:45.020378+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MRB for Newsbomb, 16–18 May 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2022-05-18-MRB.html#seats</link>
@@ -5319,6 +5349,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58+01:00</dc:date>
     </item>
-    <dc:date>2022-05-23T19:14:23.943271+02:00</dc:date>
+    <dc:date>2022-05-26T13:42:45.020378+02:00</dc:date>
   </channel>
 </rss>
