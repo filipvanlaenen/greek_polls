@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Hellenic Parliament</description>
     <pubDate>Fri, 17 Jul 2020 21:18:39 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Marc for ANT1, 18–22 May 2022 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Marc for ANT1, 18–22 May 2022<br/>Details on https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc-seating-plan.png" length="709745" type="image/png"/>
+      <pubDate>Thu, 26 May 2022 13:42:45 +0200</pubDate>
+      <dc:date>2022-05-26T13:42:45.020378+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for ANT1, 18–22 May 2022 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc.html#seats</link>
+      <description><![CDATA[Seat projections for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Marc for ANT1, 18–22 May 2022<br/>Details on https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc-seats.png" length="204479" type="image/png"/>
+      <pubDate>Thu, 26 May 2022 13:42:45 +0200</pubDate>
+      <dc:date>2022-05-26T13:42:45.020378+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for ANT1, 18–22 May 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc.html</link>
+      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Marc for ANT1, 18–22 May 2022<br/>Details on https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-05-22-Marc.png" length="235648" type="image/png"/>
+      <pubDate>Thu, 26 May 2022 13:42:45 +0200</pubDate>
+      <dc:date>2022-05-26T13:42:45.020378+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by GPO for Τα Νέα, 16–18 May 2022 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2022-05-18-GPO.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by GPO for Τα Νέα, 16–18 May 2022<br/>Details on https://filipvanlaenen.github.io/greek_polls/2022-05-18-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2022-05-18-GPO-seating-plan.png"/>]]></description>
@@ -196,30 +220,6 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-04-15-DATARC.png" length="242687" type="image/png"/>
       <pubDate>Wed, 20 Apr 2022 21:39:33 +0200</pubDate>
       <dc:date>2022-04-20T21:39:33.712869+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 8–11 April 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2022-04-11-Prorata.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Prorata for Η Εφημερίδα των Συντακτών, 8–11 April 2022<br/>Details on https://filipvanlaenen.github.io/greek_polls/2022-04-11-Prorata.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2022-04-11-Prorata-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-04-11-Prorata-seating-plan.png" length="706925" type="image/png"/>
-      <pubDate>Wed, 20 Apr 2022 23:02:13 +0200</pubDate>
-      <dc:date>2022-04-20T23:02:13.228298+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 8–11 April 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2022-04-11-Prorata.html#seats</link>
-      <description><![CDATA[Seat projections for the Hellenic Parliament<br/>151 seats needed for a majority<br/>Opinion poll by Prorata for Η Εφημερίδα των Συντακτών, 8–11 April 2022<br/>Details on https://filipvanlaenen.github.io/greek_polls/2022-04-11-Prorata.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2022-04-11-Prorata-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-04-11-Prorata-seats.png" length="203450" type="image/png"/>
-      <pubDate>Wed, 20 Apr 2022 23:02:13 +0200</pubDate>
-      <dc:date>2022-04-20T23:02:13.228298+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 8–11 April 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_polls/2022-04-11-Prorata.html</link>
-      <description><![CDATA[Voting intentions for the Hellenic Parliament<br/>Opinion poll by Prorata for Η Εφημερίδα των Συντακτών, 8–11 April 2022<br/>Details on https://filipvanlaenen.github.io/greek_polls/2022-04-11-Prorata.html<br/><img src="https://filipvanlaenen.github.io/greek_polls/2022-04-11-Prorata.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-04-11-Prorata.png" length="239790" type="image/png"/>
-      <pubDate>Wed, 20 Apr 2022 23:02:13 +0200</pubDate>
-      <dc:date>2022-04-20T23:02:13.228298+02:00</dc:date>
     </item>
   </channel>
 </rss>
