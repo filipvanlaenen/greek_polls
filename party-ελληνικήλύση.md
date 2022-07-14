@@ -10,13 +10,13 @@ Last result: **3.7%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.4% | 4.3–6.7% | 4.0–7.0% | 3.8–7.4% | 3.4–8.0% |
+| N/A | [Poll Average](average.html) | 5.3% | 4.1–6.5% | 3.8–6.8% | 3.6–7.1% | 3.2–7.8% |
 | [6–8 June 2022](2022-06-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.5% | 3.8–5.3% | 3.6–5.6% | 3.4–5.8% | 3.1–6.2% |
-| [27 May–1 June 2022](2022-06-01-ΚάπαResearch.html) | Κάπα Research | 4.7% | N/A | N/A | N/A | N/A |
-| [30 May–1 June 2022](2022-06-01-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 4.1% | N/A | N/A | N/A | N/A |
-| [24–31 May 2022](2022-05-31-Interview.html) | Interview <br> Politic.gr | 5.9% | N/A | N/A | N/A | N/A |
-| [23–28 May 2022](2022-05-28-Alco.html) | Alco <br> Open TV | 5.2% | N/A | N/A | N/A | N/A |
-| [16–23 May 2022](2022-05-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5.2% | N/A | N/A | N/A | N/A |
+| [27 May–1 June 2022](2022-06-01-ΚάπαResearch.html) | Κάπα Research | 4.7% | 3.9–5.7% | 3.7–5.9% | 3.5–6.2% | 3.2–6.7% |
+| [30 May–1 June 2022](2022-06-01-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.1–5.5% | 2.8–5.9% |
+| [24–31 May 2022](2022-05-31-Interview.html) | Interview <br> Politic.gr | 5.9% | 5.2–6.8% | 5.0–7.0% | 4.8–7.3% | 4.5–7.7% |
+| [23–28 May 2022](2022-05-28-Alco.html) | Alco <br> Open TV | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
+| [16–23 May 2022](2022-05-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5.2% | 4.5–6.1% | 4.3–6.4% | 4.1–6.6% | 3.8–7.0% |
 | [18–22 May 2022](2022-05-22-Marc.html) | Marc <br> ANT1 | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.8% | 3.7–7.4% |
 | [16–18 May 2022](2022-05-18-MRB.html) | MRB <br> Newsbomb | 5.5% | 4.6–6.5% | 4.4–6.8% | 4.2–7.1% | 3.9–7.6% |
 | [16–18 May 2022](2022-05-18-GPO.html) | GPO <br> Τα Νέα | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
@@ -239,13 +239,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.9% | 100% |  |
-| 3.5–4.5% | 16% | 99.1% | Last Result |
-| 4.5–5.5% | 40% | 83% | Median |
-| 5.5–6.5% | 31% | 43% |  |
-| 6.5–7.5% | 10% | 12% |  |
-| 7.5–8.5% | 2% | 2% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 2% | 100% |  |
+| 3.5–4.5% | 20% | 98% | Last Result |
+| 4.5–5.5% | 40% | 78% | Median |
+| 5.5–6.5% | 29% | 37% |  |
+| 6.5–7.5% | 7% | 8% |  |
+| 7.5–8.5% | 0.9% | 0.9% |  |
+| 8.5–9.5% | 0% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -257,13 +257,13 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 12–18 | 11–19 | 10–20 | 9–22 |
+| N/A | [Poll Average](average.html) | 14 | 11–18 | 10–19 | 10–20 | 9–21 |
 | [6–8 June 2022](2022-06-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12 | 10–15 | 10–15 | 9–16 | 9–17 |
-| [27 May–1 June 2022](2022-06-01-ΚάπαResearch.html) | Κάπα Research |  |  |  |  |  |
-| [30 May–1 June 2022](2022-06-01-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
-| [24–31 May 2022](2022-05-31-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
-| [23–28 May 2022](2022-05-28-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
-| [16–23 May 2022](2022-05-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [27 May–1 June 2022](2022-06-01-ΚάπαResearch.html) | Κάπα Research | 13 | 10–15 | 10–16 | 9–16 | 8–18 |
+| [30 May–1 June 2022](2022-06-01-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 12 | 10–14 | 9–15 | 9–15 | 0–16 |
+| [24–31 May 2022](2022-05-31-Interview.html) | Interview <br> Politic.gr | 17 | 14–19 | 14–20 | 13–20 | 13–21 |
+| [23–28 May 2022](2022-05-28-Alco.html) | Alco <br> Open TV | 14 | 12–17 | 11–18 | 11–18 | 10–20 |
+| [16–23 May 2022](2022-05-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 14 | 12–17 | 12–17 | 11–18 | 10–19 |
 | [18–22 May 2022](2022-05-22-Marc.html) | Marc <br> ANT1 | 15 | 12–17 | 12–18 | 11–19 | 10–20 |
 | [16–18 May 2022](2022-05-18-MRB.html) | MRB <br> Newsbomb | 15 | 13–18 | 12–19 | 12–20 | 11–21 |
 | [16–18 May 2022](2022-05-18-GPO.html) | GPO <br> Τα Νέα | 14 | 12–17 | 11–18 | 11–19 | 10–20 |
@@ -487,23 +487,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0% | 100% |  |
-| 9 | 0.5% | 99.9% |  |
-| 10 | 2% | 99.4% | Last Result |
-| 11 | 5% | 97% |  |
-| 12 | 9% | 92% |  |
-| 13 | 14% | 83% |  |
-| 14 | 15% | 69% |  |
-| 15 | 15% | 54% | Median |
-| 16 | 13% | 39% |  |
-| 17 | 11% | 26% |  |
-| 18 | 6% | 15% |  |
-| 19 | 5% | 9% |  |
-| 20 | 2% | 4% |  |
-| 21 | 1.4% | 2% |  |
-| 22 | 0.4% | 0.7% |  |
-| 23 | 0.2% | 0.3% |  |
-| 24 | 0.1% | 0.1% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 0% | 99.8% |  |
+| 2 | 0% | 99.8% |  |
+| 3 | 0% | 99.8% |  |
+| 4 | 0% | 99.8% |  |
+| 5 | 0% | 99.8% |  |
+| 6 | 0% | 99.8% |  |
+| 7 | 0% | 99.8% |  |
+| 8 | 0.1% | 99.8% |  |
+| 9 | 1.3% | 99.7% |  |
+| 10 | 4% | 98% | Last Result |
+| 11 | 7% | 95% |  |
+| 12 | 11% | 87% |  |
+| 13 | 14% | 77% |  |
+| 14 | 15% | 62% | Median |
+| 15 | 14% | 47% |  |
+| 16 | 12% | 33% |  |
+| 17 | 9% | 21% |  |
+| 18 | 6% | 12% |  |
+| 19 | 3% | 6% |  |
+| 20 | 2% | 3% |  |
+| 21 | 0.8% | 1.2% |  |
+| 22 | 0.2% | 0.4% |  |
+| 23 | 0.1% | 0.2% |  |
+| 24 | 0% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
 
