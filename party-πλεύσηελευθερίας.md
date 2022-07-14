@@ -10,7 +10,13 @@ Last result: **1.5%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.0–2.1% | 0.9–2.3% | 0.8–2.4% | 0.6–2.8% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
+| [6–8 June 2022](2022-06-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
+| [27 May–1 June 2022](2022-06-01-ΚάπαResearch.html) | Κάπα Research | 0.0% | N/A | N/A | N/A | N/A |
+| [30 May–1 June 2022](2022-06-01-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
+| [24–31 May 2022](2022-05-31-Interview.html) | Interview <br> Politic.gr | 0.0% | N/A | N/A | N/A | N/A |
+| [23–28 May 2022](2022-05-28-Alco.html) | Alco <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
+| [16–23 May 2022](2022-05-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0.0% | N/A | N/A | N/A | N/A |
 | [18–22 May 2022](2022-05-22-Marc.html) | Marc <br> ANT1 | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 May 2022](2022-05-18-MRB.html) | MRB <br> Newsbomb | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 May 2022](2022-05-18-GPO.html) | GPO <br> Τα Νέα | 0.0% | N/A | N/A | N/A | N/A |
@@ -232,10 +238,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.2% | 100% |  |
-| 0.5–1.5% | 58% | 99.8% | Last Result, Median |
-| 1.5–2.5% | 40% | 41% |  |
-| 2.5–3.5% | 2% | 2% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 39% | 100% | Last Result |
+| 1.5–2.5% | 58% | 61% | Median |
+| 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -248,6 +254,12 @@ Last result: **0** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6–8 June 2022](2022-06-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [27 May–1 June 2022](2022-06-01-ΚάπαResearch.html) | Κάπα Research |  |  |  |  |  |
+| [30 May–1 June 2022](2022-06-01-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [24–31 May 2022](2022-05-31-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [23–28 May 2022](2022-05-28-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
+| [16–23 May 2022](2022-05-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [18–22 May 2022](2022-05-22-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
 | [16–18 May 2022](2022-05-18-MRB.html) | MRB <br> Newsbomb |  |  |  |  |  |
 | [16–18 May 2022](2022-05-18-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
@@ -471,16 +483,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0% | 0.1% |  |
-| 2 | 0% | 0.1% |  |
-| 3 | 0% | 0.1% |  |
-| 4 | 0% | 0.1% |  |
-| 5 | 0% | 0.1% |  |
-| 6 | 0% | 0.1% |  |
-| 7 | 0% | 0.1% |  |
-| 8 | 0% | 0.1% |  |
-| 9 | 0.1% | 0.1% |  |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0% | 0.2% |  |
+| 2 | 0% | 0.2% |  |
+| 3 | 0% | 0.2% |  |
+| 4 | 0% | 0.2% |  |
+| 5 | 0% | 0.2% |  |
+| 6 | 0% | 0.2% |  |
+| 7 | 0% | 0.2% |  |
+| 8 | 0% | 0.2% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
 
