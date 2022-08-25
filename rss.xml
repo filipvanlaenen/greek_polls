@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sun, 24 Jul 2022 22:15:58 +0200</pubDate>
+    <pubDate>Thu, 25 Aug 2022 20:05:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 21–24 July 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-07-24-Prorata.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 74–89 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 141–157 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 32–42 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 8–14 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-07-24-Prorata-seats.png"
+        length="203877"
+        type="image/png"/>
+      <pubDate>Thu, 25 Aug 2022 20:05:40 +0200</pubDate>
+      <dc:date>2022-08-25T20:05:40.344319+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 21–24 July 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-07-24-Prorata.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-07-24-Prorata-coalitions-seats.png"
+        length="265446"
+        type="image/png"/>
+      <pubDate>Thu, 25 Aug 2022 20:05:40 +0200</pubDate>
+      <dc:date>2022-08-25T20:05:40.344319+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 21–24 July 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-07-24-Prorata.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 26.9–31.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 33.0–38.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 11.5–15.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.1–7.8%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.1–5.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.1–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-07-24-Prorata.png"
+        length="237100"
+        type="image/png"/>
+      <pubDate>Thu, 25 Aug 2022 20:05:40 +0200</pubDate>
+      <dc:date>2022-08-25T20:05:40.344319+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 16–20 July 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2022-07-20-Marc.html#seats</link>
@@ -5769,6 +5799,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58+01:00</dc:date>
     </item>
-    <dc:date>2022-07-24T22:15:58.630109+02:00</dc:date>
+    <dc:date>2022-08-25T20:05:40.344319+02:00</dc:date>
   </channel>
 </rss>
