@@ -10,7 +10,8 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.0% | 2.2–4.2% | 2.1–4.4% | 1.8–4.8% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.0% | 2.2–4.2% | 2.1–4.4% | 1.8–4.7% |
+| [21–24 July 2022](2022-07-24-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2.9% | 2.4–3.6% | 2.3–3.8% | 2.1–4.0% | 1.9–4.4% |
 | [16–20 July 2022](2022-07-20-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.5% | 2.0–4.9% |
 | [12–15 July 2022](2022-07-15-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
 | [11–13 July 2022](2022-07-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2.8% | 2.3–3.5% | 2.2–3.7% | 2.1–3.8% | 1.8–4.2% |
@@ -248,9 +249,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
 | 1.5–2.5% | 15% | 99.9% |  |
-| 2.5–3.5% | 57% | 85% | Last Result, Median |
-| 3.5–4.5% | 27% | 29% |  |
-| 4.5–5.5% | 1.3% | 1.3% |  |
+| 2.5–3.5% | 59% | 85% | Last Result, Median |
+| 3.5–4.5% | 25% | 27% |  |
+| 4.5–5.5% | 1.1% | 1.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -263,6 +264,7 @@ Last result: **9** seats (General Election of 7 July 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
+| [21–24 July 2022](2022-07-24-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [16–20 July 2022](2022-07-20-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
 | [12–15 July 2022](2022-07-15-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [11–13 July 2022](2022-07-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–9 | 0–10 | 0–10 | 0–11 |
@@ -500,20 +502,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 38% | 100% |  |
-| 1 | 0% | 62% |  |
-| 2 | 0% | 62% |  |
-| 3 | 0% | 62% |  |
-| 4 | 0% | 62% |  |
-| 5 | 0% | 62% |  |
-| 6 | 0% | 62% |  |
-| 7 | 0% | 62% |  |
-| 8 | 7% | 62% |  |
-| 9 | 21% | 55% | Last Result, Median |
-| 10 | 18% | 34% |  |
-| 11 | 11% | 17% |  |
-| 12 | 4% | 6% |  |
-| 13 | 1.3% | 2% |  |
+| 0 | 40% | 100% |  |
+| 1 | 0% | 60% |  |
+| 2 | 0% | 60% |  |
+| 3 | 0% | 60% |  |
+| 4 | 0% | 60% |  |
+| 5 | 0% | 60% |  |
+| 6 | 0% | 60% |  |
+| 7 | 0% | 60% |  |
+| 8 | 7% | 60% |  |
+| 9 | 21% | 53% | Last Result, Median |
+| 10 | 17% | 32% |  |
+| 11 | 10% | 15% |  |
+| 12 | 4% | 5% |  |
+| 13 | 1.1% | 1.4% |  |
 | 14 | 0.2% | 0.3% |  |
 | 15 | 0% | 0% |  |
 
