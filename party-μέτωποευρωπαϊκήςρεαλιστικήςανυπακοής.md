@@ -10,7 +10,19 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.0% | 2.2–4.2% | 2.1–4.4% | 1.8–4.7% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.4–4.7% | 2.2–5.0% | 2.1–5.3% | 1.8–5.8% |
+| [19–21 September 2022](2022-09-21-MRB.html) | MRB <br> Open TV | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
+| [18–20 September 2022](2022-09-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.4% | 2.7–4.2% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
+| [12–15 September 2022](2022-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2.8% | N/A | N/A | N/A | N/A |
+| [12–14 September 2022](2022-09-14-OpinionPoll.html) | Opinion Poll <br> Mononews | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
+| [12–14 September 2022](2022-09-14-GPO.html) | GPO <br> Παραπολιτικά | 2.4% | N/A | N/A | N/A | N/A |
+| [8–9 September 2022](2022-09-09-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2.9% | N/A | N/A | N/A | N/A |
+| [2–5 September 2022](2022-09-05-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3.0% | N/A | N/A | N/A | N/A |
+| [31 August–5 September 2022](2022-09-05-MRB.html) | MRB <br> Newsbomb | 4.9% | N/A | N/A | N/A | N/A |
+| [29–31 August 2022](2022-08-31-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.9% | N/A | N/A | N/A | N/A |
+| [23–29 August 2022](2022-08-29-Interview.html) | Interview <br> Politic.gr | 3.9% | N/A | N/A | N/A | N/A |
+| [22–25 August 2022](2022-08-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.4% | N/A | N/A | N/A | N/A |
+| [22–24 August 2022](2022-08-24-GPO.html) | GPO <br> Τα Νέα | 2.4% | N/A | N/A | N/A | N/A |
 | [21–24 July 2022](2022-07-24-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2.9% | 2.4–3.6% | 2.3–3.8% | 2.1–4.0% | 1.9–4.4% |
 | [16–20 July 2022](2022-07-20-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.5% | 2.0–4.9% |
 | [12–15 July 2022](2022-07-15-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
@@ -248,11 +260,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 15% | 99.9% |  |
-| 2.5–3.5% | 59% | 85% | Last Result, Median |
-| 3.5–4.5% | 25% | 27% |  |
-| 4.5–5.5% | 1.1% | 1.1% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 1.5–2.5% | 13% | 99.9% |  |
+| 2.5–3.5% | 41% | 87% | Last Result, Median |
+| 3.5–4.5% | 34% | 46% |  |
+| 4.5–5.5% | 11% | 12% |  |
+| 5.5–6.5% | 1.1% | 1.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -263,7 +276,19 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
+| N/A | [Poll Average](average.html) | 9 | 0–13 | 0–14 | 0–14 | 0–16 |
+| [19–21 September 2022](2022-09-21-MRB.html) | MRB <br> Open TV | 12 | 9–14 | 9–15 | 8–15 | 0–17 |
+| [18–20 September 2022](2022-09-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
+| [12–15 September 2022](2022-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [12–14 September 2022](2022-09-14-OpinionPoll.html) | Opinion Poll <br> Mononews | 0 | 0–9 | 0–10 | 0–10 | 0–11 |
+| [12–14 September 2022](2022-09-14-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [8–9 September 2022](2022-09-09-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [2–5 September 2022](2022-09-05-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [31 August–5 September 2022](2022-09-05-MRB.html) | MRB <br> Newsbomb |  |  |  |  |  |
+| [29–31 August 2022](2022-08-31-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [23–29 August 2022](2022-08-29-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [22–25 August 2022](2022-08-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [22–24 August 2022](2022-08-24-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
 | [21–24 July 2022](2022-07-24-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [16–20 July 2022](2022-07-20-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
 | [12–15 July 2022](2022-07-15-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
@@ -502,21 +527,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% |  |
-| 1 | 0% | 60% |  |
-| 2 | 0% | 60% |  |
-| 3 | 0% | 60% |  |
-| 4 | 0% | 60% |  |
-| 5 | 0% | 60% |  |
-| 6 | 0% | 60% |  |
-| 7 | 0% | 60% |  |
-| 8 | 7% | 60% |  |
-| 9 | 21% | 53% | Last Result, Median |
-| 10 | 17% | 32% |  |
-| 11 | 10% | 15% |  |
-| 12 | 4% | 5% |  |
-| 13 | 1.1% | 1.4% |  |
-| 14 | 0.2% | 0.3% |  |
-| 15 | 0% | 0% |  |
+| 0 | 31% | 100% |  |
+| 1 | 0% | 69% |  |
+| 2 | 0% | 69% |  |
+| 3 | 0% | 69% |  |
+| 4 | 0% | 69% |  |
+| 5 | 0% | 69% |  |
+| 6 | 0% | 69% |  |
+| 7 | 0% | 69% |  |
+| 8 | 7% | 69% |  |
+| 9 | 15% | 61% | Last Result, Median |
+| 10 | 14% | 46% |  |
+| 11 | 12% | 32% |  |
+| 12 | 9% | 20% |  |
+| 13 | 6% | 11% |  |
+| 14 | 3% | 5% |  |
+| 15 | 1.3% | 2% |  |
+| 16 | 0.4% | 0.6% |  |
+| 17 | 0.2% | 0.2% |  |
+| 18 | 0% | 0% |  |
 
 
