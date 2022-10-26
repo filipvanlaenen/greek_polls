@@ -10,16 +10,16 @@ Last result: **8.1%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.7% | 11.3–14.3% | 10.9–14.8% | 10.6–15.2% | 10.0–16.0% |
+| N/A | [Poll Average](average.html) | 13.2% | 11.5–15.2% | 11.1–15.7% | 10.8–16.1% | 10.2–17.0% |
 | [13–19 October 2022](2022-10-19-Interview.html) | Interview <br> Politic.gr | 12.0% | 11.0–13.1% | 10.7–13.4% | 10.5–13.7% | 10.0–14.3% |
 | [12–15 October 2022](2022-10-15-GPO.html) | GPO <br> Powergame.gr | 11.8% | 10.7–13.1% | 10.4–13.5% | 10.1–13.8% | 9.6–14.4% |
 | [10–14 October 2022](2022-10-14-Alco.html) | Alco <br> Alpha TV | 13.0% | 11.7–14.4% | 11.3–14.8% | 11.0–15.2% | 10.4–15.9% |
 | [10–12 October 2022](2022-10-12-MRB.html) | MRB <br> Newsbomb | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
-| [22–27 September 2022](2022-09-27-Interview.html) | Interview <br> Politic.gr | 11.6% | N/A | N/A | N/A | N/A |
-| [22–26 September 2022](2022-09-26-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 15.0% | N/A | N/A | N/A | N/A |
-| [20–24 September 2022](2022-09-24-Marc.html) | Marc <br> ANT1 | 13.1% | N/A | N/A | N/A | N/A |
-| [20–23 September 2022](2022-09-23-PalmosAnalysis.html) | Palmos Analysis <br> The Caller | 14.1% | N/A | N/A | N/A | N/A |
-| [19–23 September 2022](2022-09-23-Alco.html) | Alco <br> Alpha TV | 13.6% | N/A | N/A | N/A | N/A |
+| [22–27 September 2022](2022-09-27-Interview.html) | Interview <br> Politic.gr | 11.6% | 10.6–12.8% | 10.3–13.1% | 10.1–13.4% | 9.6–13.9% |
+| [22–26 September 2022](2022-09-26-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 15.0% | 13.8–16.3% | 13.4–16.7% | 13.2–17.1% | 12.6–17.7% |
+| [20–24 September 2022](2022-09-24-Marc.html) | Marc <br> ANT1 | 13.1% | 11.9–14.5% | 11.6–14.9% | 11.3–15.2% | 10.7–15.9% |
+| [20–23 September 2022](2022-09-23-PalmosAnalysis.html) | Palmos Analysis <br> The Caller | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
+| [19–23 September 2022](2022-09-23-Alco.html) | Alco <br> Alpha TV | 13.6% | 12.3–15.1% | 11.9–15.5% | 11.6–15.9% | 11.0–16.6% |
 | [19–21 September 2022](2022-09-21-MRB.html) | MRB <br> Open TV | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
 | [18–20 September 2022](2022-09-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 13.0% | 11.8–14.5% | 11.4–14.9% | 11.1–15.3% | 10.5–16.0% |
 | [12–15 September 2022](2022-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12.4% | N/A | N/A | N/A | N/A |
@@ -270,15 +270,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% | Last Result |
 | 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 2% | 99.9% |  |
-| 10.5–11.5% | 14% | 98% |  |
-| 11.5–12.5% | 30% | 84% |  |
-| 12.5–13.5% | 30% | 54% | Median |
-| 13.5–14.5% | 17% | 24% |  |
-| 14.5–15.5% | 6% | 7% |  |
-| 15.5–16.5% | 1.1% | 1.3% |  |
-| 16.5–17.5% | 0.1% | 0.1% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 9.5–10.5% | 1.4% | 99.9% |  |
+| 10.5–11.5% | 9% | 98.5% |  |
+| 11.5–12.5% | 22% | 89% |  |
+| 12.5–13.5% | 27% | 67% | Median |
+| 13.5–14.5% | 22% | 40% |  |
+| 14.5–15.5% | 13% | 19% |  |
+| 15.5–16.5% | 5% | 6% |  |
+| 16.5–17.5% | 1.0% | 1.2% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -289,16 +290,16 @@ Last result: **22** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 31–39 | 30–40 | 29–42 | 27–44 |
+| N/A | [Poll Average](average.html) | 36 | 31–41 | 30–42 | 29–44 | 28–46 |
 | [13–19 October 2022](2022-10-19-Interview.html) | Interview <br> Politic.gr | 33 | 30–36 | 29–37 | 29–38 | 28–39 |
 | [12–15 October 2022](2022-10-15-GPO.html) | GPO <br> Powergame.gr | 32 | 29–36 | 28–37 | 27–38 | 26–40 |
 | [10–14 October 2022](2022-10-14-Alco.html) | Alco <br> Alpha TV | 36 | 32–40 | 31–41 | 30–42 | 29–44 |
 | [10–12 October 2022](2022-10-12-MRB.html) | MRB <br> Newsbomb | 37 | 33–41 | 32–42 | 31–43 | 30–45 |
-| [22–27 September 2022](2022-09-27-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
-| [22–26 September 2022](2022-09-26-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
-| [20–24 September 2022](2022-09-24-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
-| [20–23 September 2022](2022-09-23-PalmosAnalysis.html) | Palmos Analysis <br> The Caller |  |  |  |  |  |
-| [19–23 September 2022](2022-09-23-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [22–27 September 2022](2022-09-27-Interview.html) | Interview <br> Politic.gr | 33 | 30–36 | 29–37 | 28–37 | 27–39 |
+| [22–26 September 2022](2022-09-26-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 41 | 37–44 | 36–45 | 35–46 | 34–48 |
+| [20–24 September 2022](2022-09-24-Marc.html) | Marc <br> ANT1 | 36 | 32–39 | 31–41 | 31–41 | 29–43 |
+| [20–23 September 2022](2022-09-23-PalmosAnalysis.html) | Palmos Analysis <br> The Caller | 38 | 34–42 | 33–43 | 33–44 | 31–46 |
+| [19–23 September 2022](2022-09-23-Alco.html) | Alco <br> Alpha TV | 37 | 34–41 | 33–42 | 32–44 | 30–46 |
 | [19–21 September 2022](2022-09-21-MRB.html) | MRB <br> Open TV | 36 | 33–40 | 32–41 | 31–43 | 29–44 |
 | [18–20 September 2022](2022-09-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 35 | 32–39 | 31–40 | 30–41 | 28–43 |
 | [12–15 September 2022](2022-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
@@ -554,26 +555,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 0% | 100% |  |
 | 25 | 0% | 100% |  |
 | 26 | 0.1% | 100% |  |
-| 27 | 0.5% | 99.8% |  |
-| 28 | 1.2% | 99.3% |  |
-| 29 | 2% | 98% |  |
-| 30 | 4% | 96% |  |
-| 31 | 7% | 92% |  |
-| 32 | 10% | 85% |  |
-| 33 | 11% | 75% |  |
-| 34 | 12% | 64% |  |
-| 35 | 12% | 52% | Median |
-| 36 | 11% | 41% |  |
-| 37 | 9% | 30% |  |
-| 38 | 7% | 21% |  |
-| 39 | 6% | 14% |  |
-| 40 | 3% | 8% |  |
-| 41 | 2% | 5% |  |
-| 42 | 1.3% | 3% |  |
-| 43 | 0.7% | 1.4% |  |
-| 44 | 0.4% | 0.7% |  |
-| 45 | 0.2% | 0.3% |  |
-| 46 | 0.1% | 0.1% |  |
-| 47 | 0% | 0% |  |
+| 27 | 0.3% | 99.9% |  |
+| 28 | 0.8% | 99.6% |  |
+| 29 | 1.5% | 98.8% |  |
+| 30 | 3% | 97% |  |
+| 31 | 5% | 95% |  |
+| 32 | 7% | 90% |  |
+| 33 | 8% | 83% |  |
+| 34 | 10% | 75% |  |
+| 35 | 10% | 65% |  |
+| 36 | 10% | 55% | Median |
+| 37 | 10% | 44% |  |
+| 38 | 8% | 34% |  |
+| 39 | 8% | 26% |  |
+| 40 | 6% | 18% |  |
+| 41 | 5% | 13% |  |
+| 42 | 3% | 8% |  |
+| 43 | 2% | 5% |  |
+| 44 | 1.3% | 3% |  |
+| 45 | 0.7% | 1.3% |  |
+| 46 | 0.4% | 0.6% |  |
+| 47 | 0.1% | 0.2% |  |
+| 48 | 0.1% | 0.1% |  |
+| 49 | 0% | 0% |  |
 
 
