@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Tue, 25 Oct 2022 22:53:31 +0200</pubDate>
+    <pubDate>Wed, 26 Oct 2022 22:49:52 +0200</pubDate>
     <item>
       <title>Opinion Poll by Interview for Politic.gr, 13–19 October 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2022-10-19-Interview.html#seats</link>
@@ -128,6 +128,156 @@
         type="image/png"/>
       <pubDate>Tue, 25 Oct 2022 22:53:31 +0200</pubDate>
       <dc:date>2022-10-25T22:53:31.544697+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Politic.gr, 22–27 September 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-09-27-Interview.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 67–80 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 142–156 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 28–37 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 15–23 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 13–19 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 8–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-09-27-Interview-seats.png"
+        length="203014"
+        type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 22:24:36 +0200</pubDate>
+      <dc:date>2022-10-26T22:24:36.456936+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Politic.gr, 22–27 September 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-09-27-Interview.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-09-27-Interview-coalitions-seats.png"
+        length="256273"
+        type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 22:24:36 +0200</pubDate>
+      <dc:date>2022-10-26T22:24:36.456936+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Politic.gr, 22–27 September 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-09-27-Interview.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.0–28.5%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 32.9–37.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 10.1–13.4%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.5–8.1%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.5–6.9%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.0–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-09-27-Interview.png"
+        length="235354"
+        type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 22:24:36 +0200</pubDate>
+      <dc:date>2022-10-26T22:24:36.456936+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Mega TV, 22–26 September 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-09-26-MetronAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 62–75 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 140–153 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 35–46 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–21 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 13–20 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 9–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-09-26-MetronAnalysis-seats.png"
+        length="203618"
+        type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 22:31:12 +0200</pubDate>
+      <dc:date>2022-10-26T22:31:12.002124+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Mega TV, 22–26 September 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-09-26-MetronAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-09-26-MetronAnalysis-coalitions-seats.png"
+        length="258321"
+        type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 22:31:12 +0200</pubDate>
+      <dc:date>2022-10-26T22:31:12.002124+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Mega TV, 22–26 September 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-09-26-MetronAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.1–27.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 33.2–38.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 13.2–17.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.1–7.8%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 4.8–7.3%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.3–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-09-26-MetronAnalysis.png"
+        length="240809"
+        type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 22:31:12 +0200</pubDate>
+      <dc:date>2022-10-26T22:31:12.002124+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for ANT1, 20–24 September 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-09-24-Marc.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 68–83 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 144–161 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 31–41 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 13–21 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 10–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-09-24-Marc-seats.png"
+        length="204842"
+        type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 22:37:35 +0200</pubDate>
+      <dc:date>2022-10-26T22:37:35.206091+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for ANT1, 20–24 September 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-09-24-Marc.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-09-24-Marc-coalitions-seats.png"
+        length="266599"
+        type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 22:37:35 +0200</pubDate>
+      <dc:date>2022-10-26T22:37:35.206091+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for ANT1, 20–24 September 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-09-24-Marc.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.1–30.3%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 34.8–40.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 11.3–15.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.9–7.7%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.6–6.1%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.3–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-09-24-Marc.png"
+        length="234223"
+        type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 22:37:35 +0200</pubDate>
+      <dc:date>2022-10-26T22:37:35.206091+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis for The Caller, 20–23 September 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-09-23-PalmosAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 61–75 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 140–156 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 33–44 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 15–23 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 10–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 10–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-09-23-PalmosAnalysis-seats.png"
+        length="206004"
+        type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 22:43:43 +0200</pubDate>
+      <dc:date>2022-10-26T22:43:43.131445+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis for The Caller, 20–23 September 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-09-23-PalmosAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-09-23-PalmosAnalysis-coalitions-seats.png"
+        length="263490"
+        type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 22:43:43 +0200</pubDate>
+      <dc:date>2022-10-26T22:43:43.131445+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis for The Caller, 20–23 September 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-09-23-PalmosAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 22.8–28.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 33.6–39.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 12.1–16.4%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.6–8.7%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.6–6.3%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-09-23-PalmosAnalysis.png"
+        length="242941"
+        type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 22:43:43 +0200</pubDate>
+      <dc:date>2022-10-26T22:43:43.131445+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Alpha TV, 19–23 September 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-09-23-Alco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 65–81 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 140–157 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 32–44 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 10–18 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-09-23-Alco-seats.png"
+        length="208045"
+        type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 22:49:52 +0200</pubDate>
+      <dc:date>2022-10-26T22:49:52.913272+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Alpha TV, 19–23 September 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-09-23-Alco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-09-23-Alco-coalitions-seats.png"
+        length="267990"
+        type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 22:49:52 +0200</pubDate>
+      <dc:date>2022-10-26T22:49:52.913272+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Alpha TV, 19–23 September 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2022-09-23-Alco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 24.0–29.5%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 33.0–38.9%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 11.6–15.9%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 4.9–8.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.7–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2022-09-23-Alco.png"
+        length="238780"
+        type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 22:49:52 +0200</pubDate>
+      <dc:date>2022-10-26T22:49:52.913272+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Open TV, 19–21 September 2022 – Seat Projections for the Parties</title>
@@ -6189,6 +6339,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58+01:00</dc:date>
     </item>
-    <dc:date>2022-10-25T22:53:31.544697+02:00</dc:date>
+    <dc:date>2022-10-26T22:49:52.913272+02:00</dc:date>
   </channel>
 </rss>
