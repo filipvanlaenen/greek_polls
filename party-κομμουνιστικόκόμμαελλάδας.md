@@ -10,7 +10,12 @@ Last result: **5.3%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 4.9–7.4% | 4.7–7.9% | 4.4–8.2% | 4.0–8.9% |
+| N/A | [Poll Average](average.html) | 6.1% | 4.8–7.2% | 4.5–7.5% | 4.3–7.7% | 3.9–8.2% |
+| [11–17 January 2023](2023-01-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6.0% | 5.3–7.0% | 5.0–7.2% | 4.9–7.5% | 4.5–7.9% |
+| [12–16 January 2023](2023-01-16-Interview.html) | Interview <br> Politic.gr | 6.7% | 6.0–7.5% | 5.8–7.8% | 5.6–8.0% | 5.3–8.4% |
+| [11–13 January 2023](2023-01-13-OpinionPoll.html) | Opinion Poll <br> The TOC | 5.3% | N/A | N/A | N/A | N/A |
+| [9–13 January 2023](2023-01-13-Alco.html) | Alco <br> Alpha TV | 6.4% | N/A | N/A | N/A | N/A |
+| [16–21 December 2022](2022-12-21-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6.4% | N/A | N/A | N/A | N/A |
 | [18–19 December 2022](2022-12-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.2% | 4.4–6.1% | 4.2–6.4% | 4.0–6.6% | 3.7–7.1% |
 | [15–19 December 2022](2022-12-19-Interview.html) | Interview <br> Politic.gr | 5.6% | 5.0–6.4% | 4.8–6.6% | 4.6–6.8% | 4.3–7.2% |
 | [13–15 December 2022](2022-12-15-GPO.html) | GPO <br> Powergame.gr | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
@@ -285,15 +290,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 4% | 100% |  |
-| 4.5–5.5% | 28% | 96% | Last Result |
-| 5.5–6.5% | 39% | 68% | Median |
-| 6.5–7.5% | 21% | 29% |  |
-| 7.5–8.5% | 7% | 9% |  |
-| 8.5–9.5% | 1.2% | 1.3% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 5% | 99.9% |  |
+| 4.5–5.5% | 25% | 95% | Last Result |
+| 5.5–6.5% | 40% | 70% | Median |
+| 6.5–7.5% | 26% | 29% |  |
+| 7.5–8.5% | 4% | 4% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -304,7 +308,12 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–20 | 13–21 | 12–22 | 11–24 |
+| N/A | [Poll Average](average.html) | 17 | 13–20 | 12–20 | 12–21 | 11–22 |
+| [11–17 January 2023](2023-01-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 17 | 15–19 | 14–20 | 13–21 | 12–22 |
+| [12–16 January 2023](2023-01-16-Interview.html) | Interview <br> Politic.gr | 18 | 16–21 | 16–21 | 15–22 | 14–23 |
+| [11–13 January 2023](2023-01-13-OpinionPoll.html) | Opinion Poll <br> The TOC |  |  |  |  |  |
+| [9–13 January 2023](2023-01-13-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [16–21 December 2022](2022-12-21-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [18–19 December 2022](2022-12-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 14 | 12–17 | 11–18 | 11–18 | 10–20 |
 | [15–19 December 2022](2022-12-19-Interview.html) | Interview <br> Politic.gr | 16 | 14–18 | 13–19 | 13–19 | 12–20 |
 | [13–15 December 2022](2022-12-15-GPO.html) | GPO <br> Powergame.gr | 20 | 17–23 | 16–24 | 16–25 | 15–26 |
@@ -581,24 +590,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
-| 11 | 0.8% | 99.8% |  |
-| 12 | 3% | 99.0% |  |
-| 13 | 6% | 96% |  |
-| 14 | 10% | 90% |  |
-| 15 | 15% | 80% | Last Result |
-| 16 | 16% | 65% | Median |
-| 17 | 15% | 49% |  |
-| 18 | 12% | 35% |  |
-| 19 | 8% | 23% |  |
-| 20 | 6% | 15% |  |
-| 21 | 4% | 9% |  |
-| 22 | 2% | 5% |  |
-| 23 | 1.4% | 2% |  |
-| 24 | 0.6% | 1.1% |  |
-| 25 | 0.3% | 0.5% |  |
-| 26 | 0.1% | 0.2% |  |
-| 27 | 0% | 0.1% |  |
-| 28 | 0% | 0% |  |
+| 10 | 0.3% | 100% |  |
+| 11 | 1.3% | 99.6% |  |
+| 12 | 3% | 98% |  |
+| 13 | 6% | 95% |  |
+| 14 | 10% | 88% |  |
+| 15 | 12% | 79% | Last Result |
+| 16 | 14% | 67% |  |
+| 17 | 15% | 53% | Median |
+| 18 | 14% | 37% |  |
+| 19 | 12% | 23% |  |
+| 20 | 7% | 11% |  |
+| 21 | 3% | 5% |  |
+| 22 | 1.1% | 2% |  |
+| 23 | 0.3% | 0.4% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 
