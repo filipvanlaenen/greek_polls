@@ -10,12 +10,12 @@ Last result: **8.1%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.7% | 10.5–13.1% | 10.2–13.5% | 9.9–13.8% | 9.4–14.5% |
+| N/A | [Poll Average](average.html) | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.7% |
 | [11–17 January 2023](2023-01-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 12.3% | 11.2–13.5% | 10.9–13.9% | 10.6–14.2% | 10.1–14.8% |
 | [12–16 January 2023](2023-01-16-Interview.html) | Interview <br> Politic.gr | 11.2% | 10.3–12.3% | 10.0–12.6% | 9.8–12.8% | 9.4–13.4% |
-| [11–13 January 2023](2023-01-13-OpinionPoll.html) | Opinion Poll <br> The TOC | 11.8% | N/A | N/A | N/A | N/A |
-| [9–13 January 2023](2023-01-13-Alco.html) | Alco <br> Alpha TV | 12.4% | N/A | N/A | N/A | N/A |
-| [16–21 December 2022](2022-12-21-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 11.6% | N/A | N/A | N/A | N/A |
+| [11–13 January 2023](2023-01-13-OpinionPoll.html) | Opinion Poll <br> The TOC | 11.8% | 10.6–13.2% | 10.3–13.6% | 10.0–14.0% | 9.4–14.7% |
+| [9–13 January 2023](2023-01-13-Alco.html) | Alco <br> Alpha TV | 12.4% | 11.1–13.8% | 10.8–14.2% | 10.5–14.6% | 9.9–15.3% |
+| [16–21 December 2022](2022-12-21-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 11.6% | 10.3–13.0% | 10.0–13.4% | 9.7–13.7% | 9.2–14.4% |
 | [18–19 December 2022](2022-12-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11.5% | 10.4–12.8% | 10.0–13.2% | 9.8–13.5% | 9.2–14.2% |
 | [15–19 December 2022](2022-12-19-Interview.html) | Interview <br> Politic.gr | 11.3% | 10.3–12.4% | 10.1–12.7% | 9.9–12.9% | 9.4–13.4% |
 | [13–15 December 2022](2022-12-15-GPO.html) | GPO <br> Powergame.gr | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
@@ -292,13 +292,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% | Last Result |
 | 8.5–9.5% | 0.8% | 100% |  |
-| 9.5–10.5% | 10% | 99.2% |  |
-| 10.5–11.5% | 33% | 89% |  |
-| 11.5–12.5% | 35% | 55% | Median |
-| 12.5–13.5% | 17% | 21% |  |
-| 13.5–14.5% | 4% | 4% |  |
-| 14.5–15.5% | 0.4% | 0.4% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 9.5–10.5% | 9% | 99.2% |  |
+| 10.5–11.5% | 30% | 90% |  |
+| 11.5–12.5% | 35% | 60% | Median |
+| 12.5–13.5% | 19% | 25% |  |
+| 13.5–14.5% | 5% | 6% |  |
+| 14.5–15.5% | 0.7% | 0.8% |  |
+| 15.5–16.5% | 0.1% | 0.1% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -309,12 +310,12 @@ Last result: **22** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 29–36 | 28–37 | 27–38 | 26–40 |
+| N/A | [Poll Average](average.html) | 32 | 29–36 | 28–37 | 27–39 | 26–41 |
 | [11–17 January 2023](2023-01-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 34 | 31–37 | 30–38 | 29–39 | 28–41 |
 | [12–16 January 2023](2023-01-16-Interview.html) | Interview <br> Politic.gr | 31 | 28–34 | 27–34 | 27–35 | 26–36 |
-| [11–13 January 2023](2023-01-13-OpinionPoll.html) | Opinion Poll <br> The TOC |  |  |  |  |  |
-| [9–13 January 2023](2023-01-13-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
-| [16–21 December 2022](2022-12-21-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [11–13 January 2023](2023-01-13-OpinionPoll.html) | Opinion Poll <br> The TOC | 32 | 29–36 | 28–37 | 27–38 | 25–40 |
+| [9–13 January 2023](2023-01-13-Alco.html) | Alco <br> Alpha TV | 34 | 30–38 | 29–39 | 29–40 | 27–42 |
+| [16–21 December 2022](2022-12-21-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 32 | 28–36 | 27–37 | 27–38 | 25–40 |
 | [18–19 December 2022](2022-12-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 32 | 28–35 | 28–36 | 27–37 | 25–39 |
 | [15–19 December 2022](2022-12-19-Interview.html) | Interview <br> Politic.gr | 32 | 29–35 | 28–36 | 28–36 | 26–38 |
 | [13–15 December 2022](2022-12-15-GPO.html) | GPO <br> Powergame.gr | 32 | 28–35 | 27–37 | 27–38 | 25–39 |
@@ -595,23 +596,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0% | 100% |  |
 | 24 | 0.1% | 100% |  |
 | 25 | 0.3% | 99.9% |  |
-| 26 | 0.9% | 99.7% |  |
-| 27 | 2% | 98.8% |  |
-| 28 | 5% | 96% |  |
-| 29 | 9% | 92% |  |
-| 30 | 10% | 83% |  |
-| 31 | 14% | 73% |  |
-| 32 | 14% | 58% | Median |
-| 33 | 13% | 44% |  |
-| 34 | 11% | 32% |  |
-| 35 | 8% | 21% |  |
-| 36 | 6% | 13% |  |
-| 37 | 4% | 8% |  |
-| 38 | 2% | 4% |  |
-| 39 | 1.1% | 2% |  |
-| 40 | 0.5% | 0.8% |  |
-| 41 | 0.2% | 0.3% |  |
-| 42 | 0.1% | 0.1% |  |
-| 43 | 0% | 0% |  |
+| 26 | 0.9% | 99.6% |  |
+| 27 | 2% | 98.7% |  |
+| 28 | 4% | 96% |  |
+| 29 | 8% | 92% |  |
+| 30 | 10% | 84% |  |
+| 31 | 13% | 75% |  |
+| 32 | 13% | 61% | Median |
+| 33 | 13% | 48% |  |
+| 34 | 11% | 35% |  |
+| 35 | 9% | 24% |  |
+| 36 | 6% | 15% |  |
+| 37 | 4% | 9% |  |
+| 38 | 2% | 5% |  |
+| 39 | 1.4% | 3% |  |
+| 40 | 0.7% | 1.2% |  |
+| 41 | 0.3% | 0.5% |  |
+| 42 | 0.1% | 0.2% |  |
+| 43 | 0% | 0.1% |  |
+| 44 | 0% | 0% |  |
 
 
