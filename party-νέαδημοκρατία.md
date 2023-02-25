@@ -10,7 +10,18 @@ Last result: **39.8%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.9% | 34.8–39.3% | 34.3–40.0% | 33.8–40.6% | 32.8–41.7% |
+| N/A | [Poll Average](average.html) | 36.6% | 35.0–38.2% | 34.6–38.7% | 34.2–39.1% | 33.5–39.8% |
+| [16–20 February 2023](2023-02-20-Interview.html) | Interview <br> Politic.gr | 36.6% | 35.0–38.2% | 34.6–38.7% | 34.2–39.1% | 33.5–39.9% |
+| [14–17 February 2023](2023-02-17-OpinionPoll.html) | Opinion Poll <br> The TOC | 38.5% | N/A | N/A | N/A | N/A |
+| [13–17 February 2023](2023-02-17-Alco.html) | Alco <br> Alpha TV | 36.6% | N/A | N/A | N/A | N/A |
+| [7–9 February 2023](2023-02-09-GPO.html) | GPO <br> Παραπολιτικά | 38.1% | N/A | N/A | N/A | N/A |
+| [3–8 February 2023](2023-02-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 37.5% | N/A | N/A | N/A | N/A |
+| [24–31 January 2023](2023-01-31-Marc.html) | Marc <br> ANT1 | 37.5% | N/A | N/A | N/A | N/A |
+| [23–24 January 2023](2023-01-24-MRB.html) | MRB <br> Open TV | 36.0% | N/A | N/A | N/A | N/A |
+| [20–24 January 2023](2023-01-24-GPO.html) | GPO <br> Star TV | 38.1% | N/A | N/A | N/A | N/A |
+| [19–23 January 2023](2023-01-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 37.2% | N/A | N/A | N/A | N/A |
+| [19–23 January 2023](2023-01-23-Prorata.html) | Prorata <br> Attica TV | 36.6% | N/A | N/A | N/A | N/A |
+| [16–20 January 2023](2023-01-20-Rass.html) | Rass <br> Action 24 | 34.7% | N/A | N/A | N/A | N/A |
 | [11–17 January 2023](2023-01-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 36.5% | 34.8–38.3% | 34.4–38.7% | 33.9–39.2% | 33.2–40.0% |
 | [12–16 January 2023](2023-01-16-Interview.html) | Interview <br> Politic.gr | 36.0% | 34.5–37.5% | 34.1–38.0% | 33.7–38.3% | 33.0–39.1% |
 | [11–13 January 2023](2023-01-13-OpinionPoll.html) | Opinion Poll <br> The TOC | 38.6% | 36.7–40.6% | 36.1–41.2% | 35.6–41.7% | 34.7–42.6% |
@@ -290,20 +301,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 30.5–31.5% | 0% | 100% |  |
-| 31.5–32.5% | 0.3% | 100% |  |
-| 32.5–33.5% | 1.4% | 99.7% |  |
-| 33.5–34.5% | 5% | 98% |  |
-| 34.5–35.5% | 13% | 93% |  |
-| 35.5–36.5% | 21% | 79% |  |
-| 36.5–37.5% | 22% | 58% | Median |
-| 37.5–38.5% | 17% | 36% |  |
-| 38.5–39.5% | 11% | 19% |  |
-| 39.5–40.5% | 5% | 8% | Last Result |
-| 40.5–41.5% | 2% | 3% |  |
-| 41.5–42.5% | 0.5% | 0.6% |  |
-| 42.5–43.5% | 0.1% | 0.1% |  |
-| 43.5–44.5% | 0% | 0% |  |
+| 31.5–32.5% | 0% | 100% |  |
+| 32.5–33.5% | 0.6% | 100% |  |
+| 33.5–34.5% | 4% | 99.4% |  |
+| 34.5–35.5% | 14% | 95% |  |
+| 35.5–36.5% | 29% | 81% |  |
+| 36.5–37.5% | 30% | 52% | Median |
+| 37.5–38.5% | 17% | 23% |  |
+| 38.5–39.5% | 5% | 6% |  |
+| 39.5–40.5% | 0.9% | 1.0% | Last Result |
+| 40.5–41.5% | 0.1% | 0.1% |  |
+| 41.5–42.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -314,7 +322,18 @@ Last result: **158** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 151 | 145–158 | 144–160 | 142–161 | 140–165 |
+| N/A | [Poll Average](average.html) | 151 | 146–155 | 145–156 | 144–157 | 142–160 |
+| [16–20 February 2023](2023-02-20-Interview.html) | Interview <br> Politic.gr | 151 | 146–155 | 145–156 | 144–157 | 142–160 |
+| [14–17 February 2023](2023-02-17-OpinionPoll.html) | Opinion Poll <br> The TOC |  |  |  |  |  |
+| [13–17 February 2023](2023-02-17-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [7–9 February 2023](2023-02-09-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [3–8 February 2023](2023-02-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [24–31 January 2023](2023-01-31-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
+| [23–24 January 2023](2023-01-24-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [20–24 January 2023](2023-01-24-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
+| [19–23 January 2023](2023-01-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [19–23 January 2023](2023-01-23-Prorata.html) | Prorata <br> Attica TV |  |  |  |  |  |
+| [16–20 January 2023](2023-01-20-Rass.html) | Rass <br> Action 24 |  |  |  |  |  |
 | [11–17 January 2023](2023-01-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 151 | 146–156 | 145–157 | 144–159 | 142–161 |
 | [12–16 January 2023](2023-01-16-Interview.html) | Interview <br> Politic.gr | 148 | 145–153 | 143–154 | 142–155 | 141–157 |
 | [11–13 January 2023](2023-01-13-OpinionPoll.html) | Opinion Poll <br> The TOC | 154 | 149–160 | 147–162 | 146–164 | 144–167 |
@@ -596,39 +615,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 136 | 0% | 100% |  |
-| 137 | 0% | 99.9% |  |
-| 138 | 0.1% | 99.9% |  |
-| 139 | 0.2% | 99.8% |  |
-| 140 | 0.3% | 99.6% |  |
-| 141 | 0.7% | 99.3% |  |
-| 142 | 1.1% | 98.6% |  |
-| 143 | 2% | 97% |  |
-| 144 | 3% | 96% |  |
-| 145 | 4% | 93% |  |
-| 146 | 5% | 89% |  |
-| 147 | 6% | 85% |  |
-| 148 | 7% | 79% |  |
-| 149 | 7% | 72% |  |
-| 150 | 8% | 64% |  |
-| 151 | 8% | 56% | Median, Majority |
-| 152 | 8% | 48% |  |
-| 153 | 8% | 39% |  |
-| 154 | 7% | 32% |  |
-| 155 | 6% | 25% |  |
-| 156 | 5% | 19% |  |
-| 157 | 4% | 14% |  |
-| 158 | 3% | 10% | Last Result |
-| 159 | 2% | 7% |  |
-| 160 | 2% | 5% |  |
-| 161 | 1.2% | 4% |  |
-| 162 | 0.8% | 2% |  |
-| 163 | 0.6% | 2% |  |
-| 164 | 0.4% | 0.9% |  |
-| 165 | 0.3% | 0.6% |  |
-| 166 | 0.1% | 0.3% |  |
-| 167 | 0.1% | 0.2% |  |
-| 168 | 0% | 0.1% |  |
-| 169 | 0% | 0% |  |
+| 139 | 0% | 100% |  |
+| 140 | 0.1% | 99.9% |  |
+| 141 | 0.2% | 99.9% |  |
+| 142 | 0.5% | 99.6% |  |
+| 143 | 1.0% | 99.1% |  |
+| 144 | 2% | 98% |  |
+| 145 | 3% | 96% |  |
+| 146 | 5% | 93% |  |
+| 147 | 7% | 88% |  |
+| 148 | 9% | 82% |  |
+| 149 | 10% | 72% |  |
+| 150 | 11% | 62% |  |
+| 151 | 12% | 50% | Median, Majority |
+| 152 | 10% | 38% |  |
+| 153 | 9% | 28% |  |
+| 154 | 7% | 19% |  |
+| 155 | 5% | 12% |  |
+| 156 | 4% | 8% |  |
+| 157 | 2% | 4% |  |
+| 158 | 1.1% | 2% | Last Result |
+| 159 | 0.6% | 1.3% |  |
+| 160 | 0.3% | 0.7% |  |
+| 161 | 0.2% | 0.4% |  |
+| 162 | 0.1% | 0.2% |  |
+| 163 | 0% | 0.1% |  |
+| 164 | 0% | 0% |  |
 
 

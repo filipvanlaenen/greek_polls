@@ -10,7 +10,18 @@ Last result: **5.3%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.1% | 4.9–7.2% | 4.6–7.5% | 4.3–7.8% | 3.9–8.4% |
+| N/A | [Poll Average](average.html) | 5.6% | 4.8–6.3% | 4.6–6.6% | 4.5–6.8% | 4.2–7.2% |
+| [16–20 February 2023](2023-02-20-Interview.html) | Interview <br> Politic.gr | 5.5% | 4.8–6.4% | 4.6–6.6% | 4.5–6.8% | 4.2–7.2% |
+| [14–17 February 2023](2023-02-17-OpinionPoll.html) | Opinion Poll <br> The TOC | 5.2% | N/A | N/A | N/A | N/A |
+| [13–17 February 2023](2023-02-17-Alco.html) | Alco <br> Alpha TV | 6.7% | N/A | N/A | N/A | N/A |
+| [7–9 February 2023](2023-02-09-GPO.html) | GPO <br> Παραπολιτικά | 7.2% | N/A | N/A | N/A | N/A |
+| [3–8 February 2023](2023-02-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6.1% | N/A | N/A | N/A | N/A |
+| [24–31 January 2023](2023-01-31-Marc.html) | Marc <br> ANT1 | 6.1% | N/A | N/A | N/A | N/A |
+| [23–24 January 2023](2023-01-24-MRB.html) | MRB <br> Open TV | 6.0% | N/A | N/A | N/A | N/A |
+| [20–24 January 2023](2023-01-24-GPO.html) | GPO <br> Star TV | 7.2% | N/A | N/A | N/A | N/A |
+| [19–23 January 2023](2023-01-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.4% | N/A | N/A | N/A | N/A |
+| [19–23 January 2023](2023-01-23-Prorata.html) | Prorata <br> Attica TV | 5.3% | N/A | N/A | N/A | N/A |
+| [16–20 January 2023](2023-01-20-Rass.html) | Rass <br> Action 24 | 6.9% | N/A | N/A | N/A | N/A |
 | [11–17 January 2023](2023-01-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6.0% | 5.3–7.0% | 5.0–7.2% | 4.9–7.5% | 4.5–7.9% |
 | [12–16 January 2023](2023-01-16-Interview.html) | Interview <br> Politic.gr | 6.7% | 6.0–7.5% | 5.8–7.8% | 5.6–8.0% | 5.3–8.4% |
 | [11–13 January 2023](2023-01-13-OpinionPoll.html) | Opinion Poll <br> The TOC | 5.3% | 4.5–6.3% | 4.2–6.6% | 4.1–6.8% | 3.7–7.4% |
@@ -290,14 +301,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 5% | 99.9% |  |
-| 4.5–5.5% | 24% | 95% | Last Result |
-| 5.5–6.5% | 40% | 71% | Median |
-| 6.5–7.5% | 25% | 30% |  |
-| 7.5–8.5% | 5% | 5% |  |
-| 8.5–9.5% | 0.3% | 0.3% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 4% | 100% |  |
+| 4.5–5.5% | 46% | 96% | Last Result |
+| 5.5–6.5% | 45% | 50% | Median |
+| 6.5–7.5% | 5% | 5% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -308,7 +318,18 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 13–20 | 12–21 | 12–21 | 11–23 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–18 | 12–19 | 11–20 |
+| [16–20 February 2023](2023-02-20-Interview.html) | Interview <br> Politic.gr | 15 | 13–17 | 13–18 | 12–19 | 11–20 |
+| [14–17 February 2023](2023-02-17-OpinionPoll.html) | Opinion Poll <br> The TOC |  |  |  |  |  |
+| [13–17 February 2023](2023-02-17-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [7–9 February 2023](2023-02-09-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [3–8 February 2023](2023-02-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [24–31 January 2023](2023-01-31-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
+| [23–24 January 2023](2023-01-24-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [20–24 January 2023](2023-01-24-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
+| [19–23 January 2023](2023-01-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [19–23 January 2023](2023-01-23-Prorata.html) | Prorata <br> Attica TV |  |  |  |  |  |
+| [16–20 January 2023](2023-01-20-Rass.html) | Rass <br> Action 24 |  |  |  |  |  |
 | [11–17 January 2023](2023-01-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 17 | 15–19 | 14–20 | 13–21 | 12–22 |
 | [12–16 January 2023](2023-01-16-Interview.html) | Interview <br> Politic.gr | 18 | 16–21 | 16–21 | 15–22 | 14–23 |
 | [11–13 January 2023](2023-01-13-OpinionPoll.html) | Opinion Poll <br> The TOC | 14 | 12–17 | 11–18 | 11–18 | 10–20 |
@@ -590,23 +611,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 0.3% | 99.9% |  |
-| 11 | 1.3% | 99.6% |  |
-| 12 | 4% | 98% |  |
-| 13 | 6% | 95% |  |
-| 14 | 10% | 89% |  |
-| 15 | 12% | 79% | Last Result |
-| 16 | 14% | 67% |  |
-| 17 | 15% | 53% | Median |
-| 18 | 14% | 38% |  |
-| 19 | 11% | 24% |  |
-| 20 | 7% | 13% |  |
-| 21 | 4% | 6% |  |
-| 22 | 1.5% | 2% |  |
-| 23 | 0.6% | 0.9% |  |
-| 24 | 0.2% | 0.3% |  |
-| 25 | 0.1% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0.5% | 99.9% |  |
+| 12 | 3% | 99.4% |  |
+| 13 | 10% | 97% |  |
+| 14 | 19% | 86% |  |
+| 15 | 25% | 68% | Last Result, Median |
+| 16 | 20% | 43% |  |
+| 17 | 14% | 22% |  |
+| 18 | 6% | 9% |  |
+| 19 | 2% | 3% |  |
+| 20 | 0.6% | 0.8% |  |
+| 21 | 0.1% | 0.2% |  |
+| 22 | 0% | 0% |  |
 
 
