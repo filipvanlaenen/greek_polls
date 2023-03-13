@@ -10,7 +10,10 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.1% | 2.2–4.4% | 2.1–4.6% | 1.8–5.1% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.6–4.7% | 2.3–5.0% | 2.2–5.2% | 1.8–5.7% |
+| [6–9 March 2023](2023-03-09-Interview.html) | Interview <br> Politic.gr | 4.2% | 3.6–5.0% | 3.4–5.3% | 3.2–5.5% | 3.0–5.9% |
+| [6–8 March 2023](2023-03-08-GPO.html) | GPO <br> Παραπολιτικά | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [4–7 March 2023](2023-03-07-Marc.html) | Marc <br> ANT1 | 4.1% | 3.5–4.9% | 3.3–5.2% | 3.1–5.4% | 2.9–5.8% |
 | [16–20 February 2023](2023-02-20-Interview.html) | Interview <br> Politic.gr | 3.7% | 3.2–4.4% | 3.0–4.6% | 2.9–4.8% | 2.6–5.2% |
 | [14–17 February 2023](2023-02-17-OpinionPoll.html) | Opinion Poll <br> The TOC | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
 | [13–17 February 2023](2023-02-17-Alco.html) | Alco <br> Alpha TV | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
@@ -302,11 +305,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 14% | 99.9% |  |
-| 2.5–3.5% | 54% | 86% | Last Result, Median |
-| 3.5–4.5% | 29% | 32% |  |
-| 4.5–5.5% | 3% | 3% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 9% | 99.9% |  |
+| 2.5–3.5% | 34% | 91% | Last Result |
+| 3.5–4.5% | 42% | 57% | Median |
+| 4.5–5.5% | 14% | 15% |  |
+| 5.5–6.5% | 0.8% | 0.8% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -318,7 +321,10 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 0–11 | 0–12 | 0–13 | 0–14 |
+| N/A | [Poll Average](average.html) | 10 | 0–13 | 0–14 | 0–14 | 0–16 |
+| [6–9 March 2023](2023-03-09-Interview.html) | Interview <br> Politic.gr | 12 | 10–14 | 9–15 | 9–15 | 0–16 |
+| [6–8 March 2023](2023-03-08-GPO.html) | GPO <br> Παραπολιτικά | 11 | 9–13 | 8–14 | 0–14 | 0–16 |
+| [4–7 March 2023](2023-03-07-Marc.html) | Marc <br> ANT1 | 11 | 10–14 | 9–14 | 9–15 | 0–16 |
 | [16–20 February 2023](2023-02-20-Interview.html) | Interview <br> Politic.gr | 10 | 9–12 | 0–13 | 0–13 | 0–14 |
 | [14–17 February 2023](2023-02-17-OpinionPoll.html) | Opinion Poll <br> The TOC | 0 | 0–9 | 0–10 | 0–10 | 0–12 |
 | [13–17 February 2023](2023-02-17-Alco.html) | Alco <br> Alpha TV | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
@@ -611,22 +617,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 38% | 100% |  |
-| 1 | 0% | 62% |  |
-| 2 | 0% | 62% |  |
-| 3 | 0% | 62% |  |
-| 4 | 0% | 62% |  |
-| 5 | 0% | 62% |  |
-| 6 | 0% | 62% |  |
-| 7 | 0% | 62% |  |
-| 8 | 6% | 62% |  |
-| 9 | 20% | 56% | Last Result, Median |
-| 10 | 17% | 35% |  |
-| 11 | 10% | 18% |  |
-| 12 | 5% | 8% |  |
-| 13 | 2% | 3% |  |
-| 14 | 0.6% | 0.8% |  |
-| 15 | 0.1% | 0.2% |  |
-| 16 | 0% | 0% |  |
+| 0 | 23% | 100% |  |
+| 1 | 0% | 77% |  |
+| 2 | 0% | 77% |  |
+| 3 | 0% | 77% |  |
+| 4 | 0% | 77% |  |
+| 5 | 0% | 77% |  |
+| 6 | 0% | 77% |  |
+| 7 | 0% | 77% |  |
+| 8 | 3% | 77% |  |
+| 9 | 13% | 73% | Last Result |
+| 10 | 15% | 61% | Median |
+| 11 | 17% | 45% |  |
+| 12 | 14% | 29% |  |
+| 13 | 8% | 15% |  |
+| 14 | 4% | 6% |  |
+| 15 | 2% | 2% |  |
+| 16 | 0.4% | 0.6% |  |
+| 17 | 0.1% | 0.1% |  |
+| 18 | 0% | 0% |  |
 
 
