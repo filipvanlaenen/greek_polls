@@ -10,7 +10,9 @@ Last result: **3.4%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 2.7–4.9% | 2.4–5.2% | 2.2–5.4% | 1.9–5.9% |
+| N/A | [Poll Average](average.html) | 3.9% | 2.8–5.0% | 2.5–5.3% | 2.3–5.5% | 1.9–6.0% |
+| [13–15 March 2023](2023-03-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.6% | 2.9–4.4% | 2.8–4.6% | 2.6–4.8% | 2.4–5.3% |
+| [7–13 March 2023](2023-03-13-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.5% | 3.8–5.4% | 3.6–5.6% | 3.5–5.8% | 3.2–6.3% |
 | [6–13 March 2023](2023-03-13-MRB.html) | MRB <br> Open TV | 4.7% | 4.0–5.5% | 3.9–5.7% | 3.7–5.9% | 3.4–6.3% |
 | [8–11 March 2023](2023-03-11-Prorata.html) | Prorata <br> Attica TV | 3.6% | 3.0–4.5% | 2.8–4.7% | 2.7–4.9% | 2.4–5.3% |
 | [6–9 March 2023](2023-03-09-Interview.html) | Interview <br> Politic.gr | 4.2% | 3.6–5.0% | 3.4–5.3% | 3.2–5.5% | 3.0–5.9% |
@@ -307,12 +309,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 7% | 100% |  |
-| 2.5–3.5% | 30% | 93% | Last Result |
-| 3.5–4.5% | 43% | 63% | Median |
-| 4.5–5.5% | 19% | 21% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 28% | 95% | Last Result |
+| 3.5–4.5% | 44% | 66% | Median |
+| 4.5–5.5% | 20% | 22% |  |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -323,7 +326,9 @@ Last result: **9** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 0–14 | 0–14 | 0–15 | 0–16 |
+| N/A | [Poll Average](average.html) | 11 | 0–14 | 0–15 | 0–15 | 0–17 |
+| [13–15 March 2023](2023-03-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 0–12 | 0–13 | 0–13 | 0–14 |
+| [7–13 March 2023](2023-03-13-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 13 | 11–15 | 10–16 | 10–16 | 9–18 |
 | [6–13 March 2023](2023-03-13-MRB.html) | MRB <br> Open TV | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
 | [8–11 March 2023](2023-03-11-Prorata.html) | Prorata <br> Attica TV | 10 | 0–13 | 0–13 | 0–14 | 0–15 |
 | [6–9 March 2023](2023-03-09-Interview.html) | Interview <br> Politic.gr | 12 | 10–14 | 9–15 | 9–15 | 0–16 |
@@ -621,24 +626,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% |  |
-| 1 | 0% | 82% |  |
-| 2 | 0% | 82% |  |
-| 3 | 0% | 82% |  |
-| 4 | 0% | 82% |  |
-| 5 | 0% | 82% |  |
-| 6 | 0% | 82% |  |
-| 7 | 0% | 82% |  |
-| 8 | 3% | 82% |  |
-| 9 | 12% | 79% | Last Result |
-| 10 | 14% | 68% |  |
-| 11 | 17% | 53% | Median |
-| 12 | 15% | 36% |  |
-| 13 | 11% | 21% |  |
-| 14 | 6% | 10% |  |
-| 15 | 3% | 4% |  |
-| 16 | 1.1% | 1.4% |  |
-| 17 | 0.3% | 0.4% |  |
+| 0 | 15% | 100% |  |
+| 1 | 0% | 85% |  |
+| 2 | 0% | 85% |  |
+| 3 | 0% | 85% |  |
+| 4 | 0% | 85% |  |
+| 5 | 0% | 85% |  |
+| 6 | 0% | 85% |  |
+| 7 | 0% | 85% |  |
+| 8 | 3% | 85% |  |
+| 9 | 12% | 82% | Last Result |
+| 10 | 15% | 70% |  |
+| 11 | 17% | 55% | Median |
+| 12 | 15% | 38% |  |
+| 13 | 11% | 23% |  |
+| 14 | 7% | 12% |  |
+| 15 | 3% | 5% |  |
+| 16 | 1.2% | 2% |  |
+| 17 | 0.4% | 0.5% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
