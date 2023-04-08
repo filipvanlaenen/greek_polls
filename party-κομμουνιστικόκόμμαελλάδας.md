@@ -10,7 +10,7 @@ Last result: **5.3%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.8–8.2% | 5.5–8.6% | 5.3–8.9% | 4.8–9.6% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.9–8.3% | 5.6–8.6% | 5.3–9.0% | 4.9–9.6% |
 | [30 March–3 April 2023](2023-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.6% | 5.7–7.7% | 5.5–8.0% | 5.3–8.2% | 4.9–8.7% |
 | [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 7.5% | 6.7–8.5% | 6.4–8.7% | 6.2–9.0% | 5.9–9.5% |
 | [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
@@ -19,8 +19,8 @@ Last result: **5.3%** (General Election of 7 July 2019)
 | [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 6.5% | 5.7–7.6% | 5.4–7.9% | 5.2–8.2% | 4.8–8.7% |
 | [22–28 March 2023](2023-03-28-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7.1% | 6.3–8.1% | 6.0–8.4% | 5.8–8.7% | 5.5–9.2% |
 | [24–28 March 2023](2023-03-28-MRB.html) | MRB <br> Newsbomb | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
-| [18–21 March 2023](2023-03-21-GPO.html) | GPO <br> Star TV | 7.7% | N/A | N/A | N/A | N/A |
-| [13–17 March 2023](2023-03-17-Alco.html) | Alco <br> Alpha TV | 6.9% | N/A | N/A | N/A | N/A |
+| [18–21 March 2023](2023-03-21-GPO.html) | GPO <br> Star TV | 7.7% | 6.8–8.7% | 6.5–9.1% | 6.3–9.3% | 5.9–9.9% |
+| [13–17 March 2023](2023-03-17-Alco.html) | Alco <br> Alpha TV | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.6% | 5.1–9.2% |
 | [13–15 March 2023](2023-03-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.3% | 6.4–8.4% | 6.1–8.7% | 5.9–9.0% | 5.5–9.5% |
 | [7–13 March 2023](2023-03-13-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7.6% | 6.7–8.7% | 6.4–8.9% | 6.2–9.2% | 5.8–9.8% |
 | [6–13 March 2023](2023-03-13-MRB.html) | MRB <br> Open TV | 6.2% | 5.5–7.1% | 5.2–7.3% | 5.1–7.6% | 4.7–8.0% |
@@ -319,13 +319,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 5% | 99.8% | Last Result |
-| 5.5–6.5% | 28% | 95% |  |
-| 6.5–7.5% | 40% | 67% | Median |
-| 7.5–8.5% | 22% | 27% |  |
-| 8.5–9.5% | 5% | 5% |  |
-| 9.5–10.5% | 0.5% | 0.6% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 4% | 99.9% | Last Result |
+| 5.5–6.5% | 25% | 95% |  |
+| 6.5–7.5% | 40% | 70% | Median |
+| 7.5–8.5% | 24% | 30% |  |
+| 8.5–9.5% | 5% | 6% |  |
+| 9.5–10.5% | 0.6% | 0.6% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -337,7 +337,7 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–23 | 15–24 | 15–25 | 13–27 |
+| N/A | [Poll Average](average.html) | 20 | 16–23 | 16–24 | 15–25 | 14–27 |
 | [30 March–3 April 2023](2023-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 18 | 16–21 | 15–22 | 14–22 | 13–24 |
 | [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 21 | 18–23 | 18–24 | 17–25 | 16–26 |
 | [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 22 | 19–25 | 18–26 | 17–26 | 16–28 |
@@ -346,8 +346,8 @@ Last result: **15** seats (General Election of 7 July 2019)
 | [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 18 | 16–21 | 15–22 | 15–23 | 13–24 |
 | [22–28 March 2023](2023-03-28-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 20 | 18–23 | 17–24 | 17–24 | 15–26 |
 | [24–28 March 2023](2023-03-28-MRB.html) | MRB <br> Newsbomb | 17 | 15–20 | 14–21 | 14–22 | 12–23 |
-| [18–21 March 2023](2023-03-21-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
-| [13–17 March 2023](2023-03-17-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [18–21 March 2023](2023-03-21-GPO.html) | GPO <br> Star TV | 21 | 18–24 | 18–25 | 17–25 | 16–27 |
+| [13–17 March 2023](2023-03-17-Alco.html) | Alco <br> Alpha TV | 20 | 17–23 | 16–24 | 15–25 | 14–26 |
 | [13–15 March 2023](2023-03-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 20 | 18–23 | 17–24 | 16–25 | 15–26 |
 | [7–13 March 2023](2023-03-13-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 21 | 19–24 | 18–25 | 17–26 | 16–27 |
 | [6–13 March 2023](2023-03-13-MRB.html) | MRB <br> Open TV | 17 | 15–20 | 15–20 | 14–21 | 13–22 |
@@ -648,20 +648,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
-| 13 | 0.4% | 99.9% |  |
-| 14 | 1.5% | 99.5% |  |
+| 13 | 0.3% | 99.9% |  |
+| 14 | 1.2% | 99.6% |  |
 | 15 | 3% | 98% | Last Result |
-| 16 | 7% | 95% |  |
-| 17 | 11% | 88% |  |
-| 18 | 12% | 76% |  |
-| 19 | 15% | 64% | Median |
-| 20 | 15% | 49% |  |
-| 21 | 12% | 34% |  |
-| 22 | 10% | 22% |  |
-| 23 | 6% | 13% |  |
-| 24 | 3% | 6% |  |
+| 16 | 6% | 95% |  |
+| 17 | 10% | 89% |  |
+| 18 | 12% | 79% |  |
+| 19 | 15% | 67% |  |
+| 20 | 15% | 52% | Median |
+| 21 | 13% | 37% |  |
+| 22 | 10% | 24% |  |
+| 23 | 7% | 13% |  |
+| 24 | 4% | 7% |  |
 | 25 | 2% | 3% |  |
-| 26 | 0.8% | 1.3% |  |
+| 26 | 0.8% | 1.4% |  |
 | 27 | 0.3% | 0.5% |  |
 | 28 | 0.1% | 0.2% |  |
 | 29 | 0% | 0.1% |  |
