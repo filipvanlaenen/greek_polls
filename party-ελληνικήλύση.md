@@ -10,7 +10,17 @@ Last result: **3.7%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.6–5.7% | 3.3–6.0% | 3.1–6.2% | 2.7–6.7% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.8–6.0% | 3.6–6.3% | 3.4–6.7% | 3.1–7.2% |
+| [30 March–3 April 2023](2023-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.2% | 3.5–5.0% | 3.3–5.3% | 3.1–5.5% | 2.8–6.0% |
+| [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 4.5% | 3.9–5.3% | 3.7–5.5% | 3.6–5.7% | 3.3–6.1% |
+| [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 5.6% | 4.8–6.6% | 4.5–6.9% | 4.3–7.2% | 4.0–7.7% |
+| [27–30 March 2023](2023-03-30-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 4.8% | 4.1–5.7% | 3.9–6.0% | 3.7–6.2% | 3.4–6.7% |
+| [27–30 March 2023](2023-03-30-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 4.4% | 3.7–5.2% | 3.5–5.5% | 3.4–5.7% | 3.1–6.1% |
+| [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 4.2% | 3.6–5.1% | 3.4–5.4% | 3.2–5.6% | 2.9–6.1% |
+| [22–28 March 2023](2023-03-28-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5.2% | 4.5–6.1% | 4.3–6.3% | 4.1–6.6% | 3.8–7.0% |
+| [24–28 March 2023](2023-03-28-MRB.html) | MRB <br> Newsbomb | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.3–7.1% | 3.9–7.6% |
+| [18–21 March 2023](2023-03-21-GPO.html) | GPO <br> Star TV | 4.0% | N/A | N/A | N/A | N/A |
+| [13–17 March 2023](2023-03-17-Alco.html) | Alco <br> Alpha TV | 4.4% | N/A | N/A | N/A | N/A |
 | [13–15 March 2023](2023-03-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.2–5.5% | 2.9–6.0% |
 | [7–13 March 2023](2023-03-13-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5.1% | 4.3–6.0% | 4.1–6.2% | 4.0–6.5% | 3.6–6.9% |
 | [6–13 March 2023](2023-03-13-MRB.html) | MRB <br> Open TV | 5.4% | 4.7–6.2% | 4.5–6.5% | 4.3–6.7% | 4.0–7.1% |
@@ -308,14 +318,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 9% | 99.8% |  |
-| 3.5–4.5% | 38% | 90% | Last Result |
-| 4.5–5.5% | 39% | 52% | Median |
-| 5.5–6.5% | 12% | 13% |  |
-| 6.5–7.5% | 0.9% | 0.9% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 4% | 100% |  |
+| 3.5–4.5% | 34% | 96% | Last Result |
+| 4.5–5.5% | 41% | 62% | Median |
+| 5.5–6.5% | 18% | 21% |  |
+| 6.5–7.5% | 3% | 3% |  |
+| 7.5–8.5% | 0.2% | 0.2% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -326,7 +336,17 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–16 | 9–17 | 8–17 | 0–19 |
+| N/A | [Poll Average](average.html) | 14 | 11–17 | 10–18 | 9–18 | 8–20 |
+| [30 March–3 April 2023](2023-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 10–13 | 9–14 | 8–15 | 0–16 |
+| [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 12 | 11–14 | 10–16 | 9–16 | 9–16 |
+| [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 15 | 13–18 | 12–19 | 12–20 | 11–21 |
+| [27–30 March 2023](2023-03-30-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 14 | 12–17 | 11–18 | 11–19 | 10–20 |
+| [27–30 March 2023](2023-03-30-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 12 | 10–14 | 10–15 | 9–16 | 8–17 |
+| [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 12 | 10–14 | 9–15 | 9–16 | 0–17 |
+| [22–28 March 2023](2023-03-28-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
+| [24–28 March 2023](2023-03-28-MRB.html) | MRB <br> Newsbomb | 15 | 13–18 | 13–18 | 12–19 | 11–21 |
+| [18–21 March 2023](2023-03-21-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
+| [13–17 March 2023](2023-03-17-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [13–15 March 2023](2023-03-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12 | 10–14 | 9–15 | 9–15 | 0–16 |
 | [7–13 March 2023](2023-03-13-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 14 | 12–17 | 12–17 | 11–18 | 10–19 |
 | [6–13 March 2023](2023-03-13-MRB.html) | MRB <br> Open TV | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
@@ -626,27 +646,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 0% | 98% |  |
-| 2 | 0% | 98% |  |
-| 3 | 0% | 98% |  |
-| 4 | 0% | 98% |  |
-| 5 | 0% | 98% |  |
-| 6 | 0% | 98% |  |
-| 7 | 0% | 98% |  |
-| 8 | 0.8% | 98% |  |
-| 9 | 5% | 97% |  |
-| 10 | 9% | 92% | Last Result |
-| 11 | 13% | 83% |  |
-| 12 | 16% | 69% |  |
-| 13 | 16% | 53% | Median |
-| 14 | 14% | 37% |  |
-| 15 | 11% | 23% |  |
-| 16 | 7% | 13% |  |
-| 17 | 3% | 5% |  |
-| 18 | 1.3% | 2% |  |
-| 19 | 0.5% | 0.6% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 0 | 0.3% | 100% |  |
+| 1 | 0% | 99.7% |  |
+| 2 | 0% | 99.7% |  |
+| 3 | 0% | 99.7% |  |
+| 4 | 0% | 99.7% |  |
+| 5 | 0% | 99.7% |  |
+| 6 | 0% | 99.7% |  |
+| 7 | 0% | 99.7% |  |
+| 8 | 0.5% | 99.7% |  |
+| 9 | 2% | 99.2% |  |
+| 10 | 5% | 97% | Last Result |
+| 11 | 13% | 92% |  |
+| 12 | 13% | 79% |  |
+| 13 | 16% | 66% |  |
+| 14 | 17% | 50% | Median |
+| 15 | 13% | 34% |  |
+| 16 | 10% | 21% |  |
+| 17 | 6% | 11% |  |
+| 18 | 3% | 5% |  |
+| 19 | 1.4% | 2% |  |
+| 20 | 0.5% | 0.8% |  |
+| 21 | 0.2% | 0.3% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
