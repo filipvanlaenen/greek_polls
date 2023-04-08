@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Sat, 08 Apr 2023 19:56:27 +0200</pubDate>
+    <pubDate>Sat, 08 Apr 2023 20:37:06 +0200</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 30 March–3 April 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2023-04-03-PulseRC.html#seats</link>
@@ -248,6 +248,66 @@
         type="image/png"/>
       <pubDate>Sat, 08 Apr 2023 19:56:27 +0200</pubDate>
       <dc:date>2023-04-08T19:56:27.442843+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Star TV, 18–21 March 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2023-03-21-GPO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 76–92 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 138–154 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 25–34 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 17–25 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 8–14 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2023-03-21-GPO-seats.png"
+        length="204729"
+        type="image/png"/>
+      <pubDate>Sat, 08 Apr 2023 20:30:48 +0200</pubDate>
+      <dc:date>2023-04-08T20:30:48.675008+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Star TV, 18–21 March 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2023-03-21-GPO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2023-03-21-GPO-coalitions-seats.png"
+        length="270949"
+        type="image/png"/>
+      <pubDate>Sat, 08 Apr 2023 20:30:48 +0200</pubDate>
+      <dc:date>2023-04-08T20:30:48.675008+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Star TV, 18–21 March 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2023-03-21-GPO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 28.1–33.3%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 32.9–38.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 9.2–12.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 6.3–9.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.0–5.3%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.7–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2023-03-21-GPO.png"
+        length="235568"
+        type="image/png"/>
+      <pubDate>Sat, 08 Apr 2023 20:30:48 +0200</pubDate>
+      <dc:date>2023-04-08T20:30:48.675008+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Alpha TV, 13–17 March 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2023-03-17-Alco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 74–138 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 87–152 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 26–37 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 15–25 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2023-03-17-Alco-seats.png"
+        length="243743"
+        type="image/png"/>
+      <pubDate>Sat, 08 Apr 2023 20:37:06 +0200</pubDate>
+      <dc:date>2023-04-08T20:37:06.280156+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Alpha TV, 13–17 March 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2023-03-17-Alco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2023-03-17-Alco-coalitions-seats.png"
+        length="488201"
+        type="image/png"/>
+      <pubDate>Sat, 08 Apr 2023 20:37:06 +0200</pubDate>
+      <dc:date>2023-04-08T20:37:06.280156+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Alpha TV, 13–17 March 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2023-03-17-Alco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 26.0–31.7%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 30.1–36.0%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 9.1–13.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.5–8.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.3–5.9%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.9–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2023-03-17-Alco.png"
+        length="236772"
+        type="image/png"/>
+      <pubDate>Sat, 08 Apr 2023 20:37:06 +0200</pubDate>
+      <dc:date>2023-04-08T20:37:06.280156+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 13–15 March 2023 – Seat Projections for the Parties</title>
@@ -7779,6 +7839,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58+01:00</dc:date>
     </item>
-    <dc:date>2023-04-08T19:56:27.442843+02:00</dc:date>
+    <dc:date>2023-04-08T20:37:06.280156+02:00</dc:date>
   </channel>
 </rss>
