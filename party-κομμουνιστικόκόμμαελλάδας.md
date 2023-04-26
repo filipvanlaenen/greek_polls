@@ -10,7 +10,12 @@ Last result: **5.3%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.9–8.3% | 5.6–8.6% | 5.3–9.0% | 4.9–9.6% |
+| N/A | [Poll Average](average.html) | 6.9% | 5.7–8.2% | 5.4–8.6% | 5.2–8.9% | 4.7–9.6% |
+| [19–23 April 2023](2023-04-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.0–8.0% | 4.7–8.6% |
+| [18–22 April 2023](2023-04-22-Alco.html) | Alco <br> Alpha TV | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
+| [18–21 April 2023](2023-04-21-OpinionPoll.html) | Opinion Poll <br> The TOC | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
+| [19–20 April 2023](2023-04-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 7.3% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
+| [3–5 April 2023](2023-04-05-GPO.html) | GPO <br> Παραπολιτικά | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [30 March–3 April 2023](2023-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.6% | 5.7–7.7% | 5.5–8.0% | 5.3–8.2% | 4.9–8.7% |
 | [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 7.5% | 6.7–8.5% | 6.4–8.7% | 6.2–9.0% | 5.9–9.5% |
 | [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
@@ -319,13 +324,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 4% | 99.9% | Last Result |
-| 5.5–6.5% | 25% | 95% |  |
-| 6.5–7.5% | 40% | 70% | Median |
-| 7.5–8.5% | 24% | 30% |  |
-| 8.5–9.5% | 5% | 6% |  |
-| 9.5–10.5% | 0.6% | 0.6% |  |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 7% | 99.7% | Last Result |
+| 5.5–6.5% | 29% | 93% |  |
+| 6.5–7.5% | 38% | 64% | Median |
+| 7.5–8.5% | 21% | 26% |  |
+| 8.5–9.5% | 5% | 5% |  |
+| 9.5–10.5% | 0.5% | 0.5% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -337,7 +342,12 @@ Last result: **15** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 16–23 | 16–24 | 15–25 | 14–27 |
+| N/A | [Poll Average](average.html) | 19 | 16–23 | 15–24 | 14–25 | 13–27 |
+| [19–23 April 2023](2023-04-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 17 | 15–20 | 14–21 | 14–22 | 13–23 |
+| [18–22 April 2023](2023-04-22-Alco.html) | Alco <br> Alpha TV | 19 | 16–22 | 16–23 | 15–24 | 14–26 |
+| [18–21 April 2023](2023-04-21-OpinionPoll.html) | Opinion Poll <br> The TOC | 17 | 14–19 | 13–20 | 13–21 | 12–22 |
+| [19–20 April 2023](2023-04-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 21 | 18–24 | 17–25 | 17–26 | 15–27 |
+| [3–5 April 2023](2023-04-05-GPO.html) | GPO <br> Παραπολιτικά | 20 | 17–23 | 16–24 | 15–24 | 14–26 |
 | [30 March–3 April 2023](2023-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 18 | 16–21 | 15–22 | 14–22 | 13–24 |
 | [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 21 | 18–23 | 18–24 | 17–25 | 16–26 |
 | [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 22 | 19–25 | 18–26 | 17–26 | 16–28 |
@@ -647,21 +657,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.1% | 100% |  |
-| 13 | 0.3% | 99.9% |  |
-| 14 | 1.2% | 99.6% |  |
-| 15 | 3% | 98% | Last Result |
-| 16 | 6% | 95% |  |
-| 17 | 10% | 89% |  |
-| 18 | 12% | 79% |  |
-| 19 | 15% | 67% |  |
-| 20 | 15% | 52% | Median |
-| 21 | 13% | 37% |  |
-| 22 | 10% | 24% |  |
-| 23 | 7% | 13% |  |
-| 24 | 4% | 7% |  |
+| 12 | 0.2% | 100% |  |
+| 13 | 0.8% | 99.7% |  |
+| 14 | 2% | 98.9% |  |
+| 15 | 4% | 97% | Last Result |
+| 16 | 8% | 92% |  |
+| 17 | 12% | 84% |  |
+| 18 | 12% | 72% |  |
+| 19 | 15% | 59% | Median |
+| 20 | 13% | 45% |  |
+| 21 | 11% | 31% |  |
+| 22 | 9% | 20% |  |
+| 23 | 6% | 12% |  |
+| 24 | 3% | 6% |  |
 | 25 | 2% | 3% |  |
-| 26 | 0.8% | 1.4% |  |
+| 26 | 0.8% | 1.3% |  |
 | 27 | 0.3% | 0.5% |  |
 | 28 | 0.1% | 0.2% |  |
 | 29 | 0% | 0.1% |  |
