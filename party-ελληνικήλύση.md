@@ -343,7 +343,7 @@ Last result: **10** seats (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–15 | 9–16 | 0–17 | 0–19 |
+| N/A | [Poll Average](average.html) | 12 | 9–15 | 9–16 | 0–17 | 0–18 |
 | [24–26 April 2023](2023-04-26-MRB.html) | MRB <br> Open TV | 9 | 0–12 | 0–13 | 0–13 | 0–14 |
 | [19–23 April 2023](2023-04-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 9–13 | 8–14 | 8–14 | 0–16 |
 | [18–22 April 2023](2023-04-22-Alco.html) | Alco <br> Alpha TV | 12 | 10–14 | 9–15 | 9–16 | 0–17 |
@@ -353,9 +353,9 @@ Last result: **10** seats (General Election of 7 July 2019)
 | [30 March–3 April 2023](2023-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 10–13 | 9–14 | 8–15 | 0–16 |
 | [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 12 | 11–14 | 10–15 | 10–16 | 9–17 |
 | [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 15 | 12–17 | 12–18 | 11–19 | 10–20 |
-| [27–30 March 2023](2023-03-30-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 14 | 12–17 | 11–18 | 11–19 | 10–20 |
-| [27–30 March 2023](2023-03-30-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 12 | 10–14 | 10–15 | 9–16 | 8–17 |
-| [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 12 | 10–14 | 9–15 | 9–16 | 0–17 |
+| [27–30 March 2023](2023-03-30-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 14 | 11–16 | 11–16 | 10–17 | 10–18 |
+| [27–30 March 2023](2023-03-30-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 12 | 10–13 | 9–14 | 9–15 | 8–16 |
+| [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 12 | 10–14 | 9–15 | 9–15 | 0–16 |
 | [22–28 March 2023](2023-03-28-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
 | [24–28 March 2023](2023-03-28-MRB.html) | MRB <br> Newsbomb | 15 | 13–18 | 13–18 | 12–19 | 11–21 |
 | [18–21 March 2023](2023-03-21-GPO.html) | GPO <br> Star TV | 11 | 9–13 | 9–14 | 8–14 | 0–15 |
@@ -667,19 +667,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 97% |  |
 | 6 | 0% | 97% |  |
 | 7 | 0% | 97% |  |
-| 8 | 0.9% | 97% |  |
+| 8 | 1.0% | 97% |  |
 | 9 | 6% | 96% |  |
-| 10 | 11% | 90% | Last Result |
-| 11 | 15% | 79% |  |
-| 12 | 18% | 63% | Median |
-| 13 | 17% | 45% |  |
-| 14 | 12% | 28% |  |
-| 15 | 8% | 16% |  |
-| 16 | 4% | 8% |  |
-| 17 | 2% | 4% |  |
-| 18 | 1.2% | 2% |  |
-| 19 | 0.4% | 0.6% |  |
-| 20 | 0.1% | 0.2% |  |
+| 10 | 13% | 90% | Last Result |
+| 11 | 16% | 77% |  |
+| 12 | 20% | 61% | Median |
+| 13 | 16% | 41% |  |
+| 14 | 12% | 25% |  |
+| 15 | 6% | 13% |  |
+| 16 | 4% | 7% |  |
+| 17 | 2% | 3% |  |
+| 18 | 0.9% | 1.3% |  |
+| 19 | 0.3% | 0.4% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
 
