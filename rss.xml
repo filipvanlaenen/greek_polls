@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Hellenic Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_polls</link>
     <description>All Registered Polls for the Hellenic Parliament</description>
-    <pubDate>Tue, 02 May 2023 15:43:26 +0200</pubDate>
+    <pubDate>Tue, 02 May 2023 19:26:41 +0200</pubDate>
     <item>
       <title>Opinion Poll by MRB for Open TV, 24–26 April 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_polls/2023-04-26-MRB.html#seats</link>
@@ -248,6 +248,96 @@
         type="image/png"/>
       <pubDate>Tue, 02 May 2023 15:43:26 +0200</pubDate>
       <dc:date>2023-05-02T15:43:26.316996+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis for Tvxs.gr, 27–30 March 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2023-03-30-PalmosAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 66–82 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 126–144 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 25–35 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 16–25 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 10–17 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 11–17 seats&lt;/li&gt;&lt;li&gt;Εθνικό Κόμμα – Έλληνες: 10–17 seats&lt;/li&gt;&lt;li&gt;Εθνική Δημιουργία: 0–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2023-03-30-PalmosAnalysis-seats.png"
+        length="251018"
+        type="image/png"/>
+      <pubDate>Tue, 02 May 2023 19:10:18 +0200</pubDate>
+      <dc:date>2023-05-02T19:10:18.773214+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis for Tvxs.gr, 27–30 March 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2023-03-30-PalmosAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2023-03-30-PalmosAnalysis-coalitions-seats.png"
+        length="279221"
+        type="image/png"/>
+      <pubDate>Tue, 02 May 2023 19:10:18 +0200</pubDate>
+      <dc:date>2023-05-02T19:10:18.773214+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis for Tvxs.gr, 27–30 March 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2023-03-30-PalmosAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 23.7–28.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 28.3–33.9%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 9.0–12.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.7–8.8%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0.7–2.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.7–6.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.7–6.2%&lt;/li&gt;&lt;li&gt;Εθνικό Κόμμα – Έλληνες: 3.7–6.2%&lt;/li&gt;&lt;li&gt;Εθνική Δημιουργία: 1.6–3.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2023-03-30-PalmosAnalysis.png"
+        length="302810"
+        type="image/png"/>
+      <pubDate>Tue, 02 May 2023 19:10:18 +0200</pubDate>
+      <dc:date>2023-05-02T19:10:18.773214+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 27–30 March 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2023-03-30-Marc.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 70–83 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 135–149 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 24–34 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–21 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–15 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 10–16 seats&lt;/li&gt;&lt;li&gt;Εθνικό Κόμμα – Έλληνες: 8–14 seats&lt;/li&gt;&lt;li&gt;Εθνική Δημιουργία: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2023-03-30-Marc-seats.png"
+        length="243372"
+        type="image/png"/>
+      <pubDate>Tue, 02 May 2023 19:19:20 +0200</pubDate>
+      <dc:date>2023-05-02T19:19:20.37175+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 27–30 March 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2023-03-30-Marc.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2023-03-30-Marc-coalitions-seats.png"
+        length="261990"
+        type="image/png"/>
+      <pubDate>Tue, 02 May 2023 19:19:20 +0200</pubDate>
+      <dc:date>2023-05-02T19:19:20.37175+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 27–30 March 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2023-03-30-Marc.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 26.7–31.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 32.5–37.9%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 9.1–12.6%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.3–8.0%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας: 0.7–2.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.4–5.7%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.7–6.1%&lt;/li&gt;&lt;li&gt;Εθνικό Κόμμα – Έλληνες: 3.2–5.5%&lt;/li&gt;&lt;li&gt;Εθνική Δημιουργία: 0.6–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2023-03-30-Marc.png"
+        length="296518"
+        type="image/png"/>
+      <pubDate>Tue, 02 May 2023 19:19:20 +0200</pubDate>
+      <dc:date>2023-05-02T19:19:20.37175+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 24–28 March 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2023-03-28-Prorata.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 75–139 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 85–150 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 24–34 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 14–22 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 9–15 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 0–13 seats&lt;/li&gt;&lt;li&gt;Εθνικό Κόμμα – Έλληνες: 0–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2023-03-28-Prorata-seats.png"
+        length="270615"
+        type="image/png"/>
+      <pubDate>Tue, 02 May 2023 19:26:41 +0200</pubDate>
+      <dc:date>2023-05-02T19:26:41.644553+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 24–28 March 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2023-03-28-Prorata.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2023-03-28-Prorata-coalitions-seats.png"
+        length="496211"
+        type="image/png"/>
+      <pubDate>Tue, 02 May 2023 19:26:41 +0200</pubDate>
+      <dc:date>2023-05-02T19:26:41.644553+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 24–28 March 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_polls/2023-03-28-Prorata.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς: 27.7–33.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία: 31.2–36.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής: 9.0–12.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας: 5.2–8.2%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση: 3.2–5.6%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.6–4.9%&lt;/li&gt;&lt;li&gt;Εθνικό Κόμμα – Έλληνες: 2.6–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_polls/2023-03-28-Prorata.png"
+        length="265229"
+        type="image/png"/>
+      <pubDate>Tue, 02 May 2023 19:26:41 +0200</pubDate>
+      <dc:date>2023-05-02T19:26:41.644553+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Interview for Politic.gr, 16–20 February 2023 – Seat Projections for the Parties</title>
@@ -7569,6 +7659,6 @@
       <pubDate>Fri, 15 Jan 2021 07:25:58 +0100</pubDate>
       <dc:date>2021-01-15T07:25:58+01:00</dc:date>
     </item>
-    <dc:date>2023-05-02T15:43:26.316996+02:00</dc:date>
+    <dc:date>2023-05-02T19:26:41.644553+02:00</dc:date>
   </channel>
 </rss>
