@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/greek_polls</id>
   <title>All Registered Polls for the Hellenic Parliament</title>
-  <updated>2023-05-02T19:26:41.644553+02:00</updated>
+  <updated>2023-05-04T23:05:09.106509+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 28.1–33.4%, 74–137 seats</li><li>Νέα Δημοκρατία: 32.5–38.0%, 88–152 seats</li><li>Κίνημα Αλλαγής: 9.0–12.6%, 24–33 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 5.4–8.3%, 14–22 seats</li><li>Ελληνική Λύση: 2.5–4.6%, 0–12 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.9–5.2%, 8–13 seats</li><li>Εθνικό Κόμμα – Έλληνες: 2.9–5.2%, 0–14 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/greek_polls/2023-04-30-Prorata.html</id>
+    <link href="https://filipvanlaenen.github.io/greek_polls/2023-04-30-Prorata.html"/>
+    <title>Opinion Poll by Prorata for Attica TV, 27–30 April 2023</title>
+    <updated>2023-05-04T22:56:13.578497+02:00</updated>
+    <dc:date>2023-05-04T22:56:13.578497+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 26.5–30.8%, 70–82 seats</li><li>Νέα Δημοκρατία: 33.3–37.9%, 140–152 seats</li><li>Κίνημα Αλλαγής: 9.4–12.4%, 25–33 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 5.8–8.2%, 16–22 seats</li><li>Ελληνική Λύση: 3.4–5.3%, 9–14 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 3.5–5.5%, 9–14 seats</li><li>Εθνικό Κόμμα – Έλληνες: 2.5–4.3%, 0–11 seats</li><li>Εθνική Δημιουργία: 1.5–2.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/greek_polls/2023-04-30-Interview.html</id>
+    <link href="https://filipvanlaenen.github.io/greek_polls/2023-04-30-Interview.html"/>
+    <title>Opinion Poll by Interview for Politic.gr, 27–30 April 2023</title>
+    <updated>2023-05-04T23:05:09.106509+02:00</updated>
+    <dc:date>2023-05-04T23:05:09.106509+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς: 25.9–31.5%, 72–89 seats</li><li>Νέα Δημοκρατία: 31.2–37.1%, 136–154 seats</li><li>Κίνημα Αλλαγής: 7.8–11.5%, 22–32 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας: 4.9–7.9%, 13–22 seats</li><li>Πλεύση Ελευθερίας: 0.7–2.1%, 0 seats</li><li>Ελληνική Λύση: 2.4–4.7%, 0–13 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής: 2.7–5.1%, 0–14 seats</li><li>Εθνικό Κόμμα – Έλληνες: 3.5–6.1%, 10–17 seats</li><li>Εθνική Δημιουργία: 0.6–2.0%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/greek_polls/2023-04-26-MRB.html</id>
@@ -2047,5 +2063,5 @@
     <updated>2021-01-15T07:25:58+01:00</updated>
     <dc:date>2021-01-15T07:25:58+01:00</dc:date>
   </entry>
-  <dc:date>2023-05-02T19:26:41.644553+02:00</dc:date>
+  <dc:date>2023-05-04T23:05:09.106509+02:00</dc:date>
 </feed>
