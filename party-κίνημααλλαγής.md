@@ -10,7 +10,7 @@ Last result: **8.1%** (General Election of 7 July 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 8.5–11.3% | 8.2–11.8% | 7.9–12.2% | 7.4–13.0% |
+| N/A | [Poll Average](average.html) | 9.8% | 8.6–11.3% | 8.2–11.7% | 7.9–12.2% | 7.4–13.0% |
 | [14–19 May 2023](2023-05-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.7% | 8.7–10.8% | 8.5–11.1% | 8.2–11.3% | 7.8–11.9% |
 | [16–19 May 2023](2023-05-19-MRB.html) | MRB <br> Open TV | 9.5% | 8.5–10.8% | 8.2–11.1% | 7.9–11.4% | 7.5–12.0% |
 | [15–18 May 2023](2023-05-18-Rass.html) | Rass <br> iefimerida | 9.5% | 8.5–10.7% | 8.2–11.0% | 8.0–11.3% | 7.5–11.9% |
@@ -24,7 +24,7 @@ Last result: **8.1%** (General Election of 7 July 2019)
 | [4–11 May 2023](2023-05-11-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 10.3% | N/A | N/A | N/A | N/A |
 | [9–11 May 2023](2023-05-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 10.2% | N/A | N/A | N/A | N/A |
 | [10–11 May 2023](2023-05-11-GPO.html) | GPO <br> Παραπολιτικά | 10.3% | N/A | N/A | N/A | N/A |
-| [5 May 2022–9 May 2023](2023-05-09-ΚάπαResearch.html) | Κάπα Research | 9.8% | N/A | N/A | N/A | N/A |
+| [5 May 2022–9 May 2023](2023-05-09-ΚάπαResearch.html) | Κάπα Research | 9.8% | 8.8–11.0% | 8.5–11.3% | 8.3–11.6% | 7.8–12.2% |
 | [5–9 May 2023](2023-05-09-Marc.html) | Marc <br> ΑΝΤ1 | 10.3% | N/A | N/A | N/A | N/A |
 | [4–7 May 2023](2023-05-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.9% | N/A | N/A | N/A | N/A |
 | [3–6 May 2023](2023-05-06-Alco.html) | Alco <br> Alpha TV | 10.3% | N/A | N/A | N/A | N/A |
@@ -350,11 +350,11 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0.8% | 100% |  |
 | 7.5–8.5% | 9% | 99.2% | Last Result |
 | 8.5–9.5% | 30% | 90% |  |
-| 9.5–10.5% | 34% | 60% | Median |
+| 9.5–10.5% | 35% | 60% | Median |
 | 10.5–11.5% | 18% | 25% |  |
 | 11.5–12.5% | 6% | 7% |  |
-| 12.5–13.5% | 1.2% | 1.3% |  |
-| 13.5–14.5% | 0.1% | 0.2% |  |
+| 12.5–13.5% | 1.1% | 1.2% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -380,7 +380,7 @@ Last result: **22** seats (General Election of 7 July 2019)
 | [4–11 May 2023](2023-05-11-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [9–11 May 2023](2023-05-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [10–11 May 2023](2023-05-11-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
-| [5 May 2022–9 May 2023](2023-05-09-ΚάπαResearch.html) | Κάπα Research |  |  |  |  |  |
+| [5 May 2022–9 May 2023](2023-05-09-ΚάπαResearch.html) | Κάπα Research | 27 | 24–29 | 23–31 | 22–31 | 21–33 |
 | [5–9 May 2023](2023-05-09-Marc.html) | Marc <br> ΑΝΤ1 |  |  |  |  |  |
 | [4–7 May 2023](2023-05-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [3–6 May 2023](2023-05-06-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
@@ -704,25 +704,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0.1% | 100% |  |
+| 18 | 0% | 100% |  |
 | 19 | 0.1% | 99.9% |  |
 | 20 | 0.3% | 99.8% |  |
-| 21 | 0.8% | 99.5% |  |
-| 22 | 3% | 98.8% | Last Result |
+| 21 | 0.8% | 99.6% |  |
+| 22 | 3% | 98.7% | Last Result |
 | 23 | 4% | 96% |  |
 | 24 | 9% | 92% |  |
-| 25 | 8% | 82% |  |
+| 25 | 8% | 83% |  |
 | 26 | 17% | 74% |  |
 | 27 | 15% | 58% | Median |
-| 28 | 13% | 43% |  |
-| 29 | 9% | 30% |  |
-| 30 | 8% | 20% |  |
+| 28 | 14% | 43% |  |
+| 29 | 9% | 29% |  |
+| 30 | 8% | 19% |  |
 | 31 | 5% | 12% |  |
-| 32 | 4% | 8% |  |
+| 32 | 4% | 7% |  |
 | 33 | 2% | 4% |  |
-| 34 | 1.2% | 2% |  |
-| 35 | 0.6% | 1.0% |  |
-| 36 | 0.3% | 0.5% |  |
+| 34 | 1.1% | 2% |  |
+| 35 | 0.5% | 0.9% |  |
+| 36 | 0.3% | 0.4% |  |
 | 37 | 0.1% | 0.2% |  |
 | 38 | 0.1% | 0.1% |  |
 | 39 | 0% | 0% |  |

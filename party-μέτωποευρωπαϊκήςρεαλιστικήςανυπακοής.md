@@ -24,7 +24,7 @@ Last result: **3.4%** (General Election of 7 July 2019)
 | [4–11 May 2023](2023-05-11-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.4% | N/A | N/A | N/A | N/A |
 | [9–11 May 2023](2023-05-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.7% | N/A | N/A | N/A | N/A |
 | [10–11 May 2023](2023-05-11-GPO.html) | GPO <br> Παραπολιτικά | 4.0% | N/A | N/A | N/A | N/A |
-| [5 May 2022–9 May 2023](2023-05-09-ΚάπαResearch.html) | Κάπα Research | 4.1% | N/A | N/A | N/A | N/A |
+| [5 May 2022–9 May 2023](2023-05-09-ΚάπαResearch.html) | Κάπα Research | 4.1% | 3.4–4.9% | 3.2–5.2% | 3.1–5.3% | 2.8–5.8% |
 | [5–9 May 2023](2023-05-09-Marc.html) | Marc <br> ΑΝΤ1 | 3.7% | N/A | N/A | N/A | N/A |
 | [4–7 May 2023](2023-05-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.7% | N/A | N/A | N/A | N/A |
 | [3–6 May 2023](2023-05-06-Alco.html) | Alco <br> Alpha TV | 3.7% | N/A | N/A | N/A | N/A |
@@ -349,7 +349,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.4% | 100% |  |
 | 2.5–3.5% | 21% | 99.6% | Last Result |
-| 3.5–4.5% | 57% | 78% | Median |
+| 3.5–4.5% | 58% | 79% | Median |
 | 4.5–5.5% | 20% | 21% |  |
 | 5.5–6.5% | 1.1% | 1.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -377,7 +377,7 @@ Last result: **9** seats (General Election of 7 July 2019)
 | [4–11 May 2023](2023-05-11-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [9–11 May 2023](2023-05-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [10–11 May 2023](2023-05-11-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
-| [5 May 2022–9 May 2023](2023-05-09-ΚάπαResearch.html) | Κάπα Research |  |  |  |  |  |
+| [5 May 2022–9 May 2023](2023-05-09-ΚάπαResearch.html) | Κάπα Research | 11 | 9–13 | 9–14 | 9–14 | 0–15 |
 | [5–9 May 2023](2023-05-09-Marc.html) | Marc <br> ΑΝΤ1 |  |  |  |  |  |
 | [4–7 May 2023](2023-05-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [3–6 May 2023](2023-05-06-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
@@ -709,13 +709,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 96% |  |
 | 6 | 0% | 96% |  |
 | 7 | 0% | 96% |  |
-| 8 | 1.5% | 96% |  |
+| 8 | 1.4% | 96% |  |
 | 9 | 12% | 94% | Last Result |
 | 10 | 17% | 82% |  |
-| 11 | 23% | 65% | Median |
-| 12 | 22% | 42% |  |
-| 13 | 11% | 20% |  |
-| 14 | 6% | 10% |  |
+| 11 | 23% | 66% | Median |
+| 12 | 22% | 43% |  |
+| 13 | 11% | 21% |  |
+| 14 | 6% | 9% |  |
 | 15 | 2% | 3% |  |
 | 16 | 1.1% | 1.3% |  |
 | 17 | 0.2% | 0.2% |  |
